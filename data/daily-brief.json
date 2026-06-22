@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-22T21:29:39.473335Z",
+  "generated_at": "2026-06-22T23:04:04.568659Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0730-046a-b659-792a4fb0f8b7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0730-046a-b659-792a4fb0f8b7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0904-3000-ab81-38e37a28b88a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0904-3000-ab81-38e37a28b88a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "142a5bf4d351cc007eae043b25dea7937e8ef0fc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0904-3000-ab81-38e37a28b88a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7e02162177c6e0f1718df98a545b1246753faf2b",
           "title": "点击这里进入 / Click here to enter",
@@ -60,15 +69,6 @@
           "id": "535274bb6851a79e67590a269a20712ed725fb74",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0951-205b-9fb7-6f943466c861&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7cb736cda43c87eb66d6daa8797ec9ca66085789",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0815-132b-82a4-4ae7319f6820&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -81,6 +81,15 @@
       ],
       "items": [
         {
+          "id": "142a5bf4d351cc007eae043b25dea7937e8ef0fc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0904-3000-ab81-38e37a28b88a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7e02162177c6e0f1718df98a545b1246753faf2b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0730-046a-b659-792a4fb0f8b7&fp=-3",
@@ -129,15 +138,6 @@
           "id": "535274bb6851a79e67590a269a20712ed725fb74",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0951-205b-9fb7-6f943466c861&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7cb736cda43c87eb66d6daa8797ec9ca66085789",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0815-132b-82a4-4ae7319f6820&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,12 +162,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-21T22:14:51.733118Z",
-      "latest_at": "2026-06-22T21:29:39.473335Z",
+      "earliest_at": "2026-06-21T23:50:56.679882Z",
+      "latest_at": "2026-06-22T23:04:04.568659Z",
       "primary_item": {
-        "id": "7e02162177c6e0f1718df98a545b1246753faf2b",
+        "id": "142a5bf4d351cc007eae043b25dea7937e8ef0fc",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0730-046a-b659-792a4fb0f8b7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0904-3000-ab81-38e37a28b88a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -207,14 +207,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.753,
+        "recency": 0.6874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,6 +231,66 @@
         "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5abb5ba76041",
+      "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+      "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+      "primary_url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3225ed97f6f503c1a337c36c8f1cd42880b7a68f",
+          "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+          "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:32:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "3225ed97f6f503c1a337c36c8f1cd42880b7a68f",
+          "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+          "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:32:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9362,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T21:32:12Z",
+      "latest_at": "2026-06-22T21:32:12Z",
+      "primary_item": {
+        "id": "3225ed97f6f503c1a337c36c8f1cd42880b7a68f",
+        "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+        "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -268,14 +328,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -290,66 +350,6 @@
         "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
         "url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
         "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_72c004a2082f",
-      "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-      "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-      "primary_url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
-          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T21:00:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
-          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T21:00:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T21:00:09Z",
-      "latest_at": "2026-06-22T21:00:09Z",
-      "primary_item": {
-        "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
-        "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-        "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -388,14 +388,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,6 +410,66 @@
         "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
         "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_72c004a2082f",
+      "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+      "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "primary_url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:00:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:00:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9139,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T21:00:09Z",
+      "latest_at": "2026-06-22T21:00:09Z",
+      "primary_item": {
+        "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+        "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+        "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -448,14 +508,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,14 +587,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.664,
+        "recency": 0.5984,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,14 +648,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7792,
+        "recency": 0.7136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,20 +708,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7426,
+        "recency": 0.677,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-22T15:19:00.168046Z",
       "latest_at": "2026-06-22T15:19:00.168046Z",
@@ -708,14 +767,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6698,
+        "recency": 0.6043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -767,14 +826,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6592,
+        "recency": 0.5937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,14 +885,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7771,
+        "recency": 0.7115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,65 +907,6 @@
         "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
         "url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
         "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b46b2c156491",
-      "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-      "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-      "primary_url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "71786859820215327666b0fe2837dc18b40801e1",
-          "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-          "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "71786859820215327666b0fe2837dc18b40801e1",
-          "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-          "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6044,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T12:00:00Z",
-      "latest_at": "2026-06-22T12:00:00Z",
-      "primary_item": {
-        "id": "71786859820215327666b0fe2837dc18b40801e1",
-        "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-        "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -945,20 +945,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7388,
+        "recency": 0.6732,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-22T15:13:29Z",
       "latest_at": "2026-06-22T15:13:29Z",
@@ -1024,14 +1023,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6901,
-      "importance": 0.6901,
-      "importance_score": 0.6901,
+      "score": 0.677,
+      "importance": 0.677,
+      "importance_score": 0.677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2657,
+        "recency": 0.2001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,14 +1102,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6901,
-      "importance": 0.6901,
-      "importance_score": 0.6901,
+      "score": 0.677,
+      "importance": 0.677,
+      "importance_score": 0.677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2657,
+        "recency": 0.2001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,14 +1181,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6901,
-      "importance": 0.6901,
-      "importance_score": 0.6901,
+      "score": 0.677,
+      "importance": 0.677,
+      "importance_score": 0.677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2657,
+        "recency": 0.2001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,311 +1207,275 @@
       }
     },
     {
-      "story_id": "story_72e247ee906f",
-      "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-      "url": "https://news.ycombinator.com/item?id=48631726",
-      "primary_url": "https://news.ycombinator.com/item?id=48631726",
+      "story_id": "story_ff325e1b112e",
+      "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+      "url": "https://news.ycombinator.com/item?id=48630515",
+      "primary_url": "https://news.ycombinator.com/item?id=48630515",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c49703343289304e950aa718d749f947186da345",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T21:30:17.325000Z"
-        },
-        {
-          "id": "a2e801a509db7942693d3773582a00abd57084b5",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
+          "id": "5b2fed2f4677a3e3f4900ef604bebee7f4e867a4",
+          "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://news.ycombinator.com/item?id=48630515",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-06-22T18:56:03.543000Z"
         },
         {
-          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T15:37:48Z"
+          "id": "7163fea3ab673aa4935ed1530c36902ee15a9dca",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T14:36:20.502000Z"
         },
         {
-          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:37:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c49703343289304e950aa718d749f947186da345",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T21:30:17.325000Z"
-        },
-        {
-          "id": "a2e801a509db7942693d3773582a00abd57084b5",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T18:56:03.543000Z"
-        },
-        {
-          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T15:37:48Z"
-        },
-        {
-          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:37:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.598,
-      "importance": 0.598,
-      "importance_score": 0.598,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-22T15:37:48Z",
-      "latest_at": "2026-06-22T21:30:17.325000Z",
-      "primary_item": {
-        "id": "c49703343289304e950aa718d749f947186da345",
-        "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-        "url": "https://news.ycombinator.com/item?id=48631726",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cb0605522b7f",
-      "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-      "url": "https://news.ycombinator.com/item?id=48630535",
-      "primary_url": "https://news.ycombinator.com/item?id=48630535",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b4c48104115a55cfd91a7c2a15287f46b7fcca90",
-          "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T18:56:03.543000Z"
-        },
-        {
-          "id": "eb35e637c8e9c13c14494223f4cea0c0d88ee263",
-          "title": "克劳德·科德的“扩展思维”是一种总结——不是真实的思维 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T15:19:36.305000Z"
-        },
-        {
-          "id": "ff1d5956fbfd9fe8bf19d429cd094f606b4f8cbd",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T14:22:46Z"
-        },
-        {
-          "id": "774addf1170fb16db7237622869d61401ddcbc34",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T14:22:46Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b4c48104115a55cfd91a7c2a15287f46b7fcca90",
-          "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T18:56:03.543000Z"
-        },
-        {
-          "id": "eb35e637c8e9c13c14494223f4cea0c0d88ee263",
-          "title": "克劳德·科德的“扩展思维”是一种总结——不是真实的思维 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T15:19:36.305000Z"
-        },
-        {
-          "id": "ff1d5956fbfd9fe8bf19d429cd094f606b4f8cbd",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T14:22:46Z"
-        },
-        {
-          "id": "774addf1170fb16db7237622869d61401ddcbc34",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T14:22:46Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5767,
-      "importance": 0.5767,
-      "importance_score": 0.5767,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8933,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-22T14:22:46Z",
-      "latest_at": "2026-06-22T18:56:03.543000Z",
-      "primary_item": {
-        "id": "b4c48104115a55cfd91a7c2a15287f46b7fcca90",
-        "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-        "url": "https://news.ycombinator.com/item?id=48630535",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d16966e63aaa",
-      "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
-      "url": "https://role-confusion.github.io",
-      "primary_url": "https://role-confusion.github.io",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
-          "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
-          "url": "https://role-confusion.github.io",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:48:55Z"
-        },
-        {
-          "id": "804f9f33bf14a150d8bb6a41bdcf6ab8064b9dfc",
-          "title": "作为角色混淆的提示注入 / Prompt Injection as Role Confusion",
-          "url": "https://role-confusion.github.io",
+          "id": "d7af39c8221ffcf3b35567b32c884a516196ba50",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://github.com/Intuned/selector-forge",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-06-22T15:48:55Z"
+          "published_at": "2026-06-22T14:21:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5b2fed2f4677a3e3f4900ef604bebee7f4e867a4",
+          "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://news.ycombinator.com/item?id=48630515",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T18:56:03.543000Z"
+        },
+        {
+          "id": "7163fea3ab673aa4935ed1530c36902ee15a9dca",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T14:36:20.502000Z"
+        },
+        {
+          "id": "d7af39c8221ffcf3b35567b32c884a516196ba50",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T14:21:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8278,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-22T14:21:24Z",
+      "latest_at": "2026-06-22T18:56:03.543000Z",
+      "primary_item": {
+        "id": "5b2fed2f4677a3e3f4900ef604bebee7f4e867a4",
+        "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+        "url": "https://news.ycombinator.com/item?id=48630515",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_198b49c670d8",
+      "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
+      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+      "primary_url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
+          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T20:44:26.914000Z"
+        },
+        {
+          "id": "fe080ec0ef2b7bcc41064d000e67cbc244270e93",
+          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T20:20:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
-          "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
-          "url": "https://role-confusion.github.io",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:48:55Z"
+          "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
+          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T20:44:26.914000Z"
         },
         {
-          "id": "804f9f33bf14a150d8bb6a41bdcf6ab8064b9dfc",
-          "title": "作为角色混淆的提示注入 / Prompt Injection as Role Confusion",
-          "url": "https://role-confusion.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T15:48:55Z"
+          "id": "fe080ec0ef2b7bcc41064d000e67cbc244270e93",
+          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T20:20:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7634,
+        "recency": 0.903,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-22T15:48:55Z",
-      "latest_at": "2026-06-22T15:48:55Z",
+      "earliest_at": "2026-06-22T20:20:28Z",
+      "latest_at": "2026-06-22T20:44:26.914000Z",
       "primary_item": {
-        "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
-        "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
-        "url": "https://role-confusion.github.io",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
+        "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
+        "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d16966e63aaa",
+      "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+      "url": "https://news.ycombinator.com/item?id=48631888",
+      "primary_url": "https://news.ycombinator.com/item?id=48631888",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3ffd1e08e0d59a4aee6d523b2ff350d7f700f6b4",
+          "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+          "url": "https://news.ycombinator.com/item?id=48631888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T18:56:03.543000Z"
+        },
+        {
+          "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
+          "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:48:55Z"
+        },
+        {
+          "id": "804f9f33bf14a150d8bb6a41bdcf6ab8064b9dfc",
+          "title": "作为角色混淆的提示注入 / Prompt Injection as Role Confusion",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T15:48:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3ffd1e08e0d59a4aee6d523b2ff350d7f700f6b4",
+          "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+          "url": "https://news.ycombinator.com/item?id=48631888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T18:56:03.543000Z"
+        },
+        {
+          "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
+          "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:48:55Z"
+        },
+        {
+          "id": "804f9f33bf14a150d8bb6a41bdcf6ab8064b9dfc",
+          "title": "作为角色混淆的提示注入 / Prompt Injection as Role Confusion",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T15:48:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8278,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-22T15:48:55Z",
+      "latest_at": "2026-06-22T18:56:03.543000Z",
+      "primary_item": {
+        "id": "3ffd1e08e0d59a4aee6d523b2ff350d7f700f6b4",
+        "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+        "url": "https://news.ycombinator.com/item?id=48631888",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
