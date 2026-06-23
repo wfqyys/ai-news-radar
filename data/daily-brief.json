@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-23T19:54:01.987474Z",
+  "generated_at": "2026-06-23T21:27:27.000651Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0554-317a-a5be-67a90ce300c5&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-0554-317a-a5be-67a90ce300c5&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0733-1604-9432-9f25a8b1e071&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-0733-1604-9432-9f25a8b1e071&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f8b7037ec5e2056501b55d9d805648954b8d64f3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0733-1604-9432-9f25a8b1e071&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2cde9b694aa1c97a8911a23f0119a46d1c35ff71",
           "title": "点击这里进入 / Click here to enter",
@@ -84,12 +93,21 @@
           "published_at": null
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "f8b7037ec5e2056501b55d9d805648954b8d64f3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0733-1604-9432-9f25a8b1e071&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2cde9b694aa1c97a8911a23f0119a46d1c35ff71",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0554-317a-a5be-67a90ce300c5&fp=-3",
@@ -162,8 +180,8 @@
           "published_at": null
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
+      "item_count": 9,
+      "duplicate_count": 9,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -181,31 +199,31 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-22T21:29:39.473335Z",
-      "latest_at": "2026-06-23T19:54:01.987474Z",
+      "latest_at": "2026-06-23T21:27:27.000651Z",
       "primary_item": {
-        "id": "2cde9b694aa1c97a8911a23f0119a46d1c35ff71",
+        "id": "f8b7037ec5e2056501b55d9d805648954b8d64f3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0554-317a-a5be-67a90ce300c5&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0733-1604-9432-9f25a8b1e071&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_5254f068e367",
-      "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-      "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+      "story_id": "story_2b6df21683e4",
+      "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+      "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
+      "primary_url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
-          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+          "id": "999c633e50129f65e141d4a5ac13fa19fed971ac",
+          "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+          "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T18:38:41Z"
+          "published_at": "2026-06-23T19:50:00Z"
         }
       ],
       "source_count": 1,
@@ -214,25 +232,25 @@
       ],
       "items": [
         {
-          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
-          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+          "id": "999c633e50129f65e141d4a5ac13fa19fed971ac",
+          "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+          "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T18:38:41Z"
+          "published_at": "2026-06-23T19:50:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8505,
-      "importance": 0.8505,
-      "importance_score": 0.8505,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9477,
+        "recency": 0.9323,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,12 +259,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T18:38:41Z",
-      "latest_at": "2026-06-23T18:38:41Z",
+      "earliest_at": "2026-06-23T19:50:00Z",
+      "latest_at": "2026-06-23T19:50:00Z",
       "primary_item": {
-        "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
-        "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-        "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+        "id": "999c633e50129f65e141d4a5ac13fa19fed971ac",
+        "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+        "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -286,14 +304,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8375,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -347,14 +365,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7069,
+        "recency": 0.642,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,21 +392,21 @@
       }
     },
     {
-      "story_id": "story_8e10ac4aaa85",
-      "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "story_id": "story_5254f068e367",
+      "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+      "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
-          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
+          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T16:35:45Z"
+          "published_at": "2026-06-23T18:38:41Z"
         }
       ],
       "source_count": 1,
@@ -397,25 +415,25 @@
       ],
       "items": [
         {
-          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
-          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
+          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T16:35:45Z"
+          "published_at": "2026-06-23T18:38:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8623,
+        "ai_relevance": 0.87,
+        "recency": 0.8828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,14 +442,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T16:35:45Z",
-      "latest_at": "2026-06-23T16:35:45Z",
+      "earliest_at": "2026-06-23T18:38:41Z",
+      "latest_at": "2026-06-23T18:38:41Z",
       "primary_item": {
-        "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
-        "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-        "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+        "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
+        "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+        "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_80381f6d9f43",
+      "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+      "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+      "primary_url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
+          "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+          "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T20:17:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
+          "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+          "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T20:17:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9515,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T20:17:38Z",
+      "latest_at": "2026-06-23T20:17:38Z",
+      "primary_item": {
+        "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
+        "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+        "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -469,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -529,14 +607,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.901,
+        "recency": 0.8361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,14 +667,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8885,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,14 +727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8859,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -672,6 +750,67 @@
         "url": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8e10ac4aaa85",
+      "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:35:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:35:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7974,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T16:35:45Z",
+      "latest_at": "2026-06-23T16:35:45Z",
+      "primary_item": {
+        "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+        "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+        "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -709,14 +848,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8291,
+        "recency": 0.7643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,67 +871,6 @@
         "url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37",
         "source": "GitHub Blog",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0930e77e2dc7",
-      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-      "primary_url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T16:46:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T16:46:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8695,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T16:46:05Z",
-      "latest_at": "2026-06-23T16:46:05Z",
-      "primary_item": {
-        "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-        "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -868,14 +946,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1708,
+        "recency": 0.1059,
         "story_heat": 0.5
       },
       "category": "official",
@@ -930,14 +1008,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.7066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,20 +1068,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.735,
+        "recency": 0.6701,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T13:32:22Z",
       "latest_at": "2026-06-23T13:32:22Z",
@@ -1050,20 +1127,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7069,
+        "recency": 0.642,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T12:51:55Z",
       "latest_at": "2026-06-23T12:51:55Z",
@@ -1128,21 +1204,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5662,
+        "recency": 0.5013,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T09:29:23.433419Z",
       "latest_at": "2026-06-23T09:29:23.433419Z",
@@ -1152,6 +1227,67 @@
         "url": "https://www.aibase.com/news/29079",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0930e77e2dc7",
+      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "primary_url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:46:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:46:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8046,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T16:46:05Z",
+      "latest_at": "2026-06-23T16:46:05Z",
+      "primary_item": {
+        "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+        "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1189,14 +1325,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6291,
+        "recency": 0.5643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,14 +1384,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6255,
+        "recency": 0.5607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,147 +1406,6 @@
         "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
         "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fc7ab554d043",
-      "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-      "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-      "primary_url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
-          "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T15:46:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
-          "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T15:46:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8281,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T15:46:30Z",
-      "latest_at": "2026-06-23T15:46:30Z",
-      "primary_item": {
-        "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
-        "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-        "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_689a3d371c06",
-      "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-      "url": "https://www.aibase.com/news/29100",
-      "primary_url": "https://www.aibase.com/news/29100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-          "url": "https://www.aibase.com/news/29100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T09:29:23.433419Z"
-        },
-        {
-          "id": "0481db2f09bbbc2cb7af6838ca15a1771656436e",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级 3D 大模型 Rodin Gen-2.5",
-          "url": "https://www.aibase.com/zh/news/29100",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-          "url": "https://www.aibase.com/news/29100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T09:29:23.433419Z"
-        },
-        {
-          "id": "0481db2f09bbbc2cb7af6838ca15a1771656436e",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级 3D 大模型 Rodin Gen-2.5",
-          "url": "https://www.aibase.com/zh/news/29100",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5662,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T09:29:23.433419Z",
-      "latest_at": "2026-06-23T09:29:23.433419Z",
-      "primary_item": {
-        "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-        "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-        "url": "https://www.aibase.com/news/29100",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
