@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-24T06:41:47.761233Z",
+  "generated_at": "2026-06-24T10:17:44.024755Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-1642-1828-8866-c08c3a451b76&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-1642-1828-8866-c08c3a451b76&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-2018-158c-a15f-ad87b473f7b5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-2018-158c-a15f-ad87b473f7b5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "71a5ee056bcbe8b414e4feabe79a509b1d8c4823",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-2018-158c-a15f-ad87b473f7b5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0688e00b32a74d6299846e64888feebf5c003746",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "9a3ec34178bc92b9382ed80dc5e9c5e293c3e9b1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2222-30d1-b991-e75efdb09902&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4169279e19d324ef23711dd8aad4a3642a8ca6e3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-1929-536b-b722-8eb957b3aec9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "71a5ee056bcbe8b414e4feabe79a509b1d8c4823",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-2018-158c-a15f-ad87b473f7b5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0688e00b32a74d6299846e64888feebf5c003746",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260624-1642-1828-8866-c08c3a451b76&fp=-3",
@@ -183,15 +192,6 @@
           "id": "9a3ec34178bc92b9382ed80dc5e9c5e293c3e9b1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2222-30d1-b991-e75efdb09902&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4169279e19d324ef23711dd8aad4a3642a8ca6e3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-1929-536b-b722-8eb957b3aec9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,14 +216,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T09:29:23.433419Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-23T12:22:01.109710Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "0688e00b32a74d6299846e64888feebf5c003746",
+        "id": "71a5ee056bcbe8b414e4feabe79a509b1d8c4823",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-1642-1828-8866-c08c3a451b76&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-2018-158c-a15f-ad87b473f7b5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_c505c564b881",
+      "title": "Meta监控员工练AI两个月就翻车：4. 5 万张隐私数据表泄露， 1600 人联名喊停",
+      "url": "https://www.aibase.com/news/29131",
+      "primary_url": "https://www.aibase.com/news/29131",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1d22f4d133ab9b381b11159d78c8f77b5fce939c",
+          "title": "Meta监控员工练AI两个月就翻车：4. 5 万张隐私数据表泄露， 1600 人联名喊停",
+          "url": "https://www.aibase.com/news/29131",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-24T10:17:44.024755Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1d22f4d133ab9b381b11159d78c8f77b5fce939c",
+          "title": "Meta监控员工练AI两个月就翻车：4. 5 万张隐私数据表泄露， 1600 人联名喊停",
+          "url": "https://www.aibase.com/news/29131",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-24T10:17:44.024755Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
+      "primary_item": {
+        "id": "1d22f4d133ab9b381b11159d78c8f77b5fce939c",
+        "title": "Meta监控员工练AI两个月就翻车：4. 5 万张隐私数据表泄露， 1600 人联名喊停",
+        "url": "https://www.aibase.com/news/29131",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -280,14 +340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.7616,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -307,21 +367,21 @@
       }
     },
     {
-      "story_id": "story_2d34494a69f2",
-      "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
-      "url": "https://www.aibase.com/news/29124",
-      "primary_url": "https://www.aibase.com/news/29124",
+      "story_id": "story_6a4ed720b882",
+      "title": "即梦AI Seedance2.0VIP上线原生4K，视频生成分辨率实现源头突破",
+      "url": "https://www.aibase.com/news/29133",
+      "primary_url": "https://www.aibase.com/news/29133",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bc6db98c2c5f2afa7f817d964c108bcb641e9449",
-          "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
-          "url": "https://www.aibase.com/news/29124",
+          "id": "814cd5be164c04fb7245dbd3f351c414ead3238f",
+          "title": "即梦AI Seedance2.0VIP上线原生4K，视频生成分辨率实现源头突破",
+          "url": "https://www.aibase.com/news/29133",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "source_count": 1,
@@ -330,13 +390,13 @@
       ],
       "items": [
         {
-          "id": "bc6db98c2c5f2afa7f817d964c108bcb641e9449",
-          "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
-          "url": "https://www.aibase.com/news/29124",
+          "id": "814cd5be164c04fb7245dbd3f351c414ead3238f",
+          "title": "即梦AI Seedance2.0VIP上线原生4K，视频生成分辨率实现源头突破",
+          "url": "https://www.aibase.com/news/29133",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "item_count": 1,
@@ -356,12 +416,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T06:41:47.761233Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "bc6db98c2c5f2afa7f817d964c108bcb641e9449",
-        "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
-        "url": "https://www.aibase.com/news/29124",
+        "id": "814cd5be164c04fb7245dbd3f351c414ead3238f",
+        "title": "即梦AI Seedance2.0VIP上线原生4K，视频生成分辨率实现源头突破",
+        "url": "https://www.aibase.com/news/29133",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -401,14 +461,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.7183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -427,21 +487,21 @@
       }
     },
     {
-      "story_id": "story_1445f313f963",
-      "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
-      "url": "https://www.aibase.com/news/29126",
-      "primary_url": "https://www.aibase.com/news/29126",
+      "story_id": "story_ded5c829da48",
+      "title": "特斯拉车机迎来“智慧大脑”：豆包大模型全面接入，交互体验升级",
+      "url": "https://www.aibase.com/news/29132",
+      "primary_url": "https://www.aibase.com/news/29132",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d6818210e03e9fc4c7cae6ee06c792f22c28fe95",
-          "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
-          "url": "https://www.aibase.com/news/29126",
+          "id": "248ba2b7b752cfdf0192f0e8ead6345a615e5d0b",
+          "title": "特斯拉车机迎来“智慧大脑”：豆包大模型全面接入，交互体验升级",
+          "url": "https://www.aibase.com/news/29132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "source_count": 1,
@@ -450,13 +510,13 @@
       ],
       "items": [
         {
-          "id": "d6818210e03e9fc4c7cae6ee06c792f22c28fe95",
-          "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
-          "url": "https://www.aibase.com/news/29126",
+          "id": "248ba2b7b752cfdf0192f0e8ead6345a615e5d0b",
+          "title": "特斯拉车机迎来“智慧大脑”：豆包大模型全面接入，交互体验升级",
+          "url": "https://www.aibase.com/news/29132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "item_count": 1,
@@ -476,12 +536,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T06:41:47.761233Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "d6818210e03e9fc4c7cae6ee06c792f22c28fe95",
-        "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
-        "url": "https://www.aibase.com/news/29126",
+        "id": "248ba2b7b752cfdf0192f0e8ead6345a615e5d0b",
+        "title": "特斯拉车机迎来“智慧大脑”：豆包大模型全面接入，交互体验升级",
+        "url": "https://www.aibase.com/news/29132",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -521,21 +581,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5474,
+        "recency": 0.3974,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T19:50:00Z",
       "latest_at": "2026-06-23T19:50:00Z",
@@ -582,20 +641,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7626,
+        "recency": 0.6127,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-24T01:00:00Z",
       "latest_at": "2026-06-24T01:00:00Z",
@@ -608,21 +666,21 @@
       }
     },
     {
-      "story_id": "story_7051a63bfe15",
-      "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
-      "url": "https://www.aibase.com/news/29119",
-      "primary_url": "https://www.aibase.com/news/29119",
+      "story_id": "story_34f83b62d7e8",
+      "title": "西湖畔的数字碰撞：全国首个“AI+文旅”城市叙事空间正式亮相",
+      "url": "https://www.aibase.com/news/29128",
+      "primary_url": "https://www.aibase.com/news/29128",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e4bba0833b0b531993ec0b63fe35827c24a2818f",
-          "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
-          "url": "https://www.aibase.com/news/29119",
+          "id": "7193cc458f6895ad74f353140e84ba1a5b39c9a4",
+          "title": "西湖畔的数字碰撞：全国首个“AI+文旅”城市叙事空间正式亮相",
+          "url": "https://www.aibase.com/news/29128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "source_count": 1,
@@ -631,13 +689,13 @@
       ],
       "items": [
         {
-          "id": "e4bba0833b0b531993ec0b63fe35827c24a2818f",
-          "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
-          "url": "https://www.aibase.com/news/29119",
+          "id": "7193cc458f6895ad74f353140e84ba1a5b39c9a4",
+          "title": "西湖畔的数字碰撞：全国首个“AI+文旅”城市叙事空间正式亮相",
+          "url": "https://www.aibase.com/news/29128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "item_count": 1,
@@ -657,252 +715,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T06:41:47.761233Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "e4bba0833b0b531993ec0b63fe35827c24a2818f",
-        "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
-        "url": "https://www.aibase.com/news/29119",
+        "id": "7193cc458f6895ad74f353140e84ba1a5b39c9a4",
+        "title": "西湖畔的数字碰撞：全国首个“AI+文旅”城市叙事空间正式亮相",
+        "url": "https://www.aibase.com/news/29128",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_50b0e84c9b4e",
-      "title": "我自动化了我的工作（这让我成为了更好的领导者） / I automated my job (and it made me a better leader)",
-      "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
-      "primary_url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e42a21aea4b8bf2a240940b1c5bea233b1b5b5ca",
-          "title": "我自动化了我的工作（这让我成为了更好的领导者） / I automated my job (and it made me a better leader)",
-          "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "e42a21aea4b8bf2a240940b1c5bea233b1b5b5ca",
-          "title": "我自动化了我的工作（这让我成为了更好的领导者） / I automated my job (and it made me a better leader)",
-          "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3876,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T16:00:00Z",
-      "latest_at": "2026-06-23T16:00:00Z",
-      "primary_item": {
-        "id": "e42a21aea4b8bf2a240940b1c5bea233b1b5b5ca",
-        "title": "我自动化了我的工作（这让我成为了更好的领导者） / I automated my job (and it made me a better leader)",
-        "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f267d797731c",
-      "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-      "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-      "primary_url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "48616ca5dc4f7094751e5cd3a8cda241f0c148b2",
-          "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-          "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T21:48:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "48616ca5dc4f7094751e5cd3a8cda241f0c148b2",
-          "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-          "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T21:48:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6296,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T21:48:25Z",
-      "latest_at": "2026-06-23T21:48:25Z",
-      "primary_item": {
-        "id": "48616ca5dc4f7094751e5cd3a8cda241f0c148b2",
-        "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-        "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f0c4ab467506",
-      "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "primary_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "208b0a82425c19fc58181ebbc930008e5c9f0528",
-          "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-          "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T12:51:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "208b0a82425c19fc58181ebbc930008e5c9f0528",
-          "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-          "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T12:51:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.257,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T12:51:55Z",
-      "latest_at": "2026-06-23T12:51:55Z",
-      "primary_item": {
-        "id": "208b0a82425c19fc58181ebbc930008e5c9f0528",
-        "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-        "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f673b7b66b6e",
-      "title": "Runway推出Seedance 4K等三款新模型",
-      "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-      "primary_url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1acda81c893086745abb1646102cbd7e2fdad705",
-          "title": "Runway推出Seedance 4K等三款新模型",
-          "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T21:36:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "1acda81c893086745abb1646102cbd7e2fdad705",
-          "title": "Runway推出Seedance 4K等三款新模型",
-          "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T21:36:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6215,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T21:36:44Z",
-      "latest_at": "2026-06-23T21:36:44Z",
-      "primary_item": {
-        "id": "1acda81c893086745abb1646102cbd7e2fdad705",
-        "title": "Runway推出Seedance 4K等三款新模型",
-        "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -940,21 +760,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4978,
+        "recency": 0.3479,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T18:38:41Z",
       "latest_at": "2026-06-23T18:38:41Z",
@@ -967,80 +786,21 @@
       }
     },
     {
-      "story_id": "story_80381f6d9f43",
-      "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
-      "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
-      "primary_url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
-          "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
-          "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T20:17:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
-          "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
-          "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T20:17:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5666,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T20:17:38Z",
-      "latest_at": "2026-06-23T20:17:38Z",
-      "primary_item": {
-        "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
-        "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
-        "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_386ed79cc34c",
-      "title": "企业微信内测AI Agent“大圆”:打通企微生态，主打办公与客户经营提效",
-      "url": "https://www.aibase.com/news/29125",
-      "primary_url": "https://www.aibase.com/news/29125",
+      "story_id": "story_30cd40a8fc44",
+      "title": "豪掷 6 亿港元激励全员：MiniMax 以“真金白银”提振团队信心",
+      "url": "https://www.aibase.com/news/29135",
+      "primary_url": "https://www.aibase.com/news/29135",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d494e7d8d495cde60e1bda23dc5ae5232d53c59d",
-          "title": "企业微信内测AI Agent“大圆”:打通企微生态，主打办公与客户经营提效",
-          "url": "https://www.aibase.com/news/29125",
+          "id": "7138ea14dca24895ade0d476430ba879ee625075",
+          "title": "豪掷 6 亿港元激励全员：MiniMax 以“真金白银”提振团队信心",
+          "url": "https://www.aibase.com/news/29135",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "source_count": 1,
@@ -1049,13 +809,13 @@
       ],
       "items": [
         {
-          "id": "d494e7d8d495cde60e1bda23dc5ae5232d53c59d",
-          "title": "企业微信内测AI Agent“大圆”:打通企微生态，主打办公与客户经营提效",
-          "url": "https://www.aibase.com/news/29125",
+          "id": "7138ea14dca24895ade0d476430ba879ee625075",
+          "title": "豪掷 6 亿港元激励全员：MiniMax 以“真金白银”提振团队信心",
+          "url": "https://www.aibase.com/news/29135",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "item_count": 1,
@@ -1075,12 +835,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T06:41:47.761233Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "d494e7d8d495cde60e1bda23dc5ae5232d53c59d",
-        "title": "企业微信内测AI Agent“大圆”:打通企微生态，主打办公与客户经营提效",
-        "url": "https://www.aibase.com/news/29125",
+        "id": "7138ea14dca24895ade0d476430ba879ee625075",
+        "title": "豪掷 6 亿港元激励全员：MiniMax 以“真金白银”提振团队信心",
+        "url": "https://www.aibase.com/news/29135",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1120,21 +880,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4125,
+        "recency": 0.2625,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T16:35:45Z",
       "latest_at": "2026-06-23T16:35:45Z",
@@ -1147,21 +906,21 @@
       }
     },
     {
-      "story_id": "story_18672554be9c",
-      "title": "告别“你问我答”：ChatGPT 语音功能重磅升级，双向实时对话时代开启",
-      "url": "https://www.aibase.com/news/29127",
-      "primary_url": "https://www.aibase.com/news/29127",
+      "story_id": "story_bc79370c4847",
+      "title": "马斯克官宣\"Starmind\"： 100 万颗卫星上太空，AI算力直接从天上来",
+      "url": "https://www.aibase.com/news/29130",
+      "primary_url": "https://www.aibase.com/news/29130",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9f86c6ca8b2f8a631c241c9d345a9d115c784a7d",
-          "title": "告别“你问我答”：ChatGPT 语音功能重磅升级，双向实时对话时代开启",
-          "url": "https://www.aibase.com/news/29127",
+          "id": "e488df1b96d7ba4ca33a04e337dc2a35750d67d3",
+          "title": "马斯克官宣\"Starmind\"： 100 万颗卫星上太空，AI算力直接从天上来",
+          "url": "https://www.aibase.com/news/29130",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "source_count": 1,
@@ -1170,13 +929,13 @@
       ],
       "items": [
         {
-          "id": "9f86c6ca8b2f8a631c241c9d345a9d115c784a7d",
-          "title": "告别“你问我答”：ChatGPT 语音功能重磅升级，双向实时对话时代开启",
-          "url": "https://www.aibase.com/news/29127",
+          "id": "e488df1b96d7ba4ca33a04e337dc2a35750d67d3",
+          "title": "马斯克官宣\"Starmind\"： 100 万颗卫星上太空，AI算力直接从天上来",
+          "url": "https://www.aibase.com/news/29130",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "item_count": 1,
@@ -1196,32 +955,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T06:41:47.761233Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "9f86c6ca8b2f8a631c241c9d345a9d115c784a7d",
-        "title": "告别“你问我答”：ChatGPT 语音功能重磅升级，双向实时对话时代开启",
-        "url": "https://www.aibase.com/news/29127",
+        "id": "e488df1b96d7ba4ca33a04e337dc2a35750d67d3",
+        "title": "马斯克官宣\"Starmind\"： 100 万颗卫星上太空，AI算力直接从天上来",
+        "url": "https://www.aibase.com/news/29130",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_adf9a8be65cd",
-      "title": "孙正义给马斯克的太空数据中心\"泼冷水\"：省那点电费，不如好好搞地面算力",
-      "url": "https://www.aibase.com/news/29123",
-      "primary_url": "https://www.aibase.com/news/29123",
+      "story_id": "story_6fe7ef5e35e9",
+      "title": "马斯克官宣SpaceX太空AI算力项目Starmind 规划100万颗卫星入轨",
+      "url": "https://www.aibase.com/news/29129",
+      "primary_url": "https://www.aibase.com/news/29129",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b42274571b77d7926eb0be171d385e1cf15f223d",
-          "title": "孙正义给马斯克的太空数据中心\"泼冷水\"：省那点电费，不如好好搞地面算力",
-          "url": "https://www.aibase.com/news/29123",
+          "id": "0f037bfa1fde77649a66777e7326b0682b88db5d",
+          "title": "马斯克官宣SpaceX太空AI算力项目Starmind 规划100万颗卫星入轨",
+          "url": "https://www.aibase.com/news/29129",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "source_count": 1,
@@ -1230,13 +989,13 @@
       ],
       "items": [
         {
-          "id": "b42274571b77d7926eb0be171d385e1cf15f223d",
-          "title": "孙正义给马斯克的太空数据中心\"泼冷水\"：省那点电费，不如好好搞地面算力",
-          "url": "https://www.aibase.com/news/29123",
+          "id": "0f037bfa1fde77649a66777e7326b0682b88db5d",
+          "title": "马斯克官宣SpaceX太空AI算力项目Starmind 规划100万颗卫星入轨",
+          "url": "https://www.aibase.com/news/29129",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-24T06:41:47.761233Z"
+          "published_at": "2026-06-24T10:17:44.024755Z"
         }
       ],
       "item_count": 1,
@@ -1256,88 +1015,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T06:41:47.761233Z",
-      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "earliest_at": "2026-06-24T10:17:44.024755Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
       "primary_item": {
-        "id": "b42274571b77d7926eb0be171d385e1cf15f223d",
-        "title": "孙正义给马斯克的太空数据中心\"泼冷水\"：省那点电费，不如好好搞地面算力",
-        "url": "https://www.aibase.com/news/29123",
+        "id": "0f037bfa1fde77649a66777e7326b0682b88db5d",
+        "title": "马斯克官宣SpaceX太空AI算力项目Starmind 规划100万颗卫星入轨",
+        "url": "https://www.aibase.com/news/29129",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0930e77e2dc7",
-      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-      "primary_url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T16:46:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T16:46:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4196,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T16:46:05Z",
-      "latest_at": "2026-06-23T16:46:05Z",
-      "primary_item": {
-        "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-        "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9b7b3c7926ae",
-      "title": "美国AI创业公司状告政府：切断大模型访问等于\"断人活路\"",
-      "url": "https://www.aibase.com/news/29120",
-      "primary_url": "https://www.aibase.com/news/29120",
+      "story_id": "story_2d34494a69f2",
+      "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
+      "url": "https://www.aibase.com/news/29124",
+      "primary_url": "https://www.aibase.com/news/29124",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fef47f7fcbfbdcc4b2eaae577fbfeaa2291da510",
-          "title": "美国AI创业公司状告政府：切断大模型访问等于\"断人活路\"",
-          "url": "https://www.aibase.com/news/29120",
+          "id": "bc6db98c2c5f2afa7f817d964c108bcb641e9449",
+          "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
+          "url": "https://www.aibase.com/news/29124",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1350,9 +1049,9 @@
       ],
       "items": [
         {
-          "id": "fef47f7fcbfbdcc4b2eaae577fbfeaa2291da510",
-          "title": "美国AI创业公司状告政府：切断大模型访问等于\"断人活路\"",
-          "url": "https://www.aibase.com/news/29120",
+          "id": "bc6db98c2c5f2afa7f817d964c108bcb641e9449",
+          "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
+          "url": "https://www.aibase.com/news/29124",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1361,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,9 +1078,363 @@
       "earliest_at": "2026-06-24T06:41:47.761233Z",
       "latest_at": "2026-06-24T06:41:47.761233Z",
       "primary_item": {
-        "id": "fef47f7fcbfbdcc4b2eaae577fbfeaa2291da510",
-        "title": "美国AI创业公司状告政府：切断大模型访问等于\"断人活路\"",
-        "url": "https://www.aibase.com/news/29120",
+        "id": "bc6db98c2c5f2afa7f817d964c108bcb641e9449",
+        "title": "AI智能体的进化新里程：千问发布原生语言世界模型 Qwen-AgentWorld",
+        "url": "https://www.aibase.com/news/29124",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_00be68a9951b",
+      "title": "软银孙正义回应 AI 泡沫论：这是对 AI 的侮辱，人工智能仍处于发展初期",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzw6223102.shtml",
+      "primary_url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzw6223102.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b57b2bda9c4c6cb4043b05220118f6c85329aed1",
+          "title": "软银孙正义回应 AI 泡沫论：这是对 AI 的侮辱，人工智能仍处于发展初期",
+          "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzw6223102.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3e2526443d5ffaf726f57948855e021d14e8681",
+          "title": "软银孙正义回应 AI 泡沫论：这是对 AI 的侮辱，人工智能仍处于发展初期",
+          "url": "https://www.ithome.com/0/967/917.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-24T07:06:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b57b2bda9c4c6cb4043b05220118f6c85329aed1",
+          "title": "软银孙正义回应 AI 泡沫论：这是对 AI 的侮辱，人工智能仍处于发展初期",
+          "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzw6223102.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3e2526443d5ffaf726f57948855e021d14e8681",
+          "title": "软银孙正义回应 AI 泡沫论：这是对 AI 的侮辱，人工智能仍处于发展初期",
+          "url": "https://www.ithome.com/0/967/917.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-24T07:06:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-24T07:06:11Z",
+      "latest_at": "2026-06-24T10:17:44.024755Z",
+      "primary_item": {
+        "id": "b57b2bda9c4c6cb4043b05220118f6c85329aed1",
+        "title": "软银孙正义回应 AI 泡沫论：这是对 AI 的侮辱，人工智能仍处于发展初期",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzw6223102.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1445f313f963",
+      "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
+      "url": "https://www.aibase.com/news/29126",
+      "primary_url": "https://www.aibase.com/news/29126",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d6818210e03e9fc4c7cae6ee06c792f22c28fe95",
+          "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
+          "url": "https://www.aibase.com/news/29126",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-24T06:41:47.761233Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d6818210e03e9fc4c7cae6ee06c792f22c28fe95",
+          "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
+          "url": "https://www.aibase.com/news/29126",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-24T06:41:47.761233Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.85,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-24T06:41:47.761233Z",
+      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "primary_item": {
+        "id": "d6818210e03e9fc4c7cae6ee06c792f22c28fe95",
+        "title": "Anthropic AI模型数小时\"攻破\"美国机密系统，政府反手就把它\"关了禁闭\"",
+        "url": "https://www.aibase.com/news/29126",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0810373856c1",
+      "title": "Qwen-AgentWorld：通用智能体的语言世界模型",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "primary_url": "https://arxiv.org/abs/2606.24597",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9d2a84e4d0c9707f9604b9df7a314c37653978f9",
+          "title": "Qwen-AgentWorld：通用智能体的语言世界模型",
+          "url": "https://arxiv.org/abs/2606.24597",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-24T09:32:29.300000Z"
+        },
+        {
+          "id": "1adb9f499c9e6fd0436859f0981cd4b74a104778",
+          "title": "Qwen-AgentWorld：通用智能体的语言世界模型 / Qwen-AgentWorld: Language World Models for General Agents",
+          "url": "https://arxiv.org/abs/2606.24597",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-24T02:21:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "9d2a84e4d0c9707f9604b9df7a314c37653978f9",
+          "title": "Qwen-AgentWorld：通用智能体的语言世界模型",
+          "url": "https://arxiv.org/abs/2606.24597",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-24T09:32:29.300000Z"
+        },
+        {
+          "id": "1adb9f499c9e6fd0436859f0981cd4b74a104778",
+          "title": "Qwen-AgentWorld：通用智能体的语言世界模型 / Qwen-AgentWorld: Language World Models for General Agents",
+          "url": "https://arxiv.org/abs/2606.24597",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-24T02:21:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9686,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-24T02:21:47Z",
+      "latest_at": "2026-06-24T09:32:29.300000Z",
+      "primary_item": {
+        "id": "9d2a84e4d0c9707f9604b9df7a314c37653978f9",
+        "title": "Qwen-AgentWorld：通用智能体的语言世界模型",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_536cfe863e2f",
+      "title": "DiffusionBench：对生成扩散变压器进行整体评估 / DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://news.ycombinator.com/item?id=48654274",
+      "primary_url": "https://news.ycombinator.com/item?id=48654274",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a9f95ca5633e84e5d0da93e86b341eb4087c4ed5",
+          "title": "DiffusionBench：对生成扩散变压器进行整体评估 / DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+          "url": "https://news.ycombinator.com/item?id=48654274",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-24T06:42:23.516000Z"
+        },
+        {
+          "id": "5b5845fcea9b3a18d4dc30b398a9908225f2f623",
+          "title": "DiffusionBench：对生成扩散变压器进行整体评估 / DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+          "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-24T02:12:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a9f95ca5633e84e5d0da93e86b341eb4087c4ed5",
+          "title": "DiffusionBench：对生成扩散变压器进行整体评估 / DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+          "url": "https://news.ycombinator.com/item?id=48654274",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-24T06:42:23.516000Z"
+        },
+        {
+          "id": "5b5845fcea9b3a18d4dc30b398a9908225f2f623",
+          "title": "DiffusionBench：对生成扩散变压器进行整体评估 / DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+          "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-24T02:12:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8505,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-24T02:12:31Z",
+      "latest_at": "2026-06-24T06:42:23.516000Z",
+      "primary_item": {
+        "id": "a9f95ca5633e84e5d0da93e86b341eb4087c4ed5",
+        "title": "DiffusionBench：对生成扩散变压器进行整体评估 / DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+        "url": "https://news.ycombinator.com/item?id=48654274",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7051a63bfe15",
+      "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
+      "url": "https://www.aibase.com/news/29119",
+      "primary_url": "https://www.aibase.com/news/29119",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4bba0833b0b531993ec0b63fe35827c24a2818f",
+          "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
+          "url": "https://www.aibase.com/news/29119",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-24T06:41:47.761233Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e4bba0833b0b531993ec0b63fe35827c24a2818f",
+          "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
+          "url": "https://www.aibase.com/news/29119",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-24T06:41:47.761233Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.85,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-24T06:41:47.761233Z",
+      "latest_at": "2026-06-24T06:41:47.761233Z",
+      "primary_item": {
+        "id": "e4bba0833b0b531993ec0b63fe35827c24a2818f",
+        "title": "Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App",
+        "url": "https://www.aibase.com/news/29119",
         "source": "AIbase",
         "source_name": "AIbase"
       }
