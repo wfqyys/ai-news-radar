@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T17:14:52.233377Z",
+  "generated_at": "2026-06-26T19:16:34.197868Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0315-256b-abd3-752635f825c7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0315-256b-abd3-752635f825c7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0517-088c-98ae-726b080db18b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0517-088c-98ae-726b080db18b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4100646419bb39b35809745ab7690573f4628934",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0517-088c-98ae-726b080db18b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "cd9495b9a868691d85d95c0a5db213ca01083672",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "b037e25c1d816a51a88e541d05827db2656eed8b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0653-172f-a2e4-7a0e42d51abc&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8cfe1b735cab893339c2501d6207311f5dbe4b3b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0431-30ac-b2fe-30dcc2fd3569&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "4100646419bb39b35809745ab7690573f4628934",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0517-088c-98ae-726b080db18b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "cd9495b9a868691d85d95c0a5db213ca01083672",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0315-256b-abd3-752635f825c7&fp=-3",
@@ -183,15 +192,6 @@
           "id": "b037e25c1d816a51a88e541d05827db2656eed8b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0653-172f-a2e4-7a0e42d51abc&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8cfe1b735cab893339c2501d6207311f5dbe4b3b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0431-30ac-b2fe-30dcc2fd3569&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,14 +216,114 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T18:31:04.613111Z",
-      "latest_at": "2026-06-26T17:14:52.233377Z",
+      "earliest_at": "2026-06-25T20:52:49.756272Z",
+      "latest_at": "2026-06-26T19:16:34.197868Z",
       "primary_item": {
-        "id": "cd9495b9a868691d85d95c0a5db213ca01083672",
+        "id": "4100646419bb39b35809745ab7690573f4628934",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0315-256b-abd3-752635f825c7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0517-088c-98ae-726b080db18b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_adbd50c1b1db",
+      "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8577,
+      "importance": 0.8577,
+      "importance_score": 0.8577,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6135,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T17:31:54.233000Z",
+      "primary_item": {
+        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+        "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -261,14 +361,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8675,
-      "importance": 0.8675,
-      "importance_score": 0.8675,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9724,
+        "recency": 0.8879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -284,87 +384,6 @@
         "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
         "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_adbd50c1b1db",
-      "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
-          "title": "预览 GPT‑5.6 Sol：下一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
-          "title": "预览 GPT‑5.6 Sol：下一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.698,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T10:00:00Z",
-      "latest_at": "2026-06-26T17:06:55Z",
-      "primary_item": {
-        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-        "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -403,14 +422,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -463,14 +482,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9325,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,14 +542,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9195,
+        "recency": 0.835,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,14 +602,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7209,
+        "recency": 0.6364,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,14 +682,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,6 +706,65 @@
         "url": "https://www.aibase.com/news/29205",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6da74133e3ec",
+      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+      "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "primary_url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6135,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T10:00:00Z",
+      "primary_item": {
+        "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+        "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -743,14 +821,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,66 +845,6 @@
         "url": "https://www.aibase.com/news/29204",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b6ca7e75baf6",
-      "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T22:59:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T22:59:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2395,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T22:59:45Z",
-      "latest_at": "2026-06-25T22:59:45Z",
-      "primary_item": {
-        "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-        "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -864,20 +882,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T10:19:17.885738Z",
       "latest_at": "2026-06-26T10:19:17.885738Z",
@@ -924,20 +941,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T10:19:17.885738Z",
       "latest_at": "2026-06-26T10:19:17.885738Z",
@@ -984,20 +1000,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T10:19:17.885738Z",
       "latest_at": "2026-06-26T10:19:17.885738Z",
@@ -1044,20 +1059,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T10:19:17.885738Z",
       "latest_at": "2026-06-26T10:19:17.885738Z",
@@ -1067,6 +1081,103 @@
         "url": "https://www.aibase.com/news/29199",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_47c56e9adbe9",
+      "title": "人工智能行业正向美国大选投入数百万美元",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "primary_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "source": "www.bloodinthemachine.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
+          "title": "人工智能行业正向美国大选投入数百万美元",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T18:35:53.860000Z"
+        },
+        {
+          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
+          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://news.ycombinator.com/item?id=48687483",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T15:22:15.044000Z"
+        },
+        {
+          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
+          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T15:02:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.bloodinthemachine.com"
+      ],
+      "items": [
+        {
+          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
+          "title": "人工智能行业正向美国大选投入数百万美元",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T18:35:53.860000Z"
+        },
+        {
+          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
+          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://news.ycombinator.com/item?id=48687483",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T15:22:15.044000Z"
+        },
+        {
+          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
+          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T15:02:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9718,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T15:02:43Z",
+      "latest_at": "2026-06-26T18:35:53.860000Z",
+      "primary_item": {
+        "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
+        "title": "人工智能行业正向美国大选投入数百万美元",
+        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+        "source": "www.bloodinthemachine.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1104,20 +1215,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 0.6269,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T10:19:17.885738Z",
       "latest_at": "2026-06-26T10:19:17.885738Z",
@@ -1127,6 +1237,240 @@
         "url": "https://www.aibase.com/news/29196",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b482b19fe032",
+      "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+      "primary_url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
+          "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T18:23:14Z"
+        },
+        {
+          "id": "9f767e57c4724c3197460cd32bd4f6221063323e",
+          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T18:23:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
+          "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T18:23:14Z"
+        },
+        {
+          "id": "9f767e57c4724c3197460cd32bd4f6221063323e",
+          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T18:23:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T18:23:14Z",
+      "latest_at": "2026-06-26T18:23:14Z",
+      "primary_item": {
+        "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
+        "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_cef5fdea064c",
+      "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+      "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+      "primary_url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+      "source": "iankduncan.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "iankduncan.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:00.813000Z"
+        },
+        {
+          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:48:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "iankduncan.com"
+      ],
+      "items": [
+        {
+          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "iankduncan.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:00.813000Z"
+        },
+        {
+          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:48:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9163,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T16:48:35Z",
+      "latest_at": "2026-06-26T17:16:00.813000Z",
+      "primary_item": {
+        "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
+        "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+        "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+        "source": "iankduncan.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e1a4d99451c2",
+      "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+      "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+      "primary_url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "040df401742d6a3a2d334257a27fa1d4700a8de8",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:01.804000Z"
+        },
+        {
+          "id": "ff36c7aed0fa9592aa4faa6a390eb365f23df9ed",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。 / Forget Apple. Amazon just made AI a lot more expensive.",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T17:12:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "040df401742d6a3a2d334257a27fa1d4700a8de8",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:01.804000Z"
+        },
+        {
+          "id": "ff36c7aed0fa9592aa4faa6a390eb365f23df9ed",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。 / Forget Apple. Amazon just made AI a lot more expensive.",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T17:12:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9163,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T17:12:04Z",
+      "latest_at": "2026-06-26T17:16:01.804000Z",
+      "primary_item": {
+        "id": "040df401742d6a3a2d334257a27fa1d4700a8de8",
+        "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+        "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1183,14 +1527,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1205,298 +1549,6 @@
         "url": "https://www.guokr.com/article/469521",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_615d03de7f4c",
-      "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
-      "url": "https://news.ycombinator.com/item?id=48688961",
-      "primary_url": "https://news.ycombinator.com/item?id=48688961",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
-          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
-          "url": "https://news.ycombinator.com/item?id=48688961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T17:02:23.172000Z"
-        },
-        {
-          "id": "10834ef54e87e1de05e8b3dc9e3961a2f02bdffa",
-          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
-          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T17:00:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
-          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
-          "url": "https://news.ycombinator.com/item?id=48688961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T17:02:23.172000Z"
-        },
-        {
-          "id": "10834ef54e87e1de05e8b3dc9e3961a2f02bdffa",
-          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
-          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T17:00:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9913,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T17:00:43Z",
-      "latest_at": "2026-06-26T17:02:23.172000Z",
-      "primary_item": {
-        "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
-        "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
-        "url": "https://news.ycombinator.com/item?id=48688961",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_962d2fa57291",
-      "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
-      "url": "https://www.aibase.com/news/29201",
-      "primary_url": "https://www.aibase.com/news/29201",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8e2effa7917eef498839e9b5341724efd971ea68",
-          "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
-          "url": "https://www.aibase.com/news/29201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:19:17.885738Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8e2effa7917eef498839e9b5341724efd971ea68",
-          "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
-          "url": "https://www.aibase.com/news/29201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:19:17.885738Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7114,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T10:19:17.885738Z",
-      "latest_at": "2026-06-26T10:19:17.885738Z",
-      "primary_item": {
-        "id": "8e2effa7917eef498839e9b5341724efd971ea68",
-        "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
-        "url": "https://www.aibase.com/news/29201",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c966518140ec",
-      "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "47091c129938935add5cd6e8663414c7c48d8aca",
-          "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T16:11:50.654000Z"
-        },
-        {
-          "id": "687dcef4aa9156b7347362bc92fb56d61627f413",
-          "title": "随着AI相关交易走势震荡，新兴市场股票本周料将收跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T11:39:48.572000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "47091c129938935add5cd6e8663414c7c48d8aca",
-          "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T16:11:50.654000Z"
-        },
-        {
-          "id": "687dcef4aa9156b7347362bc92fb56d61627f413",
-          "title": "随着AI相关交易走势震荡，新兴市场股票本周料将收跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T11:39:48.572000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9562,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T11:39:48.572000Z",
-      "latest_at": "2026-06-26T16:11:50.654000Z",
-      "primary_item": {
-        "id": "47091c129938935add5cd6e8663414c7c48d8aca",
-        "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ba1d8dcc02d0",
-      "title": "Jolla手机，销量已超过13 500部 / Jolla Phone (October 2026)",
-      "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-      "primary_url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c212cc0885d3aaf4dab23c839be8948cbe0fe6af",
-          "title": "Jolla手机，销量已超过13 500部 / Jolla Phone (October 2026)",
-          "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T14:46:00Z"
-        },
-        {
-          "id": "b8e5e8c305ae96f26ec3beb69013bced5438646b",
-          "title": "Jolla手机，销量已超过13 500部 / Jolla Phone, Over 13 500 units sold",
-          "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T14:46:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "c212cc0885d3aaf4dab23c839be8948cbe0fe6af",
-          "title": "Jolla手机，销量已超过13 500部 / Jolla Phone (October 2026)",
-          "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T14:46:00Z"
-        },
-        {
-          "id": "b8e5e8c305ae96f26ec3beb69013bced5438646b",
-          "title": "Jolla手机，销量已超过13 500部 / Jolla Phone, Over 13 500 units sold",
-          "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T14:46:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8966,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T14:46:00Z",
-      "latest_at": "2026-06-26T14:46:00Z",
-      "primary_item": {
-        "id": "c212cc0885d3aaf4dab23c839be8948cbe0fe6af",
-        "title": "Jolla手机，销量已超过13 500部 / Jolla Phone (October 2026)",
-        "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
