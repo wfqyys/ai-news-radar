@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-28T18:01:19.452400Z",
+  "generated_at": "2026-06-28T19:52:43.769379Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0401-47c0-8ea9-ab202114752c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0401-47c0-8ea9-ab202114752c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0553-099f-9a32-fde0e67ca023&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0553-099f-9a32-fde0e67ca023&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6a77b503becc1f69212122fc07fd527042da0125",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0553-099f-9a32-fde0e67ca023&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b06285523150989a3c46c73e100af5a825ac3718",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "f2b00b022eaa8c25c47a793bcaa857c8a1e0f523",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0636-469a-88c8-92dfcf92ef4f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ce27085332ea827dee285048e541fa7b0eb4e097",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0512-131f-995e-49bce424c4c1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "6a77b503becc1f69212122fc07fd527042da0125",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0553-099f-9a32-fde0e67ca023&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b06285523150989a3c46c73e100af5a825ac3718",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0401-47c0-8ea9-ab202114752c&fp=-3",
@@ -219,15 +228,6 @@
           "id": "f2b00b022eaa8c25c47a793bcaa857c8a1e0f523",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0636-469a-88c8-92dfcf92ef4f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ce27085332ea827dee285048e541fa7b0eb4e097",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0512-131f-995e-49bce424c4c1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-27T19:11:44.333155Z",
-      "latest_at": "2026-06-28T18:01:19.452400Z",
+      "earliest_at": "2026-06-27T20:36:23.877625Z",
+      "latest_at": "2026-06-28T19:52:43.769379Z",
       "primary_item": {
-        "id": "b06285523150989a3c46c73e100af5a825ac3718",
+        "id": "6a77b503becc1f69212122fc07fd527042da0125",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0401-47c0-8ea9-ab202114752c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0553-099f-9a32-fde0e67ca023&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9596,
+        "recency": 0.8822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,14 +357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -417,20 +417,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7005,
+        "recency": 0.6232,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-28T10:50:05Z",
       "latest_at": "2026-06-28T10:50:05Z",
@@ -477,14 +476,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.677,
+        "recency": 0.5996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -502,62 +501,197 @@
       }
     },
     {
-      "story_id": "story_9c7fd1a6733a",
-      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-      "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-      "primary_url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_064435cfcb3b",
+      "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "primary_url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "antoine.fi",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T07:44:41Z"
+          "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "antoine.fi",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T18:35:07.707000Z"
+        },
+        {
+          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://news.ycombinator.com/item?id=48708941",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T18:01:52.572000Z"
+        },
+        {
+          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T16:35:19Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Hacker News",
+        "antoine.fi",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T07:44:41Z"
+          "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "antoine.fi",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T18:35:07.707000Z"
+        },
+        {
+          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://news.ycombinator.com/item?id=48708941",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T18:01:52.572000Z"
+        },
+        {
+          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T16:35:19Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5718,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9461,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-28T07:44:41Z",
-      "latest_at": "2026-06-28T07:44:41Z",
+      "earliest_at": "2026-06-28T16:35:19Z",
+      "latest_at": "2026-06-28T18:35:07.707000Z",
       "primary_item": {
-        "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-        "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-        "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+        "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "source": "antoine.fi",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6c80d7901ac0",
+      "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+      "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "fc0e96921b6624ae40eddd0dc15c2a636ae27491",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T17:50:47Z"
+        },
+        {
+          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "semgrep.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T15:07:19.647000Z"
+        },
+        {
+          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T14:58:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Lobsters (技术社区)",
+        "semgrep.dev"
+      ],
+      "items": [
+        {
+          "id": "fc0e96921b6624ae40eddd0dc15c2a636ae27491",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T17:50:47Z"
+        },
+        {
+          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "semgrep.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T15:07:19.647000Z"
+        },
+        {
+          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T14:58:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9153,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T14:58:01Z",
+      "latest_at": "2026-06-28T17:50:47Z",
+      "primary_item": {
+        "id": "fc0e96921b6624ae40eddd0dc15c2a636ae27491",
+        "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -633,14 +767,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5511,
+      "importance": 0.5511,
+      "importance_score": 0.5511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9677,
+        "recency": 0.8904,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -730,14 +864,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5643,
-      "importance": 0.5643,
-      "importance_score": 0.5643,
+      "score": 0.5489,
+      "importance": 0.5489,
+      "importance_score": 0.5489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9567,
+        "recency": 0.8793,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -752,6 +886,84 @@
         "url": "https://github.com/itsthelore/wayfinder-router",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4fb9255c5e22",
+      "title": "人工智能时代软件工程的思考 / Reflections on software engineering in the age of AI",
+      "url": "https://news.ycombinator.com/item?id=48708721",
+      "primary_url": "https://news.ycombinator.com/item?id=48708721",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "469d161407e17d8b46e371e34486dc5072771f4e",
+          "title": "人工智能时代软件工程的思考 / Reflections on software engineering in the age of AI",
+          "url": "https://news.ycombinator.com/item?id=48708721",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T18:01:52.572000Z"
+        },
+        {
+          "id": "ea8165f2edfff2adcb5ea5dca5933fdd007b013c",
+          "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
+          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T16:17:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "469d161407e17d8b46e371e34486dc5072771f4e",
+          "title": "人工智能时代软件工程的思考 / Reflections on software engineering in the age of AI",
+          "url": "https://news.ycombinator.com/item?id=48708721",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T18:01:52.572000Z"
+        },
+        {
+          "id": "ea8165f2edfff2adcb5ea5dca5933fdd007b013c",
+          "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
+          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T16:17:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.923,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T16:17:38Z",
+      "latest_at": "2026-06-28T18:01:52.572000Z",
+      "primary_item": {
+        "id": "469d161407e17d8b46e371e34486dc5072771f4e",
+        "title": "人工智能时代软件工程的思考 / Reflections on software engineering in the age of AI",
+        "url": "https://news.ycombinator.com/item?id=48708721",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -808,14 +1020,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -830,84 +1042,6 @@
         "url": "https://www.huxiu.com/article/4871071.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4fb9255c5e22",
-      "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
-      "url": "https://news.ycombinator.com/item?id=48708721",
-      "primary_url": "https://news.ycombinator.com/item?id=48708721",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "469d161407e17d8b46e371e34486dc5072771f4e",
-          "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
-          "url": "https://news.ycombinator.com/item?id=48708721",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T18:01:52.572000Z"
-        },
-        {
-          "id": "ea8165f2edfff2adcb5ea5dca5933fdd007b013c",
-          "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
-          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T16:17:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "469d161407e17d8b46e371e34486dc5072771f4e",
-          "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
-          "url": "https://news.ycombinator.com/item?id=48708721",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T18:01:52.572000Z"
-        },
-        {
-          "id": "ea8165f2edfff2adcb5ea5dca5933fdd007b013c",
-          "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
-          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T16:17:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T16:17:38Z",
-      "latest_at": "2026-06-28T18:01:52.572000Z",
-      "primary_item": {
-        "id": "469d161407e17d8b46e371e34486dc5072771f4e",
-        "title": "人工智能时代软件工程的思考 / Reflections on Software Engineering in the Age of AI",
-        "url": "https://news.ycombinator.com/item?id=48708721",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -964,14 +1098,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9789,
+        "recency": 0.9015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -986,6 +1120,161 @@
         "url": "https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters",
         "source": "www.reddit.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6853c0e314d8",
+      "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "primary_url": "https://www.openculture.com/2020/10/daisugi.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "58629797a8328369e3ce0310f32ebad0a6616542",
+          "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        },
+        {
+          "id": "261463c870660719a161e49d88688bf7ed9f22ad",
+          "title": "Daisugi，日本用其他树种树的技术 (2020) / Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "58629797a8328369e3ce0310f32ebad0a6616542",
+          "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        },
+        {
+          "id": "261463c870660719a161e49d88688bf7ed9f22ad",
+          "title": "Daisugi，日本用其他树种树的技术 (2020) / Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8584,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T16:28:50Z",
+      "latest_at": "2026-06-28T16:28:50Z",
+      "primary_item": {
+        "id": "58629797a8328369e3ce0310f32ebad0a6616542",
+        "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+        "url": "https://www.openculture.com/2020/10/daisugi.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b7e39861955b",
+      "title": "人工智能技术不足后，福特重新雇用“灰胡子”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+      "primary_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "692e13cd9501344f621a6d6bb3f0255624b31342",
+          "title": "人工智能技术不足后，福特重新雇用“灰胡子”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T19:35:57Z"
+        },
+        {
+          "id": "fd26566f565e42ac5e170b0d3f6dc7d480648a0a",
+          "title": "人工智能不足后，福特重新雇用“灰胡子”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T19:05:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "TechCrunch"
+      ],
+      "items": [
+        {
+          "id": "692e13cd9501344f621a6d6bb3f0255624b31342",
+          "title": "人工智能技术不足后，福特重新雇用“灰胡子”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T19:35:57Z"
+        },
+        {
+          "id": "fd26566f565e42ac5e170b0d3f6dc7d480648a0a",
+          "title": "人工智能不足后，福特重新雇用“灰胡子”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T19:05:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T19:05:39Z",
+      "latest_at": "2026-06-28T19:35:57Z",
+      "primary_item": {
+        "id": "692e13cd9501344f621a6d6bb3f0255624b31342",
+        "title": "人工智能技术不足后，福特重新雇用“灰胡子”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1061,14 +1350,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5599,
-      "importance": 0.5599,
-      "importance_score": 0.5599,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9344,
+        "recency": 0.8571,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1083,162 +1372,6 @@
         "url": "https://github.com/openai/codex/issues/2847",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6c80d7901ac0",
-      "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-      "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-      "source": "semgrep.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T15:07:19.647000Z"
-        },
-        {
-          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T14:58:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "semgrep.dev"
-      ],
-      "items": [
-        {
-          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T15:07:19.647000Z"
-        },
-        {
-          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T14:58:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8792,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T14:58:01Z",
-      "latest_at": "2026-06-28T15:07:19.647000Z",
-      "primary_item": {
-        "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-        "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-        "source": "semgrep.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_064435cfcb3b",
-      "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-      "url": "https://news.ycombinator.com/item?id=48708941",
-      "primary_url": "https://news.ycombinator.com/item?id=48708941",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://news.ycombinator.com/item?id=48708941",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T18:01:52.572000Z"
-        },
-        {
-          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T16:35:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://news.ycombinator.com/item?id=48708941",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T18:01:52.572000Z"
-        },
-        {
-          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T16:35:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T16:35:19Z",
-      "latest_at": "2026-06-28T18:01:52.572000Z",
-      "primary_item": {
-        "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
-        "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-        "url": "https://news.ycombinator.com/item?id=48708941",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1294,14 +1427,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8491,
+        "recency": 0.7717,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,14 +1505,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.7681,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1449,14 +1582,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8345,
+        "recency": 0.7572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1471,84 +1604,6 @@
         "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7be0be9f8f64",
-      "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T13:34:14Z"
-        },
-        {
-          "id": "a66b5d911ef0092f2dd0c3c3e6b00b7a3a06b2eb",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T12:43:02.818000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T13:34:14Z"
-        },
-        {
-          "id": "a66b5d911ef0092f2dd0c3c3e6b00b7a3a06b2eb",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T12:43:02.818000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8145,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T12:43:02.818000Z",
-      "latest_at": "2026-06-28T13:34:14Z",
-      "primary_item": {
-        "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
-        "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1605,14 +1660,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.7976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1702,14 +1757,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4755,
-      "importance": 0.4755,
-      "importance_score": 0.4755,
+      "score": 0.46,
+      "importance": 0.46,
+      "importance_score": 0.46,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5123,
+        "recency": 0.435,
         "story_heat": 0.5
       },
       "category": "multi_source",
