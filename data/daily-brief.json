@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-28T13:24:51.412608Z",
+  "generated_at": "2026-06-28T15:01:19.950032Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2325-2048-9e80-24a536419517&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-2325-2048-9e80-24a536419517&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0101-4832-aac4-aff195d029e1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0101-4832-aac4-aff195d029e1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "16eea3e9400ef566d168df80adca92f0b9fc041d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0101-4832-aac4-aff195d029e1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "66d6163ea7973398a2d566abfeaf710248695075",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "8229c460be5e7e8223d9bc3c942ce6a30f1e2423",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0209-417b-a79a-80ddb299b107&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "33c59ff9f6caaa84db425540fab559ce88666fb8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0059-36b3-a208-a786fd118069&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "16eea3e9400ef566d168df80adca92f0b9fc041d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0101-4832-aac4-aff195d029e1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "66d6163ea7973398a2d566abfeaf710248695075",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2325-2048-9e80-24a536419517&fp=-3",
@@ -219,15 +228,6 @@
           "id": "8229c460be5e7e8223d9bc3c942ce6a30f1e2423",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0209-417b-a79a-80ddb299b107&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "33c59ff9f6caaa84db425540fab559ce88666fb8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0059-36b3-a208-a786fd118069&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-27T14:59:04.285704Z",
-      "latest_at": "2026-06-28T13:24:51.412608Z",
+      "earliest_at": "2026-06-27T16:09:16.969710Z",
+      "latest_at": "2026-06-28T15:01:19.950032Z",
       "primary_item": {
-        "id": "66d6163ea7973398a2d566abfeaf710248695075",
+        "id": "16eea3e9400ef566d168df80adca92f0b9fc041d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2325-2048-9e80-24a536419517&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0101-4832-aac4-aff195d029e1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,14 +357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.869,
+        "recency": 0.802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -417,14 +417,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7638,
+        "recency": 0.6968,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,124 +439,6 @@
         "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
         "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8e3fe9f65d42",
-      "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-      "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-      "primary_url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
-          "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-          "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T03:55:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
-          "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-          "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T03:55:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6045,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-28T03:55:17Z",
-      "latest_at": "2026-06-28T03:55:17Z",
-      "primary_item": {
-        "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
-        "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-        "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7ca66dad168",
-      "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-      "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-      "primary_url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
-          "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-          "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T02:45:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
-          "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-          "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T02:45:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5558,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-28T02:45:16Z",
-      "latest_at": "2026-06-28T02:45:16Z",
-      "primary_item": {
-        "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
-        "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-        "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -670,14 +552,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.59,
-      "importance": 0.59,
-      "importance_score": 0.59,
+      "score": 0.5766,
+      "importance": 0.5766,
+      "importance_score": 0.5766,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8351,
+        "recency": 0.7681,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -695,55 +577,55 @@
       }
     },
     {
-      "story_id": "story_f215f54cc6f9",
-      "title": "AWS 在中国，等来了 AI 出海",
-      "url": "https://www.huxiu.com/article/4871044.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4871044.html?f=rss",
+      "story_id": "story_42f0775e82d8",
+      "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
+      "primary_url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ed74acb186b80c2f105d17d26bb5db022d7830f4",
-          "title": "AWS 在中国，等来了 AI 出海",
-          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
+          "id": "dca4a1c7b0c6a0d873f079f3f6cb07f39709f052",
+          "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "09a55289dc27afb3ef657b89802ac66e838905e3",
-          "title": "AWS在中国，等来了AI出海",
-          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T12:45:41Z"
+          "id": "fc40ee687942c7826d02f317bd846a4568f7a70d",
+          "title": "澳大利亚Firmus Technologies公司与英伟达达成人工智能合作协议",
+          "url": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:18:49.079000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "ed74acb186b80c2f105d17d26bb5db022d7830f4",
-          "title": "AWS 在中国，等来了 AI 出海",
-          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
+          "id": "dca4a1c7b0c6a0d873f079f3f6cb07f39709f052",
+          "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "09a55289dc27afb3ef657b89802ac66e838905e3",
-          "title": "AWS在中国，等来了AI出海",
-          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T12:45:41Z"
+          "id": "fc40ee687942c7826d02f317bd846a4568f7a70d",
+          "title": "澳大利亚Firmus Technologies公司与英伟达达成人工智能合作协议",
+          "url": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:18:49.079000Z"
         }
       ],
       "item_count": 2,
@@ -762,14 +644,169 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-28T12:45:41Z",
-      "latest_at": "2026-06-28T13:24:51.412608Z",
+      "earliest_at": "2026-06-28T14:18:49.079000Z",
+      "latest_at": "2026-06-28T15:01:19.950032Z",
       "primary_item": {
-        "id": "ed74acb186b80c2f105d17d26bb5db022d7830f4",
-        "title": "AWS 在中国，等来了 AI 出海",
-        "url": "https://www.huxiu.com/article/4871044.html?f=rss",
+        "id": "dca4a1c7b0c6a0d873f079f3f6cb07f39709f052",
+        "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_425ea02dc118",
+      "title": "在美国限制人工智能访问权限后，奥地利敦促欧洲接纳Anthropic公司",
+      "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+      "primary_url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b3ac5e2f28342781fc27782e970c3491d39e0cba",
+          "title": "在美国限制人工智能访问权限后，奥地利敦促欧洲接纳Anthropic公司",
+          "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:03:01.843000Z"
+        },
+        {
+          "id": "fad919d1ea7e800b8dfb31cd2e152ad79416b6a4",
+          "title": "据《彭博新闻》报道，在美国实施限制措施后，奥地利正游说欧盟，希望将Anthropic AI公司引入该国",
+          "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T13:15:02.304000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "b3ac5e2f28342781fc27782e970c3491d39e0cba",
+          "title": "在美国限制人工智能访问权限后，奥地利敦促欧洲接纳Anthropic公司",
+          "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:03:01.843000Z"
+        },
+        {
+          "id": "fad919d1ea7e800b8dfb31cd2e152ad79416b6a4",
+          "title": "据《彭博新闻》报道，在美国实施限制措施后，奥地利正游说欧盟，希望将Anthropic AI公司引入该国",
+          "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T13:15:02.304000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T13:15:02.304000Z",
+      "latest_at": "2026-06-28T14:03:01.843000Z",
+      "primary_item": {
+        "id": "b3ac5e2f28342781fc27782e970c3491d39e0cba",
+        "title": "在美国限制人工智能访问权限后，奥地利敦促欧洲接纳Anthropic公司",
+        "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7be0be9f8f64",
+      "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
+          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T13:34:14Z"
+        },
+        {
+          "id": "a66b5d911ef0092f2dd0c3c3e6b00b7a3a06b2eb",
+          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T12:43:02.818000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
+          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T13:34:14Z"
+        },
+        {
+          "id": "a66b5d911ef0092f2dd0c3c3e6b00b7a3a06b2eb",
+          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T12:43:02.818000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9395,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T12:43:02.818000Z",
+      "latest_at": "2026-06-28T13:34:14Z",
+      "primary_item": {
+        "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
+        "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -826,14 +863,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9266,
+        "recency": 0.8596,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,30 +888,30 @@
       }
     },
     {
-      "story_id": "story_ee7aefb53503",
-      "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
-      "url": "https://www.huxiu.com/article/4871037.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4871037.html?f=rss",
+      "story_id": "story_f215f54cc6f9",
+      "title": "AWS 在中国，等来了 AI 出海",
+      "url": "https://www.huxiu.com/article/4871044.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4871044.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "75bba48413d3693b6df6ab2d5baf87032a0692c9",
-          "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
-          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
+          "id": "ed74acb186b80c2f105d17d26bb5db022d7830f4",
+          "title": "AWS 在中国，等来了 AI 出海",
+          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "5c26dbc80a556253871165ac4b2e5602e6732f65",
-          "title": "互联网与AI热潮：相似的表面，不同的内核，一样的本质",
-          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
+          "id": "09a55289dc27afb3ef657b89802ac66e838905e3",
+          "title": "AWS在中国，等来了AI出海",
+          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-28T12:08:53Z"
+          "published_at": "2026-06-28T12:45:41Z"
         }
       ],
       "source_count": 2,
@@ -884,46 +921,46 @@
       ],
       "items": [
         {
-          "id": "75bba48413d3693b6df6ab2d5baf87032a0692c9",
-          "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
-          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
+          "id": "ed74acb186b80c2f105d17d26bb5db022d7830f4",
+          "title": "AWS 在中国，等来了 AI 出海",
+          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "5c26dbc80a556253871165ac4b2e5602e6732f65",
-          "title": "互联网与AI热潮：相似的表面，不同的内核，一样的本质",
-          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
+          "id": "09a55289dc27afb3ef657b89802ac66e838905e3",
+          "title": "AWS在中国，等来了AI出海",
+          "url": "https://www.huxiu.com/article/4871044.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-28T12:08:53Z"
+          "published_at": "2026-06-28T12:45:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-28T12:08:53Z",
+      "earliest_at": "2026-06-28T12:45:41Z",
       "latest_at": "2026-06-28T13:24:51.412608Z",
       "primary_item": {
-        "id": "75bba48413d3693b6df6ab2d5baf87032a0692c9",
-        "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
-        "url": "https://www.huxiu.com/article/4871037.html?f=rss",
+        "id": "ed74acb186b80c2f105d17d26bb5db022d7830f4",
+        "title": "AWS 在中国，等来了 AI 出海",
+        "url": "https://www.huxiu.com/article/4871044.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -982,14 +1019,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,14 +1116,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7043,
+        "recency": 0.6373,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1104,30 +1141,30 @@
       }
     },
     {
-      "story_id": "story_a4678d0012e4",
-      "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
-      "url": "https://www.huxiu.com/article/4871045.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4871045.html?f=rss",
+      "story_id": "story_ee7aefb53503",
+      "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
+      "url": "https://www.huxiu.com/article/4871037.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4871037.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "7fde5843c16415b7b3671b72c5704aa09d4b6b35",
-          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
-          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "id": "75bba48413d3693b6df6ab2d5baf87032a0692c9",
+          "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
+          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2c34185123b0d827c397cb126f8ef4a67e8e2cb0",
-          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的AI算力股",
-          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "id": "5c26dbc80a556253871165ac4b2e5602e6732f65",
+          "title": "互联网与AI热潮：相似的表面，不同的内核，一样的本质",
+          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-28T12:36:29Z"
+          "published_at": "2026-06-28T12:08:53Z"
         }
       ],
       "source_count": 2,
@@ -1137,46 +1174,46 @@
       ],
       "items": [
         {
-          "id": "7fde5843c16415b7b3671b72c5704aa09d4b6b35",
-          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
-          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "id": "75bba48413d3693b6df6ab2d5baf87032a0692c9",
+          "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
+          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2c34185123b0d827c397cb126f8ef4a67e8e2cb0",
-          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的AI算力股",
-          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "id": "5c26dbc80a556253871165ac4b2e5602e6732f65",
+          "title": "互联网与AI热潮：相似的表面，不同的内核，一样的本质",
+          "url": "https://www.huxiu.com/article/4871037.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-28T12:36:29Z"
+          "published_at": "2026-06-28T12:08:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-28T12:36:29Z",
+      "earliest_at": "2026-06-28T12:08:53Z",
       "latest_at": "2026-06-28T13:24:51.412608Z",
       "primary_item": {
-        "id": "7fde5843c16415b7b3671b72c5704aa09d4b6b35",
-        "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
-        "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+        "id": "75bba48413d3693b6df6ab2d5baf87032a0692c9",
+        "title": "互联网与 AI 热潮：相似的表面，不同的内核，一样的本质",
+        "url": "https://www.huxiu.com/article/4871037.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1235,14 +1272,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8377,
+        "recency": 0.7707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1257,6 +1294,84 @@
         "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a4678d0012e4",
+      "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
+      "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4871045.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7fde5843c16415b7b3671b72c5704aa09d4b6b35",
+          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
+          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2c34185123b0d827c397cb126f8ef4a67e8e2cb0",
+          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的AI算力股",
+          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T12:36:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "7fde5843c16415b7b3671b72c5704aa09d4b6b35",
+          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
+          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2c34185123b0d827c397cb126f8ef4a67e8e2cb0",
+          "title": "这场与中国人无关的美国抗议运动，却在影响你持有的AI算力股",
+          "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T12:36:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.933,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T12:36:29Z",
+      "latest_at": "2026-06-28T13:24:51.412608Z",
+      "primary_item": {
+        "id": "7fde5843c16415b7b3671b72c5704aa09d4b6b35",
+        "title": "这场与中国人无关的美国抗议运动，却在影响你持有的 AI 算力股",
+        "url": "https://www.huxiu.com/article/4871045.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1312,14 +1427,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4522,
-      "importance": 0.4522,
-      "importance_score": 0.4522,
+      "score": 0.4388,
+      "importance": 0.4388,
+      "importance_score": 0.4388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5212,
+        "recency": 0.4542,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1390,14 +1505,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4881,
-      "importance": 0.4881,
-      "importance_score": 0.4881,
+      "score": 0.4747,
+      "importance": 0.4747,
+      "importance_score": 0.4747,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7003,
+        "recency": 0.6333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,14 +1583,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8439,
+        "recency": 0.7769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1488,84 +1603,6 @@
         "id": "98ccb7c63137fc871c9ec8896a33a1e5ae63f741",
         "title": "OpenAI 推迟上市，那「Kimi 们」呢？",
         "url": "https://www.huxiu.com/article/4871008.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_084995dd31fc",
-      "title": "多少大厂牛马正在被强迫使用 AI？用得少挨骂，用得多费钱",
-      "url": "https://www.huxiu.com/article/4871007.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4871007.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5f8af5237e61eb16ad2bc8e2af8c364ad16dcaf8",
-          "title": "多少大厂牛马正在被强迫使用 AI？用得少挨骂，用得多费钱",
-          "url": "https://www.huxiu.com/article/4871007.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c609ccb2db8c749b43346367608311471f0773cb",
-          "title": "多少大厂牛马正在被强迫使用AI？用得少挨骂，用得多费钱",
-          "url": "https://www.huxiu.com/article/4871007.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T08:50:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "5f8af5237e61eb16ad2bc8e2af8c364ad16dcaf8",
-          "title": "多少大厂牛马正在被强迫使用 AI？用得少挨骂，用得多费钱",
-          "url": "https://www.huxiu.com/article/4871007.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c609ccb2db8c749b43346367608311471f0773cb",
-          "title": "多少大厂牛马正在被强迫使用AI？用得少挨骂，用得多费钱",
-          "url": "https://www.huxiu.com/article/4871007.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T08:50:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T08:50:00Z",
-      "latest_at": "2026-06-28T09:40:06.195154Z",
-      "primary_item": {
-        "id": "5f8af5237e61eb16ad2bc8e2af8c364ad16dcaf8",
-        "title": "多少大厂牛马正在被强迫使用 AI？用得少挨骂，用得多费钱",
-        "url": "https://www.huxiu.com/article/4871007.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1624,14 +1661,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.389,
-      "importance": 0.389,
-      "importance_score": 0.389,
+      "score": 0.3756,
+      "importance": 0.3756,
+      "importance_score": 0.3756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2049,
+        "recency": 0.1379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1701,14 +1738,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.416,
-      "importance": 0.416,
-      "importance_score": 0.416,
+      "score": 0.4026,
+      "importance": 0.4026,
+      "importance_score": 0.4026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3398,
+        "recency": 0.2728,
         "story_heat": 0.25
       },
       "category": "watch",
