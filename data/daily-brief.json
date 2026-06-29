@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-29T20:22:05.573562Z",
+  "generated_at": "2026-06-29T21:50:32.616026Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0622-311e-9cd7-025a0ba353b3&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-0622-311e-9cd7-025a0ba353b3&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0750-5232-9237-648b2b4ad221&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-0750-5232-9237-648b2b4ad221&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "487616f4caf97c3535d8ff565aaea7aedb6fd623",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0750-5232-9237-648b2b4ad221&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4d2aa4bd6b39bba328f6d4f89d92f7579fda7cae",
           "title": "点击这里进入 / Click here to enter",
@@ -78,15 +87,6 @@
           "id": "7b8bafd6e08a730bc4f433e55b45a9cc362fd8a1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0800-3554-a5e0-6da8f0766336&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "807a8e8013f17864ee0b946a5ee4d542622dec27",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0656-33c0-9751-6ae66fbdf6db&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -99,6 +99,15 @@
       ],
       "items": [
         {
+          "id": "487616f4caf97c3535d8ff565aaea7aedb6fd623",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0750-5232-9237-648b2b4ad221&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4d2aa4bd6b39bba328f6d4f89d92f7579fda7cae",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0622-311e-9cd7-025a0ba353b3&fp=-3",
@@ -165,15 +174,6 @@
           "id": "7b8bafd6e08a730bc4f433e55b45a9cc362fd8a1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0800-3554-a5e0-6da8f0766336&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "807a8e8013f17864ee0b946a5ee4d542622dec27",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0656-33c0-9751-6ae66fbdf6db&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -198,12 +198,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-28T20:56:09.600332Z",
-      "latest_at": "2026-06-29T20:22:05.573562Z",
+      "earliest_at": "2026-06-28T22:00:05.525641Z",
+      "latest_at": "2026-06-29T21:50:32.616026Z",
       "primary_item": {
-        "id": "4d2aa4bd6b39bba328f6d4f89d92f7579fda7cae",
+        "id": "487616f4caf97c3535d8ff565aaea7aedb6fd623",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0622-311e-9cd7-025a0ba353b3&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0750-5232-9237-648b2b4ad221&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -243,14 +243,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8508,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -304,14 +304,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.818,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,6 +328,246 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_016fea7a781f",
+      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+      "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+      "primary_url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
+          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:22:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
+          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:22:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T21:22:33Z",
+      "latest_at": "2026-06-29T21:22:33Z",
+      "primary_item": {
+        "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
+        "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+        "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ad01905c73cb",
+      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+      "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+      "primary_url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
+          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:06:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Emad Mostaque (@EMostaque)"
+      ],
+      "items": [
+        {
+          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
+          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:06:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T21:06:43Z",
+      "latest_at": "2026-06-29T21:06:43Z",
+      "primary_item": {
+        "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
+        "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+        "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+        "source": "X：Emad Mostaque (@EMostaque)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c45adfe3885e",
+      "title": "Rubin Ultra取消，新版尺寸性能减半",
+      "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+      "primary_url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
+          "title": "Rubin Ultra取消，新版尺寸性能减半",
+          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:00:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SemiAnalysis (@SemiAnalysis_)"
+      ],
+      "items": [
+        {
+          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
+          "title": "Rubin Ultra取消，新版尺寸性能减半",
+          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:00:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9654,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T21:00:47Z",
+      "latest_at": "2026-06-29T21:00:47Z",
+      "primary_item": {
+        "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
+        "title": "Rubin Ultra取消，新版尺寸性能减半",
+        "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_83328dc63cac",
+      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+      "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+      "primary_url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+      "source": "X：OpenClaw (@openclaw)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
+          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T20:11:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenClaw (@openclaw)"
+      ],
+      "items": [
+        {
+          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
+          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T20:11:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9313,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T20:11:33Z",
+      "latest_at": "2026-06-29T20:11:33Z",
+      "primary_item": {
+        "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
+        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+        "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+        "source": "X：OpenClaw (@openclaw)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -365,14 +605,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8238,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -389,66 +629,6 @@
         "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5a598b53d4a3",
-      "title": "Claude 在 Microsoft Foundry 正式可用",
-      "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-      "primary_url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
-          "title": "Claude 在 Microsoft Foundry 正式可用",
-          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T18:22:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
-          "title": "Claude 在 Microsoft Foundry 正式可用",
-          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T18:22:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9168,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T18:22:20Z",
-      "latest_at": "2026-06-29T18:22:20Z",
-      "primary_item": {
-        "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
-        "title": "Claude 在 Microsoft Foundry 正式可用",
-        "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -486,14 +666,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,14 +726,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7793,
+        "recency": 0.7178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,6 +748,66 @@
         "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
         "url": "https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002",
         "source": "X：Berry Xia (@berryxia)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a598b53d4a3",
+      "title": "Claude 在 Microsoft Foundry 正式可用",
+      "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+      "primary_url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
+          "title": "Claude 在 Microsoft Foundry 正式可用",
+          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:22:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
+          "title": "Claude 在 Microsoft Foundry 正式可用",
+          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:22:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8554,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T18:22:20Z",
+      "latest_at": "2026-06-29T18:22:20Z",
+      "primary_item": {
+        "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
+        "title": "Claude 在 Microsoft Foundry 正式可用",
+        "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -644,14 +884,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4321,
+        "recency": 0.3706,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -704,14 +944,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6724,
+        "recency": 0.611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,14 +1003,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6585,
+        "recency": 0.597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -822,14 +1062,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6513,
+        "recency": 0.5899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -881,14 +1121,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6479,
+        "recency": 0.5865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,14 +1180,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6097,
+        "recency": 0.5483,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,65 +1201,6 @@
         "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
         "url": "https://aihot.virxact.com/items/cmqz49v7400e4sldyr126zupc",
         "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f9b35fec674d",
-      "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-      "url": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949",
-      "primary_url": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59198eaeb0abe772051195977dc6b8d9f32533b9",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-          "url": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T10:42:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59198eaeb0abe772051195977dc6b8d9f32533b9",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-          "url": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T10:42:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5977,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T10:42:47Z",
-      "latest_at": "2026-06-29T10:42:47Z",
-      "primary_item": {
-        "id": "59198eaeb0abe772051195977dc6b8d9f32533b9",
-        "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-        "url": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1058,20 +1239,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.6754,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T14:03:06Z",
       "latest_at": "2026-06-29T14:03:06Z",
@@ -1118,14 +1298,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6479,
+        "recency": 0.5865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1140,124 +1320,6 @@
         "url": "https://www.aibase.com/news/29235",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_70333f490687",
-      "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
-      "url": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt",
-      "primary_url": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b5a160f3cddf29172615abefd004de3b306e89d",
-          "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
-          "url": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T10:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1b5a160f3cddf29172615abefd004de3b306e89d",
-          "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
-          "url": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T10:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5711,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T10:04:32Z",
-      "latest_at": "2026-06-29T10:04:32Z",
-      "primary_item": {
-        "id": "1b5a160f3cddf29172615abefd004de3b306e89d",
-        "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
-        "url": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a7fe0b4506c5",
-      "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-      "url": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
-      "primary_url": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6f5472299f25d45af4f6de0464e70c47bb8f5b7",
-          "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-          "url": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T09:27:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f6f5472299f25d45af4f6de0464e70c47bb8f5b7",
-          "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-          "url": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T09:27:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5455,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T09:27:36Z",
-      "latest_at": "2026-06-29T09:27:36Z",
-      "primary_item": {
-        "id": "f6f5472299f25d45af4f6de0464e70c47bb8f5b7",
-        "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-        "url": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1295,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6479,
+        "recency": 0.5865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,65 +1377,6 @@
         "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
         "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
         "url": "https://www.aibase.com/news/29233",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3c929d7451ac",
-      "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-      "url": "https://www.aibase.com/news/29238",
-      "primary_url": "https://www.aibase.com/news/29238",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
-          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-          "url": "https://www.aibase.com/news/29238",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T11:55:02.785616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
-          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-          "url": "https://www.aibase.com/news/29238",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T11:55:02.785616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6479,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T11:55:02.785616Z",
-      "latest_at": "2026-06-29T11:55:02.785616Z",
-      "primary_item": {
-        "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
-        "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-        "url": "https://www.aibase.com/news/29238",
         "source": "AIbase",
         "source_name": "AIbase"
       }
