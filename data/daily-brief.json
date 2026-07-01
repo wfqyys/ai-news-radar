@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-01T10:28:31.855594Z",
+  "generated_at": "2026-07-01T13:17:40.139899Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2029-0346-8d42-ecc525394c45&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-2029-0346-8d42-ecc525394c45&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "3be2e29d2c534316e33c6ac6d10b1fec12a158f0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "08671bebf52d206356f09c79d45bab30fcbf2ed8",
           "title": "点击这里进入 / Click here to enter",
@@ -73,32 +82,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "ef7e0dd5d91824e2d0ddb05128e25fdb64c15c71",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2308-1150-845f-12b7a8ad58a3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f478d3cd02400db316eefb2716bd8608d60de60b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2052-5612-abf9-9c06d7c231f5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "3be2e29d2c534316e33c6ac6d10b1fec12a158f0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "08671bebf52d206356f09c79d45bab30fcbf2ed8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2029-0346-8d42-ecc525394c45&fp=-3",
@@ -160,28 +160,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "ef7e0dd5d91824e2d0ddb05128e25fdb64c15c71",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2308-1150-845f-12b7a8ad58a3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f478d3cd02400db316eefb2716bd8608d60de60b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2052-5612-abf9-9c06d7c231f5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
+      "item_count": 8,
+      "duplicate_count": 8,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -198,12 +180,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T10:52:30.089767Z",
-      "latest_at": "2026-07-01T10:28:31.855594Z",
+      "earliest_at": "2026-06-30T16:00:55.022050Z",
+      "latest_at": "2026-07-01T13:17:40.139899Z",
       "primary_item": {
-        "id": "08671bebf52d206356f09c79d45bab30fcbf2ed8",
+        "id": "3be2e29d2c534316e33c6ac6d10b1fec12a158f0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2029-0346-8d42-ecc525394c45&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -243,14 +225,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -303,14 +285,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9827,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -363,14 +345,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5635,
+        "recency": 0.4461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,14 +406,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.904,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -484,14 +466,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8536,
+        "recency": 0.7361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -544,14 +526,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,21 +586,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3363,
+        "recency": 0.2189,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T18:32:50Z",
       "latest_at": "2026-06-30T18:32:50Z",
@@ -665,14 +646,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,21 +725,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5712,
+        "recency": 0.4537,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T00:11:00Z",
       "latest_at": "2026-07-01T00:55:08Z",
@@ -805,14 +785,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6635,
+        "recency": 0.5461,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,125 +806,6 @@
         "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
         "url": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
         "source": "公众号：龙猫LongCat（美团）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_baf3220209a7",
-      "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T17:25:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T17:25:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2898,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T17:25:51Z",
-      "latest_at": "2026-06-30T17:25:51Z",
-      "primary_item": {
-        "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-        "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cee0efa066cc",
-      "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-      "url": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
-      "primary_url": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5ce66ffebf7d7ef366f5723fbdfeeab53a40a1d",
-          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-          "url": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T01:14:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "f5ce66ffebf7d7ef366f5723fbdfeeab53a40a1d",
-          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-          "url": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T01:14:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6155,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T01:14:54Z",
-      "latest_at": "2026-07-01T01:14:54Z",
-      "primary_item": {
-        "id": "f5ce66ffebf7d7ef366f5723fbdfeeab53a40a1d",
-        "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-        "url": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
-        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -983,14 +844,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1006,65 +867,6 @@
         "url": "https://www.aibase.com/news/29311",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_416bf0ef067d",
-      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-      "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-      "primary_url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
-          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-          "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T23:43:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
-          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-          "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T23:43:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5521,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T23:43:32Z",
-      "latest_at": "2026-06-30T23:43:32Z",
-      "primary_item": {
-        "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
-        "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-        "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1102,14 +904,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,14 +964,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,14 +1024,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1282,14 +1084,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,14 +1182,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5496,
+      "importance": 0.5496,
+      "importance_score": 0.5496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8829,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1402,6 +1204,221 @@
         "url": "https://news.ycombinator.com/item?id=48743472",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c960043208f3",
+      "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
+      "url": "https://www.aibase.com/news/29309",
+      "primary_url": "https://www.aibase.com/news/29309",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "115ab113f808e24e8e2f6fd2d3a4c82becc71bfc",
+          "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
+          "url": "https://www.aibase.com/news/29309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T10:28:31.855594Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "115ab113f808e24e8e2f6fd2d3a4c82becc71bfc",
+          "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
+          "url": "https://www.aibase.com/news/29309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T10:28:31.855594Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8825,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T10:28:31.855594Z",
+      "latest_at": "2026-07-01T10:28:31.855594Z",
+      "primary_item": {
+        "id": "115ab113f808e24e8e2f6fd2d3a4c82becc71bfc",
+        "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
+        "url": "https://www.aibase.com/news/29309",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_eb59fed03b0b",
+      "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "de37f5915182c43471d547cde08277d1c96f448b",
+          "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T12:25:17.976000Z"
+        },
+        {
+          "id": "4b386577dc6d8d9fb2d475aae3e95425933f6c18",
+          "title": "华尔街的人工智能竞赛正引发人们对交易过度拥挤的新担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T10:17:07.146000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "de37f5915182c43471d547cde08277d1c96f448b",
+          "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T12:25:17.976000Z"
+        },
+        {
+          "id": "4b386577dc6d8d9fb2d475aae3e95425933f6c18",
+          "title": "华尔街的人工智能竞赛正引发人们对交易过度拥挤的新担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T10:17:07.146000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9636,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-01T10:17:07.146000Z",
+      "latest_at": "2026-07-01T12:25:17.976000Z",
+      "primary_item": {
+        "id": "de37f5915182c43471d547cde08277d1c96f448b",
+        "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_92ef2bf4967c",
+      "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
+      "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+      "primary_url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7f09108332c3f152563b9977190761371f6087b0",
+          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
+          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T11:37:13.961000Z"
+        },
+        {
+          "id": "e0a2bfbc0f0e698215a4b9c07eedbd23690a7bed",
+          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出 / How 6 top CMOs are working to make their brands show up on AI platforms",
+          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-01T11:30:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7f09108332c3f152563b9977190761371f6087b0",
+          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
+          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T11:37:13.961000Z"
+        },
+        {
+          "id": "e0a2bfbc0f0e698215a4b9c07eedbd23690a7bed",
+          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出 / How 6 top CMOs are working to make their brands show up on AI platforms",
+          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-01T11:30:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9303,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-01T11:30:03Z",
+      "latest_at": "2026-07-01T11:37:13.961000Z",
+      "primary_item": {
+        "id": "7f09108332c3f152563b9977190761371f6087b0",
+        "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
+        "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
