@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-01T13:17:40.139899Z",
+  "generated_at": "2026-07-01T16:03:36.072983Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f01730200ce837d94b38965c3c2777684d4097db",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "3be2e29d2c534316e33c6ac6d10b1fec12a158f0",
           "title": "点击这里进入 / Click here to enter",
@@ -69,15 +78,6 @@
           "id": "42c5d7f581a3be27be43c91a333a214900baae32",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0418-144d-9ee7-07359580f54a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "006804d91e108744855e53f497c96f40abbb30ab",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0201-24dd-b12c-2ae3d16038ac&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,6 +90,15 @@
       ],
       "items": [
         {
+          "id": "f01730200ce837d94b38965c3c2777684d4097db",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "3be2e29d2c534316e33c6ac6d10b1fec12a158f0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
@@ -147,15 +156,6 @@
           "id": "42c5d7f581a3be27be43c91a333a214900baae32",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0418-144d-9ee7-07359580f54a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "006804d91e108744855e53f497c96f40abbb30ab",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0201-24dd-b12c-2ae3d16038ac&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -180,14 +180,255 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T16:00:55.022050Z",
-      "latest_at": "2026-07-01T13:17:40.139899Z",
+      "earliest_at": "2026-06-30T18:17:50.927744Z",
+      "latest_at": "2026-07-01T16:03:36.072983Z",
       "primary_item": {
-        "id": "3be2e29d2c534316e33c6ac6d10b1fec12a158f0",
+        "id": "f01730200ce837d94b38965c3c2777684d4097db",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2318-3669-919d-6923a686fc77&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_97b869cd06ee",
+      "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03e252234a3e401b08046b6006873441a064de2a",
+          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T15:13:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "03e252234a3e401b08046b6006873441a064de2a",
+          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T15:13:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.866,
+      "importance": 0.866,
+      "importance_score": 0.866,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9652,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T15:13:29Z",
+      "latest_at": "2026-07-01T15:13:29Z",
+      "primary_item": {
+        "id": "03e252234a3e401b08046b6006873441a064de2a",
+        "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a5e0446dad9d",
+      "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+      "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
+      "primary_url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
+      "source": "X：xAI (@xai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8d2df8b955da3822657647ec8b3b87acea7eaec",
+          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+          "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
+          "source": "X：xAI (@xai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T15:33:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：xAI (@xai)"
+      ],
+      "items": [
+        {
+          "id": "a8d2df8b955da3822657647ec8b3b87acea7eaec",
+          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+          "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
+          "source": "X：xAI (@xai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T15:33:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.979,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T15:33:21Z",
+      "latest_at": "2026-07-01T15:33:21Z",
+      "primary_item": {
+        "id": "a8d2df8b955da3822657647ec8b3b87acea7eaec",
+        "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+        "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
+        "source": "X：xAI (@xai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b4ac3b486eb5",
+      "title": "Meta效仿SpaceX，将过剩AI算力变现",
+      "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+      "primary_url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "768ef0c29a01b934e9e4fa3d5e3e664b85c7cc2a",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现",
+          "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:43:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "768ef0c29a01b934e9e4fa3d5e3e664b85c7cc2a",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现",
+          "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:43:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9024,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T13:43:07Z",
+      "latest_at": "2026-07-01T13:43:07Z",
+      "primary_item": {
+        "id": "768ef0c29a01b934e9e4fa3d5e3e664b85c7cc2a",
+        "title": "Meta效仿SpaceX，将过剩AI算力变现",
+        "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_46e4dad999dd",
+      "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
+      "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
+      "primary_url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "67db9480243182da29a50cabce5723cc000b73b8",
+          "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
+          "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "67db9480243182da29a50cabce5723cc000b73b8",
+          "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
+          "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8725,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T13:00:00Z",
+      "latest_at": "2026-07-01T13:00:00Z",
+      "primary_item": {
+        "id": "67db9480243182da29a50cabce5723cc000b73b8",
+        "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
+        "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -225,14 +466,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -285,14 +526,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.7501,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,14 +586,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.4461,
+        "recency": 0.3308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,6 +609,67 @@
         "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b7f49b2bc148",
+      "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "primary_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
+          "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
+          "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.3308,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T00:00:00Z",
+      "latest_at": "2026-07-01T00:00:00Z",
+      "primary_item": {
+        "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
+        "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -406,20 +708,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.6713,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T08:10:17Z",
       "latest_at": "2026-07-01T08:10:17Z",
@@ -466,20 +767,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7361,
+        "recency": 0.6209,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T06:57:42Z",
       "latest_at": "2026-07-01T06:57:42Z",
@@ -526,14 +826,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -549,66 +849,6 @@
         "url": "https://www.aibase.com/news/29302",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8654826289ec",
-      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2189,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T18:32:50Z",
-      "latest_at": "2026-06-30T18:32:50Z",
-      "primary_item": {
-        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -646,14 +886,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -725,17 +965,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
+      "score": 0.7047,
+      "importance": 0.7047,
+      "importance_score": 0.7047,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4537,
+        "recency": 0.3385,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -747,65 +987,6 @@
         "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
         "url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b5fb2f33306a",
-      "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-      "url": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
-      "primary_url": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
-      "source": "公众号：龙猫LongCat（美团）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ba8d759fb57552ec85505525e993d99c071e917c",
-          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-          "url": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
-          "source": "公众号：龙猫LongCat（美团）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T02:24:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：龙猫LongCat（美团）"
-      ],
-      "items": [
-        {
-          "id": "ba8d759fb57552ec85505525e993d99c071e917c",
-          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-          "url": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
-          "source": "公众号：龙猫LongCat（美团）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T02:24:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5461,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T02:24:00Z",
-      "latest_at": "2026-07-01T02:24:00Z",
-      "primary_item": {
-        "id": "ba8d759fb57552ec85505525e993d99c071e917c",
-        "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-        "url": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
-        "source": "公众号：龙猫LongCat（美团）",
         "source_name": "AI HOT"
       }
     },
@@ -844,14 +1025,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -904,14 +1085,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,14 +1145,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1024,14 +1205,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1084,14 +1265,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,187 +1291,30 @@
       }
     },
     {
-      "story_id": "story_fd9b9a3da8ea",
-      "title": "Godot 将不再接受 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
-      "url": "https://news.ycombinator.com/item?id=48743472",
-      "primary_url": "https://news.ycombinator.com/item?id=48743472",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "161772600e4eb163c035916f488fc8478abb0d74",
-          "title": "Godot 将不再接受 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
-          "url": "https://news.ycombinator.com/item?id=48743472",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-01T10:29:06.545000Z"
-        },
-        {
-          "id": "8c5d9eecd92fb76ee39cbc6d2f56a9fe82ea422b",
-          "title": "Godot 将不再接受由 AI 编写的代码贡献",
-          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
-          "source": "www.pcgamer.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T09:46:28.008000Z"
-        },
-        {
-          "id": "d3ed87b8a4d4da3abad1c894786e859ebeffaf2a",
-          "title": "Godot 将不再接受由 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
-          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T07:43:22Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.pcgamer.com"
-      ],
-      "items": [
-        {
-          "id": "161772600e4eb163c035916f488fc8478abb0d74",
-          "title": "Godot 将不再接受 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
-          "url": "https://news.ycombinator.com/item?id=48743472",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-01T10:29:06.545000Z"
-        },
-        {
-          "id": "8c5d9eecd92fb76ee39cbc6d2f56a9fe82ea422b",
-          "title": "Godot 将不再接受由 AI 编写的代码贡献",
-          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
-          "source": "www.pcgamer.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T09:46:28.008000Z"
-        },
-        {
-          "id": "d3ed87b8a4d4da3abad1c894786e859ebeffaf2a",
-          "title": "Godot 将不再接受由 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
-          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T07:43:22Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8829,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-01T07:43:22Z",
-      "latest_at": "2026-07-01T10:29:06.545000Z",
-      "primary_item": {
-        "id": "161772600e4eb163c035916f488fc8478abb0d74",
-        "title": "Godot 将不再接受 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
-        "url": "https://news.ycombinator.com/item?id=48743472",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c960043208f3",
-      "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
-      "url": "https://www.aibase.com/news/29309",
-      "primary_url": "https://www.aibase.com/news/29309",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "115ab113f808e24e8e2f6fd2d3a4c82becc71bfc",
-          "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
-          "url": "https://www.aibase.com/news/29309",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T10:28:31.855594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "115ab113f808e24e8e2f6fd2d3a4c82becc71bfc",
-          "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
-          "url": "https://www.aibase.com/news/29309",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T10:28:31.855594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8825,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T10:28:31.855594Z",
-      "latest_at": "2026-07-01T10:28:31.855594Z",
-      "primary_item": {
-        "id": "115ab113f808e24e8e2f6fd2d3a4c82becc71bfc",
-        "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
-        "url": "https://www.aibase.com/news/29309",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eb59fed03b0b",
-      "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+      "story_id": "story_7a756371d44b",
+      "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
       "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "de37f5915182c43471d547cde08277d1c96f448b",
-          "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "id": "f3c1da46e458a59fb2441a98875d35c3d2dac888",
+          "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-01T12:25:17.976000Z"
+          "published_at": "2026-07-01T15:05:20.471000Z"
         },
         {
-          "id": "4b386577dc6d8d9fb2d475aae3e95425933f6c18",
-          "title": "华尔街的人工智能竞赛正引发人们对交易过度拥挤的新担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "id": "9ff642bcadbd769bd1471144bbcbce1d9db90c74",
+          "title": "古根海姆表示人工智能并非该行业的“丧钟”，软件股应声上涨",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-01T10:17:07.146000Z"
+          "published_at": "2026-07-01T12:41:21.242000Z"
         }
       ],
       "source_count": 2,
@@ -1299,125 +1323,47 @@
       ],
       "items": [
         {
-          "id": "de37f5915182c43471d547cde08277d1c96f448b",
-          "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "id": "f3c1da46e458a59fb2441a98875d35c3d2dac888",
+          "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-01T12:25:17.976000Z"
+          "published_at": "2026-07-01T15:05:20.471000Z"
         },
         {
-          "id": "4b386577dc6d8d9fb2d475aae3e95425933f6c18",
-          "title": "华尔街的人工智能竞赛正引发人们对交易过度拥挤的新担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+          "id": "9ff642bcadbd769bd1471144bbcbce1d9db90c74",
+          "title": "古根海姆表示人工智能并非该行业的“丧钟”，软件股应声上涨",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-01T10:17:07.146000Z"
+          "published_at": "2026-07-01T12:41:21.242000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9636,
+        "recency": 0.9595,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-01T10:17:07.146000Z",
-      "latest_at": "2026-07-01T12:25:17.976000Z",
+      "earliest_at": "2026-07-01T12:41:21.242000Z",
+      "latest_at": "2026-07-01T15:05:20.471000Z",
       "primary_item": {
-        "id": "de37f5915182c43471d547cde08277d1c96f448b",
-        "title": "人工智能竞赛可能将交易优势的维持时间从七年缩短至18个月",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading",
+        "id": "f3c1da46e458a59fb2441a98875d35c3d2dac888",
+        "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
         "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_92ef2bf4967c",
-      "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
-      "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-      "primary_url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7f09108332c3f152563b9977190761371f6087b0",
-          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
-          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T11:37:13.961000Z"
-        },
-        {
-          "id": "e0a2bfbc0f0e698215a4b9c07eedbd23690a7bed",
-          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出 / How 6 top CMOs are working to make their brands show up on AI platforms",
-          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T11:30:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7f09108332c3f152563b9977190761371f6087b0",
-          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
-          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T11:37:13.961000Z"
-        },
-        {
-          "id": "e0a2bfbc0f0e698215a4b9c07eedbd23690a7bed",
-          "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出 / How 6 top CMOs are working to make their brands show up on AI platforms",
-          "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T11:30:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9303,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-01T11:30:03Z",
-      "latest_at": "2026-07-01T11:37:13.961000Z",
-      "primary_item": {
-        "id": "7f09108332c3f152563b9977190761371f6087b0",
-        "title": "6位顶尖首席营销官如何努力让旗下品牌在AI平台上脱颖而出",
-        "url": "https://www.businessinsider.com/how-coach-american-eagle-cmos-stand-out-ai-platforms-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
