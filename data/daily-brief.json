@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-01T16:03:36.072983Z",
+  "generated_at": "2026-07-01T18:22:57.977479Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0423-23f5-b51a-c7dfe3d738f1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-0423-23f5-b51a-c7dfe3d738f1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b281fe01382137ae779b1e30f01f3dfa96cf8b4b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0423-23f5-b51a-c7dfe3d738f1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f01730200ce837d94b38965c3c2777684d4097db",
           "title": "点击这里进入 / Click here to enter",
@@ -69,15 +78,6 @@
           "id": "0f455687f36c6e882469c51f8f810b125f4da76e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0627-39fe-b200-abd26f5e726f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "42c5d7f581a3be27be43c91a333a214900baae32",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0418-144d-9ee7-07359580f54a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,6 +90,15 @@
       ],
       "items": [
         {
+          "id": "b281fe01382137ae779b1e30f01f3dfa96cf8b4b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0423-23f5-b51a-c7dfe3d738f1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f01730200ce837d94b38965c3c2777684d4097db",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
@@ -147,15 +156,6 @@
           "id": "0f455687f36c6e882469c51f8f810b125f4da76e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0627-39fe-b200-abd26f5e726f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "42c5d7f581a3be27be43c91a333a214900baae32",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0418-144d-9ee7-07359580f54a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -180,14 +180,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T18:17:50.927744Z",
-      "latest_at": "2026-07-01T16:03:36.072983Z",
+      "earliest_at": "2026-06-30T20:27:13.626772Z",
+      "latest_at": "2026-07-01T18:22:57.977479Z",
       "primary_item": {
-        "id": "f01730200ce837d94b38965c3c2777684d4097db",
+        "id": "b281fe01382137ae779b1e30f01f3dfa96cf8b4b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0204-021b-8d04-1717191d2b9d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0423-23f5-b51a-c7dfe3d738f1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_f1e729411b90",
+      "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
+          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T16:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
+          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T16:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8533,
+      "importance": 0.8533,
+      "importance_score": 0.8533,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9014,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T16:01:00Z",
+      "latest_at": "2026-07-01T16:01:00Z",
+      "primary_item": {
+        "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
+        "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+        "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -225,14 +286,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9652,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,6 +310,186 @@
         "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_11de285e789d",
+      "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+      "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
+      "primary_url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "120150836dc897cf812671c8d064bf23c16dd65b",
+          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+          "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T17:17:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "120150836dc897cf812671c8d064bf23c16dd65b",
+          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+          "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T17:17:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9548,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T17:17:56Z",
+      "latest_at": "2026-07-01T17:17:56Z",
+      "primary_item": {
+        "id": "120150836dc897cf812671c8d064bf23c16dd65b",
+        "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+        "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_960a649c449e",
+      "title": "Meta 大规模 AI 存储蓝图",
+      "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
+      "primary_url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
+      "source": "Meta Engineering Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba1513ec9a28410b1cc60c037c37c7d7d9ec1a6e",
+          "title": "Meta 大规模 AI 存储蓝图",
+          "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T16:00:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Meta Engineering Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ba1513ec9a28410b1cc60c037c37c7d7d9ec1a6e",
+          "title": "Meta 大规模 AI 存储蓝图",
+          "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T16:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9011,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T16:00:36Z",
+      "latest_at": "2026-07-01T16:00:36Z",
+      "primary_item": {
+        "id": "ba1513ec9a28410b1cc60c037c37c7d7d9ec1a6e",
+        "title": "Meta 大规模 AI 存储蓝图",
+        "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
+        "source": "Meta Engineering Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bbba721a4561",
+      "title": "智谱推出GLM-5.2官方开发环境ZCode",
+      "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
+      "primary_url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f14a7d7d0e8ed409e01d0794d639fa440f2144c",
+          "title": "智谱推出GLM-5.2官方开发环境ZCode",
+          "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T15:59:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：智谱 Z.ai (@Zai_org)"
+      ],
+      "items": [
+        {
+          "id": "0f14a7d7d0e8ed409e01d0794d639fa440f2144c",
+          "title": "智谱推出GLM-5.2官方开发环境ZCode",
+          "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T15:59:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9006,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T15:59:46Z",
+      "latest_at": "2026-07-01T15:59:46Z",
+      "primary_item": {
+        "id": "0f14a7d7d0e8ed409e01d0794d639fa440f2144c",
+        "title": "智谱推出GLM-5.2官方开发环境ZCode",
+        "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
+        "source": "X：智谱 Z.ai (@Zai_org)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -286,14 +527,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.8822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,14 +587,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.8057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -406,14 +647,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8725,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -466,20 +707,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:28:31.855594Z",
       "latest_at": "2026-07-01T10:28:31.855594Z",
@@ -526,20 +766,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7501,
+        "recency": 0.6533,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:03:41Z",
       "latest_at": "2026-07-01T10:03:41Z",
@@ -586,21 +825,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3308,
+        "recency": 0.2341,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T00:00:00Z",
       "latest_at": "2026-07-01T00:00:00Z",
@@ -647,21 +885,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3308,
+        "recency": 0.2341,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T00:00:00Z",
       "latest_at": "2026-07-01T00:00:00Z",
@@ -708,14 +945,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6713,
+        "recency": 0.5745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,65 +966,6 @@
         "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
         "url": "https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a73d30e6ea02",
-      "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
-      "url": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-      "primary_url": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f3dbf06d07f71bbb78bf05a5072aefca039665c0",
-          "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
-          "url": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T06:57:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f3dbf06d07f71bbb78bf05a5072aefca039665c0",
-          "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
-          "url": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T06:57:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6209,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T06:57:42Z",
-      "latest_at": "2026-07-01T06:57:42Z",
-      "primary_item": {
-        "id": "f3dbf06d07f71bbb78bf05a5072aefca039665c0",
-        "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
-        "url": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -826,20 +1004,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:28:31.855594Z",
       "latest_at": "2026-07-01T10:28:31.855594Z",
@@ -886,20 +1063,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:28:31.855594Z",
       "latest_at": "2026-07-01T10:28:31.855594Z",
@@ -965,14 +1141,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7047,
-      "importance": 0.7047,
-      "importance_score": 0.7047,
+      "score": 0.6853,
+      "importance": 0.6853,
+      "importance_score": 0.6853,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3385,
+        "recency": 0.2417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1025,20 +1201,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:28:31.855594Z",
       "latest_at": "2026-07-01T10:28:31.855594Z",
@@ -1085,20 +1260,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:28:31.855594Z",
       "latest_at": "2026-07-01T10:28:31.855594Z",
@@ -1145,20 +1319,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T10:28:31.855594Z",
       "latest_at": "2026-07-01T10:28:31.855594Z",
@@ -1168,203 +1341,6 @@
         "url": "https://www.aibase.com/news/29304",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1d4e417744f0",
-      "title": "性能提升超两倍：英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型",
-      "url": "https://www.aibase.com/news/29312",
-      "primary_url": "https://www.aibase.com/news/29312",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e5cb7c3d924ccc24361cc522873a5680545fc496",
-          "title": "性能提升超两倍：英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型",
-          "url": "https://www.aibase.com/news/29312",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T10:28:31.855594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e5cb7c3d924ccc24361cc522873a5680545fc496",
-          "title": "性能提升超两倍：英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型",
-          "url": "https://www.aibase.com/news/29312",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T10:28:31.855594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T10:28:31.855594Z",
-      "latest_at": "2026-07-01T10:28:31.855594Z",
-      "primary_item": {
-        "id": "e5cb7c3d924ccc24361cc522873a5680545fc496",
-        "title": "性能提升超两倍：英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型",
-        "url": "https://www.aibase.com/news/29312",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_43015edb537d",
-      "title": "英国AI巨头Wayve启动 8500 万美元员工套现计划，估值飙升至 85 亿美元",
-      "url": "https://www.aibase.com/news/29305",
-      "primary_url": "https://www.aibase.com/news/29305",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7fa10b7bdc31f0eca824ee034c7cab72cb570f0",
-          "title": "英国AI巨头Wayve启动 8500 万美元员工套现计划，估值飙升至 85 亿美元",
-          "url": "https://www.aibase.com/news/29305",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T10:28:31.855594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b7fa10b7bdc31f0eca824ee034c7cab72cb570f0",
-          "title": "英国AI巨头Wayve启动 8500 万美元员工套现计划，估值飙升至 85 亿美元",
-          "url": "https://www.aibase.com/news/29305",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T10:28:31.855594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T10:28:31.855594Z",
-      "latest_at": "2026-07-01T10:28:31.855594Z",
-      "primary_item": {
-        "id": "b7fa10b7bdc31f0eca824ee034c7cab72cb570f0",
-        "title": "英国AI巨头Wayve启动 8500 万美元员工套现计划，估值飙升至 85 亿美元",
-        "url": "https://www.aibase.com/news/29305",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7a756371d44b",
-      "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3c1da46e458a59fb2441a98875d35c3d2dac888",
-          "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T15:05:20.471000Z"
-        },
-        {
-          "id": "9ff642bcadbd769bd1471144bbcbce1d9db90c74",
-          "title": "古根海姆表示人工智能并非该行业的“丧钟”，软件股应声上涨",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T12:41:21.242000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f3c1da46e458a59fb2441a98875d35c3d2dac888",
-          "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T15:05:20.471000Z"
-        },
-        {
-          "id": "9ff642bcadbd769bd1471144bbcbce1d9db90c74",
-          "title": "古根海姆表示人工智能并非该行业的“丧钟”，软件股应声上涨",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T12:41:21.242000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9595,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-01T12:41:21.242000Z",
-      "latest_at": "2026-07-01T15:05:20.471000Z",
-      "primary_item": {
-        "id": "f3c1da46e458a59fb2441a98875d35c3d2dac888",
-        "title": "古根海姆表示AI不会成为任何行业的“丧钟”，软件股应声上涨",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-01/software-gains-as-guggenheim-says-ai-no-death-knell-for-sector",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
