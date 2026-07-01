@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-01T21:58:23.004778Z",
+  "generated_at": "2026-07-01T23:18:21.279485Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0800-4088-9b45-caa4eb99ab95&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-0800-4088-9b45-caa4eb99ab95&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "8f31da32fb2b80bcf7a5812e12884d58f98d827a",
           "title": "点击这里进入 / Click here to enter",
@@ -69,15 +78,6 @@
           "id": "3125e97c0116ab5039c34d2d228302db4c3a45c7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1621-34a6-972b-0b4f6fc0341e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "435f10c1c7455d55bba970c7e6750b61fa69ce87",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0907-2225-ac20-a1740f0f55df&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,6 +90,15 @@
       ],
       "items": [
         {
+          "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "8f31da32fb2b80bcf7a5812e12884d58f98d827a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0800-4088-9b45-caa4eb99ab95&fp=-3",
@@ -147,15 +156,6 @@
           "id": "3125e97c0116ab5039c34d2d228302db4c3a45c7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1621-34a6-972b-0b4f6fc0341e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "435f10c1c7455d55bba970c7e6750b61fa69ce87",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0907-2225-ac20-a1740f0f55df&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -180,14 +180,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T23:06:55.607031Z",
-      "latest_at": "2026-07-01T21:58:23.004778Z",
+      "earliest_at": "2026-07-01T06:21:00.965589Z",
+      "latest_at": "2026-07-01T23:18:21.279485Z",
       "primary_item": {
-        "id": "8f31da32fb2b80bcf7a5812e12884d58f98d827a",
+        "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0800-4088-9b45-caa4eb99ab95&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_3aa6eba89386",
+      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T22:27:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T22:27:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9645,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T22:27:16Z",
+      "latest_at": "2026-07-01T22:27:16Z",
+      "primary_item": {
+        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -225,14 +286,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.8611,
-      "importance_score": 0.8611,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9406,
+        "recency": 0.8851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -247,67 +308,6 @@
         "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
         "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
         "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_774ebb0256c8",
-      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8617,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T18:39:17Z",
-      "latest_at": "2026-07-01T18:39:17Z",
-      "primary_item": {
-        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -347,14 +347,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -373,21 +373,21 @@
       }
     },
     {
-      "story_id": "story_f7b1eaa8826e",
-      "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "story_id": "story_87c518803758",
+      "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
+      "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
+      "primary_url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
+          "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
+          "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
+          "published_at": "2026-07-01T21:30:20Z"
         }
       ],
       "source_count": 1,
@@ -396,25 +396,25 @@
       ],
       "items": [
         {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
+          "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
+          "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
+          "published_at": "2026-07-01T21:30:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8764,
+        "ai_relevance": 0.87,
+        "recency": 0.925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -423,12 +423,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T19:00:21Z",
-      "latest_at": "2026-07-01T19:00:21Z",
+      "earliest_at": "2026-07-01T21:30:20Z",
+      "latest_at": "2026-07-01T21:30:20Z",
       "primary_item": {
-        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-        "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+        "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
+        "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
+        "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -468,14 +468,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,6 +491,67 @@
         "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
         "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_774ebb0256c8",
+      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:39:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:39:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8062,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T18:39:17Z",
+      "latest_at": "2026-07-01T18:39:17Z",
+      "primary_item": {
+        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -528,14 +589,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7515,
+        "recency": 0.696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,14 +649,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.6954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,20 +709,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7326,
+        "recency": 0.6771,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T15:33:21Z",
       "latest_at": "2026-07-01T15:33:21Z",
@@ -671,67 +731,6 @@
         "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
         "source": "X：xAI (@xai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bfcd7a3f6d8e",
-      "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-      "primary_url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:33:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:33:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8577,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T18:33:24Z",
-      "latest_at": "2026-07-01T18:33:24Z",
-      "primary_item": {
-        "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-        "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-        "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -769,14 +768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6561,
+        "recency": 0.6005,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,14 +827,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6261,
+        "recency": 0.5706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,6 +849,67 @@
         "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
         "source": "Cloudflare Blog",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d81a3ed8ca63",
+      "title": "秘密扫描添加了 Asana、IBM 和 MessageBird 的验证器 / Secret scanning adds validators for Asana, IBM, and MessageBird",
+      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+      "primary_url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f62ad2e4d4e4a11a95ae553a18a31aca934c8005",
+          "title": "秘密扫描添加了 Asana、IBM 和 MessageBird 的验证器 / Secret scanning adds validators for Asana, IBM, and MessageBird",
+          "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:49:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f62ad2e4d4e4a11a95ae553a18a31aca934c8005",
+          "title": "秘密扫描添加了 Asana、IBM 和 MessageBird 的验证器 / Secret scanning adds validators for Asana, IBM, and MessageBird",
+          "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:49:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:49:41Z",
+      "latest_at": "2026-07-01T20:49:41Z",
+      "primary_item": {
+        "id": "f62ad2e4d4e4a11a95ae553a18a31aca934c8005",
+        "title": "秘密扫描添加了 Asana、IBM 和 MessageBird 的验证器 / Secret scanning adds validators for Asana, IBM, and MessageBird",
+        "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -906,14 +966,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7068,
-      "importance": 0.7068,
-      "importance_score": 0.7068,
+      "score": 0.6957,
+      "importance": 0.6957,
+      "importance_score": 0.6957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3491,
+        "recency": 0.2935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -932,21 +992,21 @@
       }
     },
     {
-      "story_id": "story_f1e729411b90",
-      "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+      "story_id": "story_76b510f3d3c5",
+      "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
+      "primary_url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
-          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "id": "349db1f72311c5884c89ea0acb8669990a340b11",
+          "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+          "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T16:01:00Z"
+          "published_at": "2026-07-01T20:37:55Z"
         }
       ],
       "source_count": 1,
@@ -955,25 +1015,25 @@
       ],
       "items": [
         {
-          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
-          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "id": "349db1f72311c5884c89ea0acb8669990a340b11",
+          "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+          "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T16:01:00Z"
+          "published_at": "2026-07-01T20:37:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7518,
+        "ai_relevance": 0.87,
+        "recency": 0.8886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -982,32 +1042,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T16:01:00Z",
-      "latest_at": "2026-07-01T16:01:00Z",
+      "earliest_at": "2026-07-01T20:37:55Z",
+      "latest_at": "2026-07-01T20:37:55Z",
       "primary_item": {
-        "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
-        "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-        "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+        "id": "349db1f72311c5884c89ea0acb8669990a340b11",
+        "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+        "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_97b869cd06ee",
-      "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "story_id": "story_f7b1eaa8826e",
+      "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "03e252234a3e401b08046b6006873441a064de2a",
-          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T15:13:29Z"
+          "published_at": "2026-07-01T19:00:21Z"
         }
       ],
       "source_count": 1,
@@ -1016,25 +1076,25 @@
       ],
       "items": [
         {
-          "id": "03e252234a3e401b08046b6006873441a064de2a",
-          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T15:13:29Z"
+          "published_at": "2026-07-01T19:00:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7188,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1043,12 +1103,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T15:13:29Z",
-      "latest_at": "2026-07-01T15:13:29Z",
+      "earliest_at": "2026-07-01T19:00:21Z",
+      "latest_at": "2026-07-01T19:00:21Z",
       "primary_item": {
-        "id": "03e252234a3e401b08046b6006873441a064de2a",
-        "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+        "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1107,14 +1167,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6554,
-      "importance": 0.6554,
-      "importance_score": 0.6554,
+      "score": 0.6443,
+      "importance": 0.6443,
+      "importance_score": 0.6443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0921,
+        "recency": 0.0366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1186,14 +1246,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6675,
-      "importance": 0.6675,
-      "importance_score": 0.6675,
+      "score": 0.6564,
+      "importance": 0.6564,
+      "importance_score": 0.6564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1527,
+        "recency": 0.0972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1209,6 +1269,67 @@
         "url": "https://www.aibase.com/news/29278",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bfcd7a3f6d8e",
+      "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "primary_url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:33:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:33:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8021,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T18:33:24Z",
+      "latest_at": "2026-07-01T18:33:24Z",
+      "primary_item": {
+        "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+        "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+        "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1265,14 +1386,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6675,
-      "importance": 0.6675,
-      "importance_score": 0.6675,
+      "score": 0.6564,
+      "importance": 0.6564,
+      "importance_score": 0.6564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1527,
+        "recency": 0.0972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1288,200 +1409,6 @@
         "url": "https://www.aibase.com/news/29281",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea1941e76b83",
-      "title": "ZCode：来自GLM开发团队的Claude Code",
-      "url": "https://zcode.z.ai/cn",
-      "primary_url": "https://zcode.z.ai/cn",
-      "source": "zcode.z.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ff36f664f80f0be461dce456827153252d9eed76",
-          "title": "ZCode：来自GLM开发团队的Claude Code",
-          "url": "https://zcode.z.ai/cn",
-          "source": "zcode.z.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T20:08:15.376000Z"
-        },
-        {
-          "id": "72d5c74f252a448ca42e7795284f76243a1e8350",
-          "title": "ZCode：GLM 制作者的 Claude 代码 / ZCode: Claude Code from the Makers of GLM",
-          "url": "https://news.ycombinator.com/item?id=48751752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-01T20:06:05.831000Z"
-        },
-        {
-          "id": "bee6cf719a483820e763e354735b1b71d157001e",
-          "title": "ZCode：来自GLM开发团队的Claude Code / ZCode: Claude Code from the Makers of GLM",
-          "url": "https://zcode.z.ai/cn",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T19:11:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "zcode.z.ai"
-      ],
-      "items": [
-        {
-          "id": "ff36f664f80f0be461dce456827153252d9eed76",
-          "title": "ZCode：来自GLM开发团队的Claude Code",
-          "url": "https://zcode.z.ai/cn",
-          "source": "zcode.z.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-01T20:08:15.376000Z"
-        },
-        {
-          "id": "72d5c74f252a448ca42e7795284f76243a1e8350",
-          "title": "ZCode：GLM 制作者的 Claude 代码 / ZCode: Claude Code from the Makers of GLM",
-          "url": "https://news.ycombinator.com/item?id=48751752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-01T20:06:05.831000Z"
-        },
-        {
-          "id": "bee6cf719a483820e763e354735b1b71d157001e",
-          "title": "ZCode：来自GLM开发团队的Claude Code / ZCode: Claude Code from the Makers of GLM",
-          "url": "https://zcode.z.ai/cn",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T19:11:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5577,
-      "importance": 0.5577,
-      "importance_score": 0.5577,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9235,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-01T19:11:38Z",
-      "latest_at": "2026-07-01T20:08:15.376000Z",
-      "primary_item": {
-        "id": "ff36f664f80f0be461dce456827153252d9eed76",
-        "title": "ZCode：来自GLM开发团队的Claude Code",
-        "url": "https://zcode.z.ai/cn",
-        "source": "zcode.z.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d75a91f4b240",
-      "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，将于 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://news.ycombinator.com/item?id=48750989",
-      "primary_url": "https://news.ycombinator.com/item?id=48750989",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3934429e7b3813616e69ab647c21205417bf4510",
-          "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，将于 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-          "url": "https://news.ycombinator.com/item?id=48750989",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-01T20:06:05.831000Z"
-        },
-        {
-          "id": "cdd7ca2d456a06507e903d4a8361259e2e448a23",
-          "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，将于 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-          "url": "https://www.weaverobotics.com/isaac-1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-01T18:12:18Z"
-        },
-        {
-          "id": "d6373c514910451445dac5d15a37cf34dffbd6e1",
-          "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，预计 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
-          "url": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T18:12:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3934429e7b3813616e69ab647c21205417bf4510",
-          "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，将于 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-          "url": "https://news.ycombinator.com/item?id=48750989",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-01T20:06:05.831000Z"
-        },
-        {
-          "id": "cdd7ca2d456a06507e903d4a8361259e2e448a23",
-          "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，将于 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-          "url": "https://www.weaverobotics.com/isaac-1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-01T18:12:18Z"
-        },
-        {
-          "id": "d6373c514910451445dac5d15a37cf34dffbd6e1",
-          "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，预计 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
-          "url": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-01T18:12:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.922,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-01T18:12:18Z",
-      "latest_at": "2026-07-01T20:06:05.831000Z",
-      "primary_item": {
-        "id": "3934429e7b3813616e69ab647c21205417bf4510",
-        "title": "Weave Robotics 推出 Isaac 1，这是一款售价 7,999 美元的家用机器人，将于 2026 年秋季交付 / Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-        "url": "https://news.ycombinator.com/item?id=48750989",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
