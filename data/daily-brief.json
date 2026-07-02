@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T22:02:25.466573Z",
+  "generated_at": "2026-07-02T23:35:10.150531Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
@@ -183,15 +192,6 @@
           "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,14 +216,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T23:18:21.279485Z",
-      "latest_at": "2026-07-02T22:02:25.466573Z",
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T23:35:10.150531Z",
       "primary_item": {
-        "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
+        "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_95944acec510",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8691,
+      "importance": 0.8691,
+      "importance_score": 0.8691,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9805,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:07:06Z",
+      "latest_at": "2026-07-02T23:07:06Z",
+      "primary_item": {
+        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -261,14 +322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9327,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,67 +344,6 @@
         "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
         "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
         "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1bf7e1ec92fc",
-      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8352,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T18:05:05Z",
-      "latest_at": "2026-07-02T18:05:05Z",
-      "primary_item": {
-        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -383,14 +383,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,14 +443,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.8673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,14 +503,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8862,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -563,14 +563,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.858,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,6 +586,67 @@
         "url": "https://aihot.virxact.com/items/cmr3uklx8008dslbrcmev44qb",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1bf7e1ec92fc",
+      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T18:05:05Z",
+      "latest_at": "2026-07-02T18:05:05Z",
+      "primary_item": {
+        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -623,14 +684,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.834,
+        "recency": 0.7696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,14 +744,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,14 +804,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7656,
+        "recency": 0.7012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,20 +864,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7321,
+        "recency": 0.6677,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T15:36:38Z",
       "latest_at": "2026-07-02T15:36:38Z",
@@ -826,67 +886,6 @@
         "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2153c74c2c67",
-      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7489,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T16:00:51Z",
-      "latest_at": "2026-07-02T16:00:51Z",
-      "primary_item": {
-        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -943,17 +942,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
-      "importance_label": "行业动态",
+      "score": 0.7137,
+      "importance": 0.7137,
+      "importance_score": 0.7137,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4481,
+        "recency": 0.3837,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -969,180 +968,64 @@
       }
     },
     {
-      "story_id": "story_12dca60d063e",
-      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-      "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-      "primary_url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
+      "story_id": "story_2153c74c2c67",
+      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
+          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
+          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T16:00:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
+          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
+          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T16:00:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5629,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6845,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T11:33:01Z",
-      "latest_at": "2026-07-02T11:33:01Z",
+      "earliest_at": "2026-07-02T16:00:51Z",
+      "latest_at": "2026-07-02T16:00:51Z",
       "primary_item": {
-        "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b5afe5ee83db",
-      "title": "谷歌AI建设导致2025年用电量增长37%",
-      "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-      "primary_url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
-          "title": "谷歌AI建设导致2025年用电量增长37%",
-          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:15:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
-          "title": "谷歌AI建设导致2025年用电量增长37%",
-          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:15:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.551,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:15:49Z",
-      "latest_at": "2026-07-02T11:15:49Z",
-      "primary_item": {
-        "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
-        "title": "谷歌AI建设导致2025年用电量增长37%",
-        "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e9ecfa08048",
-      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-      "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
-      "primary_url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
-          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-          "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:04:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
-          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-          "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:04:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5428,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:04:07Z",
-      "latest_at": "2026-07-02T11:04:07Z",
-      "primary_item": {
-        "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
-        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-        "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
+        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1180,14 +1063,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6808,
+        "recency": 0.6164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,14 +1122,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6079,
+        "recency": 0.5435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,121 +1147,317 @@
       }
     },
     {
-      "story_id": "story_90ddcf143e5b",
-      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-      "url": "https://www.aibase.com/news/29346",
-      "primary_url": "https://www.aibase.com/news/29346",
+      "story_id": "story_23943ea3b649",
+      "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+      "url": "https://www.aibase.com/news/29315",
+      "primary_url": "https://www.aibase.com/news/29315",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
+          "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/news/29315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T11:29:34.008922Z"
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "45a52d4bd8c4947cdf2091dc15d42d232576fa66",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/zh/news/29315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
+          "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/news/29315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T11:29:34.008922Z"
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "45a52d4bd8c4947cdf2091dc15d42d232576fa66",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/zh/news/29315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.653,
+      "importance": 0.653,
+      "importance_score": 0.653,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5605,
-        "story_heat": 0.0
+        "recency": 0.0802,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T11:29:34.008922Z",
-      "latest_at": "2026-07-02T11:29:34.008922Z",
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
       "primary_item": {
-        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-        "url": "https://www.aibase.com/news/29346",
+        "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
+        "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+        "url": "https://www.aibase.com/news/29315",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_41cf2f9ed76c",
-      "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-      "url": "https://www.aibase.com/news/29347",
-      "primary_url": "https://www.aibase.com/news/29347",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_155ea32414b0",
+      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-          "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-          "url": "https://www.aibase.com/news/29347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:29:34.008922Z"
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-          "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-          "url": "https://www.aibase.com/news/29347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:29:34.008922Z"
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.3626,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T08:17:17Z",
+      "latest_at": "2026-07-02T08:17:17Z",
+      "primary_item": {
+        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4bba18808fc8",
+      "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+      "url": "https://www.aibase.com/news/29314",
+      "primary_url": "https://www.aibase.com/news/29314",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/news/29314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "fcd4bdc0e3f246cb06182e6c21f4d945f2ac6977",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/zh/news/29314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/news/29314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "fcd4bdc0e3f246cb06182e6c21f4d945f2ac6977",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/zh/news/29314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.653,
+      "importance": 0.653,
+      "importance_score": 0.653,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5605,
-        "story_heat": 0.0
+        "recency": 0.0802,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T11:29:34.008922Z",
-      "latest_at": "2026-07-02T11:29:34.008922Z",
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
       "primary_item": {
-        "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-        "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-        "url": "https://www.aibase.com/news/29347",
+        "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
+        "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+        "url": "https://www.aibase.com/news/29314",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8e25decb970b",
+      "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+      "primary_url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
+          "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T23:20:11.269000Z"
+        },
+        {
+          "id": "ac75f6d9bab04dab26a5e88cb538bfa9224deeac",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期 / Zuckerberg says AI agent development going slower than expected",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-02T20:38:06Z"
+        },
+        {
+          "id": "c881781b4d2af277b8616059f286f2dde9c50112",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T20:24:26.706000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
+          "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T23:20:11.269000Z"
+        },
+        {
+          "id": "ac75f6d9bab04dab26a5e88cb538bfa9224deeac",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期 / Zuckerberg says AI agent development going slower than expected",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-02T20:38:06Z"
+        },
+        {
+          "id": "c881781b4d2af277b8616059f286f2dde9c50112",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T20:24:26.706000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9896,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T20:24:26.706000Z",
+      "latest_at": "2026-07-02T23:20:11.269000Z",
+      "primary_item": {
+        "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
+        "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     }
   ]
