@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T13:19:23.434374Z",
+  "generated_at": "2026-07-02T15:39:15.379802Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2319-518a-8fee-1d93ce4af516&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-2319-518a-8fee-1d93ce4af516&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0139-405c-b54b-1a5184519d86&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0139-405c-b54b-1a5184519d86&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f5fc804a4b3f0cf215374b80b2d4bdf2dcd93fd1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0139-405c-b54b-1a5184519d86&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "87c5cf0181d4a0bd697d1550e4d25a87410819ea",
           "title": "点击这里进入 / Click here to enter",
@@ -102,12 +111,21 @@
           "published_at": null
         }
       ],
-      "source_count": 10,
+      "source_count": 11,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "f5fc804a4b3f0cf215374b80b2d4bdf2dcd93fd1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0139-405c-b54b-1a5184519d86&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "87c5cf0181d4a0bd697d1550e4d25a87410819ea",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2319-518a-8fee-1d93ce4af516&fp=-3",
@@ -198,8 +216,8 @@
           "published_at": null
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
+      "item_count": 11,
+      "duplicate_count": 11,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -217,13 +235,73 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-01T16:03:36.072983Z",
-      "latest_at": "2026-07-02T13:19:23.434374Z",
+      "latest_at": "2026-07-02T15:39:15.379802Z",
       "primary_item": {
-        "id": "87c5cf0181d4a0bd697d1550e4d25a87410819ea",
+        "id": "f5fc804a4b3f0cf215374b80b2d4bdf2dcd93fd1",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2319-518a-8fee-1d93ce4af516&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0139-405c-b54b-1a5184519d86&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_a209015f6304",
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+      "primary_url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9469,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T14:22:49Z",
+      "latest_at": "2026-07-02T14:22:49Z",
+      "primary_item": {
+        "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
+        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+        "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -261,14 +339,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7902,
+        "recency": 0.6931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,14 +400,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -401,14 +479,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.7142,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,14 +540,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -522,14 +600,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,14 +660,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,14 +720,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8769,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,66 +742,6 @@
         "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
         "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
         "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_918d69cad999",
-      "title": "证监会同意宇树科技科创板 IPO 注册申请",
-      "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
-      "primary_url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8272,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T09:10:36Z",
-      "latest_at": "2026-07-02T09:10:36Z",
-      "primary_item": {
-        "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
-        "title": "证监会同意宇树科技科创板 IPO 注册申请",
-        "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -762,14 +780,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8108,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -822,14 +840,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,20 +900,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7637,
+        "recency": 0.6666,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T07:39:07Z",
       "latest_at": "2026-07-02T07:39:07Z",
@@ -904,6 +921,66 @@
         "title": "OpenAI提议美国政府持股5%估值426亿美元",
         "url": "https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r",
         "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_918d69cad999",
+      "title": "证监会同意宇树科技科创板 IPO 注册申请",
+      "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+      "primary_url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
+          "title": "证监会同意宇树科技科创板 IPO 注册申请",
+          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T09:10:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
+          "title": "证监会同意宇树科技科创板 IPO 注册申请",
+          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T09:10:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7301,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T09:10:36Z",
+      "latest_at": "2026-07-02T09:10:36Z",
+      "primary_item": {
+        "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
+        "title": "证监会同意宇树科技科创板 IPO 注册申请",
+        "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -942,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7955,
+        "recency": 0.6984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,14 +1079,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,125 +1102,6 @@
         "url": "https://www.aibase.com/news/29347",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f8d42fe52087",
-      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-      "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-      "primary_url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
-          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-          "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:53:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
-          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-          "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:53:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5653,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T02:53:26Z",
-      "latest_at": "2026-07-02T02:53:26Z",
-      "primary_item": {
-        "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
-        "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-        "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3aa6eba89386",
-      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3805,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T22:27:16Z",
-      "latest_at": "2026-07-01T22:27:16Z",
-      "primary_item": {
-        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1181,14 +1139,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1204,125 +1162,6 @@
         "url": "https://www.aibase.com/news/29345",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bca47441364f",
-      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-      "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-      "primary_url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5637,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T02:51:10Z",
-      "latest_at": "2026-07-02T02:51:10Z",
-      "primary_item": {
-        "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
-        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-        "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0818b7e36264",
-      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.301,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T20:32:52Z",
-      "latest_at": "2026-07-01T20:32:52Z",
-      "primary_item": {
-        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1360,14 +1199,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1383,6 +1222,223 @@
         "url": "https://www.aibase.com/news/29343",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_24bc8df62c78",
+      "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+      "url": "https://www.aibase.com/news/29344",
+      "primary_url": "https://www.aibase.com/news/29344",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
+          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+          "url": "https://www.aibase.com/news/29344",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:47:38.005478Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
+          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+          "url": "https://www.aibase.com/news/29344",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:47:38.005478Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:47:38.005478Z",
+      "latest_at": "2026-07-02T08:47:38.005478Z",
+      "primary_item": {
+        "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
+        "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+        "url": "https://www.aibase.com/news/29344",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_101c33e5f552",
+      "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
+      "url": "https://www.aibase.com/news/29339",
+      "primary_url": "https://www.aibase.com/news/29339",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
+          "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
+          "url": "https://www.aibase.com/news/29339",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:47:38.005478Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
+          "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
+          "url": "https://www.aibase.com/news/29339",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:47:38.005478Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:47:38.005478Z",
+      "latest_at": "2026-07-02T08:47:38.005478Z",
+      "primary_item": {
+        "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
+        "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
+        "url": "https://www.aibase.com/news/29339",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e30a02c92b66",
+      "title": "一篇关于AI假新闻的文章，抱怨AI假新闻正在扼杀真实新闻",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+      "primary_url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+      "source": "www.niemanlab.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "14a82fd4fc3c2f778836d29376935fa611e78801",
+          "title": "一篇关于AI假新闻的文章，抱怨AI假新闻正在扼杀真实新闻",
+          "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+          "source": "www.niemanlab.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T14:48:16.029000Z"
+        },
+        {
+          "id": "aaac076572ce59235dcab78d7251aa8e53adf5f5",
+          "title": "AI假新闻抱怨AI假新闻如何导致真实新闻的死亡 / AI fake news complaining about how AI fake news is the death of real news",
+          "url": "https://news.ycombinator.com/item?id=48760598",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T13:19:55.221000Z"
+        },
+        {
+          "id": "f155e8cc849ae7e232d81aca51eda04591ebaf90",
+          "title": "一篇关于AI假新闻的文章，抱怨AI假新闻正在扼杀真实新闻 / AI fake news complaining about how AI fake news is the death of real news",
+          "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T12:40:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.niemanlab.org"
+      ],
+      "items": [
+        {
+          "id": "14a82fd4fc3c2f778836d29376935fa611e78801",
+          "title": "一篇关于AI假新闻的文章，抱怨AI假新闻正在扼杀真实新闻",
+          "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+          "source": "www.niemanlab.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T14:48:16.029000Z"
+        },
+        {
+          "id": "aaac076572ce59235dcab78d7251aa8e53adf5f5",
+          "title": "AI假新闻抱怨AI假新闻如何导致真实新闻的死亡 / AI fake news complaining about how AI fake news is the death of real news",
+          "url": "https://news.ycombinator.com/item?id=48760598",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T13:19:55.221000Z"
+        },
+        {
+          "id": "f155e8cc849ae7e232d81aca51eda04591ebaf90",
+          "title": "一篇关于AI假新闻的文章，抱怨AI假新闻正在扼杀真实新闻 / AI fake news complaining about how AI fake news is the death of real news",
+          "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T12:40:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9646,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T12:40:36Z",
+      "latest_at": "2026-07-02T14:48:16.029000Z",
+      "primary_item": {
+        "id": "14a82fd4fc3c2f778836d29376935fa611e78801",
+        "title": "一篇关于AI假新闻的文章，抱怨AI假新闻正在扼杀真实新闻",
+        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
+        "source": "www.niemanlab.org",
+        "source_name": "Buzzing"
       }
     }
   ]
