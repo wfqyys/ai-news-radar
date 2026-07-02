@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T01:30:38.653145Z",
+  "generated_at": "2026-07-02T05:54:03.042102Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1554-3301-b0f6-e2b8d399f537&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-1554-3301-b0f6-e2b8d399f537&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "3f1a359947ad9d6c0f884758c043046a9589f1bb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1554-3301-b0f6-e2b8d399f537&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
           "title": "点击这里进入 / Click here to enter",
@@ -93,12 +102,21 @@
           "published_at": null
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "3f1a359947ad9d6c0f884758c043046a9589f1bb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1554-3301-b0f6-e2b8d399f537&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
@@ -180,8 +198,8 @@
           "published_at": null
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
+      "item_count": 10,
+      "duplicate_count": 10,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -199,91 +217,71 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-01T06:21:00.965589Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
       "primary_item": {
-        "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
+        "id": "3f1a359947ad9d6c0f884758c043046a9589f1bb",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1554-3301-b0f6-e2b8d399f537&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_7fc910a9b0f5",
-      "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
-      "url": "https://www.aibase.com/news/29315",
-      "primary_url": "https://www.aibase.com/news/29315",
+      "story_id": "story_7b5406df4999",
+      "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+      "url": "https://www.aibase.com/news/29322",
+      "primary_url": "https://www.aibase.com/news/29322",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
-          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
-          "url": "https://www.aibase.com/news/29315",
+          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+          "url": "https://www.aibase.com/news/29322",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
-        },
-        {
-          "id": "45a52d4bd8c4947cdf2091dc15d42d232576fa66",
-          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
-          "url": "https://www.aibase.com/zh/news/29315",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
-          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
-          "url": "https://www.aibase.com/news/29315",
+          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+          "url": "https://www.aibase.com/news/29322",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
-        },
-        {
-          "id": "45a52d4bd8c4947cdf2091dc15d42d232576fa66",
-          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
-          "url": "https://www.aibase.com/zh/news/29315",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T01:30:38.653145Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
       "primary_item": {
-        "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
-        "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
-        "url": "https://www.aibase.com/news/29315",
+        "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+        "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+        "url": "https://www.aibase.com/news/29322",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -323,14 +321,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8727,
+        "recency": 0.6897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -347,6 +345,186 @@
         "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f8d42fe52087",
+      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+      "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
+      "primary_url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
+          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+          "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:53:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
+          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+          "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:53:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8746,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T02:53:26Z",
+      "latest_at": "2026-07-02T02:53:26Z",
+      "primary_item": {
+        "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
+        "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+        "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bca47441364f",
+      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+      "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
+      "primary_url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
+          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+          "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:51:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
+          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+          "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:51:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.873,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T02:51:10Z",
+      "latest_at": "2026-07-02T02:51:10Z",
+      "primary_item": {
+        "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
+        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+        "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5c663f539d31",
+      "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
+      "url": "https://www.aibase.com/news/29325",
+      "primary_url": "https://www.aibase.com/news/29325",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b79ddc30019edd199a16d439a396ed3c4206ab1c",
+          "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
+          "url": "https://www.aibase.com/news/29325",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T05:54:03.042102Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b79ddc30019edd199a16d439a396ed3c4206ab1c",
+          "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
+          "url": "https://www.aibase.com/news/29325",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T05:54:03.042102Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
+      "primary_item": {
+        "id": "b79ddc30019edd199a16d439a396ed3c4206ab1c",
+        "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
+        "url": "https://www.aibase.com/news/29325",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -384,14 +562,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -407,86 +585,6 @@
         "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
         "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2380f7324dd1",
-      "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
-      "url": "https://www.aibase.com/news/29314",
-      "primary_url": "https://www.aibase.com/news/29314",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
-          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
-          "url": "https://www.aibase.com/news/29314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
-        },
-        {
-          "id": "fcd4bdc0e3f246cb06182e6c21f4d945f2ac6977",
-          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
-          "url": "https://www.aibase.com/zh/news/29314",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
-          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
-          "url": "https://www.aibase.com/news/29314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
-        },
-        {
-          "id": "fcd4bdc0e3f246cb06182e6c21f4d945f2ac6977",
-          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
-          "url": "https://www.aibase.com/zh/news/29314",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T01:30:38.653145Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
-      "primary_item": {
-        "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
-        "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
-        "url": "https://www.aibase.com/news/29314",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -524,14 +622,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7932,
+        "recency": 0.6103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,6 +646,66 @@
         "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a869dc563765",
+      "title": "两分钟上手生产级语音智能体：xAI 发布 Voice Agent Builder 测试版",
+      "url": "https://www.aibase.com/news/29332",
+      "primary_url": "https://www.aibase.com/news/29332",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d11a9cf350ab8cb3aa6433b9ffec1a74d4ea4db5",
+          "title": "两分钟上手生产级语音智能体：xAI 发布 Voice Agent Builder 测试版",
+          "url": "https://www.aibase.com/news/29332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T05:54:03.042102Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d11a9cf350ab8cb3aa6433b9ffec1a74d4ea4db5",
+          "title": "两分钟上手生产级语音智能体：xAI 发布 Voice Agent Builder 测试版",
+          "url": "https://www.aibase.com/news/29332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T05:54:03.042102Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
+      "primary_item": {
+        "id": "d11a9cf350ab8cb3aa6433b9ffec1a74d4ea4db5",
+        "title": "两分钟上手生产级语音智能体：xAI 发布 Voice Agent Builder 测试版",
+        "url": "https://www.aibase.com/news/29332",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -585,20 +743,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8021,
+        "recency": 0.6191,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T20:45:36Z",
       "latest_at": "2026-07-01T20:45:36Z",
@@ -645,14 +802,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8331,
+        "recency": 0.6502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -672,21 +829,21 @@
       }
     },
     {
-      "story_id": "story_5ecb6c46573c",
-      "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
-      "url": "https://www.aibase.com/news/29320",
-      "primary_url": "https://www.aibase.com/news/29320",
+      "story_id": "story_0458b87fc622",
+      "title": "历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相",
+      "url": "https://www.aibase.com/news/29328",
+      "primary_url": "https://www.aibase.com/news/29328",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
-          "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
-          "url": "https://www.aibase.com/news/29320",
+          "id": "ace87ed6d38b10997ec280a8b827e7600cc0d16d",
+          "title": "历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相",
+          "url": "https://www.aibase.com/news/29328",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "source_count": 1,
@@ -695,13 +852,13 @@
       ],
       "items": [
         {
-          "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
-          "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
-          "url": "https://www.aibase.com/news/29320",
+          "id": "ace87ed6d38b10997ec280a8b827e7600cc0d16d",
+          "title": "历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相",
+          "url": "https://www.aibase.com/news/29328",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "item_count": 1,
@@ -721,73 +878,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T01:30:38.653145Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
       "primary_item": {
-        "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
-        "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
-        "url": "https://www.aibase.com/news/29320",
+        "id": "ace87ed6d38b10997ec280a8b827e7600cc0d16d",
+        "title": "历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相",
+        "url": "https://www.aibase.com/news/29328",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_11de285e789d",
-      "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-      "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
-      "primary_url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "120150836dc897cf812671c8d064bf23c16dd65b",
-          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-          "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T17:17:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "120150836dc897cf812671c8d064bf23c16dd65b",
-          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-          "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T17:17:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6578,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T17:17:56Z",
-      "latest_at": "2026-07-01T17:17:56Z",
-      "primary_item": {
-        "id": "120150836dc897cf812671c8d064bf23c16dd65b",
-        "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-        "url": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -825,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7143,
+        "recency": 0.5314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -852,198 +950,21 @@
       }
     },
     {
-      "story_id": "story_960a649c449e",
-      "title": "Meta 大规模 AI 存储蓝图",
-      "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
-      "primary_url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
-      "source": "Meta Engineering Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ba1513ec9a28410b1cc60c037c37c7d7d9ec1a6e",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Engineering Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ba1513ec9a28410b1cc60c037c37c7d7d9ec1a6e",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6041,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T16:00:36Z",
-      "latest_at": "2026-07-01T16:00:36Z",
-      "primary_item": {
-        "id": "ba1513ec9a28410b1cc60c037c37c7d7d9ec1a6e",
-        "title": "Meta 大规模 AI 存储蓝图",
-        "url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
-        "source": "Meta Engineering Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bbba721a4561",
-      "title": "智谱推出GLM-5.2官方开发环境ZCode",
-      "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
-      "primary_url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
-      "source": "X：智谱 Z.ai (@Zai_org)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f14a7d7d0e8ed409e01d0794d639fa440f2144c",
-          "title": "智谱推出GLM-5.2官方开发环境ZCode",
-          "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T15:59:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：智谱 Z.ai (@Zai_org)"
-      ],
-      "items": [
-        {
-          "id": "0f14a7d7d0e8ed409e01d0794d639fa440f2144c",
-          "title": "智谱推出GLM-5.2官方开发环境ZCode",
-          "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T15:59:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6036,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T15:59:46Z",
-      "latest_at": "2026-07-01T15:59:46Z",
-      "primary_item": {
-        "id": "0f14a7d7d0e8ed409e01d0794d639fa440f2144c",
-        "title": "智谱推出GLM-5.2官方开发环境ZCode",
-        "url": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
-        "source": "X：智谱 Z.ai (@Zai_org)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a5e0446dad9d",
-      "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-      "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
-      "primary_url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
-      "source": "X：xAI (@xai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a8d2df8b955da3822657647ec8b3b87acea7eaec",
-          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-          "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T15:33:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：xAI (@xai)"
-      ],
-      "items": [
-        {
-          "id": "a8d2df8b955da3822657647ec8b3b87acea7eaec",
-          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-          "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T15:33:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5852,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T15:33:21Z",
-      "latest_at": "2026-07-01T15:33:21Z",
-      "primary_item": {
-        "id": "a8d2df8b955da3822657647ec8b3b87acea7eaec",
-        "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-        "url": "https://aihot.virxact.com/items/cmr29kohb061isl8z1yt6b0hh",
-        "source": "X：xAI (@xai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5840d7527c85",
-      "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
-      "url": "https://www.aibase.com/news/29316",
-      "primary_url": "https://www.aibase.com/news/29316",
+      "story_id": "story_134704258dbb",
+      "title": "可灵AI将完成30亿美元融资腾讯参投，计划12个月内启动赴港IPO",
+      "url": "https://www.aibase.com/news/29321",
+      "primary_url": "https://www.aibase.com/news/29321",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5df8c2a1edb800c2ea448ee7524e55af7d19023c",
-          "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
-          "url": "https://www.aibase.com/news/29316",
+          "id": "8274b84bb01141bd6b0d1dfd65c9f2c425ff771d",
+          "title": "可灵AI将完成30亿美元融资腾讯参投，计划12个月内启动赴港IPO",
+          "url": "https://www.aibase.com/news/29321",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "source_count": 1,
@@ -1052,13 +973,13 @@
       ],
       "items": [
         {
-          "id": "5df8c2a1edb800c2ea448ee7524e55af7d19023c",
-          "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
-          "url": "https://www.aibase.com/news/29316",
+          "id": "8274b84bb01141bd6b0d1dfd65c9f2c425ff771d",
+          "title": "可灵AI将完成30亿美元融资腾讯参投，计划12个月内启动赴港IPO",
+          "url": "https://www.aibase.com/news/29321",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "item_count": 1,
@@ -1078,12 +999,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T01:30:38.653145Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
       "primary_item": {
-        "id": "5df8c2a1edb800c2ea448ee7524e55af7d19023c",
-        "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
-        "url": "https://www.aibase.com/news/29316",
+        "id": "8274b84bb01141bd6b0d1dfd65c9f2c425ff771d",
+        "title": "可灵AI将完成30亿美元融资腾讯参投，计划12个月内启动赴港IPO",
+        "url": "https://www.aibase.com/news/29321",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1123,14 +1044,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8103,
+        "recency": 0.6273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1150,21 +1071,21 @@
       }
     },
     {
-      "story_id": "story_85364810e402",
-      "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
-      "url": "https://www.aibase.com/news/29318",
-      "primary_url": "https://www.aibase.com/news/29318",
+      "story_id": "story_235771777afe",
+      "title": "告别“一刀切”：Cloudflare 推出精细化 AI 流量管理，筑起网站变现护城河",
+      "url": "https://www.aibase.com/news/29333",
+      "primary_url": "https://www.aibase.com/news/29333",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "07ee014d41d3bbccc2e3203e1c1d2a4718fdac37",
-          "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
-          "url": "https://www.aibase.com/news/29318",
+          "id": "ab5986c9b092199dbcdb3ec62fdc6ebde15ad214",
+          "title": "告别“一刀切”：Cloudflare 推出精细化 AI 流量管理，筑起网站变现护城河",
+          "url": "https://www.aibase.com/news/29333",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "source_count": 1,
@@ -1173,13 +1094,13 @@
       ],
       "items": [
         {
-          "id": "07ee014d41d3bbccc2e3203e1c1d2a4718fdac37",
-          "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
-          "url": "https://www.aibase.com/news/29318",
+          "id": "ab5986c9b092199dbcdb3ec62fdc6ebde15ad214",
+          "title": "告别“一刀切”：Cloudflare 推出精细化 AI 流量管理，筑起网站变现护城河",
+          "url": "https://www.aibase.com/news/29333",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "item_count": 1,
@@ -1199,12 +1120,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T01:30:38.653145Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
       "primary_item": {
-        "id": "07ee014d41d3bbccc2e3203e1c1d2a4718fdac37",
-        "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
-        "url": "https://www.aibase.com/news/29318",
+        "id": "ab5986c9b092199dbcdb3ec62fdc6ebde15ad214",
+        "title": "告别“一刀切”：Cloudflare 推出精细化 AI 流量管理，筑起网站变现护城河",
+        "url": "https://www.aibase.com/news/29333",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1244,14 +1165,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8049,
+        "recency": 0.622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1271,21 +1192,21 @@
       }
     },
     {
-      "story_id": "story_1cb6b3960402",
-      "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
-      "url": "https://www.aibase.com/news/29317",
-      "primary_url": "https://www.aibase.com/news/29317",
+      "story_id": "story_854316c15ddc",
+      "title": "拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”",
+      "url": "https://www.aibase.com/news/29331",
+      "primary_url": "https://www.aibase.com/news/29331",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6785ed56705c14dd164f97665e2f97910494be82",
-          "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
-          "url": "https://www.aibase.com/news/29317",
+          "id": "9f75eb7f15ba8d9a98fac94a755d6d6baee00f42",
+          "title": "拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”",
+          "url": "https://www.aibase.com/news/29331",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "source_count": 1,
@@ -1294,13 +1215,13 @@
       ],
       "items": [
         {
-          "id": "6785ed56705c14dd164f97665e2f97910494be82",
-          "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
-          "url": "https://www.aibase.com/news/29317",
+          "id": "9f75eb7f15ba8d9a98fac94a755d6d6baee00f42",
+          "title": "拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”",
+          "url": "https://www.aibase.com/news/29331",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T01:30:38.653145Z"
+          "published_at": "2026-07-02T05:54:03.042102Z"
         }
       ],
       "item_count": 1,
@@ -1320,12 +1241,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T01:30:38.653145Z",
-      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
       "primary_item": {
-        "id": "6785ed56705c14dd164f97665e2f97910494be82",
-        "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
-        "url": "https://www.aibase.com/news/29317",
+        "id": "9f75eb7f15ba8d9a98fac94a755d6d6baee00f42",
+        "title": "拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”",
+        "url": "https://www.aibase.com/news/29331",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1365,14 +1286,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7967,
+        "recency": 0.6138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1389,6 +1310,66 @@
         "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a4adebca0904",
+      "title": "支付宝AI生活助理“阿宝”正式开启公测，上线72项办事技能",
+      "url": "https://www.aibase.com/news/29329",
+      "primary_url": "https://www.aibase.com/news/29329",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ce6060ad86991c840882c20345a15590801cfe66",
+          "title": "支付宝AI生活助理“阿宝”正式开启公测，上线72项办事技能",
+          "url": "https://www.aibase.com/news/29329",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T05:54:03.042102Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ce6060ad86991c840882c20345a15590801cfe66",
+          "title": "支付宝AI生活助理“阿宝”正式开启公测，上线72项办事技能",
+          "url": "https://www.aibase.com/news/29329",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T05:54:03.042102Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T05:54:03.042102Z",
+      "latest_at": "2026-07-02T05:54:03.042102Z",
+      "primary_item": {
+        "id": "ce6060ad86991c840882c20345a15590801cfe66",
+        "title": "支付宝AI生活助理“阿宝”正式开启公测，上线72项办事技能",
+        "url": "https://www.aibase.com/news/29329",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
