@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T20:40:13.267690Z",
+  "generated_at": "2026-07-02T22:02:25.466573Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0640-39da-8d02-26ac97188df6&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0640-39da-8d02-26ac97188df6&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "64409cc29ca0278483eb5c546e768cfbf4f699d9",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8f31da32fb2b80bcf7a5812e12884d58f98d827a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0800-4088-9b45-caa4eb99ab95&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "64409cc29ca0278483eb5c546e768cfbf4f699d9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0640-39da-8d02-26ac97188df6&fp=-3",
@@ -183,15 +192,6 @@
           "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8f31da32fb2b80bcf7a5812e12884d58f98d827a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0800-4088-9b45-caa4eb99ab95&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,32 +216,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T21:58:23.004778Z",
-      "latest_at": "2026-07-02T20:40:13.267690Z",
+      "earliest_at": "2026-07-01T23:18:21.279485Z",
+      "latest_at": "2026-07-02T22:02:25.466573Z",
       "primary_item": {
-        "id": "64409cc29ca0278483eb5c546e768cfbf4f699d9",
+        "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0640-39da-8d02-26ac97188df6&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_2153c74c2c67",
-      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "story_id": "story_841cfa5430ed",
+      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
+          "published_at": "2026-07-02T20:25:32Z"
         }
       ],
       "source_count": 1,
@@ -250,25 +250,25 @@
       ],
       "items": [
         {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
+          "published_at": "2026-07-02T20:25:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.806,
+        "ai_relevance": 0.91,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,14 +277,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T16:00:51Z",
-      "latest_at": "2026-07-02T16:00:51Z",
+      "earliest_at": "2026-07-02T20:25:32Z",
+      "latest_at": "2026-07-02T20:25:32Z",
       "primary_item": {
-        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1bf7e1ec92fc",
+      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8352,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T18:05:05Z",
+      "latest_at": "2026-07-02T18:05:05Z",
+      "primary_item": {
+        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_27560e5a457b",
+      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+      "url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+      "primary_url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4e4aee241f0539cd2b50c5d6eb9de1521b6c4ff3",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+          "url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:51:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4e4aee241f0539cd2b50c5d6eb9de1521b6c4ff3",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+          "url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:51:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9509,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:51:39Z",
+      "latest_at": "2026-07-02T20:51:39Z",
+      "primary_item": {
+        "id": "4e4aee241f0539cd2b50c5d6eb9de1521b6c4ff3",
+        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+        "url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -322,14 +443,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9888,
+        "recency": 0.9318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -382,14 +503,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9432,
+        "recency": 0.8862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,14 +563,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9151,
+        "recency": 0.858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -502,14 +623,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -562,14 +683,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8794,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -622,14 +743,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -682,14 +803,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7892,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -705,6 +826,67 @@
         "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2153c74c2c67",
+      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
+          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T16:00:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
+          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T16:00:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7489,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T16:00:51Z",
+      "latest_at": "2026-07-02T16:00:51Z",
+      "primary_item": {
+        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
+        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
+        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -761,14 +943,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5051,
+        "recency": 0.4481,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -821,14 +1003,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.62,
+        "recency": 0.5629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -880,14 +1062,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6081,
+        "recency": 0.551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,14 +1121,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5999,
+        "recency": 0.5428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,20 +1180,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.6808,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T14:22:49Z",
       "latest_at": "2026-07-02T14:22:49Z",
@@ -1020,126 +1201,6 @@
         "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
         "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_155ea32414b0",
-      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4841,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:17:17Z",
-      "latest_at": "2026-07-02T08:17:17Z",
-      "primary_item": {
-        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4a763a5d15b1",
-      "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-      "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
-      "primary_url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d595be8dad592777a3de9f99686aec51c15bb107",
-          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-          "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T10:22:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "d595be8dad592777a3de9f99686aec51c15bb107",
-          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-          "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T10:22:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5708,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T10:22:07Z",
-      "latest_at": "2026-07-02T10:22:07Z",
-      "primary_item": {
-        "id": "d595be8dad592777a3de9f99686aec51c15bb107",
-        "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-        "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
-        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
       }
     },
@@ -1178,14 +1239,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.665,
+        "recency": 0.6079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,14 +1298,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6176,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6176,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,65 +1377,6 @@
         "id": "4828a4c1675d9973c58a7519851767a715973ae1",
         "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
         "url": "https://www.aibase.com/news/29347",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2c928a3c2071",
-      "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-      "url": "https://www.aibase.com/news/29345",
-      "primary_url": "https://www.aibase.com/news/29345",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
-          "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-          "url": "https://www.aibase.com/news/29345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:29:34.008922Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
-          "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-          "url": "https://www.aibase.com/news/29345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:29:34.008922Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6176,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:29:34.008922Z",
-      "latest_at": "2026-07-02T11:29:34.008922Z",
-      "primary_item": {
-        "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
-        "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-        "url": "https://www.aibase.com/news/29345",
         "source": "AIbase",
         "source_name": "AIbase"
       }
