@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-01T23:18:21.279485Z",
+  "generated_at": "2026-07-02T01:30:38.653145Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
           "title": "点击这里进入 / Click here to enter",
@@ -84,12 +93,21 @@
           "published_at": null
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
@@ -162,8 +180,8 @@
           "published_at": null
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
+      "item_count": 9,
+      "duplicate_count": 9,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -181,13 +199,93 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-01T06:21:00.965589Z",
-      "latest_at": "2026-07-01T23:18:21.279485Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
       "primary_item": {
-        "id": "56709ac3d8a39bb54dfb2438c35630cbb6d1d1d1",
+        "id": "5914f33cfd0ca39cda4a3b08cc5414f13b94d92b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0920-39db-8049-755439847b8e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1131-10c1-a5c5-3d2683b46012&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_7fc910a9b0f5",
+      "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+      "url": "https://www.aibase.com/news/29315",
+      "primary_url": "https://www.aibase.com/news/29315",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/news/29315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "45a52d4bd8c4947cdf2091dc15d42d232576fa66",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/zh/news/29315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/news/29315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "45a52d4bd8c4947cdf2091dc15d42d232576fa66",
+          "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+          "url": "https://www.aibase.com/zh/news/29315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "primary_item": {
+        "id": "8bf1735457da9877fe09a1163047c8bd11e915c7",
+        "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+        "url": "https://www.aibase.com/news/29315",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -225,14 +323,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8539,
-      "importance": 0.8539,
-      "importance_score": 0.8539,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9645,
+        "recency": 0.8727,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,6 +347,146 @@
         "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bdb94de730c9",
+      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+      "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+      "primary_url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T00:56:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T00:56:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9766,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T00:56:56Z",
+      "latest_at": "2026-07-02T00:56:56Z",
+      "primary_item": {
+        "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
+        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+        "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2380f7324dd1",
+      "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+      "url": "https://www.aibase.com/news/29314",
+      "primary_url": "https://www.aibase.com/news/29314",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/news/29314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "fcd4bdc0e3f246cb06182e6c21f4d945f2ac6977",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/zh/news/29314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/news/29314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        },
+        {
+          "id": "fcd4bdc0e3f246cb06182e6c21f4d945f2ac6977",
+          "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+          "url": "https://www.aibase.com/zh/news/29314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "primary_item": {
+        "id": "ab1780e1c48e52ffb9e977d09e1787b91f7ce840",
+        "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+        "url": "https://www.aibase.com/news/29314",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -286,14 +524,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8851,
+        "recency": 0.7932,
         "story_heat": 0.0
       },
       "category": "official",
@@ -347,14 +585,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -407,14 +645,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.925,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -431,6 +669,66 @@
         "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5ecb6c46573c",
+      "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+      "url": "https://www.aibase.com/news/29320",
+      "primary_url": "https://www.aibase.com/news/29320",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
+          "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+          "url": "https://www.aibase.com/news/29320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
+          "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+          "url": "https://www.aibase.com/news/29320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
+      "primary_item": {
+        "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
+        "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+        "url": "https://www.aibase.com/news/29320",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -468,20 +766,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7497,
+        "recency": 0.6578,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T17:17:56Z",
       "latest_at": "2026-07-01T17:17:56Z",
@@ -528,14 +825,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8062,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,20 +886,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.696,
+        "recency": 0.6041,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T16:00:36Z",
       "latest_at": "2026-07-01T16:00:36Z",
@@ -649,20 +945,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6954,
+        "recency": 0.6036,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T15:59:46Z",
       "latest_at": "2026-07-01T15:59:46Z",
@@ -709,14 +1004,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6771,
+        "recency": 0.5852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,121 +1029,184 @@
       }
     },
     {
-      "story_id": "story_b4ac3b486eb5",
-      "title": "Meta效仿SpaceX，将过剩AI算力变现",
-      "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-      "primary_url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_5840d7527c85",
+      "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
+      "url": "https://www.aibase.com/news/29316",
+      "primary_url": "https://www.aibase.com/news/29316",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "768ef0c29a01b934e9e4fa3d5e3e664b85c7cc2a",
-          "title": "Meta效仿SpaceX，将过剩AI算力变现",
-          "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T13:43:07Z"
+          "id": "5df8c2a1edb800c2ea448ee7524e55af7d19023c",
+          "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
+          "url": "https://www.aibase.com/news/29316",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "768ef0c29a01b934e9e4fa3d5e3e664b85c7cc2a",
-          "title": "Meta效仿SpaceX，将过剩AI算力变现",
-          "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T13:43:07Z"
+          "id": "5df8c2a1edb800c2ea448ee7524e55af7d19023c",
+          "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
+          "url": "https://www.aibase.com/news/29316",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6005,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-01T13:43:07Z",
-      "latest_at": "2026-07-01T13:43:07Z",
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
       "primary_item": {
-        "id": "768ef0c29a01b934e9e4fa3d5e3e664b85c7cc2a",
-        "title": "Meta效仿SpaceX，将过剩AI算力变现",
-        "url": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "5df8c2a1edb800c2ea448ee7524e55af7d19023c",
+        "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
+        "url": "https://www.aibase.com/news/29316",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_46e4dad999dd",
-      "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
-      "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
-      "primary_url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
+      "story_id": "story_c861a4a16559",
+      "title": "Enterprise Managed-settings.json 已全面可用 / Enterprise managed-settings.json is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "67db9480243182da29a50cabce5723cc000b73b8",
-          "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
-          "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T13:00:00Z"
+          "id": "d5bf323fd2ea843947ba37314ef4b95ce6c5daff",
+          "title": "Enterprise Managed-settings.json 已全面可用 / Enterprise managed-settings.json is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:57:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Cloudflare Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "67db9480243182da29a50cabce5723cc000b73b8",
-          "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
-          "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T13:00:00Z"
+          "id": "d5bf323fd2ea843947ba37314ef4b95ce6c5daff",
+          "title": "Enterprise Managed-settings.json 已全面可用 / Enterprise managed-settings.json is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:57:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8103,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:57:26Z",
+      "latest_at": "2026-07-01T20:57:26Z",
+      "primary_item": {
+        "id": "d5bf323fd2ea843947ba37314ef4b95ce6c5daff",
+        "title": "Enterprise Managed-settings.json 已全面可用 / Enterprise managed-settings.json is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_85364810e402",
+      "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
+      "url": "https://www.aibase.com/news/29318",
+      "primary_url": "https://www.aibase.com/news/29318",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "07ee014d41d3bbccc2e3203e1c1d2a4718fdac37",
+          "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
+          "url": "https://www.aibase.com/news/29318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "07ee014d41d3bbccc2e3203e1c1d2a4718fdac37",
+          "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
+          "url": "https://www.aibase.com/news/29318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T01:30:38.653145Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5706,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-01T13:00:00Z",
-      "latest_at": "2026-07-01T13:00:00Z",
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
       "primary_item": {
-        "id": "67db9480243182da29a50cabce5723cc000b73b8",
-        "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
-        "url": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
+        "id": "07ee014d41d3bbccc2e3203e1c1d2a4718fdac37",
+        "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
+        "url": "https://www.aibase.com/news/29318",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -886,14 +1244,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8968,
+        "recency": 0.8049,
         "story_heat": 0.0
       },
       "category": "official",
@@ -913,80 +1271,61 @@
       }
     },
     {
-      "story_id": "story_aa2171452c3f",
-      "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
-      "url": "https://www.aibase.com/news/29301",
-      "primary_url": "https://www.aibase.com/news/29301",
+      "story_id": "story_1cb6b3960402",
+      "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
+      "url": "https://www.aibase.com/news/29317",
+      "primary_url": "https://www.aibase.com/news/29317",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
-          "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
-          "url": "https://www.aibase.com/news/29301",
+          "id": "6785ed56705c14dd164f97665e2f97910494be82",
+          "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
+          "url": "https://www.aibase.com/news/29317",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-01T06:21:00.965589Z"
-        },
-        {
-          "id": "c6d2af6b017ac4a967f0572d23c38c13648d920c",
-          "title": "AI 芯片独角兽 Etched 融资成功，估值飙升至 50 亿美元！",
-          "url": "https://www.aibase.com/zh/news/29301",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-02T01:30:38.653145Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
-          "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
-          "url": "https://www.aibase.com/news/29301",
+          "id": "6785ed56705c14dd164f97665e2f97910494be82",
+          "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
+          "url": "https://www.aibase.com/news/29317",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-01T06:21:00.965589Z"
-        },
-        {
-          "id": "c6d2af6b017ac4a967f0572d23c38c13648d920c",
-          "title": "AI 芯片独角兽 Etched 融资成功，估值飙升至 50 亿美元！",
-          "url": "https://www.aibase.com/zh/news/29301",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-02T01:30:38.653145Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6957,
-      "importance": 0.6957,
-      "importance_score": 0.6957,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2935,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-01T06:21:00.965589Z",
-      "latest_at": "2026-07-01T06:21:00.965589Z",
+      "earliest_at": "2026-07-02T01:30:38.653145Z",
+      "latest_at": "2026-07-02T01:30:38.653145Z",
       "primary_item": {
-        "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
-        "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
-        "url": "https://www.aibase.com/news/29301",
+        "id": "6785ed56705c14dd164f97665e2f97910494be82",
+        "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
+        "url": "https://www.aibase.com/news/29317",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1026,14 +1365,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8886,
+        "recency": 0.7967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1050,365 +1389,6 @@
         "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7b1eaa8826e",
-      "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8208,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T19:00:21Z",
-      "latest_at": "2026-07-01T19:00:21Z",
-      "primary_item": {
-        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-        "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2cdea6501c41",
-      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-      "url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-      "primary_url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5dbe98e0cf7e3965be058e0330ba22e4c63291d",
-          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-          "url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T00:11:00Z"
-        },
-        {
-          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
-          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-01T00:55:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f5dbe98e0cf7e3965be058e0330ba22e4c63291d",
-          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-          "url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T00:11:00Z"
-        },
-        {
-          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
-          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-01T00:55:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6443,
-      "importance": 0.6443,
-      "importance_score": 0.6443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0366,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T00:11:00Z",
-      "latest_at": "2026-07-01T00:55:08Z",
-      "primary_item": {
-        "id": "f5dbe98e0cf7e3965be058e0330ba22e4c63291d",
-        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-        "url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_faf7d2195d58",
-      "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
-      "url": "https://www.aibase.com/news/29278",
-      "primary_url": "https://www.aibase.com/news/29278",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "277860b8d39ac172e042f63d912e4a249a6f90f4",
-          "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
-          "url": "https://www.aibase.com/news/29278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T01:38:16.879114Z"
-        },
-        {
-          "id": "873c6b1b4ec3ec531c8f5cc07f537efd1a688a80",
-          "title": "Claude Sonnet 5 发布：AI 主力模型进入「高能低耗」新时代",
-          "url": "https://www.aibase.com/zh/news/29278",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "277860b8d39ac172e042f63d912e4a249a6f90f4",
-          "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
-          "url": "https://www.aibase.com/news/29278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T01:38:16.879114Z"
-        },
-        {
-          "id": "873c6b1b4ec3ec531c8f5cc07f537efd1a688a80",
-          "title": "Claude Sonnet 5 发布：AI 主力模型进入「高能低耗」新时代",
-          "url": "https://www.aibase.com/zh/news/29278",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6564,
-      "importance": 0.6564,
-      "importance_score": 0.6564,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0972,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T01:38:16.879114Z",
-      "latest_at": "2026-07-01T01:38:16.879114Z",
-      "primary_item": {
-        "id": "277860b8d39ac172e042f63d912e4a249a6f90f4",
-        "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
-        "url": "https://www.aibase.com/news/29278",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bfcd7a3f6d8e",
-      "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-      "primary_url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:33:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:33:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8021,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T18:33:24Z",
-      "latest_at": "2026-07-01T18:33:24Z",
-      "primary_item": {
-        "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-        "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-        "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_815c37caf571",
-      "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
-      "url": "https://www.aibase.com/news/29281",
-      "primary_url": "https://www.aibase.com/news/29281",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2366f3de9b11d075c20727e87f84149dcd2df989",
-          "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
-          "url": "https://www.aibase.com/news/29281",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T01:38:16.879114Z"
-        },
-        {
-          "id": "2b9f562b6728fe632f25a0fdc4aa9247e0a0ec0e",
-          "title": "美国修订隐私法案：拟十年拨款 10 亿禁止 AI 公司出售健康数据",
-          "url": "https://www.aibase.com/zh/news/29281",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2366f3de9b11d075c20727e87f84149dcd2df989",
-          "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
-          "url": "https://www.aibase.com/news/29281",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T01:38:16.879114Z"
-        },
-        {
-          "id": "2b9f562b6728fe632f25a0fdc4aa9247e0a0ec0e",
-          "title": "美国修订隐私法案：拟十年拨款 10 亿禁止 AI 公司出售健康数据",
-          "url": "https://www.aibase.com/zh/news/29281",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6564,
-      "importance": 0.6564,
-      "importance_score": 0.6564,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0972,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T01:38:16.879114Z",
-      "latest_at": "2026-07-01T01:38:16.879114Z",
-      "primary_item": {
-        "id": "2366f3de9b11d075c20727e87f84149dcd2df989",
-        "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
-        "url": "https://www.aibase.com/news/29281",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
