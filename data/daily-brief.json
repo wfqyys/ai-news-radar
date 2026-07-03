@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T17:55:36.965512Z",
+  "generated_at": "2026-07-03T19:12:56.302741Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0356-03a4-80df-d2146c1096e9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0356-03a4-80df-d2146c1096e9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0513-21c4-b674-9d0c75e429af&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0513-21c4-b674-9d0c75e429af&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4233d32bed5b83cce6ce9d89af326b1543c62e31",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0513-21c4-b674-9d0c75e429af&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "cd7a520bad04e2ba620bef0c8155f2474c121a8f",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "4233d32bed5b83cce6ce9d89af326b1543c62e31",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0513-21c4-b674-9d0c75e429af&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "cd7a520bad04e2ba620bef0c8155f2474c121a8f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0356-03a4-80df-d2146c1096e9&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,11 +253,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-02T19:16:12.757528Z",
-      "latest_at": "2026-07-03T17:55:36.965512Z",
+      "latest_at": "2026-07-03T19:12:56.302741Z",
       "primary_item": {
-        "id": "cd7a520bad04e2ba620bef0c8155f2474c121a8f",
+        "id": "4233d32bed5b83cce6ce9d89af326b1543c62e31",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0356-03a4-80df-d2146c1096e9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0513-21c4-b674-9d0c75e429af&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8542,
+        "recency": 0.8005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8918,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -419,14 +437,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.6973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -480,14 +498,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7706,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,14 +558,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7568,
+        "recency": 0.7031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -600,20 +618,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7237,
+        "recency": 0.67,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T11:17:47Z",
       "latest_at": "2026-07-03T11:17:47Z",
@@ -660,14 +677,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6721,
+        "recency": 0.6184,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -719,14 +736,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6695,
+        "recency": 0.6158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,14 +795,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6366,
+        "recency": 0.5829,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,14 +854,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6252,
+        "recency": 0.5715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -896,14 +913,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7568,
+        "recency": 0.7031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,6 +936,85 @@
         "url": "https://www.aibase.com/news/29379",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c0fb7b3f5c2d",
+      "title": "《Fable》通关指南：短绳AI编程法",
+      "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+      "primary_url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11Z"
+        },
+        {
+          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "blog.okturtles.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "blog.okturtles.org"
+      ],
+      "items": [
+        {
+          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11Z"
+        },
+        {
+          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "blog.okturtles.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4606,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T06:16:11Z",
+      "latest_at": "2026-07-03T06:16:11.377000Z",
+      "primary_item": {
+        "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
+        "title": "《Fable》通关指南：短绳AI编程法",
+        "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -956,14 +1052,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6386,
+        "recency": 0.5849,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,14 +1111,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6568,
+        "recency": 0.6031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,6 +1133,85 @@
         "url": "https://www.aibase.com/news/29373",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d6403d02c2c6",
+      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+      "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+      "primary_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T04:56:06Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T04:56:06Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.718,
+      "importance": 0.718,
+      "importance_score": 0.718,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.405,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T04:56:06Z",
+      "latest_at": "2026-07-03T04:56:06.814000Z",
+      "primary_item": {
+        "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+        "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1074,14 +1249,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6568,
+        "recency": 0.6031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,14 +1308,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6568,
+        "recency": 0.6031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,14 +1367,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6568,
+        "recency": 0.6031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1217,237 +1392,100 @@
       }
     },
     {
-      "story_id": "story_26d9f7bf3d9c",
-      "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-      "url": "https://www.aibase.com/news/29367",
-      "primary_url": "https://www.aibase.com/news/29367",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
-          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-          "url": "https://www.aibase.com/news/29367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T09:41:26.540024Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
-          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-          "url": "https://www.aibase.com/news/29367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T09:41:26.540024Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6568,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T09:41:26.540024Z",
-      "latest_at": "2026-07-03T09:41:26.540024Z",
-      "primary_item": {
-        "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
-        "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-        "url": "https://www.aibase.com/news/29367",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e6b26c6de744",
-      "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-      "url": "https://news.ycombinator.com/item?id=48775484",
-      "primary_url": "https://news.ycombinator.com/item?id=48775484",
+      "story_id": "story_6dd39e80e7d5",
+      "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://news.ycombinator.com/item?id=48777144",
+      "primary_url": "https://news.ycombinator.com/item?id=48777144",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "bb3661da8d7e427d85b96c5feda0beb50479e851",
-          "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-          "url": "https://news.ycombinator.com/item?id=48775484",
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T15:56:36.548000Z"
+          "published_at": "2026-07-03T18:56:43.718000Z"
         },
         {
-          "id": "dd0262f0f2d0b8d4ca4b6f2f3122ddc2c3b8c7cc",
-          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作",
-          "url": "https://taskpeace.com",
-          "source": "taskpeace.com",
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-03T14:31:55.295000Z"
+          "published_at": "2026-07-03T16:55:50.504000Z"
         },
         {
-          "id": "b3352f8659d71f04a41ffdc9eb28402b4d77d4cf",
-          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-          "url": "https://taskpeace.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T14:27:26Z"
+          "id": "aa93ce7b12cd23b100b6931e222c66461b74a27d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:53:50Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "taskpeace.com"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "bb3661da8d7e427d85b96c5feda0beb50479e851",
-          "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-          "url": "https://news.ycombinator.com/item?id=48775484",
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T15:56:36.548000Z"
+          "published_at": "2026-07-03T18:56:43.718000Z"
         },
         {
-          "id": "dd0262f0f2d0b8d4ca4b6f2f3122ddc2c3b8c7cc",
-          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作",
-          "url": "https://taskpeace.com",
-          "source": "taskpeace.com",
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-03T14:31:55.295000Z"
+          "published_at": "2026-07-03T16:55:50.504000Z"
         },
         {
-          "id": "b3352f8659d71f04a41ffdc9eb28402b4d77d4cf",
-          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-          "url": "https://taskpeace.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T14:27:26Z"
+          "id": "aa93ce7b12cd23b100b6931e222c66461b74a27d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:53:50Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5707,
+      "importance": 0.5707,
+      "importance_score": 0.5707,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9174,
+        "recency": 0.9887,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T14:27:26Z",
-      "latest_at": "2026-07-03T15:56:36.548000Z",
+      "earliest_at": "2026-07-03T16:53:50Z",
+      "latest_at": "2026-07-03T18:56:43.718000Z",
       "primary_item": {
-        "id": "bb3661da8d7e427d85b96c5feda0beb50479e851",
-        "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-        "url": "https://news.ycombinator.com/item?id=48775484",
+        "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+        "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+        "url": "https://news.ycombinator.com/item?id=48777144",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ddc6c4ad2c16",
-      "title": "后张雪峰时代，大厂抢滩 AI 报志愿",
-      "url": "https://www.huxiu.com/article/4872558.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872558.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8e500d185dd68f02228785ae4bf0946df1b1e25b",
-          "title": "后张雪峰时代，大厂抢滩 AI 报志愿",
-          "url": "https://www.huxiu.com/article/4872558.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a152d0c152698d74fce8216777599a9a95678e77",
-          "title": "后张雪峰时代，大厂抢滩AI报志愿",
-          "url": "https://www.huxiu.com/article/4872558.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T17:14:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "8e500d185dd68f02228785ae4bf0946df1b1e25b",
-          "title": "后张雪峰时代，大厂抢滩 AI 报志愿",
-          "url": "https://www.huxiu.com/article/4872558.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a152d0c152698d74fce8216777599a9a95678e77",
-          "title": "后张雪峰时代，大厂抢滩AI报志愿",
-          "url": "https://www.huxiu.com/article/4872558.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T17:14:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T17:14:28Z",
-      "latest_at": "2026-07-03T17:55:36.965512Z",
-      "primary_item": {
-        "id": "8e500d185dd68f02228785ae4bf0946df1b1e25b",
-        "title": "后张雪峰时代，大厂抢滩 AI 报志愿",
-        "url": "https://www.huxiu.com/article/4872558.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
