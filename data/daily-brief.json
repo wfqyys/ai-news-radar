@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T22:00:59.359761Z",
+  "generated_at": "2026-07-03T23:33:08.752900Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0801-28c6-bd71-bff3b16361ad&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0801-28c6-bd71-bff3b16361ad&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "05d82df70c252f786493d659bc868ab1f07a523c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f05872fd001bddedae56f6e51ff106e1a8945c8f",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "05d82df70c252f786493d659bc868ab1f07a523c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f05872fd001bddedae56f6e51ff106e1a8945c8f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0801-28c6-bd71-bff3b16361ad&fp=-3",
@@ -219,15 +228,6 @@
           "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "49f99d192d094bed73a6643bdd6d2ce771b2d8da",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0802-4538-a998-4d38c797a6e9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T22:02:25.466573Z",
-      "latest_at": "2026-07-03T22:00:59.359761Z",
+      "earliest_at": "2026-07-02T23:35:10.150531Z",
+      "latest_at": "2026-07-03T23:33:08.752900Z",
       "primary_item": {
-        "id": "f05872fd001bddedae56f6e51ff106e1a8945c8f",
+        "id": "05d82df70c252f786493d659bc868ab1f07a523c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0801-28c6-bd71-bff3b16361ad&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6838,
+        "recency": 0.6198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,14 +418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8681,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -478,20 +478,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7214,
+        "recency": 0.6574,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T15:19:52Z",
       "latest_at": "2026-07-03T15:19:52Z",
@@ -557,21 +556,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5806,
+        "recency": 0.5166,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T11:57:00Z",
       "latest_at": "2026-07-03T11:57:00Z",
@@ -581,242 +579,6 @@
         "url": "https://aihot.virxact.com/items/cmr4w2clt05kasll56e54tanx",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6f68c5ddc450",
-      "title": "藏师傅PPT与Pencil结合使用技巧",
-      "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-      "primary_url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0207ca8c65a384fbb6bf90db92513f375faaa239",
-          "title": "藏师傅PPT与Pencil结合使用技巧",
-          "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T12:25:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "0207ca8c65a384fbb6bf90db92513f375faaa239",
-          "title": "藏师傅PPT与Pencil结合使用技巧",
-          "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T12:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6002,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:25:20Z",
-      "latest_at": "2026-07-03T12:25:20Z",
-      "primary_item": {
-        "id": "0207ca8c65a384fbb6bf90db92513f375faaa239",
-        "title": "藏师傅PPT与Pencil结合使用技巧",
-        "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:05:22.969271Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:05:22.969271Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5864,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:05:22.969271Z",
-      "latest_at": "2026-07-03T12:05:22.969271Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5e047f78ae70",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-      "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-      "primary_url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91bc87d7743cdfd369383997d9571ba5ba660fae",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：生数科技（Vidu·视频）"
-      ],
-      "items": [
-        {
-          "id": "91bc87d7743cdfd369383997d9571ba5ba660fae",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5533,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:17:47Z",
-      "latest_at": "2026-07-03T11:17:47Z",
-      "primary_item": {
-        "id": "91bc87d7743cdfd369383997d9571ba5ba660fae",
-        "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-        "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-        "source": "公众号：生数科技（Vidu·视频）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d4df2d66480c",
-      "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-      "url": "https://www.aibase.com/news/29379",
-      "primary_url": "https://www.aibase.com/news/29379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:05:22.969271Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:05:22.969271Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5864,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:05:22.969271Z",
-      "latest_at": "2026-07-03T12:05:22.969271Z",
-      "primary_item": {
-        "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-        "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-        "url": "https://www.aibase.com/news/29379",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -873,14 +635,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7058,
-      "importance": 0.7058,
-      "importance_score": 0.7058,
+      "score": 0.693,
+      "importance": 0.693,
+      "importance_score": 0.693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3439,
+        "recency": 0.2799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -894,85 +656,6 @@
         "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
         "title": "《Fable》通关指南：短绳AI编程法",
         "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d6403d02c2c6",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "primary_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6947,
-      "importance": 0.6947,
-      "importance_score": 0.6947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2883,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T04:56:06Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
-      "primary_item": {
-        "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1031,14 +714,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6737,
-      "importance": 0.6737,
-      "importance_score": 0.6737,
+      "score": 0.6609,
+      "importance": 0.6609,
+      "importance_score": 0.6609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1835,
+        "recency": 0.1195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1054,6 +737,85 @@
         "url": "https://www.aibase.com/news/29357",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d6403d02c2c6",
+      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+      "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+      "primary_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T04:56:06Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T04:56:06Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6819,
+      "importance": 0.6819,
+      "importance_score": 0.6819,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2243,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T04:56:06Z",
+      "latest_at": "2026-07-03T04:56:06.814000Z",
+      "primary_item": {
+        "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+        "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1148,14 +910,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5845,
-      "importance": 0.5845,
-      "importance_score": 0.5845,
+      "score": 0.5717,
+      "importance": 0.5717,
+      "importance_score": 0.5717,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9325,
+        "recency": 0.8685,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1169,6 +931,162 @@
         "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
         "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
         "source": "inpreparation.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_616f8e70b9f8",
+      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://news.ycombinator.com/item?id=48780056",
+      "primary_url": "https://news.ycombinator.com/item?id=48780056",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T23:34:04.484000Z"
+        },
+        {
+          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T23:34:04.484000Z"
+        },
+        {
+          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:16:16Z",
+      "latest_at": "2026-07-03T23:34:04.484000Z",
+      "primary_item": {
+        "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "url": "https://news.ycombinator.com/item?id=48780056",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_17fc9c6b8121",
+      "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+      "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9686,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T20:27:34Z",
+      "latest_at": "2026-07-03T22:47:55.026000Z",
+      "primary_item": {
+        "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+        "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+        "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1226,14 +1144,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 1.0,
+        "recency": 0.936,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1248,84 +1166,6 @@
         "url": "https://www.huxiu.com/article/4872597.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_551c2101be10",
-      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "url": "https://news.ycombinator.com/item?id=48779352",
-      "primary_url": "https://news.ycombinator.com/item?id=48779352",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
-        },
-        {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
-        },
-        {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T20:08:01Z",
-      "latest_at": "2026-07-03T22:01:52.230000Z",
-      "primary_item": {
-        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-        "url": "https://news.ycombinator.com/item?id=48779352",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1401,14 +1241,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8658,
+        "recency": 0.8018,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1423,6 +1263,161 @@
         "url": "https://github.com/jamesob/local-llm",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8efe66f6c2e3",
+      "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+      "primary_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
+          "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:42:19Z"
+        },
+        {
+          "id": "3e8cfdde29d4b9e13adb09f9cd0385d2e0dced05",
+          "title": "再见，永远，大概吧 / Goodebye Forever Probably: Why I’m leaving developer relations",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T12:27:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
+          "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:42:19Z"
+        },
+        {
+          "id": "3e8cfdde29d4b9e13adb09f9cd0385d2e0dced05",
+          "title": "再见，永远，大概吧 / Goodebye Forever Probably: Why I’m leaving developer relations",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T12:27:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.923,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T12:27:23Z",
+      "latest_at": "2026-07-03T21:42:19Z",
+      "primary_item": {
+        "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
+        "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+        "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_551c2101be10",
+      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://news.ycombinator.com/item?id=48779352",
+      "primary_url": "https://news.ycombinator.com/item?id=48779352",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:01:52.230000Z"
+        },
+        {
+          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T20:08:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:01:52.230000Z"
+        },
+        {
+          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T20:08:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9366,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T20:08:01Z",
+      "latest_at": "2026-07-03T22:01:52.230000Z",
+      "primary_item": {
+        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+        "url": "https://news.ycombinator.com/item?id=48779352",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1479,14 +1474,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.936,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,6 +1496,180 @@
         "url": "https://www.huxiu.com/article/4872592.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9b40a0a6a0ae",
+      "title": "请停止这场关于人工智能的“自信秀”",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "primary_url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "source": "www.elenaverna.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+          "title": "请停止这场关于人工智能的“自信秀”",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "www.elenaverna.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.291000Z"
+        },
+        {
+          "id": "2378c5b3bd688fed54ed9cdc0bb462009a9729e1",
+          "title": "请停止AI信心剧场 / Please stop the AI confidence theater",
+          "url": "https://news.ycombinator.com/item?id=48774414",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T14:14:32.877000Z"
+        },
+        {
+          "id": "e57ec620f64951bfc9f616e3ef61f05e76966e5b",
+          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T12:51:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.elenaverna.com"
+      ],
+      "items": [
+        {
+          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+          "title": "请停止这场关于人工智能的“自信秀”",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "www.elenaverna.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.291000Z"
+        },
+        {
+          "id": "2378c5b3bd688fed54ed9cdc0bb462009a9729e1",
+          "title": "请停止AI信心剧场 / Please stop the AI confidence theater",
+          "url": "https://news.ycombinator.com/item?id=48774414",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T14:14:32.877000Z"
+        },
+        {
+          "id": "e57ec620f64951bfc9f616e3ef61f05e76966e5b",
+          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T12:51:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6241,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T12:51:17Z",
+      "latest_at": "2026-07-03T14:31:55.291000Z",
+      "primary_item": {
+        "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+        "title": "请停止这场关于人工智能的“自信秀”",
+        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+        "source": "www.elenaverna.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b21c281561e9",
+      "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4928,
+      "importance": 0.4928,
+      "importance_score": 0.4928,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7241,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:51:47.909000Z",
+      "latest_at": "2026-07-03T16:55:50.711000Z",
+      "primary_item": {
+        "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+        "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1557,14 +1726,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,83 +1748,6 @@
         "url": "https://news.ycombinator.com/item?id=48780128",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2a7f0206c733",
-      "title": "一个卡利。农民正在赠送大量他不允许出售的油桃 / A Cali. farmer is giving away tons of nectarines that he's not allowed to sell",
-      "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-      "primary_url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "45325ce62439f3803e5943d850c89ca08e6bcece",
-          "title": "一个卡利。农民正在赠送大量他不允许出售的油桃 / A Cali. farmer is giving away tons of nectarines that he's not allowed to sell",
-          "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T18:11:32Z"
-        },
-        {
-          "id": "88ecff87f4ad37de8387d9536dbe3905f371d342",
-          "title": "农民和营销人员在白油桃的销售问题上存在分歧 / Farmer, marketer at odds over sales of white nectarines",
-          "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T18:11:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "45325ce62439f3803e5943d850c89ca08e6bcece",
-          "title": "一个卡利。农民正在赠送大量他不允许出售的油桃 / A Cali. farmer is giving away tons of nectarines that he's not allowed to sell",
-          "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T18:11:32Z"
-        },
-        {
-          "id": "88ecff87f4ad37de8387d9536dbe3905f371d342",
-          "title": "农民和营销人员在白油桃的销售问题上存在分歧 / Farmer, marketer at odds over sales of white nectarines",
-          "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T18:11:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8407,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T18:11:32Z",
-      "latest_at": "2026-07-03T18:11:32Z",
-      "primary_item": {
-        "id": "45325ce62439f3803e5943d850c89ca08e6bcece",
-        "title": "一个卡利。农民正在赠送大量他不允许出售的油桃 / A Cali. farmer is giving away tons of nectarines that he's not allowed to sell",
-        "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
