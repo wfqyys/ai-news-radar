@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T20:48:55.746375Z",
+  "generated_at": "2026-07-04T21:53:18.996214Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0649-22d2-8b37-792ef08f2d0d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0649-22d2-8b37-792ef08f2d0d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0753-42ea-b954-f04154f560ed&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0753-42ea-b954-f04154f560ed&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "91e6e9d31c7a7a22fa93bfa75896c03f53e3501d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0753-42ea-b954-f04154f560ed&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "bd9a7ae811ba4e26a53cd52dd90af312de01a3a7",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "91e6e9d31c7a7a22fa93bfa75896c03f53e3501d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0753-42ea-b954-f04154f560ed&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "bd9a7ae811ba4e26a53cd52dd90af312de01a3a7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0649-22d2-8b37-792ef08f2d0d&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,11 +289,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T22:00:59.359761Z",
-      "latest_at": "2026-07-04T20:48:55.746375Z",
+      "latest_at": "2026-07-04T21:53:18.996214Z",
       "primary_item": {
-        "id": "bd9a7ae811ba4e26a53cd52dd90af312de01a3a7",
+        "id": "91e6e9d31c7a7a22fa93bfa75896c03f53e3501d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0649-22d2-8b37-792ef08f2d0d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0753-42ea-b954-f04154f560ed&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8397,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -356,103 +374,6 @@
         "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_616f8e70b9f8",
-      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "epoch.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T23:34:04.484000Z"
-        },
-        {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "epoch.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T23:34:04.484000Z"
-        },
-        {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4762,
-      "importance": 0.4762,
-      "importance_score": 0.4762,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5159,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-04T09:11:45.212000Z",
-      "primary_item": {
-        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "source": "epoch.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -509,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.465,
-      "importance": 0.465,
-      "importance_score": 0.465,
+      "score": 0.4561,
+      "importance": 0.4561,
+      "importance_score": 0.4561,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5851,
+        "recency": 0.5404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,14 +507,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4923,
-      "importance": 0.4923,
-      "importance_score": 0.4923,
+      "score": 0.4834,
+      "importance": 0.4834,
+      "importance_score": 0.4834,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7216,
+        "recency": 0.6769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -664,14 +585,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4578,
-      "importance": 0.4578,
-      "importance_score": 0.4578,
+      "score": 0.4489,
+      "importance": 0.4489,
+      "importance_score": 0.4489,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.549,
+        "recency": 0.5043,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,14 +663,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.465,
-      "importance": 0.465,
-      "importance_score": 0.465,
+      "score": 0.4561,
+      "importance": 0.4561,
+      "importance_score": 0.4561,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5851,
+        "recency": 0.5404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -820,14 +741,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4243,
-      "importance": 0.4243,
-      "importance_score": 0.4243,
+      "score": 0.4154,
+      "importance": 0.4154,
+      "importance_score": 0.4154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3815,
+        "recency": 0.3368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,14 +819,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4534,
-      "importance": 0.4534,
-      "importance_score": 0.4534,
+      "score": 0.4444,
+      "importance": 0.4444,
+      "importance_score": 0.4444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5269,
+        "recency": 0.4822,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -919,102 +840,6 @@
         "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b7e86ff92336",
-      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
-      "source": "www.wafer.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T02:31:35.646000Z"
-        },
-        {
-          "id": "faa9fd4ba6a828ca085b5ca81ab9627a0f7b7ec1",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        },
-        {
-          "id": "b986b1f1bad4ec4a98858ccd0d413cec6f0f82d5",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.wafer.ai"
-      ],
-      "items": [
-        {
-          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T02:31:35.646000Z"
-        },
-        {
-          "id": "faa9fd4ba6a828ca085b5ca81ab9627a0f7b7ec1",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        },
-        {
-          "id": "b986b1f1bad4ec4a98858ccd0d413cec6f0f82d5",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4206,
-      "importance": 0.4206,
-      "importance_score": 0.4206,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.238,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:49:06Z",
-      "latest_at": "2026-07-04T02:31:35.646000Z",
-      "primary_item": {
-        "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
-        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-        "url": "https://www.wafer.ai/blog/glm52-amd",
-        "source": "www.wafer.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1072,14 +897,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.413,
-      "importance": 0.413,
-      "importance_score": 0.413,
+      "score": 0.4041,
+      "importance": 0.4041,
+      "importance_score": 0.4041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3252,
+        "recency": 0.2805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,14 +975,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.465,
-      "importance": 0.465,
-      "importance_score": 0.465,
+      "score": 0.4561,
+      "importance": 0.4561,
+      "importance_score": 0.4561,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5851,
+        "recency": 0.5404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1053,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.456,
+      "importance": 0.456,
+      "importance_score": 0.456,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5847,
+        "recency": 0.54,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1306,14 +1131,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4,
-      "importance": 0.4,
-      "importance_score": 0.4,
+      "score": 0.3911,
+      "importance": 0.3911,
+      "importance_score": 0.3911,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2602,
+        "recency": 0.2155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,14 +1209,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3932,
-      "importance": 0.3932,
-      "importance_score": 0.3932,
+      "score": 0.3842,
+      "importance": 0.3842,
+      "importance_score": 0.3842,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2259,
+        "recency": 0.1812,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,14 +1287,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4469,
-      "importance": 0.4469,
-      "importance_score": 0.4469,
+      "score": 0.438,
+      "importance": 0.438,
+      "importance_score": 0.438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4946,
+        "recency": 0.4499,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1484,162 +1309,6 @@
         "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2e04f3e69e59",
-      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
-        },
-        {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
-        },
-        {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3747,
-      "importance": 0.3747,
-      "importance_score": 0.3747,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1336,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:24:05Z",
-      "latest_at": "2026-07-04T00:01:23Z",
-      "primary_item": {
-        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_45ca8d17b7af",
-      "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-      "url": "https://news.ycombinator.com/item?id=48780128",
-      "primary_url": "https://news.ycombinator.com/item?id=48780128",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
-        },
-        {
-          "id": "51b7c441a71fced6e580df2892d61fb6889ad62e",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:21:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
-        },
-        {
-          "id": "51b7c441a71fced6e580df2892d61fb6889ad62e",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:21:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3581,
-      "importance": 0.3581,
-      "importance_score": 0.3581,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0507,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:21:08Z",
-      "latest_at": "2026-07-03T22:01:52.230000Z",
-      "primary_item": {
-        "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-        "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-        "url": "https://news.ycombinator.com/item?id=48780128",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1695,14 +1364,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3643,
-      "importance": 0.3643,
-      "importance_score": 0.3643,
+      "score": 0.3554,
+      "importance": 0.3554,
+      "importance_score": 0.3554,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0815,
+        "recency": 0.0368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1772,14 +1441,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3635,
-      "importance": 0.3635,
-      "importance_score": 0.3635,
+      "score": 0.3546,
+      "importance": 0.3546,
+      "importance_score": 0.3546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0775,
+        "recency": 0.0328,
         "story_heat": 0.25
       },
       "category": "watch",
