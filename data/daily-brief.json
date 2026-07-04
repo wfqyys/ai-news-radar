@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T23:33:08.752900Z",
+  "generated_at": "2026-07-04T02:23:52.381227Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1224-2117-a554-a30f9503ce47&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1224-2117-a554-a30f9503ce47&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7a789345554a2f68f554293a4781cb3455b3d12f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1224-2117-a554-a30f9503ce47&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "05d82df70c252f786493d659bc868ab1f07a523c",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "0e19cb7f315fd403e10405158eaa31c6c1d83eab",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1225-4543-8e39-1260de8bde0f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "7a789345554a2f68f554293a4781cb3455b3d12f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1224-2117-a554-a30f9503ce47&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "05d82df70c252f786493d659bc868ab1f07a523c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
@@ -219,15 +228,6 @@
           "id": "0e19cb7f315fd403e10405158eaa31c6c1d83eab",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1225-4543-8e39-1260de8bde0f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "0d129ec10042c241b867be2d0ae919f076c01d94",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0935-3300-a838-2333d60f238a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T23:35:10.150531Z",
-      "latest_at": "2026-07-03T23:33:08.752900Z",
+      "earliest_at": "2026-07-03T02:25:15.790694Z",
+      "latest_at": "2026-07-04T02:23:52.381227Z",
       "primary_item": {
-        "id": "05d82df70c252f786493d659bc868ab1f07a523c",
+        "id": "7a789345554a2f68f554293a4781cb3455b3d12f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0933-3631-a397-06c2c4ed825f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1224-2117-a554-a30f9503ce47&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6198,
+        "recency": 0.5013,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,20 +418,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.6856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T18:51:06Z",
       "latest_at": "2026-07-03T18:51:06Z",
@@ -440,65 +439,6 @@
         "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
         "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94916d673c4a",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "primary_url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52Z",
-      "latest_at": "2026-07-03T15:19:52Z",
-      "primary_item": {
-        "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -556,17 +496,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
-      "importance_label": "行业动态",
+      "score": 0.7166,
+      "importance": 0.7166,
+      "importance_score": 0.7166,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5166,
+        "recency": 0.398,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -582,67 +522,67 @@
       }
     },
     {
-      "story_id": "story_c0fb7b3f5c2d",
-      "title": "《Fable》通关指南：短绳AI编程法",
-      "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
-      "primary_url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+      "story_id": "story_1d6a0d8f7365",
+      "title": "面向 Web 开发者的 Safari MCP 服务器",
+      "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "primary_url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T06:16:11Z"
+          "published_at": "2026-07-03T09:59:42Z"
         },
         {
-          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "blog.okturtles.org",
+          "id": "99e9259b5479ee162bbb3a9d1956bfa40caffab1",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "webkit.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-03T06:16:11.377000Z"
+          "published_at": "2026-07-03T09:59:42.679000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "blog.okturtles.org"
+        "webkit.org"
       ],
       "items": [
         {
-          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T06:16:11Z"
+          "published_at": "2026-07-03T09:59:42Z"
         },
         {
-          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "blog.okturtles.org",
+          "id": "99e9259b5479ee162bbb3a9d1956bfa40caffab1",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "webkit.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-03T06:16:11.377000Z"
+          "published_at": "2026-07-03T09:59:42.679000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.7003,
+      "importance": 0.7003,
+      "importance_score": 0.7003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2799,
+        "recency": 0.3165,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -650,12 +590,12 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T06:16:11Z",
-      "latest_at": "2026-07-03T06:16:11.377000Z",
+      "earliest_at": "2026-07-03T09:59:42Z",
+      "latest_at": "2026-07-03T09:59:42.679000Z",
       "primary_item": {
-        "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
-        "title": "《Fable》通关指南：短绳AI编程法",
-        "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+        "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+        "title": "面向 Web 开发者的 Safari MCP 服务器",
+        "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -714,14 +654,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6609,
-      "importance": 0.6609,
-      "importance_score": 0.6609,
+      "score": 0.6372,
+      "importance": 0.6372,
+      "importance_score": 0.6372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1195,
+        "recency": 0.001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -737,6 +677,85 @@
         "url": "https://www.aibase.com/news/29357",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c0fb7b3f5c2d",
+      "title": "《Fable》通关指南：短绳AI编程法",
+      "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+      "primary_url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11Z"
+        },
+        {
+          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "blog.okturtles.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "blog.okturtles.org"
+      ],
+      "items": [
+        {
+          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11Z"
+        },
+        {
+          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "blog.okturtles.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6693,
+      "importance": 0.6693,
+      "importance_score": 0.6693,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.1613,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T06:16:11Z",
+      "latest_at": "2026-07-03T06:16:11.377000Z",
+      "primary_item": {
+        "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
+        "title": "《Fable》通关指南：短绳AI编程法",
+        "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -793,14 +812,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6819,
-      "importance": 0.6819,
-      "importance_score": 0.6819,
+      "score": 0.6581,
+      "importance": 0.6581,
+      "importance_score": 0.6581,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2243,
+        "recency": 0.1057,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,14 +929,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5717,
-      "importance": 0.5717,
-      "importance_score": 0.5717,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.75,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -935,79 +954,79 @@
       }
     },
     {
-      "story_id": "story_616f8e70b9f8",
-      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://news.ycombinator.com/item?id=48780056",
-      "primary_url": "https://news.ycombinator.com/item?id=48780056",
+      "story_id": "story_c422a54213de",
+      "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+      "url": "https://news.ycombinator.com/item?id=48781865",
+      "primary_url": "https://news.ycombinator.com/item?id=48781865",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
+          "id": "a30c92c164977105aba685a7d539fae2698ed926",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://news.ycombinator.com/item?id=48781865",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T23:34:04.484000Z"
+          "published_at": "2026-07-04T02:14:12.009000Z"
         },
         {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
+          "id": "fa9f3b6534da9231211c1b982c9b935e13aeada5",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://app.cuebench.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T01:30:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
+          "id": "a30c92c164977105aba685a7d539fae2698ed926",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://news.ycombinator.com/item?id=48781865",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T23:34:04.484000Z"
+          "published_at": "2026-07-04T02:14:12.009000Z"
         },
         {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
+          "id": "fa9f3b6534da9231211c1b982c9b935e13aeada5",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://app.cuebench.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T01:30:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-03T23:34:04.484000Z",
+      "earliest_at": "2026-07-04T01:30:49Z",
+      "latest_at": "2026-07-04T02:14:12.009000Z",
       "primary_item": {
-        "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "url": "https://news.ycombinator.com/item?id=48780056",
+        "id": "a30c92c164977105aba685a7d539fae2698ed926",
+        "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+        "url": "https://news.ycombinator.com/item?id=48781865",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1066,14 +1085,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.85,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1144,14 +1163,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.936,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,14 +1260,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8018,
+        "recency": 0.6832,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1318,14 +1337,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.923,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,79 +1362,79 @@
       }
     },
     {
-      "story_id": "story_551c2101be10",
-      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "url": "https://news.ycombinator.com/item?id=48779352",
-      "primary_url": "https://news.ycombinator.com/item?id=48779352",
+      "story_id": "story_616f8e70b9f8",
+      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://news.ycombinator.com/item?id=48780056",
+      "primary_url": "https://news.ycombinator.com/item?id=48780056",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
+          "published_at": "2026-07-03T23:34:04.484000Z"
         },
         {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
+          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:16:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
+          "published_at": "2026-07-03T23:34:04.484000Z"
         },
         {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
+          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:16:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9366,
+        "recency": 0.8821,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T20:08:01Z",
-      "latest_at": "2026-07-03T22:01:52.230000Z",
+      "earliest_at": "2026-07-03T21:16:16Z",
+      "latest_at": "2026-07-03T23:34:04.484000Z",
       "primary_item": {
-        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-        "url": "https://news.ycombinator.com/item?id=48779352",
+        "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "url": "https://news.ycombinator.com/item?id=48780056",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1474,14 +1493,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.936,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1571,14 +1590,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4978,
-      "importance": 0.4978,
-      "importance_score": 0.4978,
+      "score": 0.4741,
+      "importance": 0.4741,
+      "importance_score": 0.4741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6241,
+        "recency": 0.5056,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1648,14 +1667,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4928,
-      "importance": 0.4928,
-      "importance_score": 0.4928,
+      "score": 0.4691,
+      "importance": 0.4691,
+      "importance_score": 0.4691,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7241,
+        "recency": 0.6055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1673,81 +1692,80 @@
       }
     },
     {
-      "story_id": "story_45ca8d17b7af",
-      "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-      "url": "https://news.ycombinator.com/item?id=48780128",
-      "primary_url": "https://news.ycombinator.com/item?id=48780128",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_ddfb0d3e9261",
+      "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+      "url": "https://www.v2ex.com/t/1224864",
+      "primary_url": "https://www.v2ex.com/t/1224864",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
+          "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+          "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
         },
         {
-          "id": "51b7c441a71fced6e580df2892d61fb6889ad62e",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:21:08Z"
+          "id": "881b5b2732d49545988e99e8d6bc666ad4dc02dd",
+          "title": "[程序员] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:01:52.230000Z"
+          "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+          "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
         },
         {
-          "id": "51b7c441a71fced6e580df2892d61fb6889ad62e",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:21:08Z"
+          "id": "881b5b2732d49545988e99e8d6bc666ad4dc02dd",
+          "title": "[程序员] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.4669,
+      "importance": 0.4669,
+      "importance_score": 0.4669,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9366,
+        "recency": 0.5945,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T21:21:08Z",
-      "latest_at": "2026-07-03T22:01:52.230000Z",
+      "earliest_at": "2026-07-03T16:39:57Z",
+      "latest_at": "2026-07-03T16:39:57Z",
       "primary_item": {
-        "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-        "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-        "url": "https://news.ycombinator.com/item?id=48780128",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+        "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+        "url": "https://www.v2ex.com/t/1224864",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
