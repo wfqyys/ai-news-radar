@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T11:26:12.868997Z",
+  "generated_at": "2026-07-05T12:47:58.461342Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2126-34f5-bb8b-05c21ac8f481&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-2126-34f5-bb8b-05c21ac8f481&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2248-24eb-8591-6835d68ac6e3&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-2248-24eb-8591-6835d68ac6e3&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "28b6566f88f7efd11851298ee4a4a56a45240d0a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2248-24eb-8591-6835d68ac6e3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "22518b7f9b3aa03df0cbf237ec729a0e85acd01d",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "45545ac9f2c060b17d5173c3e84ad16766098617",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0008-3614-b1d7-dc0046907e2b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "21c6f1d8afac0725bf60d23b87c3eb8ce711abf0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-2203-1861-a9ab-bece4db39f74&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "28b6566f88f7efd11851298ee4a4a56a45240d0a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2248-24eb-8591-6835d68ac6e3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "22518b7f9b3aa03df0cbf237ec729a0e85acd01d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2126-34f5-bb8b-05c21ac8f481&fp=-3",
@@ -255,15 +264,6 @@
           "id": "45545ac9f2c060b17d5173c3e84ad16766098617",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0008-3614-b1d7-dc0046907e2b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "21c6f1d8afac0725bf60d23b87c3eb8ce711abf0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-2203-1861-a9ab-bece4db39f74&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-04T12:02:52.491124Z",
-      "latest_at": "2026-07-05T11:26:12.868997Z",
+      "earliest_at": "2026-07-04T14:08:04.749800Z",
+      "latest_at": "2026-07-05T12:47:58.461342Z",
       "primary_item": {
-        "id": "22518b7f9b3aa03df0cbf237ec729a0e85acd01d",
+        "id": "28b6566f88f7efd11851298ee4a4a56a45240d0a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2126-34f5-bb8b-05c21ac8f481&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2248-24eb-8591-6835d68ac6e3&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.7933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,55 +359,55 @@
       }
     },
     {
-      "story_id": "story_e12374b34600",
-      "title": "OpenAI，IPO 大消息",
-      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_44de5f528adc",
+      "title": "克劳德设计系统提示 / Claude Design System Prompt",
+      "url": "https://news.ycombinator.com/item?id=48792399",
+      "primary_url": "https://news.ycombinator.com/item?id=48792399",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-          "title": "OpenAI，IPO 大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:48:27.693000Z"
         },
         {
-          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
-          "title": "OpenAI，IPO大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T10:54:30Z"
+          "published_at": "2026-07-05T08:43:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-          "title": "OpenAI，IPO 大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:48:27.693000Z"
         },
         {
-          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
-          "title": "OpenAI，IPO大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T10:54:30Z"
+          "published_at": "2026-07-05T08:43:37Z"
         }
       ],
       "item_count": 2,
@@ -426,14 +426,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T10:54:30Z",
-      "latest_at": "2026-07-05T11:26:12.868997Z",
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T12:48:27.693000Z",
       "primary_item": {
-        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-        "title": "OpenAI，IPO 大消息",
-        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+        "title": "克劳德设计系统提示 / Claude Design System Prompt",
+        "url": "https://news.ycombinator.com/item?id=48792399",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -490,14 +490,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -515,108 +515,108 @@
       }
     },
     {
-      "story_id": "story_f2aca3c59c5e",
-      "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://news.ycombinator.com/item?id=48791708",
-      "primary_url": "https://news.ycombinator.com/item?id=48791708",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_e12374b34600",
+      "title": "OpenAI，IPO 大消息",
+      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://news.ycombinator.com/item?id=48791708",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T09:39:15.577000Z"
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
-          "source": "Hacker News (黑客新闻)",
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T06:19:34Z"
+          "published_at": "2026-07-05T10:54:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://news.ycombinator.com/item?id=48791708",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T09:39:15.577000Z"
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
-          "source": "Hacker News (黑客新闻)",
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T06:19:34Z"
+          "published_at": "2026-07-05T10:54:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9257,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T06:19:34Z",
-      "latest_at": "2026-07-05T09:39:15.577000Z",
+      "earliest_at": "2026-07-05T10:54:30Z",
+      "latest_at": "2026-07-05T11:26:12.868997Z",
       "primary_item": {
-        "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-        "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "url": "https://news.ycombinator.com/item?id=48791708",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+        "title": "OpenAI，IPO 大消息",
+        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_f3a6a004da89",
-      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+      "story_id": "story_86b22559dc84",
+      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T09:11:39.560000Z"
+          "published_at": "2026-07-05T11:19:41.901000Z"
         },
         {
-          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T09:03:02Z"
+          "published_at": "2026-07-05T11:06:01Z"
         }
       ],
       "source_count": 2,
@@ -626,46 +626,46 @@
       ],
       "items": [
         {
-          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T09:11:39.560000Z"
+          "published_at": "2026-07-05T11:19:41.901000Z"
         },
         {
-          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T09:03:02Z"
+          "published_at": "2026-07-05T11:06:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9066,
+        "recency": 0.9387,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T09:03:02Z",
-      "latest_at": "2026-07-05T09:11:39.560000Z",
+      "earliest_at": "2026-07-05T11:06:01Z",
+      "latest_at": "2026-07-05T11:19:41.901000Z",
       "primary_item": {
-        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -724,14 +724,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,6 +745,84 @@
         "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
         "url": "https://github.com/steipete/CodexBar",
         "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_f2aca3c59c5e",
+      "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://news.ycombinator.com/item?id=48791708",
+      "primary_url": "https://news.ycombinator.com/item?id=48791708",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://news.ycombinator.com/item?id=48791708",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T09:39:15.577000Z"
+        },
+        {
+          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T06:19:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://news.ycombinator.com/item?id=48791708",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T09:39:15.577000Z"
+        },
+        {
+          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T06:19:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8689,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T06:19:34Z",
+      "latest_at": "2026-07-05T09:39:15.577000Z",
+      "primary_item": {
+        "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+        "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "url": "https://news.ycombinator.com/item?id=48791708",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -802,14 +880,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9254,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -827,30 +905,30 @@
       }
     },
     {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "story_id": "story_f3a6a004da89",
+      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
+          "published_at": "2026-07-05T09:11:39.560000Z"
         },
         {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
+          "published_at": "2026-07-05T09:03:02Z"
         }
       ],
       "source_count": 2,
@@ -860,46 +938,46 @@
       ],
       "items": [
         {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
+          "published_at": "2026-07-05T09:11:39.560000Z"
         },
         {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
+          "published_at": "2026-07-05T09:03:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8954,
+        "recency": 0.8498,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "earliest_at": "2026-07-05T09:03:02Z",
+      "latest_at": "2026-07-05T09:11:39.560000Z",
       "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -977,14 +1055,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4765,
-      "importance": 0.4765,
-      "importance_score": 0.4765,
+      "score": 0.4652,
+      "importance": 0.4652,
+      "importance_score": 0.4652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5176,
+        "recency": 0.4608,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1002,81 +1080,81 @@
       }
     },
     {
-      "story_id": "story_854a38c44b10",
-      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://news.ycombinator.com/item?id=48791380",
-      "primary_url": "https://news.ycombinator.com/item?id=48791380",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_141dc99ed661",
+      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T06:24:24.629000Z"
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
         },
         {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
+          "published_at": "2026-07-05T08:41:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T06:24:24.629000Z"
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
         },
         {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
+          "published_at": "2026-07-05T08:41:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7904,
+        "recency": 0.8386,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T05:01:14Z",
-      "latest_at": "2026-07-05T06:24:24.629000Z",
+      "earliest_at": "2026-07-05T08:41:01Z",
+      "latest_at": "2026-07-05T08:55:31.703000Z",
       "primary_item": {
-        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-        "url": "https://news.ycombinator.com/item?id=48791380",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "19017868000fe1555529a118219dd004ce6095fe",
+        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1133,14 +1211,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,14 +1288,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4474,
-      "importance": 0.4474,
-      "importance_score": 0.4474,
+      "score": 0.4361,
+      "importance": 0.4361,
+      "importance_score": 0.4361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4972,
+        "recency": 0.4405,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,6 +1310,84 @@
         "url": "https://www.cggonzalez.com/blog/index.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T06:24:24.629000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T06:24:24.629000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7336,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T06:24:24.629000Z",
+      "primary_item": {
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1288,14 +1444,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1310,84 +1466,6 @@
         "url": "https://www.huxiu.com/article/4872740.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_85705186a84e",
-      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://news.ycombinator.com/item?id=48789986",
-      "primary_url": "https://news.ycombinator.com/item?id=48789986",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T02:42:17.706000Z"
-        },
-        {
-          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T23:25:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T02:42:17.706000Z"
-        },
-        {
-          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T23:25:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4752,
-      "importance": 0.4752,
-      "importance_score": 0.4752,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6362,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:25:53Z",
-      "latest_at": "2026-07-05T02:42:17.706000Z",
-      "primary_item": {
-        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-        "url": "https://news.ycombinator.com/item?id=48789986",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1443,14 +1521,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4069,
-      "importance": 0.4069,
-      "importance_score": 0.4069,
+      "score": 0.3955,
+      "importance": 0.3955,
+      "importance_score": 0.3955,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2945,
+        "recency": 0.2377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1520,14 +1598,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3999,
-      "importance": 0.3999,
-      "importance_score": 0.3999,
+      "score": 0.3886,
+      "importance": 0.3886,
+      "importance_score": 0.3886,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2597,
+        "recency": 0.2029,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1598,14 +1676,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,157 +1701,81 @@
       }
     },
     {
-      "story_id": "story_5f09d23ce6db",
-      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607",
-      "primary_url": "https://www.eso.org/public/news/eso2607",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:42:17.706000Z"
         },
         {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:42:17.706000Z"
         },
         {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3968,
-      "importance": 0.3968,
-      "importance_score": 0.3968,
+      "score": 0.4639,
+      "importance": 0.4639,
+      "importance_score": 0.4639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2439,
+        "recency": 0.5794,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T17:17:28Z",
-      "latest_at": "2026-07-04T17:17:28Z",
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T02:42:17.706000Z",
       "primary_item": {
-        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-        "url": "https://www.eso.org/public/news/eso2607",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_09d5ebd5eb2a",
-      "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-      "url": "https://www.v2ex.com/t/1225003",
-      "primary_url": "https://www.v2ex.com/t/1225003",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7d353032b7daa24cf69029deb13679e494371135",
-          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        },
-        {
-          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
-          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "7d353032b7daa24cf69029deb13679e494371135",
-          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        },
-        {
-          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
-          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3887,
-      "importance": 0.3887,
-      "importance_score": 0.3887,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2036,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T16:19:27Z",
-      "latest_at": "2026-07-04T16:19:27Z",
-      "primary_item": {
-        "id": "7d353032b7daa24cf69029deb13679e494371135",
-        "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-        "url": "https://www.v2ex.com/t/1225003",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
