@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T18:35:29.047760Z",
+  "generated_at": "2026-07-05T20:09:35.013175Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0435-4836-a309-f807dded1c04&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0435-4836-a309-f807dded1c04&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0610-0199-8531-6993602485d2&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0610-0199-8531-6993602485d2&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "34681f3864d8953047f29c77250b5acde721ddaa",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0610-0199-8531-6993602485d2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "fd21fead6a3c99ba60dc2640b3ac3147c9c4a249",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "bd9a7ae811ba4e26a53cd52dd90af312de01a3a7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0649-22d2-8b37-792ef08f2d0d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b7f7cd1db3366c96b27810c1b6eac73e61b17641",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0543-5910-9057-0b89b225b774&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "34681f3864d8953047f29c77250b5acde721ddaa",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0610-0199-8531-6993602485d2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "fd21fead6a3c99ba60dc2640b3ac3147c9c4a249",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0435-4836-a309-f807dded1c04&fp=-3",
@@ -237,15 +246,6 @@
           "id": "bd9a7ae811ba4e26a53cd52dd90af312de01a3a7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0649-22d2-8b37-792ef08f2d0d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b7f7cd1db3366c96b27810c1b6eac73e61b17641",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0543-5910-9057-0b89b225b774&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-04T19:43:32.605843Z",
-      "latest_at": "2026-07-05T18:35:29.047760Z",
+      "earliest_at": "2026-07-04T20:48:55.746375Z",
+      "latest_at": "2026-07-05T20:09:35.013175Z",
       "primary_item": {
-        "id": "fd21fead6a3c99ba60dc2640b3ac3147c9c4a249",
+        "id": "34681f3864d8953047f29c77250b5acde721ddaa",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0435-4836-a309-f807dded1c04&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0610-0199-8531-6993602485d2&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,14 +375,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9642,
+        "recency": 0.8989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -397,6 +397,66 @@
         "title": "三周前，我不小心创办了一家小公司",
         "url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61d157d55656",
+      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+      "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "primary_url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7436,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T14:00:18Z",
+      "latest_at": "2026-07-05T14:00:18Z",
+      "primary_item": {
+        "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+        "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+        "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
       }
     },
@@ -435,14 +495,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,14 +555,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8751,
+        "recency": 0.8098,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,62 +581,178 @@
       }
     },
     {
-      "story_id": "story_0b64a3f633dc",
-      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-      "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-      "primary_url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b97dfb6a3918",
+      "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
+          "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T19:03:35.047000Z"
+        },
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T18:15:31.661000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "Hacker News",
+        "hackernews",
+        "techcrunch.com"
       ],
       "items": [
         {
-          "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
+          "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T19:03:35.047000Z"
+        },
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T18:15:31.661000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.552,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9542,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-05T07:50:19Z",
-      "latest_at": "2026-07-05T07:50:19Z",
+      "earliest_at": "2026-07-05T17:05:35Z",
+      "latest_at": "2026-07-05T19:03:35.047000Z",
       "primary_item": {
-        "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
-        "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-        "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
+        "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_54e97f468046",
+      "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://news.ycombinator.com/item?id=48796817",
+      "primary_url": "https://news.ycombinator.com/item?id=48796817",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9834,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T18:47:43Z",
+      "latest_at": "2026-07-05T19:45:38.111000Z",
+      "primary_item": {
+        "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+        "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "url": "https://news.ycombinator.com/item?id=48796817",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -652,14 +828,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8752,
+        "recency": 0.8098,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -677,81 +853,80 @@
       }
     },
     {
-      "story_id": "story_b97dfb6a3918",
-      "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-      "url": "https://news.ycombinator.com/item?id=48795826",
-      "primary_url": "https://news.ycombinator.com/item?id=48795826",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_10b779949e90",
+      "title": "计算机主演 / Starring the Computer",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "primary_url": "https://www.starringthecomputer.com/computers.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://news.ycombinator.com/item?id=48795826",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T18:15:31.661000Z"
+          "id": "6118f16347c9c81abf11638e80862f7c91a99263",
+          "title": "计算机主演 / Starring the Computer",
+          "url": "https://www.starringthecomputer.com/computers.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:33:04Z"
         },
         {
-          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T17:05:35Z"
+          "id": "56fc171a3aa5ab165e13867b6f1db6ba71c32380",
+          "title": "电影中使用的计算机 / The Computers Used in Movies",
+          "url": "https://www.starringthecomputer.com/computers.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:33:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://news.ycombinator.com/item?id=48795826",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T18:15:31.661000Z"
+          "id": "6118f16347c9c81abf11638e80862f7c91a99263",
+          "title": "计算机主演 / Starring the Computer",
+          "url": "https://www.starringthecomputer.com/computers.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:33:04Z"
         },
         {
-          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T17:05:35Z"
+          "id": "56fc171a3aa5ab165e13867b6f1db6ba71c32380",
+          "title": "电影中使用的计算机 / The Computers Used in Movies",
+          "url": "https://www.starringthecomputer.com/computers.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:33:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9861,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T17:05:35Z",
-      "latest_at": "2026-07-05T18:15:31.661000Z",
+      "earliest_at": "2026-07-05T17:33:04Z",
+      "latest_at": "2026-07-05T17:33:04Z",
       "primary_item": {
-        "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
-        "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-        "url": "https://news.ycombinator.com/item?id=48795826",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "6118f16347c9c81abf11638e80862f7c91a99263",
+        "title": "计算机主演 / Starring the Computer",
+        "url": "https://www.starringthecomputer.com/computers.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -808,14 +983,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9355,
+        "recency": 0.8702,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -830,6 +1005,83 @@
         "url": "https://www.huxiu.com/article/4872798.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c39b7836f50e",
+      "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "primary_url": "https://arxiv.org/abs/2602.09239",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        },
+        {
+          "id": "d109d47fc34e928875a0985651d346998cce9a4b",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        },
+        {
+          "id": "d109d47fc34e928875a0985651d346998cce9a4b",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8725,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:57Z",
+      "latest_at": "2026-07-05T17:05:57Z",
+      "primary_item": {
+        "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+        "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+        "url": "https://arxiv.org/abs/2602.09239",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -886,14 +1138,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9234,
+        "recency": 0.8581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -964,14 +1216,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4884,
-      "importance": 0.4884,
-      "importance_score": 0.4884,
+      "score": 0.4754,
+      "importance": 0.4754,
+      "importance_score": 0.4754,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7022,
+        "recency": 0.6369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1042,14 +1294,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4875,
-      "importance": 0.4875,
-      "importance_score": 0.4875,
+      "score": 0.4744,
+      "importance": 0.4744,
+      "importance_score": 0.4744,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6974,
+        "recency": 0.632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1120,14 +1372,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8277,
+        "recency": 0.7624,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1198,14 +1450,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4884,
-      "importance": 0.4884,
-      "importance_score": 0.4884,
+      "score": 0.4754,
+      "importance": 0.4754,
+      "importance_score": 0.4754,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7022,
+        "recency": 0.6369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1220,83 +1472,6 @@
         "url": "https://github.com/steipete/CodexBar",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9dc8e4fe76fa",
-      "title": "“快速软件，最佳软件”（2019） / Fast Software, the Best Software",
-      "url": "https://craigmod.com/essays/fast_software",
-      "primary_url": "https://craigmod.com/essays/fast_software",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "afeda8b2d4dd8c25655870956deff2b956e3841e",
-          "title": "“快速软件，最佳软件”（2019） / Fast Software, the Best Software",
-          "url": "https://craigmod.com/essays/fast_software",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T07:25:25Z"
-        },
-        {
-          "id": "2599d85e938518ac02076c56426e9c3d326d13e9",
-          "title": "“快速软件，最佳软件”（2019） / Fast Software, the Best Software (2019)",
-          "url": "https://craigmod.com/essays/fast_software",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T07:25:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "afeda8b2d4dd8c25655870956deff2b956e3841e",
-          "title": "“快速软件，最佳软件”（2019） / Fast Software, the Best Software",
-          "url": "https://craigmod.com/essays/fast_software",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T07:25:25Z"
-        },
-        {
-          "id": "2599d85e938518ac02076c56426e9c3d326d13e9",
-          "title": "“快速软件，最佳软件”（2019） / Fast Software, the Best Software (2019)",
-          "url": "https://craigmod.com/essays/fast_software",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T07:25:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4549,
-      "importance": 0.4549,
-      "importance_score": 0.4549,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5347,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T07:25:25Z",
-      "latest_at": "2026-07-05T07:25:25Z",
-      "primary_item": {
-        "id": "afeda8b2d4dd8c25655870956deff2b956e3841e",
-        "title": "“快速软件，最佳软件”（2019） / Fast Software, the Best Software",
-        "url": "https://craigmod.com/essays/fast_software",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1353,14 +1528,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4697,
-      "importance": 0.4697,
-      "importance_score": 0.4697,
+      "score": 0.4566,
+      "importance": 0.4566,
+      "importance_score": 0.4566,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6085,
+        "recency": 0.5431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1431,14 +1606,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4884,
-      "importance": 0.4884,
-      "importance_score": 0.4884,
+      "score": 0.4753,
+      "importance": 0.4753,
+      "importance_score": 0.4753,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7019,
+        "recency": 0.6365,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1509,14 +1684,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4735,
-      "importance": 0.4735,
-      "importance_score": 0.4735,
+      "score": 0.4605,
+      "importance": 0.4605,
+      "importance_score": 0.4605,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6276,
+        "recency": 0.5623,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1531,181 +1706,6 @@
         "url": "https://news.ycombinator.com/item?id=48791708",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4675,
-      "importance": 0.4675,
-      "importance_score": 0.4675,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5973,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
-      "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7e9ffc3a6038",
-      "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "primary_url": "https://github.com/openai/codex/issues/30364",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1491dceae844e236964ec16492437e204db4290b",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T23:51:31.657000Z"
-        },
-        {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T22:53:09.885000Z"
-        },
-        {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:51:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1491dceae844e236964ec16492437e204db4290b",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T23:51:31.657000Z"
-        },
-        {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T22:53:09.885000Z"
-        },
-        {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:51:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4169,
-      "importance": 0.4169,
-      "importance_score": 0.4169,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2195,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T21:51:09Z",
-      "latest_at": "2026-07-04T23:51:31.657000Z",
-      "primary_item": {
-        "id": "1491dceae844e236964ec16492437e204db4290b",
-        "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     }
   ]
