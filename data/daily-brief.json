@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-06T21:53:52.384247Z",
+  "generated_at": "2026-07-06T23:02:01.380229Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0754-157e-9374-2615ffa09e3e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-0754-157e-9374-2615ffa09e3e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0902-242a-80f5-94c524eb8e62&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-0902-242a-80f5-94c524eb8e62&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9d4e84f4f29b4d360169e09dd85439b9bc591090",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0902-242a-80f5-94c524eb8e62&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c0c1217101112e450e12c0426f557d07756b6bb9",
           "title": "点击这里进入 / Click here to enter",
@@ -69,15 +78,6 @@
           "id": "cdd4bbd1347afbaa055d1fbc4c62a6e9b46b71ca",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1005-404e-96a7-ec33d3bb5682&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9a232ac1de10f613b71ab16f69951ac6f1a843fa",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0857-43b2-9755-23159197cca4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,6 +90,15 @@
       ],
       "items": [
         {
+          "id": "9d4e84f4f29b4d360169e09dd85439b9bc591090",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0902-242a-80f5-94c524eb8e62&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c0c1217101112e450e12c0426f557d07756b6bb9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0754-157e-9374-2615ffa09e3e&fp=-3",
@@ -147,15 +156,6 @@
           "id": "cdd4bbd1347afbaa055d1fbc4c62a6e9b46b71ca",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1005-404e-96a7-ec33d3bb5682&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9a232ac1de10f613b71ab16f69951ac6f1a843fa",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0857-43b2-9755-23159197cca4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -180,12 +180,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-05T22:57:20.124270Z",
-      "latest_at": "2026-07-06T21:53:52.384247Z",
+      "earliest_at": "2026-07-06T00:05:12.449821Z",
+      "latest_at": "2026-07-06T23:02:01.380229Z",
       "primary_item": {
-        "id": "c0c1217101112e450e12c0426f557d07756b6bb9",
+        "id": "9d4e84f4f29b4d360169e09dd85439b9bc591090",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0754-157e-9374-2615ffa09e3e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0902-242a-80f5-94c524eb8e62&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -286,14 +286,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8853,
+        "recency": 0.838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,14 +346,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8619,
+        "recency": 0.8146,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -406,14 +406,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8516,
+        "recency": 0.8043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -466,14 +466,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8275,
+        "recency": 0.7802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,14 +526,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.7568,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,14 +586,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6694,
+        "recency": 0.6221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,14 +645,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -705,14 +705,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6201,
+        "recency": 0.5727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -783,14 +783,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4789,
+        "recency": 0.4316,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -805,65 +805,6 @@
         "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
         "url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de70bb266c71",
-      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-      "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-      "primary_url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47f032c16901052cf42af16e0b0c7d83eba01264",
-          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-          "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T11:51:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "47f032c16901052cf42af16e0b0c7d83eba01264",
-          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-          "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T11:51:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T11:51:40Z",
-      "latest_at": "2026-07-06T11:51:40Z",
-      "primary_item": {
-        "id": "47f032c16901052cf42af16e0b0c7d83eba01264",
-        "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-        "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -902,14 +843,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6201,
+        "recency": 0.5727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,14 +902,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6201,
+        "recency": 0.5727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,6 +924,84 @@
         "url": "https://www.aibase.com/news/29404",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_56406e498584",
+      "title": "英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变",
+      "url": "https://36kr.com/newsflashes/3884758749016329?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3884758749016329?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "892440c55497d6e8611718ae6938bc9f67f807d6",
+          "title": "英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变",
+          "url": "https://36kr.com/newsflashes/3884758749016329?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:00:57Z"
+        },
+        {
+          "id": "10c2c05a51dbb5daa96d6ab45956a05647f72c96",
+          "title": "英伟达 AI 服务器架构据传将延后推出 公司回应称路线图并没有改变",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxatm8475789.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "892440c55497d6e8611718ae6938bc9f67f807d6",
+          "title": "英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变",
+          "url": "https://36kr.com/newsflashes/3884758749016329?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:00:57Z"
+        },
+        {
+          "id": "10c2c05a51dbb5daa96d6ab45956a05647f72c96",
+          "title": "英伟达 AI 服务器架构据传将延后推出 公司回应称路线图并没有改变",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxatm8475789.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9993,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-06T21:53:52.384247Z",
+      "latest_at": "2026-07-06T23:00:57Z",
+      "primary_item": {
+        "id": "892440c55497d6e8611718ae6938bc9f67f807d6",
+        "title": "英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变",
+        "url": "https://36kr.com/newsflashes/3884758749016329?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1039,14 +1058,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9483,
+        "recency": 0.901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1117,14 +1136,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.8899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1195,14 +1214,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8262,
+        "recency": 0.7789,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,14 +1292,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.5015,
+      "importance": 0.5015,
+      "importance_score": 0.5015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8151,
+        "recency": 0.7677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,14 +1370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.7568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,14 +1447,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4885,
-      "importance": 0.4885,
-      "importance_score": 0.4885,
+      "score": 0.479,
+      "importance": 0.479,
+      "importance_score": 0.479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7025,
+        "recency": 0.6552,
         "story_heat": 0.25
       },
       "category": "watch",
