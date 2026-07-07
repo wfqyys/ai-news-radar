@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-07T19:46:44.022086Z",
+  "generated_at": "2026-07-07T21:18:14.931441Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0547-0772-8680-60710fb1c93f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0547-0772-8680-60710fb1c93f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0718-3625-b6a1-2393b5c0e102&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0718-3625-b6a1-2393b5c0e102&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "04ea9f6dfb62460b34cd085aba85d517fa17b991",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0718-3625-b6a1-2393b5c0e102&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2567f629429939667302ad01db5cd6ba0340cb27",
           "title": "点击这里进入 / Click here to enter",
@@ -66,12 +75,21 @@
           "published_at": null
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "04ea9f6dfb62460b34cd085aba85d517fa17b991",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0718-3625-b6a1-2393b5c0e102&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2567f629429939667302ad01db5cd6ba0340cb27",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0547-0772-8680-60710fb1c93f&fp=-3",
@@ -126,8 +144,8 @@
           "published_at": null
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
+      "item_count": 7,
+      "duplicate_count": 7,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -145,31 +163,31 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-06T21:53:52.384247Z",
-      "latest_at": "2026-07-07T19:46:44.022086Z",
+      "latest_at": "2026-07-07T21:18:14.931441Z",
       "primary_item": {
-        "id": "2567f629429939667302ad01db5cd6ba0340cb27",
+        "id": "04ea9f6dfb62460b34cd085aba85d517fa17b991",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0547-0772-8680-60710fb1c93f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0718-3625-b6a1-2393b5c0e102&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_024a3808c07a",
-      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "story_id": "story_ca9a2a21da07",
+      "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "primary_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
+          "published_at": "2026-07-07T21:15:33Z"
         }
       ],
       "source_count": 1,
@@ -178,25 +196,25 @@
       ],
       "items": [
         {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
+          "published_at": "2026-07-07T21:15:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8846,
+      "importance": 0.8846,
+      "importance_score": 0.8846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8148,
+        "recency": 0.9981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -205,12 +223,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:20:06Z",
-      "latest_at": "2026-07-07T15:20:06Z",
+      "earliest_at": "2026-07-07T21:15:33Z",
+      "latest_at": "2026-07-07T21:15:33Z",
       "primary_item": {
-        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+        "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
@@ -250,14 +268,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8908,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -274,6 +292,187 @@
         "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_024a3808c07a",
+      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:20:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:20:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7513,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:20:06Z",
+      "latest_at": "2026-07-07T15:20:06Z",
+      "primary_item": {
+        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_db893fc62a8e",
+      "title": "Krea 2 身份保留功能上线",
+      "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "primary_url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9615,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T20:22:46Z",
+      "latest_at": "2026-07-07T20:22:46Z",
+      "primary_item": {
+        "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+        "title": "Krea 2 身份保留功能上线",
+        "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b39e53757bd9",
+      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+      "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "primary_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9275,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T19:33:53Z",
+      "latest_at": "2026-07-07T19:33:53Z",
+      "primary_item": {
+        "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+        "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -311,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.9117,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -371,14 +570,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8725,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,14 +631,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.8873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,14 +691,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,14 +751,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9181,
+        "recency": 0.8546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,14 +811,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5467,
+        "recency": 0.4832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -673,14 +872,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.8143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,14 +932,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,14 +992,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.808,
+        "recency": 0.7444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -854,14 +1053,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8109,
+        "recency": 0.7474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,14 +1113,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7938,
+        "recency": 0.7302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,14 +1173,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7696,
+        "recency": 0.706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,14 +1233,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,21 +1312,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5728,
+        "recency": 0.5092,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T09:31:30.480645Z",
       "latest_at": "2026-07-07T09:31:30.480645Z",
@@ -1137,186 +1335,6 @@
         "url": "https://www.aibase.com/news/29432",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_18e9ce98bcc6",
-      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7948,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:51:13Z",
-      "latest_at": "2026-07-07T14:51:13Z",
-      "primary_item": {
-        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_60d1b56766e3",
-      "title": "Australian Payment Plus 借助 ChatGPT 和 Codex 加快步伐 / Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "primary_url": "https://openai.com/index/australian-payments-plus",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f279ec273cd2591f98ed861aa8d61a1a8c24e372",
-          "title": "Australian Payment Plus 借助 ChatGPT 和 Codex 加快步伐 / Australian Payments Plus moves faster with ChatGPT and Codex",
-          "url": "https://openai.com/index/australian-payments-plus",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f279ec273cd2591f98ed861aa8d61a1a8c24e372",
-          "title": "Australian Payment Plus 借助 ChatGPT 和 Codex 加快步伐 / Australian Payments Plus moves faster with ChatGPT and Codex",
-          "url": "https://openai.com/index/australian-payments-plus",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.1759,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
-      "primary_item": {
-        "id": "f279ec273cd2591f98ed861aa8d61a1a8c24e372",
-        "title": "Australian Payment Plus 借助 ChatGPT 和 Codex 加快步伐 / Australian Payments Plus moves faster with ChatGPT and Codex",
-        "url": "https://openai.com/index/australian-payments-plus",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e16ebf254737",
-      "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-      "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-      "primary_url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-      "source": "BAIR：Berkeley AI Research Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-          "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-          "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-          "source": "BAIR：Berkeley AI Research Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "BAIR：Berkeley AI Research Blog"
-      ],
-      "items": [
-        {
-          "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-          "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-          "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-          "source": "BAIR：Berkeley AI Research Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5509,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
-      "primary_item": {
-        "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-        "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-        "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-        "source": "BAIR：Berkeley AI Research Blog",
-        "source_name": "AI HOT"
       }
     }
   ]
