@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-08T05:34:54.020236Z",
+  "generated_at": "2026-07-08T08:15:48.437071Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1535-21d1-b4dc-f8a3270a09a7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-1535-21d1-b4dc-f8a3270a09a7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1816-13bc-9ff4-ae216babed88&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-1816-13bc-9ff4-ae216babed88&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "413d920537b35841c94262426062cfb66b08a7bd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1816-13bc-9ff4-ae216babed88&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "86299e58e7d7c5f043c61fd40afd0d4c50db64c7",
           "title": "点击这里进入 / Click here to enter",
@@ -75,12 +84,21 @@
           "published_at": null
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "413d920537b35841c94262426062cfb66b08a7bd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1816-13bc-9ff4-ae216babed88&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "86299e58e7d7c5f043c61fd40afd0d4c50db64c7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1535-21d1-b4dc-f8a3270a09a7&fp=-3",
@@ -144,8 +162,8 @@
           "published_at": null
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
+      "item_count": 8,
+      "duplicate_count": 8,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -163,13 +181,93 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-07T09:31:30.480645Z",
-      "latest_at": "2026-07-08T05:34:54.020236Z",
+      "latest_at": "2026-07-08T08:15:48.437071Z",
       "primary_item": {
-        "id": "86299e58e7d7c5f043c61fd40afd0d4c50db64c7",
+        "id": "413d920537b35841c94262426062cfb66b08a7bd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1535-21d1-b4dc-f8a3270a09a7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1816-13bc-9ff4-ae216babed88&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_12e76410bef7",
+      "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+      "url": "https://www.aibase.com/news/29466",
+      "primary_url": "https://www.aibase.com/news/29466",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9784e2c888352132969140ba9021e4362bc18c2",
+          "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+          "url": "https://www.aibase.com/news/29466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        },
+        {
+          "id": "31abd93c3648431d5ce3ec68b951f62d75b8fc84",
+          "title": "Steam 玩家对 AI 没那么抗拒：43% 表示可以接受，仅 8% 绝对不碰",
+          "url": "https://www.aibase.com/zh/news/29466",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d9784e2c888352132969140ba9021e4362bc18c2",
+          "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+          "url": "https://www.aibase.com/news/29466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        },
+        {
+          "id": "31abd93c3648431d5ce3ec68b951f62d75b8fc84",
+          "title": "Steam 玩家对 AI 没那么抗拒：43% 表示可以接受，仅 8% 绝对不碰",
+          "url": "https://www.aibase.com/zh/news/29466",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T08:15:48.437071Z",
+      "latest_at": "2026-07-08T08:15:48.437071Z",
+      "primary_item": {
+        "id": "d9784e2c888352132969140ba9021e4362bc18c2",
+        "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+        "url": "https://www.aibase.com/news/29466",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -207,14 +305,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9709,
+        "recency": 0.8592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,6 +329,266 @@
         "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4b474ef0f2a4",
+      "title": "OpenAI GPT-5.6 周四发布，此前因美国政府强制延迟",
+      "url": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i",
+      "primary_url": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3738e711da0c5bb143c2ad8eb49ee9b8c24b5f49",
+          "title": "OpenAI GPT-5.6 周四发布，此前因美国政府强制延迟",
+          "url": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:00:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3738e711da0c5bb143c2ad8eb49ee9b8c24b5f49",
+          "title": "OpenAI GPT-5.6 周四发布，此前因美国政府强制延迟",
+          "url": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:00:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9894,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T08:00:30Z",
+      "latest_at": "2026-07-08T08:00:30Z",
+      "primary_item": {
+        "id": "3738e711da0c5bb143c2ad8eb49ee9b8c24b5f49",
+        "title": "OpenAI GPT-5.6 周四发布，此前因美国政府强制延迟",
+        "url": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f11ba8b60f2",
+      "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+      "url": "https://www.aibase.com/news/29464",
+      "primary_url": "https://www.aibase.com/news/29464",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://www.aibase.com/news/29464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        },
+        {
+          "id": "9ed2a663314dc62c98060d50c58d8466b82cc81e",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://36kr.com/newsflashes/3886665005166600?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T07:20:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://www.aibase.com/news/29464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        },
+        {
+          "id": "9ed2a663314dc62c98060d50c58d8466b82cc81e",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://36kr.com/newsflashes/3886665005166600?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T07:20:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T07:20:05Z",
+      "latest_at": "2026-07-08T08:15:48.437071Z",
+      "primary_item": {
+        "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
+        "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+        "url": "https://www.aibase.com/news/29464",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_87943306917a",
+      "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+      "url": "https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5",
+      "primary_url": "https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9ecab2d3063854ba73545481fdc11ca689e6e6b6",
+          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+          "url": "https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T07:00:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9ecab2d3063854ba73545481fdc11ca689e6e6b6",
+          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+          "url": "https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T07:00:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9479,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T07:00:51Z",
+      "latest_at": "2026-07-08T07:00:51Z",
+      "primary_item": {
+        "id": "9ecab2d3063854ba73545481fdc11ca689e6e6b6",
+        "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+        "url": "https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_be33949633ec",
+      "title": "工信部发布Claude Code后门安全风险提示",
+      "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+      "primary_url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88bbf0c47d86a22d60db30a10d7c985520c5d0df",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "88bbf0c47d86a22d60db30a10d7c985520c5d0df",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9095,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T06:05:32Z",
+      "latest_at": "2026-07-08T06:05:32Z",
+      "primary_item": {
+        "id": "88bbf0c47d86a22d60db30a10d7c985520c5d0df",
+        "title": "工信部发布Claude Code后门安全风险提示",
+        "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -268,14 +626,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6532,
+        "recency": 0.5415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -292,66 +650,6 @@
         "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5146272332c9",
-      "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-      "url": "https://www.aibase.com/news/29446",
-      "primary_url": "https://www.aibase.com/news/29446",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:34:54.020236Z",
-      "latest_at": "2026-07-08T05:34:54.020236Z",
-      "primary_item": {
-        "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-        "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-        "url": "https://www.aibase.com/news/29446",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -389,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -449,14 +747,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7713,
+        "recency": 0.6596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,14 +808,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9139,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -570,14 +868,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8948,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -593,66 +891,6 @@
         "url": "https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8ca1e5e1fa54",
-      "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-      "url": "https://www.aibase.com/news/29445",
-      "primary_url": "https://www.aibase.com/news/29445",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-          "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.aibase.com/news/29445",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-          "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.aibase.com/news/29445",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:34:54.020236Z",
-      "latest_at": "2026-07-08T05:34:54.020236Z",
-      "primary_item": {
-        "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-        "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-        "url": "https://www.aibase.com/news/29445",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -690,14 +928,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.7015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,6 +951,66 @@
         "url": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
         "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1a33b32337b2",
+      "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+      "url": "https://www.aibase.com/news/29467",
+      "primary_url": "https://www.aibase.com/news/29467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+          "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+          "url": "https://www.aibase.com/news/29467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+          "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+          "url": "https://www.aibase.com/news/29467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T08:15:48.437071Z",
+      "latest_at": "2026-07-08T08:15:48.437071Z",
+      "primary_item": {
+        "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+        "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+        "url": "https://www.aibase.com/news/29467",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -750,14 +1048,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8091,
+        "recency": 0.6974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,20 +1108,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7758,
+        "recency": 0.6641,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-08T00:12:06Z",
       "latest_at": "2026-07-08T00:12:06Z",
@@ -833,66 +1130,6 @@
         "url": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a44728534d6",
-      "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-      "url": "https://www.aibase.com/news/29454",
-      "primary_url": "https://www.aibase.com/news/29454",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-          "url": "https://www.aibase.com/news/29454",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-          "url": "https://www.aibase.com/news/29454",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:34:54.020236Z",
-      "latest_at": "2026-07-08T05:34:54.020236Z",
-      "primary_item": {
-        "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-        "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-        "url": "https://www.aibase.com/news/29454",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -930,14 +1167,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8323,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,6 +1190,66 @@
         "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1f4fda0f31b1",
+      "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+      "url": "https://www.aibase.com/news/29462",
+      "primary_url": "https://www.aibase.com/news/29462",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+          "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+          "url": "https://www.aibase.com/news/29462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+          "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+          "url": "https://www.aibase.com/news/29462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T08:15:48.437071Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T08:15:48.437071Z",
+      "latest_at": "2026-07-08T08:15:48.437071Z",
+      "primary_item": {
+        "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+        "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+        "url": "https://www.aibase.com/news/29462",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -990,21 +1287,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4064,
+        "recency": 0.2946,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T15:20:06Z",
       "latest_at": "2026-07-07T15:20:06Z",
@@ -1017,198 +1313,21 @@
       }
     },
     {
-      "story_id": "story_db893fc62a8e",
-      "title": "Krea 2 身份保留功能上线",
-      "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-      "primary_url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
-          "title": "Krea 2 身份保留功能上线",
-          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T20:22:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
-          "title": "Krea 2 身份保留功能上线",
-          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T20:22:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6166,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T20:22:46Z",
-      "latest_at": "2026-07-07T20:22:46Z",
-      "primary_item": {
-        "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
-        "title": "Krea 2 身份保留功能上线",
-        "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b39e53757bd9",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "primary_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5826,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T19:33:53Z",
-      "latest_at": "2026-07-07T19:33:53Z",
-      "primary_item": {
-        "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-        "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_51cab4526f0e",
-      "title": "Meta AI 推出 Muse Image：MSL 首个图像生成模型",
-      "url": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn",
-      "primary_url": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9adeb07c594f7435c20ad1b6777778062e40d0fa",
-          "title": "Meta AI 推出 Muse Image：MSL 首个图像生成模型",
-          "url": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:11:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "9adeb07c594f7435c20ad1b6777778062e40d0fa",
-          "title": "Meta AI 推出 Muse Image：MSL 首个图像生成模型",
-          "url": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:11:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5669,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T19:11:10Z",
-      "latest_at": "2026-07-07T19:11:10Z",
-      "primary_item": {
-        "id": "9adeb07c594f7435c20ad1b6777778062e40d0fa",
-        "title": "Meta AI 推出 Muse Image：MSL 首个图像生成模型",
-        "url": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5467c6cdcd66",
-      "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-      "url": "https://www.aibase.com/news/29447",
-      "primary_url": "https://www.aibase.com/news/29447",
+      "story_id": "story_0e26cd233718",
+      "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+      "url": "https://www.aibase.com/news/29459",
+      "primary_url": "https://www.aibase.com/news/29459",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-          "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-          "url": "https://www.aibase.com/news/29447",
+          "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+          "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+          "url": "https://www.aibase.com/news/29459",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
+          "published_at": "2026-07-08T08:15:48.437071Z"
         }
       ],
       "source_count": 1,
@@ -1217,13 +1336,13 @@
       ],
       "items": [
         {
-          "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-          "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-          "url": "https://www.aibase.com/news/29447",
+          "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+          "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+          "url": "https://www.aibase.com/news/29459",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T05:34:54.020236Z"
+          "published_at": "2026-07-08T08:15:48.437071Z"
         }
       ],
       "item_count": 1,
@@ -1243,73 +1362,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T05:34:54.020236Z",
-      "latest_at": "2026-07-08T05:34:54.020236Z",
+      "earliest_at": "2026-07-08T08:15:48.437071Z",
+      "latest_at": "2026-07-08T08:15:48.437071Z",
       "primary_item": {
-        "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-        "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-        "url": "https://www.aibase.com/news/29447",
+        "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+        "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+        "url": "https://www.aibase.com/news/29459",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_87f69b1f29d7",
-      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-      "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "primary_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5424,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T18:35:58Z",
-      "latest_at": "2026-07-07T18:35:58Z",
-      "primary_item": {
-        "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-        "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
