@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T12:28:13.704545Z",
+  "generated_at": "2026-07-10T15:13:01.620601Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "93e2b30cb050236e8c5395265f63e1d82d5e261f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f2775ef9caff977bd5e7331164b6ff73ce40eb20",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "9bf18a0e147b2f39bd81bb2da4e457d10be91417",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0300-10e7-86a9-c92b69432218&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a07a3dfa97ef0e2c4203d76f013ca2377f001627",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0003-1200-91f6-a77bfafd4a64&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "93e2b30cb050236e8c5395265f63e1d82d5e261f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f2775ef9caff977bd5e7331164b6ff73ce40eb20",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
@@ -183,15 +192,6 @@
           "id": "9bf18a0e147b2f39bd81bb2da4e457d10be91417",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0300-10e7-86a9-c92b69432218&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a07a3dfa97ef0e2c4203d76f013ca2377f001627",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0003-1200-91f6-a77bfafd4a64&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T14:02:43.675256Z",
-      "latest_at": "2026-07-10T12:28:13.704545Z",
+      "earliest_at": "2026-07-09T16:59:44.457023Z",
+      "latest_at": "2026-07-10T15:13:01.620601Z",
       "primary_item": {
-        "id": "f2775ef9caff977bd5e7331164b6ff73ce40eb20",
+        "id": "93e2b30cb050236e8c5395265f63e1d82d5e261f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -261,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.887,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,14 +322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7721,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -349,7 +349,67 @@
       }
     },
     {
-      "story_id": "story_c3ab093dbe41",
+      "story_id": "story_57a973ffabd0",
+      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+      "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+      "primary_url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "19ae62a311f8273c2259461ad6d95fcea6c245f5",
+          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T13:58:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "19ae62a311f8273c2259461ad6d95fcea6c245f5",
+          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T13:58:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T13:58:07Z",
+      "latest_at": "2026-07-10T13:58:07Z",
+      "primary_item": {
+        "id": "19ae62a311f8273c2259461ad6d95fcea6c245f5",
+        "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+        "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5ddec36afac5",
       "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
       "url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
       "primary_url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
@@ -402,14 +462,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7902,
+        "recency": 0.6758,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -463,14 +523,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,14 +583,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,14 +643,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4804,
+        "recency": 0.366,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,20 +704,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.672,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:20:46Z",
       "latest_at": "2026-07-10T07:20:46Z",
@@ -704,20 +763,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7822,
+        "recency": 0.6678,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:14:39Z",
       "latest_at": "2026-07-10T07:14:39Z",
@@ -764,14 +822,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,14 +882,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,65 +905,6 @@
         "url": "https://www.aibase.com/news/29528",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cca0cea48a5e",
-      "title": "Claude Code v2.1.206 发布",
-      "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-      "primary_url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5c57ebb00cdb69b977c90407d93c01ea565bad5",
-          "title": "Claude Code v2.1.206 发布",
-          "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T01:45:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b5c57ebb00cdb69b977c90407d93c01ea565bad5",
-          "title": "Claude Code v2.1.206 发布",
-          "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T01:45:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5536,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T01:45:26Z",
-      "latest_at": "2026-07-10T01:45:26Z",
-      "primary_item": {
-        "id": "b5c57ebb00cdb69b977c90407d93c01ea565bad5",
-        "title": "Claude Code v2.1.206 发布",
-        "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -961,14 +960,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7145,
-      "importance": 0.7145,
-      "importance_score": 0.7145,
+      "score": 0.6916,
+      "importance": 0.6916,
+      "importance_score": 0.6916,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3875,
+        "recency": 0.2731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -984,66 +983,6 @@
         "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_281a7d3afe46",
-      "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.1759,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T16:41:29Z",
-      "latest_at": "2026-07-09T16:41:29Z",
-      "primary_item": {
-        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-        "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1081,14 +1020,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,14 +1080,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1201,14 +1140,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,14 +1200,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,14 +1260,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,6 +1283,103 @@
         "url": "https://www.aibase.com/news/29523",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_afe9521165d7",
+      "title": "为5岁儿童打造实时AI辅导老师",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "primary_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "source": "www.ello.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f1b03f71658e04662002a0b3074d3ca0e80dad99",
+          "title": "为5岁儿童打造实时AI辅导老师",
+          "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+          "source": "www.ello.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T13:03:14.639000Z"
+        },
+        {
+          "id": "2f5a9fcf2b62ee736e9709e7c91f2b4cf7d7507a",
+          "title": "为 5 岁儿童打造实时人工智能导师 / Building a real-time AI tutor for 5-year-olds",
+          "url": "https://news.ycombinator.com/item?id=48852199",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T02:01:52.982000Z"
+        },
+        {
+          "id": "a8b52c9c006ffe6180de15b2fc6de694607d5415",
+          "title": "为5岁儿童打造实时AI辅导老师 / Building a real-time AI tutor for 5-year-olds",
+          "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T20:51:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.ello.com"
+      ],
+      "items": [
+        {
+          "id": "f1b03f71658e04662002a0b3074d3ca0e80dad99",
+          "title": "为5岁儿童打造实时AI辅导老师",
+          "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+          "source": "www.ello.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T13:03:14.639000Z"
+        },
+        {
+          "id": "2f5a9fcf2b62ee736e9709e7c91f2b4cf7d7507a",
+          "title": "为 5 岁儿童打造实时人工智能导师 / Building a real-time AI tutor for 5-year-olds",
+          "url": "https://news.ycombinator.com/item?id=48852199",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T02:01:52.982000Z"
+        },
+        {
+          "id": "a8b52c9c006ffe6180de15b2fc6de694607d5415",
+          "title": "为5岁儿童打造实时AI辅导老师 / Building a real-time AI tutor for 5-year-olds",
+          "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T20:51:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9099,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-09T20:51:06Z",
+      "latest_at": "2026-07-10T13:03:14.639000Z",
+      "primary_item": {
+        "id": "f1b03f71658e04662002a0b3074d3ca0e80dad99",
+        "title": "为5岁儿童打造实时AI辅导老师",
+        "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+        "source": "www.ello.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1419,14 +1455,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5712,
-      "importance": 0.5712,
-      "importance_score": 0.5712,
+      "score": 0.5484,
+      "importance": 0.5484,
+      "importance_score": 0.5484,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9912,
+        "recency": 0.8768,
         "story_heat": 0.5
       },
       "category": "multi_source",
