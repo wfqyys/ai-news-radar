@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T21:33:26.775349Z",
+  "generated_at": "2026-07-10T22:55:52.472747Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0733-49d0-901a-5364be177bea&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0733-49d0-901a-5364be177bea&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "507657837ad028592e78e33484d38037a78605bd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "216e7f3943882b981365243471c5ae35d7402f0d",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "b52d5944d7c0b677857d07439fb0f7fc6213ddd2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0944-42fc-96f5-8c3120575760&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ecfac48dc3d2bba623f6ace50fd0aa32b2070007",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0817-0440-bf85-ad486edd6ab9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "507657837ad028592e78e33484d38037a78605bd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "216e7f3943882b981365243471c5ae35d7402f0d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0733-49d0-901a-5364be177bea&fp=-3",
@@ -201,15 +210,6 @@
           "id": "b52d5944d7c0b677857d07439fb0f7fc6213ddd2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0944-42fc-96f5-8c3120575760&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ecfac48dc3d2bba623f6ace50fd0aa32b2070007",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0817-0440-bf85-ad486edd6ab9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T22:16:43.248594Z",
-      "latest_at": "2026-07-10T21:33:26.775349Z",
+      "earliest_at": "2026-07-09T23:44:19.417680Z",
+      "latest_at": "2026-07-10T22:55:52.472747Z",
       "primary_item": {
-        "id": "216e7f3943882b981365243471c5ae35d7402f0d",
+        "id": "507657837ad028592e78e33484d38037a78605bd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0733-49d0-901a-5364be177bea&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9635,
+        "recency": 0.9063,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7669,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,14 +401,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9394,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,6 +425,66 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_33695afdb262",
+      "title": "博科圣地如何利用前沿AI技术",
+      "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+      "primary_url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e85d2c96327e71d873f282744399a2f69e96b722",
+          "title": "博科圣地如何利用前沿AI技术",
+          "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:07:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e85d2c96327e71d873f282744399a2f69e96b722",
+          "title": "博科圣地如何利用前沿AI技术",
+          "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:07:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9663,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T22:07:19Z",
+      "latest_at": "2026-07-10T22:07:19Z",
+      "primary_item": {
+        "id": "e85d2c96327e71d873f282744399a2f69e96b722",
+        "title": "博科圣地如何利用前沿AI技术",
+        "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -462,14 +522,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9001,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -484,66 +544,6 @@
         "title": "Apple 起诉 OpenAI 窃取商业机密",
         "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_63fa9d306883",
-      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-      "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
-      "primary_url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c30dc85cdd0c1fd06f95e93d3523038170da2249",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c30dc85cdd0c1fd06f95e93d3523038170da2249",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9345,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T19:59:11Z",
-      "latest_at": "2026-07-10T19:59:11Z",
-      "primary_item": {
-        "id": "c30dc85cdd0c1fd06f95e93d3523038170da2249",
-        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -582,14 +582,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8489,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,14 +642,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8354,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -702,14 +702,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8234,
+        "recency": 0.7662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,6 +724,66 @@
         "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
         "url": "https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_63fa9d306883",
+      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+      "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
+      "primary_url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c30dc85cdd0c1fd06f95e93d3523038170da2249",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c30dc85cdd0c1fd06f95e93d3523038170da2249",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8773,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T19:59:11Z",
+      "latest_at": "2026-07-10T19:59:11Z",
+      "primary_item": {
+        "id": "c30dc85cdd0c1fd06f95e93d3523038170da2249",
+        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "url": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -762,20 +822,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.6796,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T15:14:27Z",
       "latest_at": "2026-07-10T15:14:27Z",
@@ -822,21 +881,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3934,
+        "recency": 0.3362,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:00:00Z",
       "latest_at": "2026-07-10T07:00:00Z",
@@ -883,14 +941,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6838,
+        "recency": 0.6266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -942,14 +1000,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7319,
+        "recency": 0.6747,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1022,14 +1080,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7193,
-      "importance": 0.7193,
-      "importance_score": 0.7193,
+      "score": 0.7079,
+      "importance": 0.7079,
+      "importance_score": 0.7079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4116,
+        "recency": 0.3544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,14 +1159,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7109,
-      "importance": 0.7109,
-      "importance_score": 0.7109,
+      "score": 0.6994,
+      "importance": 0.6994,
+      "importance_score": 0.6994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3694,
+        "recency": 0.3122,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1161,14 +1219,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5084,
+        "recency": 0.4511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1241,14 +1299,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6778,
-      "importance": 0.6778,
-      "importance_score": 0.6778,
+      "score": 0.6664,
+      "importance": 0.6664,
+      "importance_score": 0.6664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.204,
+        "recency": 0.1468,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,14 +1378,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6778,
-      "importance": 0.6778,
-      "importance_score": 0.6778,
+      "score": 0.6664,
+      "importance": 0.6664,
+      "importance_score": 0.6664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.204,
+        "recency": 0.1468,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,84 +1401,6 @@
         "url": "https://www.aibase.com/news/29515",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_13243758b119",
-      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-      "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-      "primary_url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "3ff7c88892d9ebe006dbd32980f29249968951f5",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "3ff7c88892d9ebe006dbd32980f29249968951f5",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6388,
-      "importance": 0.6388,
-      "importance_score": 0.6388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0089,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T21:46:17Z",
-      "latest_at": "2026-07-09T21:46:17Z",
-      "primary_item": {
-        "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-        "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-        "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1477,14 +1457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6778,
-      "importance": 0.6778,
-      "importance_score": 0.6778,
+      "score": 0.6664,
+      "importance": 0.6664,
+      "importance_score": 0.6664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.204,
+        "recency": 0.1468,
         "story_heat": 0.25
       },
       "category": "watch",
