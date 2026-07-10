@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T09:58:58.495966Z",
+  "generated_at": "2026-07-10T12:28:13.704545Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1959-2505-843f-8af0580e364a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260710-1959-2505-843f-8af0580e364a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f2775ef9caff977bd5e7331164b6ff73ce40eb20",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "29d2c0f2cb7365492e655456c4296a1637616cde",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "a07a3dfa97ef0e2c4203d76f013ca2377f001627",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0003-1200-91f6-a77bfafd4a64&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8b374c4e6c1ff579b58d37a7b8cb98ef8e92cdc1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-2124-310b-863f-5a9bd9535acf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "f2775ef9caff977bd5e7331164b6ff73ce40eb20",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "29d2c0f2cb7365492e655456c4296a1637616cde",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1959-2505-843f-8af0580e364a&fp=-3",
@@ -183,15 +192,6 @@
           "id": "a07a3dfa97ef0e2c4203d76f013ca2377f001627",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0003-1200-91f6-a77bfafd4a64&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8b374c4e6c1ff579b58d37a7b8cb98ef8e92cdc1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-2124-310b-863f-5a9bd9535acf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,14 +216,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T11:24:04.146251Z",
-      "latest_at": "2026-07-10T09:58:58.495966Z",
+      "earliest_at": "2026-07-09T14:02:43.675256Z",
+      "latest_at": "2026-07-10T12:28:13.704545Z",
       "primary_item": {
-        "id": "29d2c0f2cb7365492e655456c4296a1637616cde",
+        "id": "f2775ef9caff977bd5e7331164b6ff73ce40eb20",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1959-2505-843f-8af0580e364a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2228-416b-a307-67a04a6628a1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_fd60211f7949",
+      "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+      "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "primary_url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
+          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T09:45:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
+          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T09:45:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T09:45:30Z",
+      "latest_at": "2026-07-10T09:45:30Z",
+      "primary_item": {
+        "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
+        "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -261,14 +322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8757,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -341,14 +402,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 0.7902,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -402,14 +463,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -425,6 +486,66 @@
         "url": "https://www.aibase.com/news/29529",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_099be7faa245",
+      "title": "小红书发布大模型新架构 PIPO",
+      "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
+      "primary_url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3441630213ff9e9417498851b64e450adb39dbe9",
+          "title": "小红书发布大模型新架构 PIPO",
+          "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T09:59:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "3441630213ff9e9417498851b64e450adb39dbe9",
+          "title": "小红书发布大模型新架构 PIPO",
+          "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T09:59:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8964,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T09:59:00Z",
+      "latest_at": "2026-07-10T09:59:00Z",
+      "primary_item": {
+        "id": "3441630213ff9e9417498851b64e450adb39dbe9",
+        "title": "小红书发布大模型新架构 PIPO",
+        "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -462,14 +583,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.584,
+        "recency": 0.4804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -523,14 +644,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,14 +704,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8859,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -643,14 +764,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,67 +787,6 @@
         "url": "https://www.aibase.com/news/29526",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_281a7d3afe46",
-      "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.2795,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T16:41:29Z",
-      "latest_at": "2026-07-09T16:41:29Z",
-      "primary_item": {
-        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-        "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -764,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,14 +884,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6573,
+        "recency": 0.5536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,17 +961,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
+      "score": 0.7145,
+      "importance": 0.7145,
+      "importance_score": 0.7145,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4912,
+        "recency": 0.3875,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -927,62 +987,63 @@
       }
     },
     {
-      "story_id": "story_1234bd4935ed",
-      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-      "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-      "primary_url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_281a7d3afe46",
+      "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
-          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-          "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T00:20:20Z"
+          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
+          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T16:41:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Research：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
-          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-          "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T00:20:20Z"
+          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
+          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T16:41:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5982,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.1759,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T00:20:20Z",
-      "latest_at": "2026-07-10T00:20:20Z",
+      "earliest_at": "2026-07-09T16:41:29Z",
+      "latest_at": "2026-07-09T16:41:29Z",
       "primary_item": {
-        "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
-        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-        "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
+        "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1020,14 +1081,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,14 +1141,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,86 +1164,6 @@
         "url": "https://www.aibase.com/news/29527",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5941cef110c0",
-      "title": "ChatGPT 现在是您最雄心勃勃的工作的合作伙伴 / ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "primary_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8aad6129e33dd74a8a176bfa3d478d9acf5ae0b",
-          "title": "ChatGPT 现在是您最雄心勃勃的工作的合作伙伴 / ChatGPT is now a partner for your most ambitious work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T10:00:00Z"
-        },
-        {
-          "id": "a6c727a47c1be60dbae0bc5ca8e3c447f647f7b0",
-          "title": "聊天GPT工作 / ChatGPT Work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:30.429000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "c8aad6129e33dd74a8a176bfa3d478d9acf5ae0b",
-          "title": "ChatGPT 现在是您最雄心勃勃的工作的合作伙伴 / ChatGPT is now a partner for your most ambitious work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T10:00:00Z"
-        },
-        {
-          "id": "a6c727a47c1be60dbae0bc5ca8e3c447f647f7b0",
-          "title": "聊天GPT工作 / ChatGPT Work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:30.429000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7101,
-      "importance": 0.7101,
-      "importance_score": 0.7101,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.0007,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T10:00:00Z",
-      "latest_at": "2026-07-09T21:46:30.429000Z",
-      "primary_item": {
-        "id": "c8aad6129e33dd74a8a176bfa3d478d9acf5ae0b",
-        "title": "ChatGPT 现在是您最雄心勃勃的工作的合作伙伴 / ChatGPT is now a partner for your most ambitious work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1220,14 +1201,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1280,14 +1261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1340,14 +1321,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1366,83 +1347,100 @@
       }
     },
     {
-      "story_id": "story_7d8b65b0a8e5",
-      "title": "​谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速",
-      "url": "https://www.aibase.com/news/29522",
-      "primary_url": "https://www.aibase.com/news/29522",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c2a3f0d7ae30",
+      "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
+      "url": "https://nevo-project.epfl.ch",
+      "primary_url": "https://nevo-project.epfl.ch",
+      "source": "nevo-project.epfl.ch",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ade8c4b1e1cd69dd50c96d596a006d148d1e1128",
-          "title": "​谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速",
-          "url": "https://www.aibase.com/news/29522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T06:25:24.229803Z"
+          "id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
+          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
+          "url": "https://nevo-project.epfl.ch",
+          "source": "nevo-project.epfl.ch",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T12:15:35.260000Z"
         },
         {
-          "id": "7b8f643c8901fcf06bde05f6c909eaa86a34f3cd",
-          "title": "​谷歌发布 LiteRT.js：浏览器跑 AI 推理最高快 3 倍，WebAssembly 硬核加速",
-          "url": "https://www.aibase.com/zh/news/29522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "77250f068e5bfeeb2aa5d9d3063f88aff5a1b953",
+          "title": "人工智能生成的视频可最大程度地驱动目标大脑区域 / AI-generated videos to maximally drive a target brain region",
+          "url": "https://news.ycombinator.com/item?id=48856904",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T09:45:26.986000Z"
+        },
+        {
+          "id": "d9cbaaf5378ca57ca055fc09bc7a5461308c46cd",
+          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区 / AI-generated videos to maximally drive a target brain region",
+          "url": "https://nevo-project.epfl.ch",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T07:39:11Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News",
+        "hackernews",
+        "nevo-project.epfl.ch"
       ],
       "items": [
         {
-          "id": "ade8c4b1e1cd69dd50c96d596a006d148d1e1128",
-          "title": "​谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速",
-          "url": "https://www.aibase.com/news/29522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T06:25:24.229803Z"
+          "id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
+          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
+          "url": "https://nevo-project.epfl.ch",
+          "source": "nevo-project.epfl.ch",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T12:15:35.260000Z"
         },
         {
-          "id": "7b8f643c8901fcf06bde05f6c909eaa86a34f3cd",
-          "title": "​谷歌发布 LiteRT.js：浏览器跑 AI 推理最高快 3 倍，WebAssembly 硬核加速",
-          "url": "https://www.aibase.com/zh/news/29522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "77250f068e5bfeeb2aa5d9d3063f88aff5a1b953",
+          "title": "人工智能生成的视频可最大程度地驱动目标大脑区域 / AI-generated videos to maximally drive a target brain region",
+          "url": "https://news.ycombinator.com/item?id=48856904",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T09:45:26.986000Z"
+        },
+        {
+          "id": "d9cbaaf5378ca57ca055fc09bc7a5461308c46cd",
+          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区 / AI-generated videos to maximally drive a target brain region",
+          "url": "https://nevo-project.epfl.ch",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T07:39:11Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5712,
+      "importance": 0.5712,
+      "importance_score": 0.5712,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8517,
-        "story_heat": 0.25
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9912,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-10T06:25:24.229803Z",
-      "latest_at": "2026-07-10T06:25:24.229803Z",
+      "earliest_at": "2026-07-10T07:39:11Z",
+      "latest_at": "2026-07-10T12:15:35.260000Z",
       "primary_item": {
-        "id": "ade8c4b1e1cd69dd50c96d596a006d148d1e1128",
-        "title": "​谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速",
-        "url": "https://www.aibase.com/news/29522",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
+        "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
+        "url": "https://nevo-project.epfl.ch",
+        "source": "nevo-project.epfl.ch",
+        "source_name": "Buzzing"
       }
     }
   ]
