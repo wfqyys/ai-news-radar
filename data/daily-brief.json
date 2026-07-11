@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T22:12:15.149402Z",
+  "generated_at": "2026-07-11T23:24:03.362302Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6ffcb02e87e079d30defd481e08c8518541ad1fe",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "dc4530fe1f16a1f891080b941764623f29462e28",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "7ad5c4ed33aba5a24c143c8c6483e300e11d2fe1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0955-176e-9eaf-bb693ac03a04&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "507657837ad028592e78e33484d38037a78605bd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "6ffcb02e87e079d30defd481e08c8518541ad1fe",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "dc4530fe1f16a1f891080b941764623f29462e28",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
@@ -309,15 +318,6 @@
           "id": "7ad5c4ed33aba5a24c143c8c6483e300e11d2fe1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0955-176e-9eaf-bb693ac03a04&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "507657837ad028592e78e33484d38037a78605bd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,12 +342,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T22:55:52.472747Z",
-      "latest_at": "2026-07-11T22:12:15.149402Z",
+      "earliest_at": "2026-07-10T23:54:51.378198Z",
+      "latest_at": "2026-07-11T23:24:03.362302Z",
       "primary_item": {
-        "id": "dc4530fe1f16a1f891080b941764623f29462e28",
+        "id": "6ffcb02e87e079d30defd481e08c8518541ad1fe",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -387,14 +387,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,14 +447,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7737,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,14 +507,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7631,
+        "recency": 0.7133,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,14 +586,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7149,
-      "importance": 0.7149,
-      "importance_score": 0.7149,
+      "score": 0.7049,
+      "importance": 0.7049,
+      "importance_score": 0.7049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3895,
+        "recency": 0.3396,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,14 +720,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5756,
-      "importance": 0.5756,
-      "importance_score": 0.5756,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7631,
+        "recency": 0.7133,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -742,6 +742,84 @@
         "url": "https://www.mixfont.com/ghost-font",
         "source": "www.mixfont.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3822e0e0e383",
+      "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+      "url": "https://news.ycombinator.com/item?id=48876505",
+      "primary_url": "https://news.ycombinator.com/item?id=48876505",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9913,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T22:38:57Z",
+      "latest_at": "2026-07-11T23:11:32.847000Z",
+      "primary_item": {
+        "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+        "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+        "url": "https://news.ycombinator.com/item?id=48876505",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -817,14 +895,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8854,
+        "recency": 0.8355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -838,6 +916,239 @@
         "title": "《AI 2040》与“智能崇拜”",
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
         "source": "geohot.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_70acfff4fef0",
+      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:47:17.342000Z"
+        },
+        {
+          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:23:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:47:17.342000Z"
+        },
+        {
+          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:23:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8911,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T20:23:05Z",
+      "latest_at": "2026-07-11T20:47:17.342000Z",
+      "primary_item": {
+        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_afc80c46cea0",
+      "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+      "url": "https://news.ycombinator.com/item?id=48876441",
+      "primary_url": "https://news.ycombinator.com/item?id=48876441",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "url": "https://news.ycombinator.com/item?id=48876441",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T22:28:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "url": "https://news.ycombinator.com/item?id=48876441",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T22:28:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9913,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T22:28:48Z",
+      "latest_at": "2026-07-11T23:11:32.847000Z",
+      "primary_item": {
+        "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+        "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+        "url": "https://news.ycombinator.com/item?id=48876441",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_11aee9868a58",
+      "title": "恐怖组织如何利用人工智能在战场上获得优势",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4885,
+      "importance": 0.4885,
+      "importance_score": 0.4885,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7023,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T01:03:10.067000Z",
+      "latest_at": "2026-07-11T16:15:25.572000Z",
+      "primary_item": {
+        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+        "title": "恐怖组织如何利用人工智能在战场上获得优势",
+        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+        "source": "www.nytimes.com",
         "source_name": "Buzzing"
       }
     },
@@ -895,14 +1206,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9504,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -920,30 +1231,30 @@
       }
     },
     {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "story_id": "story_eda80e4879bc",
+      "title": "Instagram的最新AI工具没能撑过这一周",
+      "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+      "primary_url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+          "title": "Instagram的最新AI工具没能撑过这一周",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
+          "published_at": "2026-07-11T17:03:15.813000Z"
         },
         {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
+          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
+          "published_at": "2026-07-11T16:40:51Z"
         }
       ],
       "source_count": 2,
@@ -953,48 +1264,280 @@
       ],
       "items": [
         {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+          "title": "Instagram的最新AI工具没能撑过这一周",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
+          "published_at": "2026-07-11T17:03:15.813000Z"
         },
         {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
+          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
+          "published_at": "2026-07-11T16:40:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.7356,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
+      "earliest_at": "2026-07-11T16:40:51Z",
+      "latest_at": "2026-07-11T17:03:15.813000Z",
       "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+        "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+        "title": "Instagram的最新AI工具没能撑过这一周",
+        "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5a71c356e918",
+      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+      "url": "https://www.v2ex.com/t/1226598",
+      "primary_url": "https://www.v2ex.com/t/1226598",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4573,
+      "importance": 0.4573,
+      "importance_score": 0.4573,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5463,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:30:42Z",
+      "latest_at": "2026-07-11T12:30:42Z",
+      "primary_item": {
+        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+        "url": "https://www.v2ex.com/t/1226598",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9e4cd6c746a9",
+      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4547,
+      "importance": 0.4547,
+      "importance_score": 0.4547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5337,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:12:34Z",
+      "latest_at": "2026-07-11T12:12:34Z",
+      "primary_item": {
+        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b3a404e8e56a",
+      "title": "DayuanJiang /      next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:48:36.603000Z"
+        },
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:48:36.603000Z"
+        },
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4514,
+      "importance": 0.4514,
+      "importance_score": 0.4514,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5171,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:48:08.739259Z",
+      "latest_at": "2026-07-11T11:48:36.603000Z",
+      "primary_item": {
+        "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+        "title": "DayuanJiang /      next-ai-draw-io",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1070,14 +1613,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8531,
+        "recency": 0.8032,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1091,393 +1634,6 @@
         "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
         "url": "https://news.ycombinator.com/item?id=48873855",
         "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_11aee9868a58",
-      "title": "恐怖组织如何利用人工智能在战场上获得优势",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
-        },
-        {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
-        },
-        {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7522,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T01:03:10.067000Z",
-      "latest_at": "2026-07-11T16:15:25.572000Z",
-      "primary_item": {
-        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-        "title": "恐怖组织如何利用人工智能在战场上获得优势",
-        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eda80e4879bc",
-      "title": "Instagram的最新AI工具没能撑过这一周",
-      "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-      "primary_url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
-          "title": "Instagram的最新AI工具没能撑过这一周",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T17:03:15.813000Z"
-        },
-        {
-          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
-          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T16:40:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
-          "title": "Instagram的最新AI工具没能撑过这一周",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T17:03:15.813000Z"
-        },
-        {
-          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
-          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T16:40:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7854,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T16:40:51Z",
-      "latest_at": "2026-07-11T17:03:15.813000Z",
-      "primary_item": {
-        "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
-        "title": "Instagram的最新AI工具没能撑过这一周",
-        "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5a71c356e918",
-      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-      "url": "https://www.v2ex.com/t/1226598",
-      "primary_url": "https://www.v2ex.com/t/1226598",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4672,
-      "importance": 0.4672,
-      "importance_score": 0.4672,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5961,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:30:42Z",
-      "latest_at": "2026-07-11T12:30:42Z",
-      "primary_item": {
-        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-        "url": "https://www.v2ex.com/t/1226598",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9e4cd6c746a9",
-      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        },
-        {
-          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
-          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        },
-        {
-          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
-          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5836,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:12:34Z",
-      "latest_at": "2026-07-11T12:12:34Z",
-      "primary_item": {
-        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_b3a404e8e56a",
-      "title": "DayuanJiang /      next-ai-draw-io",
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-          "title": "DayuanJiang /      next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:48:36.603000Z"
-        },
-        {
-          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-          "title": "DayuanJiang / next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-          "title": "DayuanJiang /      next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:48:36.603000Z"
-        },
-        {
-          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-          "title": "DayuanJiang / next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4614,
-      "importance": 0.4614,
-      "importance_score": 0.4614,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5669,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T11:48:08.739259Z",
-      "latest_at": "2026-07-11T11:48:36.603000Z",
-      "primary_item": {
-        "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-        "title": "DayuanJiang /      next-ai-draw-io",
-        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-        "source": "github",
         "source_name": "NewsNow"
       }
     },
@@ -1535,14 +1691,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4519,
-      "importance": 0.4519,
-      "importance_score": 0.4519,
+      "score": 0.4419,
+      "importance": 0.4419,
+      "importance_score": 0.4419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5194,
+        "recency": 0.4695,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1613,14 +1769,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.4351,
+      "importance": 0.4351,
+      "importance_score": 0.4351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4854,
+        "recency": 0.4355,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1691,14 +1847,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4388,
-      "importance": 0.4388,
-      "importance_score": 0.4388,
+      "score": 0.4289,
+      "importance": 0.4289,
+      "importance_score": 0.4289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4541,
+        "recency": 0.4043,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1713,162 +1869,6 @@
         "url": "https://www.qbitai.com/2026/07/447891.html",
         "source": "量子位 · 每日最新",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_31136afe5d04",
-      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-      "url": "https://juejin.cn/post/7660697431320690723",
-      "primary_url": "https://juejin.cn/post/7660697431320690723",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "url": "https://juejin.cn/post/7660697431320690723",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T08:43:15.877000Z"
-        },
-        {
-          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
-          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "url": "https://juejin.cn/post/7660708287620808739",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "juejin",
-        "掘金 · 人工智能本周最热"
-      ],
-      "items": [
-        {
-          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "url": "https://juejin.cn/post/7660697431320690723",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T08:43:15.877000Z"
-        },
-        {
-          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
-          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "url": "https://juejin.cn/post/7660708287620808739",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4356,
-      "importance": 0.4356,
-      "importance_score": 0.4356,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4382,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T05:25:17.078735Z",
-      "latest_at": "2026-07-11T08:43:15.877000Z",
-      "primary_item": {
-        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-        "url": "https://juejin.cn/post/7660697431320690723",
-        "source": "juejin",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_1936484a24f4",
-      "title": "openai/插件 / openai /      plugins",
-      "url": "https://github.com/openai/plugins",
-      "primary_url": "https://github.com/openai/plugins",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
-          "title": "openai/插件 / openai /      plugins",
-          "url": "https://github.com/openai/plugins",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:48:36.603000Z"
-        },
-        {
-          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
-          "title": "openai/插件 / openai / plugins",
-          "url": "https://github.com/openai/plugins",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
-          "title": "openai/插件 / openai /      plugins",
-          "url": "https://github.com/openai/plugins",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:48:36.603000Z"
-        },
-        {
-          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
-          "title": "openai/插件 / openai / plugins",
-          "url": "https://github.com/openai/plugins",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4614,
-      "importance": 0.4614,
-      "importance_score": 0.4614,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5669,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T11:48:08.739259Z",
-      "latest_at": "2026-07-11T11:48:36.603000Z",
-      "primary_item": {
-        "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
-        "title": "openai/插件 / openai /      plugins",
-        "url": "https://github.com/openai/plugins",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     }
   ]
