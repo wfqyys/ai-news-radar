@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T21:13:08.028780Z",
+  "generated_at": "2026-07-11T22:12:15.149402Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0713-2824-a00d-2a1b02af63a1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0713-2824-a00d-2a1b02af63a1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "dc4530fe1f16a1f891080b941764623f29462e28",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a560baabfe9c3e761badb4d0e5f30ffbaad65617",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "507657837ad028592e78e33484d38037a78605bd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "216e7f3943882b981365243471c5ae35d7402f0d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0733-49d0-901a-5364be177bea&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "dc4530fe1f16a1f891080b941764623f29462e28",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a560baabfe9c3e761badb4d0e5f30ffbaad65617",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0713-2824-a00d-2a1b02af63a1&fp=-3",
@@ -309,15 +318,6 @@
           "id": "507657837ad028592e78e33484d38037a78605bd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0856-17fc-890c-d16fae7f7af7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "216e7f3943882b981365243471c5ae35d7402f0d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0733-49d0-901a-5364be177bea&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,12 +342,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T21:33:26.775349Z",
-      "latest_at": "2026-07-11T21:13:08.028780Z",
+      "earliest_at": "2026-07-10T22:55:52.472747Z",
+      "latest_at": "2026-07-11T22:12:15.149402Z",
       "primary_item": {
-        "id": "a560baabfe9c3e761badb4d0e5f30ffbaad65617",
+        "id": "dc4530fe1f16a1f891080b941764623f29462e28",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0713-2824-a00d-2a1b02af63a1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0812-378c-b64d-7ac8bbf44573&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -387,14 +387,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8273,
+        "recency": 0.7863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,14 +447,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8147,
+        "recency": 0.7737,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,14 +507,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8042,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,17 +586,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "行业动态",
+      "score": 0.7149,
+      "importance": 0.7149,
+      "importance_score": 0.7149,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4306,
+        "recency": 0.3895,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -720,14 +720,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5838,
-      "importance": 0.5838,
-      "importance_score": 0.5838,
+      "score": 0.5756,
+      "importance": 0.5756,
+      "importance_score": 0.5756,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8042,
+        "recency": 0.7631,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -817,14 +817,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5501,
+      "importance": 0.5501,
+      "importance_score": 0.5501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.8854,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -838,6 +838,162 @@
         "title": "《AI 2040》与“智能崇拜”",
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
         "source": "geohot.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d3e79f583564",
+      "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+      "url": "https://news.ycombinator.com/item?id=48875494",
+      "primary_url": "https://news.ycombinator.com/item?id=48875494",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://news.ycombinator.com/item?id=48875494",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T22:12:41.137000Z"
+        },
+        {
+          "id": "dcb5aa0681cae4989d2c037e08c9191f5f1995b0",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T20:21:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://news.ycombinator.com/item?id=48875494",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T22:12:41.137000Z"
+        },
+        {
+          "id": "dcb5aa0681cae4989d2c037e08c9191f5f1995b0",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T20:21:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T20:21:25Z",
+      "latest_at": "2026-07-11T22:12:41.137000Z",
+      "primary_item": {
+        "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
+        "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+        "url": "https://news.ycombinator.com/item?id=48875494",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_70acfff4fef0",
+      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:47:17.342000Z"
+        },
+        {
+          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:23:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:47:17.342000Z"
+        },
+        {
+          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:23:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.941,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T20:23:05Z",
+      "latest_at": "2026-07-11T20:47:17.342000Z",
+      "primary_item": {
+        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -914,14 +1070,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8941,
+        "recency": 0.8531,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -936,84 +1092,6 @@
         "url": "https://news.ycombinator.com/item?id=48873855",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9821,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
-      "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1069,14 +1147,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.4984,
+      "importance": 0.4984,
+      "importance_score": 0.4984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7933,
+        "recency": 0.7522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,14 +1225,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8265,
+        "recency": 0.7854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1224,14 +1302,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4754,
-      "importance": 0.4754,
-      "importance_score": 0.4754,
+      "score": 0.4672,
+      "importance": 0.4672,
+      "importance_score": 0.4672,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6372,
+        "recency": 0.5961,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1301,14 +1379,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4729,
-      "importance": 0.4729,
-      "importance_score": 0.4729,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6246,
+        "recency": 0.5836,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,14 +1457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.608,
+        "recency": 0.5669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,14 +1535,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4601,
-      "importance": 0.4601,
-      "importance_score": 0.4601,
+      "score": 0.4519,
+      "importance": 0.4519,
+      "importance_score": 0.4519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5604,
+        "recency": 0.5194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,14 +1613,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4533,
-      "importance": 0.4533,
-      "importance_score": 0.4533,
+      "score": 0.4451,
+      "importance": 0.4451,
+      "importance_score": 0.4451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5264,
+        "recency": 0.4854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1613,14 +1691,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.447,
-      "importance": 0.447,
-      "importance_score": 0.447,
+      "score": 0.4388,
+      "importance": 0.4388,
+      "importance_score": 0.4388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4952,
+        "recency": 0.4541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1691,14 +1769,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4439,
-      "importance": 0.4439,
-      "importance_score": 0.4439,
+      "score": 0.4356,
+      "importance": 0.4356,
+      "importance_score": 0.4356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4793,
+        "recency": 0.4382,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1769,14 +1847,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.608,
+        "recency": 0.5669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1791,84 +1869,6 @@
         "url": "https://github.com/openai/plugins",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_29bdf2d82a96",
-      "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
-      "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
-          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
-          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T14:55:03.064000Z"
-        },
-        {
-          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
-          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
-          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T14:31:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
-          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
-          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T14:55:03.064000Z"
-        },
-        {
-          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
-          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
-          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T14:31:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7374,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T14:31:01Z",
-      "latest_at": "2026-07-11T14:55:03.064000Z",
-      "primary_item": {
-        "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
-        "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
-        "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
