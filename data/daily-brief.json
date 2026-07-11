@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T14:34:55.754006Z",
+  "generated_at": "2026-07-11T15:49:37.326292Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-292e-ba5a-6d44bb0ad153&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-292e-ba5a-6d44bb0ad153&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0150-008c-88e4-ec5383d3dd19&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0150-008c-88e4-ec5383d3dd19&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "2651c9423394e89f26f86793da1f1b6fd82c7779",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0150-008c-88e4-ec5383d3dd19&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "214357295bcc51f841c899c447f229f90616e8a6",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "899e593ec5ad6fe6b7c06f2bada5f627de85088d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0316-27ae-bcb7-04a3fe100f42&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "93e2b30cb050236e8c5395265f63e1d82d5e261f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "2651c9423394e89f26f86793da1f1b6fd82c7779",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0150-008c-88e4-ec5383d3dd19&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "214357295bcc51f841c899c447f229f90616e8a6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-292e-ba5a-6d44bb0ad153&fp=-3",
@@ -273,15 +282,6 @@
           "id": "899e593ec5ad6fe6b7c06f2bada5f627de85088d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0316-27ae-bcb7-04a3fe100f42&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "93e2b30cb050236e8c5395265f63e1d82d5e261f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0113-275b-8184-57aa645bc62d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,18 +306,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T15:13:01.620601Z",
-      "latest_at": "2026-07-11T14:34:55.754006Z",
+      "earliest_at": "2026-07-10T17:16:06.311418Z",
+      "latest_at": "2026-07-11T15:49:37.326292Z",
       "primary_item": {
-        "id": "214357295bcc51f841c899c447f229f90616e8a6",
+        "id": "2651c9423394e89f26f86793da1f1b6fd82c7779",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-292e-ba5a-6d44bb0ad153&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0150-008c-88e4-ec5383d3dd19&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_6d7dc2911118",
+      "story_id": "story_b62ac9937300",
       "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
       "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
       "primary_url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
@@ -370,14 +370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7071,
+        "recency": 0.6552,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,20 +431,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.6712,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T07:56:11Z",
       "latest_at": "2026-07-11T07:56:11Z",
@@ -457,90 +456,144 @@
       }
     },
     {
-      "story_id": "story_4071a63c6a0f",
-      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9c885636aaf2",
+      "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://news.ycombinator.com/item?id=48870381",
+      "primary_url": "https://news.ycombinator.com/item?id=48870381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
+          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T15:50:07.318000Z"
+        },
+        {
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:42.130000Z"
+        },
+        {
+          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
+        },
+        {
+          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
+          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T15:50:07.318000Z"
+        },
+        {
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:42.130000Z"
+        },
+        {
+          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
+        },
+        {
+          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2542,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-10T20:40:56Z",
-      "latest_at": "2026-07-10T20:40:56Z",
+      "earliest_at": "2026-07-11T09:36:53Z",
+      "latest_at": "2026-07-11T15:50:07.318000Z",
       "primary_item": {
-        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+        "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+        "url": "https://news.ycombinator.com/item?id=48870381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_c8fd19569bf4",
-      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
-      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "story_id": "story_29bdf2d82a96",
+      "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+      "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T12:31:28.579000Z"
+          "published_at": "2026-07-11T14:55:03.064000Z"
         },
         {
-          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T12:02:01Z"
+          "published_at": "2026-07-11T14:31:01Z"
         }
       ],
       "source_count": 2,
@@ -550,46 +603,46 @@
       ],
       "items": [
         {
-          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T12:31:28.579000Z"
+          "published_at": "2026-07-11T14:55:03.064000Z"
         },
         {
-          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T12:02:01Z"
+          "published_at": "2026-07-11T14:31:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9143,
+        "recency": 0.9621,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T12:02:01Z",
-      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "earliest_at": "2026-07-11T14:31:01Z",
+      "latest_at": "2026-07-11T14:55:03.064000Z",
       "primary_item": {
-        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+        "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+        "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -647,14 +700,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,6 +722,83 @@
         "url": "https://www.v2ex.com/t/1226598",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_4881a4da7655",
+      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "FCC 批准太空镜照亮夜空的测试 / FCC approves test of space mirror to light night sky",
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "FCC 批准太空镜照亮夜空的测试 / FCC approves test of space mirror to light night sky",
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:12:34Z",
+      "latest_at": "2026-07-11T12:12:34Z",
+      "primary_item": {
+        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -725,14 +855,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8845,
+        "recency": 0.8326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -746,84 +876,6 @@
         "title": "DayuanJiang /      next-ai-draw-io",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io",
         "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-      "url": "https://news.ycombinator.com/item?id=48870381",
-      "primary_url": "https://news.ycombinator.com/item?id=48870381",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:42.130000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:42.130000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8373,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T10:40:42.130000Z",
-      "primary_item": {
-        "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-        "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-        "url": "https://news.ycombinator.com/item?id=48870381",
-        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -881,14 +933,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.837,
+        "recency": 0.7851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,14 +1011,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8029,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,14 +1089,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
+      "score": 0.492,
+      "importance": 0.492,
+      "importance_score": 0.492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7717,
+        "recency": 0.7199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1059,6 +1111,84 @@
         "url": "https://www.qbitai.com/2026/07/447891.html",
         "source": "量子位 · 每日最新",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c8fd19569bf4",
+      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8624,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:02:01Z",
+      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "primary_item": {
+        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1115,14 +1245,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
+      "score": 0.4888,
+      "importance": 0.4888,
+      "importance_score": 0.4888,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7558,
+        "recency": 0.7039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,14 +1323,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8845,
+        "recency": 0.8326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1271,14 +1401,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.837,
+        "recency": 0.7851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,14 +1517,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4742,
-      "importance": 0.4742,
-      "importance_score": 0.4742,
+      "score": 0.4638,
+      "importance": 0.4638,
+      "importance_score": 0.4638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.381,
+        "recency": 0.3291,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1409,6 +1539,83 @@
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4a13a9c5d9a4",
+      "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "primary_url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0b44a83f8eb76a47eecad6cefc7234115b9cdd90",
+          "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        },
+        {
+          "id": "b09f32a058d00335d8fb93ea386b431d65794902",
+          "title": "为什么生产美国制造的医用手套这么难 / Why it's so difficult to produce American-made medical gloves",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0b44a83f8eb76a47eecad6cefc7234115b9cdd90",
+          "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        },
+        {
+          "id": "b09f32a058d00335d8fb93ea386b431d65794902",
+          "title": "为什么生产美国制造的医用手套这么难 / Why it's so difficult to produce American-made medical gloves",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7268,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:16:10Z",
+      "latest_at": "2026-07-11T09:16:10Z",
+      "primary_item": {
+        "id": "0b44a83f8eb76a47eecad6cefc7234115b9cdd90",
+        "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+        "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1465,14 +1672,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5,
-      "importance": 0.5,
-      "importance_score": 0.5,
+      "score": 0.4896,
+      "importance": 0.4896,
+      "importance_score": 0.4896,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7599,
+        "recency": 0.708,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,14 +1768,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
+      "score": 0.4543,
+      "importance": 0.4543,
+      "importance_score": 0.4543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4584,
+        "recency": 0.4065,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1583,84 +1790,6 @@
         "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f0d7e1dfb642",
-      "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-      "primary_url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "186da3c1056f44662615673e6f2b840362fde05c",
-          "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-          "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T04:19:14Z"
-        },
-        {
-          "id": "511271e0bb213a59d6c6403f1ab80d1585194f63",
-          "title": "Meta 删除了 A.I.经过几天的强烈反对后，Instagram 上出现了专题 / Meta Removes A.I. Feature on Instagram After Days of Backlash",
-          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times"
-      ],
-      "items": [
-        {
-          "id": "186da3c1056f44662615673e6f2b840362fde05c",
-          "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-          "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T04:19:14Z"
-        },
-        {
-          "id": "511271e0bb213a59d6c6403f1ab80d1585194f63",
-          "title": "Meta 删除了 A.I.经过几天的强烈反对后，Instagram 上出现了专题 / Meta Removes A.I. Feature on Instagram After Days of Backlash",
-          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4625,
-      "importance": 0.4625,
-      "importance_score": 0.4625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5724,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T00:56:41Z",
-      "latest_at": "2026-07-11T04:19:14Z",
-      "primary_item": {
-        "id": "186da3c1056f44662615673e6f2b840362fde05c",
-        "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-        "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1717,14 +1846,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.837,
+        "recency": 0.7851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1739,103 +1868,6 @@
         "url": "https://www.ithome.com/0/975/537.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_be1720d248f4",
-      "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "primary_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "source": "9to5mac.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:56:21.550000Z"
-        },
-        {
-          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "9to5mac.com",
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:56:21.550000Z"
-        },
-        {
-          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4447,
-      "importance": 0.4447,
-      "importance_score": 0.4447,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3585,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:47:09Z",
-      "latest_at": "2026-07-10T23:11:12.310000Z",
-      "primary_item": {
-        "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-        "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-        "source": "9to5mac.com",
-        "source_name": "Buzzing"
       }
     }
   ]
