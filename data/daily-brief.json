@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T07:25:43.127273Z",
+  "generated_at": "2026-07-12T09:25:42.818271Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1726-068e-a5a1-cd4c398ad716&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-1726-068e-a5a1-cd4c398ad716&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "167a4ccb0cbfda9548462223dc1bfac1d8f56e63",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e9b9acd891c0cfb9ee5f8ab928405e5ee8536433",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "d371ec38e9dc78b4cbe2cc5b9885ad284f28bb49",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-39b0-ba16-0e1cc2178f24&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8c690bcb5a5ca6338f268e6109c3c54074000a4c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1906-4290-ab7d-2c8f45e08cdd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "167a4ccb0cbfda9548462223dc1bfac1d8f56e63",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e9b9acd891c0cfb9ee5f8ab928405e5ee8536433",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1726-068e-a5a1-cd4c398ad716&fp=-3",
@@ -291,15 +300,6 @@
           "id": "d371ec38e9dc78b4cbe2cc5b9885ad284f28bb49",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-39b0-ba16-0e1cc2178f24&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8c690bcb5a5ca6338f268e6109c3c54074000a4c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1906-4290-ab7d-2c8f45e08cdd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T09:06:13.191034Z",
-      "latest_at": "2026-07-12T07:25:43.127273Z",
+      "earliest_at": "2026-07-11T10:40:10.132264Z",
+      "latest_at": "2026-07-12T09:25:42.818271Z",
       "primary_item": {
-        "id": "e9b9acd891c0cfb9ee5f8ab928405e5ee8536433",
+        "id": "167a4ccb0cbfda9548462223dc1bfac1d8f56e63",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1726-068e-a5a1-cd4c398ad716&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,14 +369,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.7732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,14 +429,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7998,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,20 +489,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.76,
+        "recency": 0.6766,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T01:40:04Z",
       "latest_at": "2026-07-12T01:40:04Z",
@@ -549,14 +548,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7898,
+        "recency": 0.7065,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -628,14 +627,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.664,
+        "recency": 0.5807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -689,20 +688,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7215,
+        "recency": 0.6382,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T00:44:43Z",
       "latest_at": "2026-07-12T00:44:43Z",
@@ -806,14 +804,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5782,
-      "importance": 0.5782,
-      "importance_score": 0.5782,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.8176,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -828,85 +826,6 @@
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b62ac9937300",
-      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-      "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
-      "primary_url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7de54891d6cddd36b8ddda06e061b94ee905afcc",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7de54891d6cddd36b8ddda06e061b94ee905afcc",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.638,
-      "importance": 0.638,
-      "importance_score": 0.638,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0051,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T07:33:08Z",
-      "latest_at": "2026-07-11T07:33:08Z",
-      "primary_item": {
-        "id": "7de54891d6cddd36b8ddda06e061b94ee905afcc",
-        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-        "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -963,14 +882,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8076,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,14 +960,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8454,
+        "recency": 0.7621,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1138,14 +1057,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7195,
+        "recency": 0.6361,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1235,14 +1154,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6899,
+        "recency": 0.6066,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1312,14 +1231,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.488,
+      "importance": 0.488,
+      "importance_score": 0.488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7834,
+        "recency": 0.7,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1445,14 +1364,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4821,
+      "importance": 0.4821,
+      "importance_score": 0.4821,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3788,
+        "recency": 0.2954,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1542,14 +1461,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.501,
+        "recency": 0.4177,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1620,14 +1539,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
+      "score": 0.478,
+      "importance": 0.478,
+      "importance_score": 0.478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7335,
+        "recency": 0.6502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1646,7 +1565,7 @@
     },
     {
       "story_id": "story_85adc296a069",
-      "title": "长期新冠可能会损害控制胃的神经 / Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
       "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
       "primary_url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
       "source": "Hacker News · 24h最热",
@@ -1654,7 +1573,7 @@
       "sources": [
         {
           "id": "bf307e91f5690570c28469299e642b2c72d53c6e",
-          "title": "长期新冠可能会损害控制胃的神经 / Long Covid May Physically Damage the Nerves That Control the Stomach",
+          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
           "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1663,7 +1582,7 @@
         },
         {
           "id": "a46e2759728987b9433aa9bb824b2238b1497944",
-          "title": "Long-COVID-19 胃粘膜迷走胆碱能去神经支配 / Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
+          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
           "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1678,7 +1597,7 @@
       "items": [
         {
           "id": "bf307e91f5690570c28469299e642b2c72d53c6e",
-          "title": "长期新冠可能会损害控制胃的神经 / Long Covid May Physically Damage the Nerves That Control the Stomach",
+          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
           "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1687,7 +1606,7 @@
         },
         {
           "id": "a46e2759728987b9433aa9bb824b2238b1497944",
-          "title": "Long-COVID-19 胃粘膜迷走胆碱能去神经支配 / Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
+          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
           "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1697,14 +1616,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.491,
-      "importance": 0.491,
-      "importance_score": 0.491,
+      "score": 0.4743,
+      "importance": 0.4743,
+      "importance_score": 0.4743,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7149,
+        "recency": 0.6315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1715,7 +1634,7 @@
       "latest_at": "2026-07-12T00:35:08Z",
       "primary_item": {
         "id": "bf307e91f5690570c28469299e642b2c72d53c6e",
-        "title": "长期新冠可能会损害控制胃的神经 / Long Covid May Physically Damage the Nerves That Control the Stomach",
+        "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
         "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -1775,14 +1694,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4593,
-      "importance": 0.4593,
-      "importance_score": 0.4593,
+      "score": 0.4427,
+      "importance": 0.4427,
+      "importance_score": 0.4427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5566,
+        "recency": 0.4733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1853,14 +1772,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4712,
-      "importance": 0.4712,
-      "importance_score": 0.4712,
+      "score": 0.4545,
+      "importance": 0.4545,
+      "importance_score": 0.4545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6159,
+        "recency": 0.5326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1875,6 +1794,84 @@
         "url": "https://news.ycombinator.com/item?id=48875494",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6dfd9c308451",
+      "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+      "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
+          "title": "当全世界都在投资AI时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:08:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
+          "title": "当全世界都在投资AI时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:08:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.478,
+      "importance": 0.478,
+      "importance_score": 0.478,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6502,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T00:08:11Z",
+      "latest_at": "2026-07-12T01:02:00.126032Z",
+      "primary_item": {
+        "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+        "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+        "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
