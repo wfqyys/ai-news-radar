@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T01:02:00.126032Z",
+  "generated_at": "2026-07-12T04:48:37.247520Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1102-2473-acd8-1abddf62fd72&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-1102-2473-acd8-1abddf62fd72&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1449-00b0-b0b2-0ee8c630a7b1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-1449-00b0-b0b2-0ee8c630a7b1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "09758b1c2e11389b6fd49157f2c2044d5181fe6a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1449-00b0-b0b2-0ee8c630a7b1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "8b36cf5efabe920d3c69a8762b6808f96e51b6c9",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "c8d2c1e5bab2ceca2fa8d37dde6fa2c2fd106b58",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1525-4363-8d25-112beed5bdc6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "dbba2c8d3866a3e1cff362ba78a60f519738d91a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1205-2102-948c-63917b1f3311&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "09758b1c2e11389b6fd49157f2c2044d5181fe6a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1449-00b0-b0b2-0ee8c630a7b1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "8b36cf5efabe920d3c69a8762b6808f96e51b6c9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1102-2473-acd8-1abddf62fd72&fp=-3",
@@ -309,15 +318,6 @@
           "id": "c8d2c1e5bab2ceca2fa8d37dde6fa2c2fd106b58",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1525-4363-8d25-112beed5bdc6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "dbba2c8d3866a3e1cff362ba78a60f519738d91a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1205-2102-948c-63917b1f3311&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,14 +342,254 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T02:04:58.593733Z",
-      "latest_at": "2026-07-12T01:02:00.126032Z",
+      "earliest_at": "2026-07-11T05:25:17.078735Z",
+      "latest_at": "2026-07-12T04:48:37.247520Z",
       "primary_item": {
-        "id": "8b36cf5efabe920d3c69a8762b6808f96e51b6c9",
+        "id": "09758b1c2e11389b6fd49157f2c2044d5181fe6a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1102-2473-acd8-1abddf62fd72&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1449-00b0-b0b2-0ee8c630a7b1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_c6c9c9525400",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
+      "primary_url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "99f4f8738716b7ba8175e9fd1022480f487d86cf",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "99f4f8738716b7ba8175e9fd1022480f487d86cf",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9656,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T03:59:09Z",
+      "latest_at": "2026-07-12T03:59:09Z",
+      "primary_item": {
+        "id": "99f4f8738716b7ba8175e9fd1022480f487d86cf",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c1914b247942",
+      "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+      "url": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
+      "primary_url": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7c0db838d1e77e3a54dedce7b7214e644be15512",
+          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "url": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:37:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7c0db838d1e77e3a54dedce7b7214e644be15512",
+          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "url": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:37:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9089,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T02:37:22Z",
+      "latest_at": "2026-07-12T02:37:22Z",
+      "primary_item": {
+        "id": "7c0db838d1e77e3a54dedce7b7214e644be15512",
+        "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+        "url": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_64d896b679a1",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+      "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
+      "primary_url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9c0c2fe927963fe2e774a1628c11a2a6c7e13d8f",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "9c0c2fe927963fe2e774a1628c11a2a6c7e13d8f",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8691,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "9c0c2fe927963fe2e774a1628c11a2a6c7e13d8f",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0406c774df79",
+      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+      "url": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
+      "primary_url": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d084f4dc49a9f2d33bcbb3ecde69de8d65b6932",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "url": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "4d084f4dc49a9f2d33bcbb3ecde69de8d65b6932",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "url": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8989,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T02:23:05Z",
+      "latest_at": "2026-07-12T02:23:05Z",
+      "primary_item": {
+        "id": "4d084f4dc49a9f2d33bcbb3ecde69de8d65b6932",
+        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "url": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -406,14 +646,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9305,
+        "recency": 0.7731,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -433,179 +673,62 @@
       }
     },
     {
-      "story_id": "story_0813705c9ae3",
-      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-      "url": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-      "primary_url": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_be1e44355660",
+      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+      "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+      "primary_url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "af16a4010ec2799a034680a1c48400f908472ab7",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-          "url": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "15a556277c5cc79572b3c3ef9c42fbe803bd2aec",
+          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-11T17:04:28Z"
+          "published_at": "2026-07-12T00:44:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "af16a4010ec2799a034680a1c48400f908472ab7",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-          "url": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "15a556277c5cc79572b3c3ef9c42fbe803bd2aec",
+          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-11T17:04:28Z"
+          "published_at": "2026-07-12T00:44:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6684,
+        "recency": 0.8306,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-11T17:04:28Z",
-      "latest_at": "2026-07-11T17:04:28Z",
+      "earliest_at": "2026-07-12T00:44:43Z",
+      "latest_at": "2026-07-12T00:44:43Z",
       "primary_item": {
-        "id": "af16a4010ec2799a034680a1c48400f908472ab7",
-        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-        "url": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6faa424fe4f6",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-      "url": "https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef",
-      "primary_url": "https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "651565c632cf42c90ea8ea221b0bfbe47808a31e",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "651565c632cf42c90ea8ea221b0bfbe47808a31e",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6558,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "651565c632cf42c90ea8ea221b0bfbe47808a31e",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "url": "https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_73563f175831",
-      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-      "url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8",
-      "primary_url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3a55b5cd845c8000e037aac91ba35e9a3cd8e925",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "3a55b5cd845c8000e037aac91ba35e9a3cd8e925",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6452,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:31:09Z",
-      "latest_at": "2026-07-11T16:31:09Z",
-      "primary_item": {
-        "id": "3a55b5cd845c8000e037aac91ba35e9a3cd8e925",
-        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "15a556277c5cc79572b3c3ef9c42fbe803bd2aec",
+        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -663,14 +786,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6913,
-      "importance": 0.6913,
-      "importance_score": 0.6913,
+      "score": 0.6598,
+      "importance": 0.6598,
+      "importance_score": 0.6598,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2716,
+        "recency": 0.1142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -686,6 +809,162 @@
         "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5cd495760722",
+      "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+      "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
+          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
+          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T03:19:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
+          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
+          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T03:19:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T03:19:28Z",
+      "latest_at": "2026-07-12T04:48:37.247520Z",
+      "primary_item": {
+        "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
+        "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+        "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_dfe87bfc97aa",
+      "title": "用100行Lisp编写的智能体",
+      "url": "https://thebeach.dev/posts/lisp-agent",
+      "primary_url": "https://thebeach.dev/posts/lisp-agent",
+      "source": "thebeach.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
+          "title": "用100行Lisp编写的智能体",
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "thebeach.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T03:43:08.376000Z"
+        },
+        {
+          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
+          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T03:36:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "thebeach.dev"
+      ],
+      "items": [
+        {
+          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
+          "title": "用100行Lisp编写的智能体",
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "thebeach.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T03:43:08.376000Z"
+        },
+        {
+          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
+          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T03:36:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9545,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T03:36:08Z",
+      "latest_at": "2026-07-12T03:43:08.376000Z",
+      "primary_item": {
+        "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
+        "title": "用100行Lisp编写的智能体",
+        "url": "https://thebeach.dev/posts/lisp-agent",
+        "source": "thebeach.dev",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -761,14 +1040,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.8286,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -858,14 +1137,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5643,
-      "importance": 0.5643,
-      "importance_score": 0.5643,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.799,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -991,14 +1270,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6452,
+        "recency": 0.4879,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1013,84 +1292,6 @@
         "url": "https://www.mixfont.com/ghost-font",
         "source": "www.mixfont.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fbfa3418bea5",
-      "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-      "url": "https://www.ithome.com/0/975/641.htm",
-      "primary_url": "https://www.ithome.com/0/975/641.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-          "url": "https://www.ithome.com/0/975/641.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
-          "url": "https://www.ithome.com/0/975/641.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:14:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-          "url": "https://www.ithome.com/0/975/641.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
-          "url": "https://www.ithome.com/0/975/641.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:14:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T00:14:08Z",
-      "latest_at": "2026-07-12T01:02:00.126032Z",
-      "primary_item": {
-        "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
-        "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-        "url": "https://www.ithome.com/0/975/641.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1166,14 +1367,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7675,
+        "recency": 0.6101,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1191,79 +1392,79 @@
       }
     },
     {
-      "story_id": "story_6dfd9c308451",
-      "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-      "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "story_id": "story_fbfa3418bea5",
+      "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+      "url": "https://www.ithome.com/0/975/641.htm",
+      "primary_url": "https://www.ithome.com/0/975/641.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "url": "https://www.ithome.com/0/975/641.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
-          "title": "当全世界都在投资AI时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "url": "https://www.ithome.com/0/975/641.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T00:08:11Z"
+          "published_at": "2026-07-12T00:14:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "url": "https://www.ithome.com/0/975/641.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
-          "title": "当全世界都在投资AI时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "url": "https://www.ithome.com/0/975/641.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T00:08:11Z"
+          "published_at": "2026-07-12T00:14:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8426,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T00:08:11Z",
+      "earliest_at": "2026-07-12T00:14:08Z",
       "latest_at": "2026-07-12T01:02:00.126032Z",
       "primary_item": {
-        "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-        "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-        "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+        "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
+        "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+        "url": "https://www.ithome.com/0/975/641.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1322,14 +1523,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5126,
-      "importance": 0.5126,
-      "importance_score": 0.5126,
+      "score": 0.4811,
+      "importance": 0.4811,
+      "importance_score": 0.4811,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8231,
+        "recency": 0.6657,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1347,30 +1548,30 @@
       }
     },
     {
-      "story_id": "story_3822e0e0e383",
-      "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-      "url": "https://news.ycombinator.com/item?id=48876505",
-      "primary_url": "https://news.ycombinator.com/item?id=48876505",
+      "story_id": "story_d3e79f583564",
+      "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+      "url": "https://news.ycombinator.com/item?id=48875494",
+      "primary_url": "https://news.ycombinator.com/item?id=48875494",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "url": "https://news.ycombinator.com/item?id=48876505",
+          "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://news.ycombinator.com/item?id=48875494",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
+          "published_at": "2026-07-11T22:12:41.137000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "id": "dcb5aa0681cae4989d2c037e08c9191f5f1995b0",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-11T22:38:57Z"
+          "published_at": "2026-07-11T20:21:25Z"
         }
       ],
       "source_count": 2,
@@ -1380,46 +1581,221 @@
       ],
       "items": [
         {
-          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "url": "https://news.ycombinator.com/item?id=48876505",
+          "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://news.ycombinator.com/item?id=48875494",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
+          "published_at": "2026-07-11T22:12:41.137000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "id": "dcb5aa0681cae4989d2c037e08c9191f5f1995b0",
+          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+          "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-11T22:38:57Z"
+          "published_at": "2026-07-11T20:21:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9233,
+        "recency": 0.725,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T22:38:57Z",
-      "latest_at": "2026-07-11T23:11:32.847000Z",
+      "earliest_at": "2026-07-11T20:21:25Z",
+      "latest_at": "2026-07-11T22:12:41.137000Z",
       "primary_item": {
-        "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-        "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-        "url": "https://news.ycombinator.com/item?id=48876505",
+        "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
+        "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
+        "url": "https://news.ycombinator.com/item?id=48875494",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6dfd9c308451",
+      "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+      "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
+          "title": "当全世界都在投资AI时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:08:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
+          "title": "当全世界都在投资AI时，真正消失的是流动性",
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:08:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8426,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T00:08:11Z",
+      "latest_at": "2026-07-12T01:02:00.126032Z",
+      "primary_item": {
+        "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+        "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+        "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3ff1f70f056f",
+      "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+      "url": "https://news.ycombinator.com/item?id=48873855",
+      "primary_url": "https://news.ycombinator.com/item?id=48873855",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T18:40:39.474000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T18:40:39.474000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4886,
+      "importance": 0.4886,
+      "importance_score": 0.4886,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5778,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T17:23:52Z",
+      "latest_at": "2026-07-11T18:40:39.474000Z",
+      "primary_item": {
+        "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+        "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+        "url": "https://news.ycombinator.com/item?id=48873855",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1478,14 +1854,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8426,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1500,393 +1876,6 @@
         "url": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihnwym4790842.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_11aee9868a58",
-      "title": "恐怖组织如何利用人工智能在战场上获得优势",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
-        },
-        {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
-        },
-        {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4749,
-      "importance": 0.4749,
-      "importance_score": 0.4749,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6343,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T01:03:10.067000Z",
-      "latest_at": "2026-07-11T16:15:25.572000Z",
-      "primary_item": {
-        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-        "title": "恐怖组织如何利用人工智能在战场上获得优势",
-        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d3e79f583564",
-      "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
-      "url": "https://news.ycombinator.com/item?id=48875494",
-      "primary_url": "https://news.ycombinator.com/item?id=48875494",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
-          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
-          "url": "https://news.ycombinator.com/item?id=48875494",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T22:12:41.137000Z"
-        },
-        {
-          "id": "dcb5aa0681cae4989d2c037e08c9191f5f1995b0",
-          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
-          "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T20:21:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
-          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
-          "url": "https://news.ycombinator.com/item?id=48875494",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T22:12:41.137000Z"
-        },
-        {
-          "id": "dcb5aa0681cae4989d2c037e08c9191f5f1995b0",
-          "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
-          "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T20:21:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8824,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:21:25Z",
-      "latest_at": "2026-07-11T22:12:41.137000Z",
-      "primary_item": {
-        "id": "a7be34681aab209c9e7074e91293e5221a096c7b",
-        "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它 / I used to love Claude, but the latest models are slowly ruining it",
-        "url": "https://news.ycombinator.com/item?id=48875494",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_eda80e4879bc",
-      "title": "Instagram的最新AI工具没能撑过这一周",
-      "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-      "primary_url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
-          "title": "Instagram的最新AI工具没能撑过这一周",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T17:03:15.813000Z"
-        },
-        {
-          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
-          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T16:40:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
-          "title": "Instagram的最新AI工具没能撑过这一周",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T17:03:15.813000Z"
-        },
-        {
-          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
-          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
-          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T16:40:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4815,
-      "importance": 0.4815,
-      "importance_score": 0.4815,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6675,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T16:40:51Z",
-      "latest_at": "2026-07-11T17:03:15.813000Z",
-      "primary_item": {
-        "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
-        "title": "Instagram的最新AI工具没能撑过这一周",
-        "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5a71c356e918",
-      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-      "url": "https://www.v2ex.com/t/1226598",
-      "primary_url": "https://www.v2ex.com/t/1226598",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4437,
-      "importance": 0.4437,
-      "importance_score": 0.4437,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4783,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:30:42Z",
-      "latest_at": "2026-07-11T12:30:42Z",
-      "primary_item": {
-        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-        "url": "https://www.v2ex.com/t/1226598",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9e4cd6c746a9",
-      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        },
-        {
-          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
-          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        },
-        {
-          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
-          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4411,
-      "importance": 0.4411,
-      "importance_score": 0.4411,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4657,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:12:34Z",
-      "latest_at": "2026-07-11T12:12:34Z",
-      "primary_item": {
-        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
