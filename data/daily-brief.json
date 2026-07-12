@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T11:54:13.679799Z",
+  "generated_at": "2026-07-12T13:06:00.540322Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2154-405c-89c3-a8ac9813dd04&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-2154-405c-89c3-a8ac9813dd04&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d9e91bf9876d1c9e73395ec96d46e63d94c0a9b3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5261c374b3e51b27768ed7200f80fb71ea7cce40",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "214357295bcc51f841c899c447f229f90616e8a6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-292e-ba5a-6d44bb0ad153&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "26d5d9aa4b9d7e20deb5e2c02c2e2c52b7ac9c1a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2305-524c-89f7-7fc5407352e3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "d9e91bf9876d1c9e73395ec96d46e63d94c0a9b3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5261c374b3e51b27768ed7200f80fb71ea7cce40",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2154-405c-89c3-a8ac9813dd04&fp=-3",
@@ -291,15 +300,6 @@
           "id": "214357295bcc51f841c899c447f229f90616e8a6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-292e-ba5a-6d44bb0ad153&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "26d5d9aa4b9d7e20deb5e2c02c2e2c52b7ac9c1a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2305-524c-89f7-7fc5407352e3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T13:05:31.629613Z",
-      "latest_at": "2026-07-12T11:54:13.679799Z",
+      "earliest_at": "2026-07-11T14:34:55.754006Z",
+      "latest_at": "2026-07-12T13:06:00.540322Z",
       "primary_item": {
-        "id": "5261c374b3e51b27768ed7200f80fb71ea7cce40",
+        "id": "d9e91bf9876d1c9e73395ec96d46e63d94c0a9b3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2154-405c-89c3-a8ac9813dd04&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,14 +369,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.89,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,14 +429,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6701,
+        "recency": 0.6202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -488,14 +488,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6133,
+        "recency": 0.5634,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -509,65 +509,6 @@
         "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
         "url": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_64d896b679a1",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-      "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
-      "primary_url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9c0c2fe927963fe2e774a1628c11a2a6c7e13d8f",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "9c0c2fe927963fe2e774a1628c11a2a6c7e13d8f",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5735,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "9c0c2fe927963fe2e774a1628c11a2a6c7e13d8f",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "url": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -606,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6034,
+        "recency": 0.5535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -684,14 +625,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4776,
+        "recency": 0.4277,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -763,14 +704,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,14 +782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5457,
-      "importance": 0.5457,
-      "importance_score": 0.5457,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
+        "recency": 0.9386,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -919,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9701,
+        "recency": 0.9202,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,14 +976,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7145,
+        "recency": 0.6646,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1113,14 +1054,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.957,
+        "recency": 0.9071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1190,14 +1131,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9026,
+        "recency": 0.8528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1268,14 +1209,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1346,14 +1287,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4889,
-      "importance": 0.4889,
-      "importance_score": 0.4889,
+      "score": 0.4789,
+      "importance": 0.4789,
+      "importance_score": 0.4789,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7044,
+        "recency": 0.6546,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,14 +1365,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,14 +1442,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8345,
+        "recency": 0.7846,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,14 +1520,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4698,
+      "importance": 0.4698,
+      "importance_score": 0.4698,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.659,
+        "recency": 0.6091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1676,14 +1617,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4796,
-      "importance": 0.4796,
-      "importance_score": 0.4796,
+      "score": 0.4696,
+      "importance": 0.4696,
+      "importance_score": 0.4696,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.533,
+        "recency": 0.4831,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1773,14 +1714,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4737,
-      "importance": 0.4737,
-      "importance_score": 0.4737,
+      "score": 0.4637,
+      "importance": 0.4637,
+      "importance_score": 0.4637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5034,
+        "recency": 0.4536,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1795,6 +1736,83 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
         "source": "blog.yaelwrites.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d510ab3ae5b4",
+      "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "primary_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        },
+        {
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        },
+        {
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4574,
+      "importance": 0.4574,
+      "importance_score": 0.4574,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5471,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T02:13:46Z",
+      "latest_at": "2026-07-12T02:13:46Z",
+      "primary_item": {
+        "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+        "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
