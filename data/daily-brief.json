@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T09:25:42.818271Z",
+  "generated_at": "2026-07-12T10:52:14.417663Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2052-3952-91b0-f9cddf21c327&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-2052-3952-91b0-f9cddf21c327&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "686c42af41c626aa87c7454f2ced5f17a727d1d3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2052-3952-91b0-f9cddf21c327&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "167a4ccb0cbfda9548462223dc1bfac1d8f56e63",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "5632f71b4295e3abc7335ca35ec93f0fb35cb179",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2148-339b-be2f-eae081381600&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d371ec38e9dc78b4cbe2cc5b9885ad284f28bb49",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-39b0-ba16-0e1cc2178f24&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "686c42af41c626aa87c7454f2ced5f17a727d1d3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2052-3952-91b0-f9cddf21c327&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "167a4ccb0cbfda9548462223dc1bfac1d8f56e63",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
@@ -291,15 +300,6 @@
           "id": "5632f71b4295e3abc7335ca35ec93f0fb35cb179",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2148-339b-be2f-eae081381600&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d371ec38e9dc78b4cbe2cc5b9885ad284f28bb49",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-39b0-ba16-0e1cc2178f24&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,14 +324,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T10:40:10.132264Z",
-      "latest_at": "2026-07-12T09:25:42.818271Z",
+      "earliest_at": "2026-07-11T11:48:08.739259Z",
+      "latest_at": "2026-07-12T10:52:14.417663Z",
       "primary_item": {
-        "id": "167a4ccb0cbfda9548462223dc1bfac1d8f56e63",
+        "id": "686c42af41c626aa87c7454f2ced5f17a727d1d3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1926-0900-b977-a9a3be0cbdc3&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2052-3952-91b0-f9cddf21c327&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_b29aff4d20c7",
+      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+      "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
+      "primary_url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49591489fa7b5799350de83696f30a3d74847a12",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T09:15:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "49591489fa7b5799350de83696f30a3d74847a12",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T09:15:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.933,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T09:15:49Z",
+      "latest_at": "2026-07-12T09:15:49Z",
+      "primary_item": {
+        "id": "49591489fa7b5799350de83696f30a3d74847a12",
+        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+        "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -369,14 +429,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7732,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,20 +489,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7164,
+        "recency": 0.6563,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T02:37:22Z",
       "latest_at": "2026-07-12T02:37:22Z",
@@ -489,14 +548,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6766,
+        "recency": 0.6165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -548,20 +607,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7065,
+        "recency": 0.6464,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T02:23:05Z",
       "latest_at": "2026-07-12T02:23:05Z",
@@ -574,7 +632,7 @@
       }
     },
     {
-      "story_id": "story_516fc0ac5d68",
+      "story_id": "story_92e188d76802",
       "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
       "url": "https://aihot.virxact.com/items/cmrgzykqg00jabid4acp6zpjm",
       "primary_url": "https://aihot.virxact.com/items/cmrgzykqg00jabid4acp6zpjm",
@@ -627,21 +685,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5807,
+        "recency": 0.5206,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T23:21:57Z",
       "latest_at": "2026-07-11T23:21:57Z",
@@ -688,14 +745,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6382,
+        "recency": 0.5781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,14 +861,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5615,
-      "importance": 0.5615,
-      "importance_score": 0.5615,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.7575,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -826,6 +883,84 @@
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2c1bf5ffef3f",
+      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+      "url": "https://www.36kr.com/p/3892222176574211",
+      "primary_url": "https://www.36kr.com/p/3892222176574211",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://www.36kr.com/p/3892222176574211",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://www.36kr.com/p/3892222176574211",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T05:47:23Z",
+      "latest_at": "2026-07-12T10:52:14.417663Z",
+      "primary_item": {
+        "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
+        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+        "url": "https://www.36kr.com/p/3892222176574211",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -882,14 +1017,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.7475,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -960,14 +1095,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5004,
-      "importance": 0.5004,
-      "importance_score": 0.5004,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7621,
+        "recency": 0.702,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,14 +1192,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4882,
+      "importance": 0.4882,
+      "importance_score": 0.4882,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6361,
+        "recency": 0.576,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1154,14 +1289,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4943,
-      "importance": 0.4943,
-      "importance_score": 0.4943,
+      "score": 0.4823,
+      "importance": 0.4823,
+      "importance_score": 0.4823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6066,
+        "recency": 0.5465,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1231,14 +1366,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.488,
-      "importance": 0.488,
-      "importance_score": 0.488,
+      "score": 0.476,
+      "importance": 0.476,
+      "importance_score": 0.476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7,
+        "recency": 0.6399,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1253,139 +1388,6 @@
         "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-      "url": "https://www.mixfont.com/ghost-font",
-      "primary_url": "https://www.mixfont.com/ghost-font",
-      "source": "www.mixfont.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
-          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T15:50:07.318000Z"
-        },
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:42.130000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        },
-        {
-          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.mixfont.com"
-      ],
-      "items": [
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
-          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T15:50:07.318000Z"
-        },
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:42.130000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        },
-        {
-          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.4821,
-      "importance": 0.4821,
-      "importance_score": 0.4821,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2954,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T16:31:09.615000Z",
-      "primary_item": {
-        "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-        "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-        "url": "https://www.mixfont.com/ghost-font",
-        "source": "www.mixfont.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1461,14 +1463,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4565,
-      "importance": 0.4565,
-      "importance_score": 0.4565,
+      "score": 0.4445,
+      "importance": 0.4445,
+      "importance_score": 0.4445,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4177,
+        "recency": 0.3576,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1539,14 +1541,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.478,
-      "importance": 0.478,
-      "importance_score": 0.478,
+      "score": 0.466,
+      "importance": 0.466,
+      "importance_score": 0.466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6502,
+        "recency": 0.5901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1616,14 +1618,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4743,
-      "importance": 0.4743,
-      "importance_score": 0.4743,
+      "score": 0.4623,
+      "importance": 0.4623,
+      "importance_score": 0.4623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6315,
+        "recency": 0.5715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1694,14 +1696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4427,
-      "importance": 0.4427,
-      "importance_score": 0.4427,
+      "score": 0.4306,
+      "importance": 0.4306,
+      "importance_score": 0.4306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4733,
+        "recency": 0.4132,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1772,14 +1774,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4545,
-      "importance": 0.4545,
-      "importance_score": 0.4545,
+      "score": 0.4425,
+      "importance": 0.4425,
+      "importance_score": 0.4425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5326,
+        "recency": 0.4725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1794,84 +1796,6 @@
         "url": "https://news.ycombinator.com/item?id=48875494",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_6dfd9c308451",
-      "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-      "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874582.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
-          "title": "当全世界都在投资AI时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:08:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
-          "title": "当全世界都在投资AI时，真正消失的是流动性",
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:08:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.478,
-      "importance": 0.478,
-      "importance_score": 0.478,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6502,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T00:08:11Z",
-      "latest_at": "2026-07-12T01:02:00.126032Z",
-      "primary_item": {
-        "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-        "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-        "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
