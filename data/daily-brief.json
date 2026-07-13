@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T23:23:55.016944Z",
+  "generated_at": "2026-07-13T01:02:36.781110Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0924-195a-a3db-042e109ad3ab&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0924-195a-a3db-042e109ad3ab&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-1102-57ec-9acb-66765e38dd80&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-1102-57ec-9acb-66765e38dd80&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "16f1f543082ba297774cb1e3403a5aa388df3f9e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-1102-57ec-9acb-66765e38dd80&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c3399cb6cf5311d7d88b16d464cd4f6f8a55d184",
           "title": "点击这里进入 / Click here to enter",
@@ -145,32 +154,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "8b36cf5efabe920d3c69a8762b6808f96e51b6c9",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1102-2473-acd8-1abddf62fd72&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6ffcb02e87e079d30defd481e08c8518541ad1fe",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 17,
+      "source_count": 16,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "16f1f543082ba297774cb1e3403a5aa388df3f9e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-1102-57ec-9acb-66765e38dd80&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c3399cb6cf5311d7d88b16d464cd4f6f8a55d184",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0924-195a-a3db-042e109ad3ab&fp=-3",
@@ -304,28 +304,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "8b36cf5efabe920d3c69a8762b6808f96e51b6c9",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1102-2473-acd8-1abddf62fd72&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6ffcb02e87e079d30defd481e08c8518541ad1fe",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0924-2715-8f5a-03fc5eb60552&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 17,
-      "duplicate_count": 17,
+      "item_count": 16,
+      "duplicate_count": 16,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -342,14 +324,254 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T23:24:03.362302Z",
-      "latest_at": "2026-07-12T23:23:55.016944Z",
+      "earliest_at": "2026-07-12T04:48:37.247520Z",
+      "latest_at": "2026-07-13T01:02:36.781110Z",
       "primary_item": {
-        "id": "c3399cb6cf5311d7d88b16d464cd4f6f8a55d184",
+        "id": "16f1f543082ba297774cb1e3403a5aa388df3f9e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0924-195a-a3db-042e109ad3ab&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-1102-57ec-9acb-66765e38dd80&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_290d28970a0b",
+      "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+      "url": "https://www.aibase.com/news/29531",
+      "primary_url": "https://www.aibase.com/news/29531",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
+          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+          "url": "https://www.aibase.com/news/29531",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:02:36.781110Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
+          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+          "url": "https://www.aibase.com/news/29531",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:02:36.781110Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T01:02:36.781110Z",
+      "latest_at": "2026-07-13T01:02:36.781110Z",
+      "primary_item": {
+        "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
+        "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+        "url": "https://www.aibase.com/news/29531",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a2b3a94fa462",
+      "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+      "url": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
+      "primary_url": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb5f1132c9813f12c8538ff4882ea19fd49f6964",
+          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+          "url": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "fb5f1132c9813f12c8538ff4882ea19fd49f6964",
+          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+          "url": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.96,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T00:05:00Z",
+      "latest_at": "2026-07-13T00:05:00Z",
+      "primary_item": {
+        "id": "fb5f1132c9813f12c8538ff4882ea19fd49f6964",
+        "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+        "url": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dba3c8564465",
+      "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+      "url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+      "primary_url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d58a803adf70f0807b363a4cdc0a59f20aabb9ed",
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T23:41:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d58a803adf70f0807b363a4cdc0a59f20aabb9ed",
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T23:41:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9435,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T23:41:11Z",
+      "latest_at": "2026-07-12T23:41:11Z",
+      "primary_item": {
+        "id": "d58a803adf70f0807b363a4cdc0a59f20aabb9ed",
+        "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+        "url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4ad14a7fc96c",
+      "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+      "url": "https://www.aibase.com/news/29532",
+      "primary_url": "https://www.aibase.com/news/29532",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "791a073bc08326031af93445f6195dea82193834",
+          "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "url": "https://www.aibase.com/news/29532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:02:36.781110Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "791a073bc08326031af93445f6195dea82193834",
+          "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "url": "https://www.aibase.com/news/29532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:02:36.781110Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T01:02:36.781110Z",
+      "latest_at": "2026-07-13T01:02:36.781110Z",
+      "primary_item": {
+        "id": "791a073bc08326031af93445f6195dea82193834",
+        "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+        "url": "https://www.aibase.com/news/29532",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -387,14 +609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,14 +669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.775,
+        "recency": 0.7065,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,20 +729,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7088,
+        "recency": 0.6402,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T16:24:32Z",
       "latest_at": "2026-07-12T16:24:32Z",
@@ -567,14 +788,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.657,
+        "recency": 0.5884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,65 +809,6 @@
         "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
         "url": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
         "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ec33267905e",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
-      "primary_url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9760a6806171026f9ecb3a0afc88f17312ecd27",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b9760a6806171026f9ecb3a0afc88f17312ecd27",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6022,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T13:51:05Z",
-      "latest_at": "2026-07-12T13:51:05Z",
-      "primary_item": {
-        "id": "b9760a6806171026f9ecb3a0afc88f17312ecd27",
-        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -704,14 +866,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6619,
-      "importance": 0.6619,
-      "importance_score": 0.6619,
+      "score": 0.6482,
+      "importance": 0.6482,
+      "importance_score": 0.6482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1244,
+        "recency": 0.0559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -727,6 +889,103 @@
         "url": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4f4c2bd39a3c",
+      "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "primary_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "ploy.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
+          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "ploy.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T23:41:11.951000Z"
+        },
+        {
+          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
+          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://news.ycombinator.com/item?id=48882716",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:54:11.181000Z"
+        },
+        {
+          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
+          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T17:13:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "ploy.ai"
+      ],
+      "items": [
+        {
+          "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
+          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "ploy.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T23:41:11.951000Z"
+        },
+        {
+          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
+          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://news.ycombinator.com/item?id=48882716",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:54:11.181000Z"
+        },
+        {
+          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
+          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T17:13:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9435,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T17:13:07Z",
+      "latest_at": "2026-07-12T23:41:11.951000Z",
+      "primary_item": {
+        "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
+        "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "source": "ploy.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -801,14 +1060,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5552,
+      "importance": 0.5552,
+      "importance_score": 0.5552,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9797,
+        "recency": 0.9112,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -823,6 +1082,84 @@
         "url": "https://news.ycombinator.com/item?id=48883090",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_4c10f08ce6ed",
+      "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
+      "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "56093dc3b7e3bb7c32d8f8584d9f9ddcfb8bc21b",
+          "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
+          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "70feb0552ad27b6c4e65503218ed471cc0fa4737",
+          "title": "科技记者古尔曼：苹果将跳过M6 Pro/Max芯片 全力押注AI导向的M7系列",
+          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T00:21:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "56093dc3b7e3bb7c32d8f8584d9f9ddcfb8bc21b",
+          "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
+          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "70feb0552ad27b6c4e65503218ed471cc0fa4737",
+          "title": "科技记者古尔曼：苹果将跳过M6 Pro/Max芯片 全力押注AI导向的M7系列",
+          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T00:21:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T00:21:58Z",
+      "latest_at": "2026-07-13T01:02:36.781110Z",
+      "primary_item": {
+        "id": "56093dc3b7e3bb7c32d8f8584d9f9ddcfb8bc21b",
+        "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
+        "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -898,14 +1235,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8684,
+        "recency": 0.7999,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -995,14 +1332,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8356,
+        "recency": 0.767,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1073,14 +1410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,14 +1488,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1173,6 +1510,84 @@
         "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_288d800c8949",
+      "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+      "url": "https://finance.jrj.com.cn/2026/07/13080757775258.shtml",
+      "primary_url": "https://finance.jrj.com.cn/2026/07/13080757775258.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7f5f1b4e3508f1deb91aaf5c312f3edfc092c980",
+          "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+          "url": "https://finance.jrj.com.cn/2026/07/13080757775258.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6892fde452272c87536edb6cb9ea97dca0fc3299",
+          "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+          "url": "https://www.ithome.com/0/975/850.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T23:54:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7f5f1b4e3508f1deb91aaf5c312f3edfc092c980",
+          "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+          "url": "https://finance.jrj.com.cn/2026/07/13080757775258.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6892fde452272c87536edb6cb9ea97dca0fc3299",
+          "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+          "url": "https://www.ithome.com/0/975/850.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T23:54:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T23:54:12Z",
+      "latest_at": "2026-07-13T01:02:36.781110Z",
+      "primary_item": {
+        "id": "7f5f1b4e3508f1deb91aaf5c312f3edfc092c980",
+        "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+        "url": "https://finance.jrj.com.cn/2026/07/13080757775258.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1248,14 +1663,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.938,
+        "recency": 0.8694,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1344,14 +1759,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7799,
+        "recency": 0.7114,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1365,473 +1780,6 @@
         "title": "人工智能助推科研职业发展，却抑制了科学发现",
         "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
         "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0f42f1a43c3e",
-      "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-      "url": "https://xandergos.github.io/terrain-diffusion",
-      "primary_url": "https://xandergos.github.io/terrain-diffusion",
-      "source": "xandergos.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "xandergos.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:14:25.984000Z"
-        },
-        {
-          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T19:56:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "xandergos.github.io"
-      ],
-      "items": [
-        {
-          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "xandergos.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:14:25.984000Z"
-        },
-        {
-          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T19:56:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8684,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T19:56:07Z",
-      "latest_at": "2026-07-12T20:14:25.984000Z",
-      "primary_item": {
-        "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-        "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-        "url": "https://xandergos.github.io/terrain-diffusion",
-        "source": "xandergos.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_61e1ad2b47b9",
-      "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-      "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-      "primary_url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:46:20.809000Z"
-        },
-        {
-          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T20:24:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:46:20.809000Z"
-        },
-        {
-          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T20:24:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8906,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T20:24:48Z",
-      "latest_at": "2026-07-12T20:46:20.809000Z",
-      "primary_item": {
-        "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
-        "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-        "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fed0a53b1177",
-      "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-      "url": "https://200kb.freelang.dev",
-      "primary_url": "https://200kb.freelang.dev",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "045aab22adea1e61b604d72e57fa43f1411bd2a2",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        },
-        {
-          "id": "9f747ae6be31ad93503cd62b2ce8f94c12213385",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "045aab22adea1e61b604d72e57fa43f1411bd2a2",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        },
-        {
-          "id": "9f747ae6be31ad93503cd62b2ce8f94c12213385",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7331,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T16:59:37Z",
-      "latest_at": "2026-07-12T16:59:37Z",
-      "primary_item": {
-        "id": "045aab22adea1e61b604d72e57fa43f1411bd2a2",
-        "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-        "url": "https://200kb.freelang.dev",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_e90af5436afb",
-      "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
-      "url": "https://news.ycombinator.com/item?id=48884647",
-      "primary_url": "https://news.ycombinator.com/item?id=48884647",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "19a0b7ceae3c05cf0fcb1b56f40fce9610fd27de",
-          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48884647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T21:54:37.165000Z"
-        },
-        {
-          "id": "d77724f6bbd0a2eb790d89fcd9f2b0f13dcb9143",
-          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
-          "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T20:49:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "19a0b7ceae3c05cf0fcb1b56f40fce9610fd27de",
-          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48884647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T21:54:37.165000Z"
-        },
-        {
-          "id": "d77724f6bbd0a2eb790d89fcd9f2b0f13dcb9143",
-          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
-          "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T20:49:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.938,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T20:49:46Z",
-      "latest_at": "2026-07-12T21:54:37.165000Z",
-      "primary_item": {
-        "id": "19a0b7ceae3c05cf0fcb1b56f40fce9610fd27de",
-        "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
-        "url": "https://news.ycombinator.com/item?id=48884647",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_79354e1b81c7",
-      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4752,
-      "importance": 0.4752,
-      "importance_score": 0.4752,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.636,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T12:53:09Z",
-      "latest_at": "2026-07-12T14:39:45.964379Z",
-      "primary_item": {
-        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_af41461907f9",
-      "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
-      "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-      "primary_url": "https://github.com/Roee-Tsur/mcp-spec-check",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T13:35:15.303000Z"
-        },
-        {
-          "id": "e59b8609f0107ee4f1e1fb80cbaa732345d32758",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T13:35:15.303000Z"
-        },
-        {
-          "id": "e59b8609f0107ee4f1e1fb80cbaa732345d32758",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4662,
-      "importance": 0.4662,
-      "importance_score": 0.4662,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5912,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T13:21:01Z",
-      "latest_at": "2026-07-12T13:35:15.303000Z",
-      "primary_item": {
-        "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
-        "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
-        "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     }
