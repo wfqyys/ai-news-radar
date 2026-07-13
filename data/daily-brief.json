@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-13T11:36:37.963972Z",
+  "generated_at": "2026-07-13T14:19:35.089480Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2137-05a6-a04d-4b415aa51244&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-2137-05a6-a04d-4b415aa51244&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0019-58e1-98fe-201950511223&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0019-58e1-98fe-201950511223&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "1783dd28a1e746cb12e266158b35d807e1b66adc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0019-58e1-98fe-201950511223&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "85a2fec22c5a26e07a6b0a5f84781ffdde312022",
           "title": "点击这里进入 / Click here to enter",
@@ -127,32 +136,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "d9e91bf9876d1c9e73395ec96d46e63d94c0a9b3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5261c374b3e51b27768ed7200f80fb71ea7cce40",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2154-405c-89c3-a8ac9813dd04&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 15,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "1783dd28a1e746cb12e266158b35d807e1b66adc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0019-58e1-98fe-201950511223&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "85a2fec22c5a26e07a6b0a5f84781ffdde312022",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2137-05a6-a04d-4b415aa51244&fp=-3",
@@ -268,28 +268,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "d9e91bf9876d1c9e73395ec96d46e63d94c0a9b3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2306-26b6-9992-af91d8b7be49&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5261c374b3e51b27768ed7200f80fb71ea7cce40",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2154-405c-89c3-a8ac9813dd04&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 15,
-      "duplicate_count": 15,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -306,14 +288,154 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T11:54:13.679799Z",
-      "latest_at": "2026-07-13T11:36:37.963972Z",
+      "earliest_at": "2026-07-12T14:39:45.964379Z",
+      "latest_at": "2026-07-13T14:19:35.089480Z",
       "primary_item": {
-        "id": "85a2fec22c5a26e07a6b0a5f84781ffdde312022",
+        "id": "1783dd28a1e746cb12e266158b35d807e1b66adc",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2137-05a6-a04d-4b415aa51244&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0019-58e1-98fe-201950511223&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+          "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+          "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.4031,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T00:00:00Z",
+      "latest_at": "2026-07-13T00:00:00Z",
+      "primary_item": {
+        "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+        "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ea4734d4d835",
+      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+      "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+      "primary_url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8899,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T11:41:01Z",
+      "latest_at": "2026-07-13T11:41:01Z",
+      "primary_item": {
+        "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
+        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+        "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -351,14 +473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,14 +533,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7861,
+      "importance": 0.7861,
+      "importance_score": 0.7861,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.8704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -471,14 +593,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -531,14 +653,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9252,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -591,14 +713,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,14 +773,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,14 +852,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.746,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -754,65 +876,6 @@
         "url": "https://www.aibase.com/news/29549",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6b33b25eb1fb",
-      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-      "url": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
-      "primary_url": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac4ed2adfd9e3e0f1f79e943fd9a90d83307ad9f",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "url": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ac4ed2adfd9e3e0f1f79e943fd9a90d83307ad9f",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "url": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T00:55:29Z",
-      "latest_at": "2026-07-13T00:55:29Z",
-      "primary_item": {
-        "id": "ac4ed2adfd9e3e0f1f79e943fd9a90d83307ad9f",
-        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "url": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -850,14 +913,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,14 +973,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -970,14 +1033,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,14 +1149,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5753,
-      "importance": 0.5753,
-      "importance_score": 0.5753,
+      "score": 0.5527,
+      "importance": 0.5527,
+      "importance_score": 0.5527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8866,
+        "recency": 0.7735,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1145,14 +1208,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,14 +1306,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1264,6 +1327,239 @@
         "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://news.ycombinator.com/item?id=48889637",
         "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_084d38980c99",
+      "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4b462cb19ed8892e7911b88afc47116d4e05e124",
+          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T14:09:39.332000Z"
+        },
+        {
+          "id": "3f9683044b5054529f81bbf005dc2e8394fbbae1",
+          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出增加 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1lFNUV4bmJpajBQUmJJU0dHamNVVFd2aF9mcU1CM19pREh1RFJDendhX2wxeWxGdVpBWFQyaE1XQjRKd2dSazl5T3RQeTRKTXlCOS1TSUZBVkhuMEJrZ2VXZXIyV0RFSXRrSXhWbHRIbW95dDFlcHRfclJtQ3E5QUpwaVFwYjVYMTJCb1gwV2Fqbkd3VHdmUTlNVGFXUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T13:06:35.877000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "4b462cb19ed8892e7911b88afc47116d4e05e124",
+          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T14:09:39.332000Z"
+        },
+        {
+          "id": "3f9683044b5054529f81bbf005dc2e8394fbbae1",
+          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出增加 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1lFNUV4bmJpajBQUmJJU0dHamNVVFd2aF9mcU1CM19pREh1RFJDendhX2wxeWxGdVpBWFQyaE1XQjRKd2dSazl5T3RQeTRKTXlCOS1TSUZBVkhuMEJrZ2VXZXIyV0RFSXRrSXhWbHRIbW95dDFlcHRfclJtQ3E5QUpwaVFwYjVYMTJCb1gwV2Fqbkd3VHdmUTlNVGFXUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T13:06:35.877000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9931,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T13:06:35.877000Z",
+      "latest_at": "2026-07-13T14:09:39.332000Z",
+      "primary_item": {
+        "id": "4b462cb19ed8892e7911b88afc47116d4e05e124",
+        "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_41b40a0dbb27",
+      "title": "曾对人工智能提不起兴趣的软件工程师，如今正在攻读护理专业",
+      "url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+      "primary_url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d61ac2063f52f91de6035aabacf9ed91d1d19353",
+          "title": "曾对人工智能提不起兴趣的软件工程师，如今正在攻读护理专业",
+          "url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T14:09:39.421000Z"
+        },
+        {
+          "id": "dfb2974e98754ff8c13f42aa67d52759cc5ca337",
+          "title": "曾对人工智能提不起兴趣的软件工程师，如今正在攻读护理专业 / I was a software engineer who couldn't get excited about AI. Now I'm studying to be a nurse.",
+          "url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T09:50:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d61ac2063f52f91de6035aabacf9ed91d1d19353",
+          "title": "曾对人工智能提不起兴趣的软件工程师，如今正在攻读护理专业",
+          "url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T14:09:39.421000Z"
+        },
+        {
+          "id": "dfb2974e98754ff8c13f42aa67d52759cc5ca337",
+          "title": "曾对人工智能提不起兴趣的软件工程师，如今正在攻读护理专业 / I was a software engineer who couldn't get excited about AI. Now I'm studying to be a nurse.",
+          "url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T09:50:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9931,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T09:50:01Z",
+      "latest_at": "2026-07-13T14:09:39.421000Z",
+      "primary_item": {
+        "id": "d61ac2063f52f91de6035aabacf9ed91d1d19353",
+        "title": "曾对人工智能提不起兴趣的软件工程师，如今正在攻读护理专业",
+        "url": "https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b887f733149b",
+      "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "primary_url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "546e921736629ddfabb6c41f6d449661d249e688",
+          "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T11:37:13.784000Z"
+        },
+        {
+          "id": "68d17447f335128d21c554c407cbb06749ee00ff",
+          "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "546e921736629ddfabb6c41f6d449661d249e688",
+          "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T11:37:13.784000Z"
+        },
+        {
+          "id": "68d17447f335128d21c554c407cbb06749ee00ff",
+          "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8873,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T11:36:37.963972Z",
+      "latest_at": "2026-07-13T11:37:13.784000Z",
+      "primary_item": {
+        "id": "546e921736629ddfabb6c41f6d449661d249e688",
+        "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
+        "url": "https://github.com/moeru-ai/airi",
+        "source": "github",
         "source_name": "NewsNow"
       }
     },
@@ -1321,14 +1617,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,282 +1639,6 @@
         "url": "https://www.huxiu.com/article/4874897.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b887f733149b",
-      "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "primary_url": "https://github.com/moeru-ai/airi",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "546e921736629ddfabb6c41f6d449661d249e688",
-          "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T11:37:13.784000Z"
-        },
-        {
-          "id": "68d17447f335128d21c554c407cbb06749ee00ff",
-          "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "546e921736629ddfabb6c41f6d449661d249e688",
-          "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T11:37:13.784000Z"
-        },
-        {
-          "id": "68d17447f335128d21c554c407cbb06749ee00ff",
-          "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T11:36:37.963972Z",
-      "latest_at": "2026-07-13T11:37:13.784000Z",
-      "primary_item": {
-        "id": "546e921736629ddfabb6c41f6d449661d249e688",
-        "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
-        "url": "https://github.com/moeru-ai/airi",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3a63a9545188",
-      "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-      "url": "https://www.aibase.com/news/29545",
-      "primary_url": "https://www.aibase.com/news/29545",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c69dbbd164a061a59da53969815929762752e5e6",
-          "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-          "url": "https://www.aibase.com/news/29545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:13:50.875558Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c69dbbd164a061a59da53969815929762752e5e6",
-          "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-          "url": "https://www.aibase.com/news/29545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:13:50.875558Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8592,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T08:13:50.875558Z",
-      "latest_at": "2026-07-13T08:13:50.875558Z",
-      "primary_item": {
-        "id": "c69dbbd164a061a59da53969815929762752e5e6",
-        "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-        "url": "https://www.aibase.com/news/29545",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_db532b68b73c",
-      "title": "员工在干活，AI却在揽功。",
-      "url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-      "primary_url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "adffce4f71f3e20c13e7976838ede27b858c1c9a",
-          "title": "员工在干活，AI却在揽功。",
-          "url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:57:22.472000Z"
-        },
-        {
-          "id": "def6d8c293f7d3eb8643a698534a9ec4a6ce7e31",
-          "title": "员工在干活，AI却在揽功。 / Employees are doing the work. AI is getting the credit.",
-          "url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T08:08:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "adffce4f71f3e20c13e7976838ede27b858c1c9a",
-          "title": "员工在干活，AI却在揽功。",
-          "url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:57:22.472000Z"
-        },
-        {
-          "id": "def6d8c293f7d3eb8643a698534a9ec4a6ce7e31",
-          "title": "员工在干活，AI却在揽功。 / Employees are doing the work. AI is getting the credit.",
-          "url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T08:08:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9311,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T08:08:01Z",
-      "latest_at": "2026-07-13T09:57:22.472000Z",
-      "primary_item": {
-        "id": "adffce4f71f3e20c13e7976838ede27b858c1c9a",
-        "title": "员工在干活，AI却在揽功。",
-        "url": "https://www.businessinsider.com/bosses-credit-human-employees-ai-delaying-promotions-raises-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79f338388f7d",
-      "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-      "url": "https://www.aibase.com/news/29546",
-      "primary_url": "https://www.aibase.com/news/29546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b3df6a367bd8b4b3e037d883c38504e44d314a4c",
-          "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-          "url": "https://www.aibase.com/news/29546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:13:50.875558Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b3df6a367bd8b4b3e037d883c38504e44d314a4c",
-          "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-          "url": "https://www.aibase.com/news/29546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:13:50.875558Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8592,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T08:13:50.875558Z",
-      "latest_at": "2026-07-13T08:13:50.875558Z",
-      "primary_item": {
-        "id": "b3df6a367bd8b4b3e037d883c38504e44d314a4c",
-        "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-        "url": "https://www.aibase.com/news/29546",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
