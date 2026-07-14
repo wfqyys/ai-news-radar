@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-13T23:24:54.745459Z",
+  "generated_at": "2026-07-14T00:13:36.094407Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "99ba3ecfd053fa2ff40691aa40c6394fb1f6f922",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9705807fed251362ccdf059e8aef06533e041dfa",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "99ba3ecfd053fa2ff40691aa40c6394fb1f6f922",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9705807fed251362ccdf059e8aef06533e041dfa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,13 +253,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-13T01:02:36.781110Z",
-      "latest_at": "2026-07-13T23:24:54.745459Z",
+      "latest_at": "2026-07-14T00:13:36.094407Z",
       "primary_item": {
-        "id": "9705807fed251362ccdf059e8aef06533e041dfa",
+        "id": "99ba3ecfd053fa2ff40691aa40c6394fb1f6f922",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_d9b4cfc04bcb",
+      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8562,
+      "importance": 0.8562,
+      "importance_score": 0.8562,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T23:39:22Z",
+      "latest_at": "2026-07-13T23:39:22Z",
+      "primary_item": {
+        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -279,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9344,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -339,14 +418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6896,
+        "recency": 0.6558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,14 +479,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7658,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,85 +502,6 @@
         "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
-          "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        },
-        {
-          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
-          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
-          "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        },
-        {
-          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
-          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.0244,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T00:00:00Z",
-      "latest_at": "2026-07-13T00:00:00Z",
-      "primary_item": {
-        "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
-        "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -558,14 +558,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7105,
-      "importance": 0.7105,
-      "importance_score": 0.7105,
+      "score": 0.7037,
+      "importance": 0.7037,
+      "importance_score": 0.7037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3673,
+        "recency": 0.3335,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -637,14 +637,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.683,
-      "importance": 0.683,
-      "importance_score": 0.683,
+      "score": 0.6762,
+      "importance": 0.6762,
+      "importance_score": 0.6762,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2298,
+        "recency": 0.196,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -660,6 +660,103 @@
         "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c6cb8a789e77",
+      "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯” - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7baa8c3f2cf3a5b1fcc9ccc3b02aa6852ba3d92c",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯” - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T23:58:43.177000Z"
+        },
+        {
+          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://reut.rs/4pfxdHT",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.472000Z"
+        },
+        {
+          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:09:33.094000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "news.google.com",
+        "reut.rs",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "7baa8c3f2cf3a5b1fcc9ccc3b02aa6852ba3d92c",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯” - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T23:58:43.177000Z"
+        },
+        {
+          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://reut.rs/4pfxdHT",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.472000Z"
+        },
+        {
+          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:09:33.094000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9897,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T18:09:33.094000Z",
+      "latest_at": "2026-07-13T23:58:43.177000Z",
+      "primary_item": {
+        "id": "7baa8c3f2cf3a5b1fcc9ccc3b02aa6852ba3d92c",
+        "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -735,14 +832,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.984,
+        "recency": 0.9502,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -832,14 +929,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5599,
-      "importance": 0.5599,
-      "importance_score": 0.5599,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9344,
+        "recency": 0.9006,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -857,55 +954,55 @@
       }
     },
     {
-      "story_id": "story_0b795a82f19c",
-      "title": "物理 AI 驱动的组织变革",
-      "url": "https://www.huxiu.com/article/4874986.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874986.html?f=rss",
+      "story_id": "story_96d3c60b986a",
+      "title": "美国光伏巨头 Sunrun 进军「卖算力」赛道 CEO 声称用户每月能挣数百美元",
+      "url": "https://api3.cls.cn/share/article/2425234?os=web&sv=8.4.6&app=CailianpressWeb",
+      "primary_url": "https://api3.cls.cn/share/article/2425234?os=web&sv=8.4.6&app=CailianpressWeb",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "7826047d425578afe355fd51ef8860d0486a21e8",
-          "title": "物理 AI 驱动的组织变革",
-          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+          "id": "b321fe5026529925d277da3f4369582883e94ad1",
+          "title": "美国光伏巨头 Sunrun 进军「卖算力」赛道 CEO 声称用户每月能挣数百美元",
+          "url": "https://api3.cls.cn/share/article/2425234?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "0bb278f09eefaf406bcc80917fcb8850ff0fcdbb",
-          "title": "物理AI驱动的组织变革",
-          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "84df4da0f99e8daeea5638376c6e8dc943e1f776",
+          "title": "美国光伏巨头Sunrun进军“卖算力”赛道，CEO声称用户每月能挣数百美元",
+          "url": "https://36kr.com/newsflashes/3894708348058880?f=rss",
+          "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-13T22:08:45Z"
+          "published_at": "2026-07-14T00:01:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "36氪 (36Kr)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7826047d425578afe355fd51ef8860d0486a21e8",
-          "title": "物理 AI 驱动的组织变革",
-          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+          "id": "b321fe5026529925d277da3f4369582883e94ad1",
+          "title": "美国光伏巨头 Sunrun 进军「卖算力」赛道 CEO 声称用户每月能挣数百美元",
+          "url": "https://api3.cls.cn/share/article/2425234?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "0bb278f09eefaf406bcc80917fcb8850ff0fcdbb",
-          "title": "物理AI驱动的组织变革",
-          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "84df4da0f99e8daeea5638376c6e8dc943e1f776",
+          "title": "美国光伏巨头Sunrun进军“卖算力”赛道，CEO声称用户每月能挣数百美元",
+          "url": "https://36kr.com/newsflashes/3894708348058880?f=rss",
+          "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-13T22:08:45Z"
+          "published_at": "2026-07-14T00:01:08Z"
         }
       ],
       "item_count": 2,
@@ -924,14 +1021,92 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T22:08:45Z",
-      "latest_at": "2026-07-13T23:24:54.745459Z",
+      "earliest_at": "2026-07-14T00:01:08Z",
+      "latest_at": "2026-07-14T00:13:36.094407Z",
       "primary_item": {
-        "id": "7826047d425578afe355fd51ef8860d0486a21e8",
-        "title": "物理 AI 驱动的组织变革",
-        "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+        "id": "b321fe5026529925d277da3f4369582883e94ad1",
+        "title": "美国光伏巨头 Sunrun 进军「卖算力」赛道 CEO 声称用户每月能挣数百美元",
+        "url": "https://api3.cls.cn/share/article/2425234?os=web&sv=8.4.6&app=CailianpressWeb",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_63be1cc52d90",
+      "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+      "url": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "961a2436f6384428d298322bb17fb95e9f09d98f",
+          "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+          "url": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T23:38:10Z"
+        },
+        {
+          "id": "cfc8e12bdde7bead3593d3ef97ab7bc3ebee091c",
+          "title": "全球 AI 龙头股共振下跌，机构称后续关注三个信号",
+          "url": "https://wallstreetcn.com/livenews/3133124",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "961a2436f6384428d298322bb17fb95e9f09d98f",
+          "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+          "url": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T23:38:10Z"
+        },
+        {
+          "id": "cfc8e12bdde7bead3593d3ef97ab7bc3ebee091c",
+          "title": "全球 AI 龙头股共振下跌，机构称后续关注三个信号",
+          "url": "https://wallstreetcn.com/livenews/3133124",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9754,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T23:24:54.745459Z",
+      "latest_at": "2026-07-13T23:38:10Z",
+      "primary_item": {
+        "id": "961a2436f6384428d298322bb17fb95e9f09d98f",
+        "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+        "url": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -988,14 +1163,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9455,
+        "recency": 0.9116,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1066,14 +1241,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9024,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,6 +1263,239 @@
         "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b03c5d45d440",
+      "title": "对 Microsoft 2026 年初推出的 Claude Code 和 GitHub Copilot CLI 的研究 / A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "url": "https://news.ycombinator.com/item?id=48899321",
+      "primary_url": "https://news.ycombinator.com/item?id=48899321",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "246e736c7da69e283bb53d7e83b75ad42ed02014",
+          "title": "对 Microsoft 2026 年初推出的 Claude Code 和 GitHub Copilot CLI 的研究 / A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+          "url": "https://news.ycombinator.com/item?id=48899321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T00:14:02.047000Z"
+        },
+        {
+          "id": "ec00dd80a888ee0da3fbc282fb92fb48e29806f5",
+          "title": "对 Microsoft 2026 年初推出的 Claude Code 和 GitHub Copilot CLI 的研究 / A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+          "url": "https://arxiv.org/abs/2607.01418",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T21:43:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "246e736c7da69e283bb53d7e83b75ad42ed02014",
+          "title": "对 Microsoft 2026 年初推出的 Claude Code 和 GitHub Copilot CLI 的研究 / A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+          "url": "https://news.ycombinator.com/item?id=48899321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T00:14:02.047000Z"
+        },
+        {
+          "id": "ec00dd80a888ee0da3fbc282fb92fb48e29806f5",
+          "title": "对 Microsoft 2026 年初推出的 Claude Code 和 GitHub Copilot CLI 的研究 / A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+          "url": "https://arxiv.org/abs/2607.01418",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T21:43:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T21:43:51Z",
+      "latest_at": "2026-07-14T00:14:02.047000Z",
+      "primary_item": {
+        "id": "246e736c7da69e283bb53d7e83b75ad42ed02014",
+        "title": "对 Microsoft 2026 年初推出的 Claude Code 和 GitHub Copilot CLI 的研究 / A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+        "url": "https://news.ycombinator.com/item?id=48899321",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0b795a82f19c",
+      "title": "物理 AI 驱动的组织变革",
+      "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874986.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7826047d425578afe355fd51ef8860d0486a21e8",
+          "title": "物理 AI 驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0bb278f09eefaf406bcc80917fcb8850ff0fcdbb",
+          "title": "物理AI驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T22:08:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "7826047d425578afe355fd51ef8860d0486a21e8",
+          "title": "物理 AI 驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0bb278f09eefaf406bcc80917fcb8850ff0fcdbb",
+          "title": "物理AI驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T22:08:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9662,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T22:08:45Z",
+      "latest_at": "2026-07-13T23:24:54.745459Z",
+      "primary_item": {
+        "id": "7826047d425578afe355fd51ef8860d0486a21e8",
+        "title": "物理 AI 驱动的组织变革",
+        "url": "https://www.huxiu.com/article/4874986.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_ee8739307658",
+      "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "3689d75285319512be005960484067a1a1c50562",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        },
+        {
+          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "3689d75285319512be005960484067a1a1c50562",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        },
+        {
+          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7631,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T18:32:27Z",
+      "latest_at": "2026-07-13T18:32:27Z",
+      "primary_item": {
+        "id": "3689d75285319512be005960484067a1a1c50562",
+        "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
+        "url": "https://playcode.io/blog/real-price-of-frontier-models",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1163,14 +1571,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9013,
+        "recency": 0.8675,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1185,238 +1593,6 @@
         "url": "https://news.ycombinator.com/item?id=48897969",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ee8739307658",
-      "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
-      "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7969,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T18:32:27Z",
-      "latest_at": "2026-07-13T18:32:27Z",
-      "primary_item": {
-        "id": "3689d75285319512be005960484067a1a1c50562",
-        "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
-        "url": "https://playcode.io/blog/real-price-of-frontier-models",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c6cb8a789e77",
-      "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
-      "url": "https://reut.rs/4pfxdHT",
-      "primary_url": "https://reut.rs/4pfxdHT",
-      "source": "reut.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
-          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://reut.rs/4pfxdHT",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.472000Z"
-        },
-        {
-          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
-          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:09:33.094000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "reut.rs",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
-          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://reut.rs/4pfxdHT",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.472000Z"
-        },
-        {
-          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
-          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:09:33.094000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7921,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T18:09:33.094000Z",
-      "latest_at": "2026-07-13T18:25:33.472000Z",
-      "primary_item": {
-        "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
-        "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
-        "url": "https://reut.rs/4pfxdHT",
-        "source": "reut.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e9296a12cdd5",
-      "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-      "url": "https://www.gelonghui.com/live/2550710",
-      "primary_url": "https://www.gelonghui.com/live/2550710",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "80ad5f82545ec06f2d064118cf8e596c56edc3fa",
-          "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://www.gelonghui.com/live/2550710",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "cacb716f14205b8078035f4bcd45e9cb8f92a429",
-          "title": "财联社 7 月 14 日电，惠誉称，未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://api3.cls.cn/share/article/2425179?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "80ad5f82545ec06f2d064118cf8e596c56edc3fa",
-          "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://www.gelonghui.com/live/2550710",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "cacb716f14205b8078035f4bcd45e9cb8f92a429",
-          "title": "财联社 7 月 14 日电，惠誉称，未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://api3.cls.cn/share/article/2425179?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.901,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T21:02:18.175854Z",
-      "latest_at": "2026-07-13T21:02:18.175854Z",
-      "primary_item": {
-        "id": "80ad5f82545ec06f2d064118cf8e596c56edc3fa",
-        "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-        "url": "https://www.gelonghui.com/live/2550710",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1473,14 +1649,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4865,
-      "importance": 0.4865,
-      "importance_score": 0.4865,
+      "score": 0.4797,
+      "importance": 0.4797,
+      "importance_score": 0.4797,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6924,
+        "recency": 0.6586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,84 +1671,6 @@
         "url": "https://github.com/jbwinters/jacquard-lang",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_be3acb7db699",
-      "title": "克劳德只是米塞克斯先生 / Claude is just Mr. Meeseeks",
-      "url": "https://news.ycombinator.com/item?id=48899529",
-      "primary_url": "https://news.ycombinator.com/item?id=48899529",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "23a322837e5a46f116cba497b4393580924bd555",
-          "title": "克劳德只是米塞克斯先生 / Claude is just Mr. Meeseeks",
-          "url": "https://news.ycombinator.com/item?id=48899529",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T23:01:49.431000Z"
-        },
-        {
-          "id": "a193d7d44b63d504f4fc3bfe1b821eccd8590dc2",
-          "title": "克劳德只是米塞克斯先生 / Claude is just Mr. Meeseeks",
-          "url": "https://github.com/thephw/claude-meseeks",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T22:03:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "23a322837e5a46f116cba497b4393580924bd555",
-          "title": "克劳德只是米塞克斯先生 / Claude is just Mr. Meeseeks",
-          "url": "https://news.ycombinator.com/item?id=48899529",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T23:01:49.431000Z"
-        },
-        {
-          "id": "a193d7d44b63d504f4fc3bfe1b821eccd8590dc2",
-          "title": "克劳德只是米塞克斯先生 / Claude is just Mr. Meeseeks",
-          "url": "https://github.com/thephw/claude-meseeks",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T22:03:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.984,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T22:03:54Z",
-      "latest_at": "2026-07-13T23:01:49.431000Z",
-      "primary_item": {
-        "id": "23a322837e5a46f116cba497b4393580924bd555",
-        "title": "克劳德只是米塞克斯先生 / Claude is just Mr. Meeseeks",
-        "url": "https://news.ycombinator.com/item?id=48899529",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1629,14 +1727,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7921,
+        "recency": 0.7583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1650,83 +1748,6 @@
         "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
         "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_084d38980c99",
-      "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4b462cb19ed8892e7911b88afc47116d4e05e124",
-          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T14:09:39.332000Z"
-        },
-        {
-          "id": "3f9683044b5054529f81bbf005dc2e8394fbbae1",
-          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出增加 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1lFNUV4bmJpajBQUmJJU0dHamNVVFd2aF9mcU1CM19pREh1RFJDendhX2wxeWxGdVpBWFQyaE1XQjRKd2dSazl5T3RQeTRKTXlCOS1TSUZBVkhuMEJrZ2VXZXIyV0RFSXRrSXhWbHRIbW95dDFlcHRfclJtQ3E5QUpwaVFwYjVYMTJCb1gwV2Fqbkd3VHdmUTlNVGFXUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T13:06:35.877000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "4b462cb19ed8892e7911b88afc47116d4e05e124",
-          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T14:09:39.332000Z"
-        },
-        {
-          "id": "3f9683044b5054529f81bbf005dc2e8394fbbae1",
-          "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出增加 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1lFNUV4bmJpajBQUmJJU0dHamNVVFd2aF9mcU1CM19pREh1RFJDendhX2wxeWxGdVpBWFQyaE1XQjRKd2dSazl5T3RQeTRKTXlCOS1TSUZBVkhuMEJrZ2VXZXIyV0RFSXRrSXhWbHRIbW95dDFlcHRfclJtQ3E5QUpwaVFwYjVYMTJCb1gwV2Fqbkd3VHdmUTlNVGFXUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T13:06:35.877000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4709,
-      "importance": 0.4709,
-      "importance_score": 0.4709,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6144,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T13:06:35.877000Z",
-      "latest_at": "2026-07-13T14:09:39.332000Z",
-      "primary_item": {
-        "id": "4b462cb19ed8892e7911b88afc47116d4e05e124",
-        "title": "人工智能的大规模扩张带来了新的通胀威胁，因为消费者在笔记本电脑和电费上的支出都在增加 - AP News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     }
