@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T21:28:59.592731Z",
+  "generated_at": "2026-07-14T22:31:33.635056Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0729-2128-8f85-4239ac157967&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0729-2128-8f85-4239ac157967&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9a55315d39edc28ea3fdad669be9a3bf86649d49",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "9705807fed251362ccdf059e8aef06533e041dfa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b922d3b3fc35ddd4de78805ac6a2756ba408ed32",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0825-425d-95e9-858fc10b883b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9a55315d39edc28ea3fdad669be9a3bf86649d49",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0729-2128-8f85-4239ac157967&fp=-3",
@@ -255,15 +264,6 @@
           "id": "9705807fed251362ccdf059e8aef06533e041dfa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b922d3b3fc35ddd4de78805ac6a2756ba408ed32",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0825-425d-95e9-858fc10b883b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T22:25:19.367352Z",
-      "latest_at": "2026-07-14T21:28:59.592731Z",
+      "earliest_at": "2026-07-13T23:24:54.745459Z",
+      "latest_at": "2026-07-14T22:31:33.635056Z",
       "primary_item": {
-        "id": "9a55315d39edc28ea3fdad669be9a3bf86649d49",
+        "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0729-2128-8f85-4239ac157967&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9054,
+        "recency": 0.862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -394,14 +394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7715,
+        "recency": 0.7281,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,142 +421,21 @@
       }
     },
     {
-      "story_id": "story_f1defe0b5ee6",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-      "primary_url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9322,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T19:51:19Z",
-      "latest_at": "2026-07-14T19:51:19Z",
-      "primary_item": {
-        "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
-        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9048b47cd9ef",
-      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8014,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
-      "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9fb4aee306ac",
-      "title": "Google 因 AI 训练再遭出版商集体诉讼",
-      "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
-      "primary_url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "story_id": "story_7f4c8b23028a",
+      "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+      "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
+      "primary_url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
       "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
-          "title": "Google 因 AI 训练再遭出版商集体诉讼",
-          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "id": "29245084e3fb061b6fad964273e705f88d1c36ef",
+          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+          "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T18:33:31Z"
+          "published_at": "2026-07-14T21:50:11Z"
         }
       ],
       "source_count": 1,
@@ -565,25 +444,25 @@
       ],
       "items": [
         {
-          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
-          "title": "Google 因 AI 训练再遭出版商集体诉讼",
-          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "id": "29245084e3fb061b6fad964273e705f88d1c36ef",
+          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+          "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T18:33:31Z"
+          "published_at": "2026-07-14T21:50:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.9713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -591,13 +470,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T18:33:31Z",
-      "latest_at": "2026-07-14T18:33:31Z",
+      "earliest_at": "2026-07-14T21:50:11Z",
+      "latest_at": "2026-07-14T21:50:11Z",
       "primary_item": {
-        "id": "95aba0762d0d6618d564931fef11e468b42dab60",
-        "title": "Google 因 AI 训练再遭出版商集体诉讼",
-        "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+        "id": "29245084e3fb061b6fad964273e705f88d1c36ef",
+        "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+        "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0d607fda7e78",
+      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+      "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+      "primary_url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1131f3673c082426eb30adaf5724215a3c7100f5",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T21:27:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "1131f3673c082426eb30adaf5724215a3c7100f5",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T21:27:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9553,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T21:27:11Z",
+      "latest_at": "2026-07-14T21:27:11Z",
+      "primary_item": {
+        "id": "1131f3673c082426eb30adaf5724215a3c7100f5",
+        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+        "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -636,14 +575,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5215,
+        "recency": 0.4781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -697,14 +636,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8074,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -719,6 +658,127 @@
         "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
         "url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
         "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed3a2198d15e",
+      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5991,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T12:54:12Z",
+      "latest_at": "2026-07-14T12:54:12Z",
+      "primary_item": {
+        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f1defe0b5ee6",
+      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+      "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+      "primary_url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T19:51:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T19:51:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8887,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T19:51:19Z",
+      "latest_at": "2026-07-14T19:51:19Z",
+      "primary_item": {
+        "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
+        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+        "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -757,14 +817,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7421,
+        "recency": 0.6987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,14 +877,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7376,
+        "recency": 0.6942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -839,6 +899,66 @@
         "title": "Anthropic 推出 Claude for Teachers",
         "url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9fb4aee306ac",
+      "title": "Google 因 AI 训练再遭出版商集体诉讼",
+      "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "primary_url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼",
+          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼",
+          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8347,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T18:33:31Z",
+      "latest_at": "2026-07-14T18:33:31Z",
+      "primary_item": {
+        "id": "95aba0762d0d6618d564931fef11e468b42dab60",
+        "title": "Google 因 AI 训练再遭出版商集体诉讼",
+        "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -914,14 +1034,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.429,
+        "recency": 0.3856,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -993,14 +1113,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5497,
+        "recency": 0.5063,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1053,14 +1173,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6513,
+        "recency": 0.6079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1112,14 +1232,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,67 +1255,6 @@
         "url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed3a2198d15e",
-      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6425,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T12:54:12Z",
-      "latest_at": "2026-07-14T12:54:12Z",
-      "primary_item": {
-        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1233,14 +1292,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7424,
+        "recency": 0.6989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,14 +1371,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4616,
+        "recency": 0.4181,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1391,14 +1450,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4616,
+        "recency": 0.4181,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1417,119 +1476,80 @@
       }
     },
     {
-      "story_id": "story_a1999016055a",
-      "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-      "url": "https://www.aibase.com/news/29584",
-      "primary_url": "https://www.aibase.com/news/29584",
+      "story_id": "story_07ac207c908f",
+      "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+      "url": "https://www.aibase.com/news/29571",
+      "primary_url": "https://www.aibase.com/news/29571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
-          "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-          "url": "https://www.aibase.com/news/29584",
+          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/news/29571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T10:40:33.839373Z"
+          "published_at": "2026-07-14T03:43:04.915507Z"
+        },
+        {
+          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
+          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/zh/news/29571",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
-          "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-          "url": "https://www.aibase.com/news/29584",
+          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/news/29571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T10:40:33.839373Z"
+          "published_at": "2026-07-14T03:43:04.915507Z"
+        },
+        {
+          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
+          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/zh/news/29571",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6803,
+      "importance": 0.6803,
+      "importance_score": 0.6803,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5497,
-        "story_heat": 0.0
+        "recency": 0.2163,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:40:33.839373Z",
-      "latest_at": "2026-07-14T10:40:33.839373Z",
+      "earliest_at": "2026-07-14T03:43:04.915507Z",
+      "latest_at": "2026-07-14T03:43:04.915507Z",
       "primary_item": {
-        "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
-        "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-        "url": "https://www.aibase.com/news/29584",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_90b7f4c605c2",
-      "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-      "url": "https://www.aibase.com/news/29588",
-      "primary_url": "https://www.aibase.com/news/29588",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "20b47ca922512701538e04e726795bee5e9813d9",
-          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-          "url": "https://www.aibase.com/news/29588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:40:33.839373Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "20b47ca922512701538e04e726795bee5e9813d9",
-          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-          "url": "https://www.aibase.com/news/29588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:40:33.839373Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5497,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T10:40:33.839373Z",
-      "latest_at": "2026-07-14T10:40:33.839373Z",
-      "primary_item": {
-        "id": "20b47ca922512701538e04e726795bee5e9813d9",
-        "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-        "url": "https://www.aibase.com/news/29588",
+        "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+        "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+        "url": "https://www.aibase.com/news/29571",
         "source": "AIbase",
         "source_name": "AIbase"
       }
