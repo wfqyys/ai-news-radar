@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T22:31:33.635056Z",
+  "generated_at": "2026-07-14T23:47:01.881846Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "49f3580d637a33eb6654158ad280068709f42639",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "99ba3ecfd053fa2ff40691aa40c6394fb1f6f922",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9705807fed251362ccdf059e8aef06533e041dfa",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "49f3580d637a33eb6654158ad280068709f42639",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
@@ -255,15 +264,6 @@
           "id": "99ba3ecfd053fa2ff40691aa40c6394fb1f6f922",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1013-59d4-969c-41be415f3ee5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9705807fed251362ccdf059e8aef06533e041dfa",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0925-16c4-a7b8-6b051424e2e4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T23:24:54.745459Z",
-      "latest_at": "2026-07-14T22:31:33.635056Z",
+      "earliest_at": "2026-07-14T00:13:36.094407Z",
+      "latest_at": "2026-07-14T23:47:01.881846Z",
       "primary_item": {
-        "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
+        "id": "49f3580d637a33eb6654158ad280068709f42639",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.862,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -357,6 +357,66 @@
         "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c9c2e50831e5",
+      "title": "Codex 周活超700万，两月更新150+项",
+      "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+      "primary_url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62bbc431b7618e1452b9259f2ff7ce24236dfe3a",
+          "title": "Codex 周活超700万，两月更新150+项",
+          "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "62bbc431b7618e1452b9259f2ff7ce24236dfe3a",
+          "title": "Codex 周活超700万，两月更新150+项",
+          "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9681,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:01:05Z",
+      "latest_at": "2026-07-14T23:01:05Z",
+      "primary_item": {
+        "id": "62bbc431b7618e1452b9259f2ff7ce24236dfe3a",
+        "title": "Codex 周活超700万，两月更新150+项",
+        "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -394,14 +454,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7281,
+        "recency": 0.6757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,14 +515,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -515,14 +575,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9553,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4781,
+        "recency": 0.4257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -636,14 +696,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.764,
+        "recency": 0.7116,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -696,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5991,
+        "recency": 0.5466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -757,14 +817,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8887,
+        "recency": 0.8363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,20 +877,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6987,
+        "recency": 0.6463,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:17:40Z",
       "latest_at": "2026-07-14T15:17:40Z",
@@ -877,20 +936,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6942,
+        "recency": 0.6418,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:11:11Z",
       "latest_at": "2026-07-14T15:11:11Z",
@@ -937,14 +995,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8347,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,14 +1092,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3856,
+        "recency": 0.3331,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1113,14 +1171,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5063,
+        "recency": 0.4538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1173,14 +1231,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6079,
+        "recency": 0.5555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,14 +1290,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7553,
+        "recency": 0.7029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,20 +1350,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6989,
+        "recency": 0.6465,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:17:59Z",
       "latest_at": "2026-07-14T15:17:59Z",
@@ -1371,17 +1428,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "score": 0.7101,
+      "importance": 0.7101,
+      "importance_score": 0.7101,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4181,
+        "recency": 0.3657,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1450,17 +1507,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "score": 0.7101,
+      "importance": 0.7101,
+      "importance_score": 0.7101,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4181,
+        "recency": 0.3657,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1471,85 +1528,6 @@
         "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
         "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
         "url": "https://www.aibase.com/news/29579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07ac207c908f",
-      "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-      "url": "https://www.aibase.com/news/29571",
-      "primary_url": "https://www.aibase.com/news/29571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
-          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/news/29571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:43:04.915507Z"
-        },
-        {
-          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
-          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/zh/news/29571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
-          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/news/29571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:43:04.915507Z"
-        },
-        {
-          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
-          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/zh/news/29571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6803,
-      "importance": 0.6803,
-      "importance_score": 0.6803,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2163,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T03:43:04.915507Z",
-      "latest_at": "2026-07-14T03:43:04.915507Z",
-      "primary_item": {
-        "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
-        "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-        "url": "https://www.aibase.com/news/29571",
         "source": "AIbase",
         "source_name": "AIbase"
       }
