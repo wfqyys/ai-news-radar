@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-15T22:54:03.734475Z",
+  "generated_at": "2026-07-15T23:54:08.269287Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0854-2876-b34b-bebfdb5a23c0&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0854-2876-b34b-bebfdb5a23c0&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ac355c0a5da78fa05ffdb3f2f4fef0e970e8b8dd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "979bb47c7f4fba3bdd2d77af72d31a6edac89d8f",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "39a097dd1c6462049009f74008fefcfc15be5797",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1152-41b0-a535-946ee962a825&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "49f3580d637a33eb6654158ad280068709f42639",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "ac355c0a5da78fa05ffdb3f2f4fef0e970e8b8dd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "979bb47c7f4fba3bdd2d77af72d31a6edac89d8f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0854-2876-b34b-bebfdb5a23c0&fp=-3",
@@ -255,15 +264,6 @@
           "id": "39a097dd1c6462049009f74008fefcfc15be5797",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1152-41b0-a535-946ee962a825&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "49f3580d637a33eb6654158ad280068709f42639",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0947-28f0-a2fe-eef81830a3cb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T23:47:01.881846Z",
-      "latest_at": "2026-07-15T22:54:03.734475Z",
+      "earliest_at": "2026-07-15T01:52:21.436236Z",
+      "latest_at": "2026-07-15T23:54:08.269287Z",
       "primary_item": {
-        "id": "979bb47c7f4fba3bdd2d77af72d31a6edac89d8f",
+        "id": "ac355c0a5da78fa05ffdb3f2f4fef0e970e8b8dd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0854-2876-b34b-bebfdb5a23c0&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6895fff98626",
+      "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9473,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T22:38:16Z",
+      "latest_at": "2026-07-15T22:38:16Z",
+      "primary_item": {
+        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+        "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -333,14 +394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7747,
+        "recency": 0.733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -394,14 +455,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7729,
+        "recency": 0.7312,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,20 +516,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6967,
+        "recency": 0.655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T15:37:19Z",
       "latest_at": "2026-07-15T15:37:19Z",
@@ -533,14 +593,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.706,
-      "importance": 0.706,
-      "importance_score": 0.706,
+      "score": 0.6976,
+      "importance": 0.6976,
+      "importance_score": 0.6976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3449,
+        "recency": 0.3032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -612,14 +672,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.686,
-      "importance": 0.686,
-      "importance_score": 0.686,
+      "score": 0.6776,
+      "importance": 0.6776,
+      "importance_score": 0.6776,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2449,
+        "recency": 0.2032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,14 +751,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6618,
-      "importance": 0.6618,
-      "importance_score": 0.6618,
+      "score": 0.6534,
+      "importance": 0.6534,
+      "importance_score": 0.6534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1238,
+        "recency": 0.0821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -770,14 +830,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6618,
-      "importance": 0.6618,
-      "importance_score": 0.6618,
+      "score": 0.6534,
+      "importance": 0.6534,
+      "importance_score": 0.6534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1238,
+        "recency": 0.0821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -793,6 +853,84 @@
         "url": "https://www.aibase.com/news/29598",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dca3ed4820d3",
+      "title": "Codex 首款硬件正式发布，1500 块的「AI 监工」外设",
+      "url": "https://www.huxiu.com/article/4875636.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4875636.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7682b829fd00c6d7de2720164dc7a30fd3381336",
+          "title": "Codex 首款硬件正式发布，1500 块的「AI 监工」外设",
+          "url": "https://www.huxiu.com/article/4875636.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c41b4f47cb2b7bc428d0bf2d8db129fffa229579",
+          "title": "刚刚，Codex 首款硬件正式发布，1500块的“AI 监工”外设",
+          "url": "https://www.huxiu.com/article/4875636.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T23:15:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "7682b829fd00c6d7de2720164dc7a30fd3381336",
+          "title": "Codex 首款硬件正式发布，1500 块的「AI 监工」外设",
+          "url": "https://www.huxiu.com/article/4875636.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c41b4f47cb2b7bc428d0bf2d8db129fffa229579",
+          "title": "刚刚，Codex 首款硬件正式发布，1500块的“AI 监工”外设",
+          "url": "https://www.huxiu.com/article/4875636.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T23:15:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T23:15:16Z",
+      "latest_at": "2026-07-15T23:54:08.269287Z",
+      "primary_item": {
+        "id": "7682b829fd00c6d7de2720164dc7a30fd3381336",
+        "title": "Codex 首款硬件正式发布，1500 块的「AI 监工」外设",
+        "url": "https://www.huxiu.com/article/4875636.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -849,14 +987,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9866,
+        "recency": 0.9449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -946,14 +1084,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8524,
+        "recency": 0.8107,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1024,14 +1162,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6618,
-      "importance": 0.6618,
-      "importance_score": 0.6618,
+      "score": 0.6534,
+      "importance": 0.6534,
+      "importance_score": 0.6534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1238,
+        "recency": 0.0821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,14 +1260,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8302,
+        "recency": 0.7885,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1200,14 +1338,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9411,
+        "recency": 0.8994,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,14 +1416,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.5458,
+        "recency": 0.5041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1355,14 +1493,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9323,
+        "recency": 0.8906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,14 +1590,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7857,
+        "recency": 0.744,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1477,334 +1615,158 @@
       }
     },
     {
-      "story_id": "story_4a7225bdcb95",
-      "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
-      "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-      "primary_url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_f42bd958467e",
+      "title": "格罗克构建 / Grok Build",
+      "url": "https://github.com/xai-org/grok-build",
+      "primary_url": "https://github.com/xai-org/grok-build",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "39fff077dd8b327e170b660ba8b50ed377b67638",
-          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
-          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:53:14.641000Z"
+          "id": "0ac0e319c55fd403d69a40fcf5ad9c44ab46f41c",
+          "title": "格罗克构建 / Grok Build",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
         },
         {
-          "id": "a34d4a3a8e2045d77d866b18af288ecff6d708f9",
-          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作 / Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
-          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T16:55:12Z"
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
+          "title": "Grok Build 是开源的 / Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "39fff077dd8b327e170b660ba8b50ed377b67638",
-          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
-          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:53:14.641000Z"
+          "id": "0ac0e319c55fd403d69a40fcf5ad9c44ab46f41c",
+          "title": "格罗克构建 / Grok Build",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
         },
         {
-          "id": "a34d4a3a8e2045d77d866b18af288ecff6d708f9",
-          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作 / Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
-          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T16:55:12Z"
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
+          "title": "Grok Build 是开源的 / Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8744,
+        "recency": 0.8547,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-15T16:55:12Z",
-      "latest_at": "2026-07-15T19:53:14.641000Z",
+      "earliest_at": "2026-07-15T20:24:58Z",
+      "latest_at": "2026-07-15T20:24:58Z",
       "primary_item": {
-        "id": "39fff077dd8b327e170b660ba8b50ed377b67638",
-        "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
-        "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "0ac0e319c55fd403d69a40fcf5ad9c44ab46f41c",
+        "title": "格罗克构建 / Grok Build",
+        "url": "https://github.com/xai-org/grok-build",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_7669484c209f",
-      "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "source": "smarterarticles.co.uk",
-      "source_name": "Buzzing",
+      "story_id": "story_a6127b77ead0",
+      "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+      "url": "https://www.ithome.com/0/977/265.htm",
+      "primary_url": "https://www.ithome.com/0/977/265.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
+          "id": "4c1c5d70c3c9ec4429360cd2ea4178cafe0bea3f",
+          "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
-          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://news.ycombinator.com/item?id=48920432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T14:33:45.826000Z"
-        },
-        {
-          "id": "d3dc317c406c347a1495a6f7a394a67a6684122a",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T13:18:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "smarterarticles.co.uk"
-      ],
-      "items": [
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
-          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://news.ycombinator.com/item?id=48920432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T14:33:45.826000Z"
-        },
-        {
-          "id": "d3dc317c406c347a1495a6f7a394a67a6684122a",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T13:18:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.73,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T13:18:15Z",
-      "latest_at": "2026-07-15T16:25:19.955000Z",
-      "primary_item": {
-        "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-        "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-        "source": "smarterarticles.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_18de27eea197",
-      "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-      "primary_url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:05:15.658000Z"
-        },
-        {
-          "id": "c18bb368895f002d292d1667e4f9d95040ee92f1",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？ / OpenAI's first branded hardware is... a light-up keyboard?",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T16:00:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:05:15.658000Z"
-        },
-        {
-          "id": "c18bb368895f002d292d1667e4f9d95040ee92f1",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？ / OpenAI's first branded hardware is... a light-up keyboard?",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T16:00:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8411,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T16:00:33Z",
-      "latest_at": "2026-07-15T19:05:15.658000Z",
-      "primary_item": {
-        "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
-        "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-        "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2209de89b7a9",
-      "title": "你的AI并非一种工具",
-      "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-      "primary_url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-      "source": "theconvivialsociety.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "639a5bfd582871a38f6ff6833dd7fde1cf756044",
-          "title": "你的AI并非一种工具",
-          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-          "source": "theconvivialsociety.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:05:15.472000Z"
-        },
-        {
-          "id": "bffaed460b8943fc4e08c9393b83fe0dd1be4714",
-          "title": "你的AI并非一种工具 / Your AI Is Not a Tool",
-          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-          "source": "Lobsters (技术社区)",
+          "id": "83c60b2152fc689767221e19832f4316543b9119",
+          "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-15T16:49:43Z"
+          "published_at": "2026-07-15T22:40:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "theconvivialsociety.substack.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "639a5bfd582871a38f6ff6833dd7fde1cf756044",
-          "title": "你的AI并非一种工具",
-          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-          "source": "theconvivialsociety.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:05:15.472000Z"
+          "id": "4c1c5d70c3c9ec4429360cd2ea4178cafe0bea3f",
+          "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "bffaed460b8943fc4e08c9393b83fe0dd1be4714",
-          "title": "你的AI并非一种工具 / Your AI Is Not a Tool",
-          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-          "source": "Lobsters (技术社区)",
+          "id": "83c60b2152fc689767221e19832f4316543b9119",
+          "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-15T16:49:43Z"
+          "published_at": "2026-07-15T22:40:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8411,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-15T16:49:43Z",
-      "latest_at": "2026-07-15T19:05:15.472000Z",
+      "earliest_at": "2026-07-15T22:40:31Z",
+      "latest_at": "2026-07-15T23:54:08.269287Z",
       "primary_item": {
-        "id": "639a5bfd582871a38f6ff6833dd7fde1cf756044",
-        "title": "你的AI并非一种工具",
-        "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-        "source": "theconvivialsociety.substack.com",
-        "source_name": "Buzzing"
+        "id": "4c1c5d70c3c9ec4429360cd2ea4178cafe0bea3f",
+        "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+        "url": "https://www.ithome.com/0/977/265.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
