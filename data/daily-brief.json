@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-15T20:30:59.802252Z",
+  "generated_at": "2026-07-15T21:53:23.879657Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0631-2606-920a-6242d8b187bd&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0631-2606-920a-6242d8b187bd&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0753-460b-bb5e-6497250af147&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0753-460b-bb5e-6497250af147&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "087850f85968641ae1e422eecbc66ca4e55a440c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0753-460b-bb5e-6497250af147&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "204175c07479d0206157a3de19c22136b1a832ff",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9a55315d39edc28ea3fdad669be9a3bf86649d49",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0729-2128-8f85-4239ac157967&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "087850f85968641ae1e422eecbc66ca4e55a440c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0753-460b-bb5e-6497250af147&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "204175c07479d0206157a3de19c22136b1a832ff",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0631-2606-920a-6242d8b187bd&fp=-3",
@@ -255,15 +264,6 @@
           "id": "5c79f5fae08b82f6a335a1697da39cc067206baa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0831-5993-b69c-1ef82706461d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9a55315d39edc28ea3fdad669be9a3bf86649d49",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0729-2128-8f85-4239ac157967&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T21:28:59.592731Z",
-      "latest_at": "2026-07-15T20:30:59.802252Z",
+      "earliest_at": "2026-07-14T22:31:33.635056Z",
+      "latest_at": "2026-07-15T21:53:23.879657Z",
       "primary_item": {
-        "id": "204175c07479d0206157a3de19c22136b1a832ff",
+        "id": "087850f85968641ae1e422eecbc66ca4e55a440c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0631-2606-920a-6242d8b187bd&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0753-460b-bb5e-6497250af147&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8741,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "official",
@@ -394,14 +394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8722,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,14 +455,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -515,14 +515,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6096,
+        "recency": 0.5523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -574,14 +574,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6016,
+        "recency": 0.5443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,14 +633,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6096,
+        "recency": 0.5523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,17 +710,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
+      "score": 0.7144,
+      "importance": 0.7144,
+      "importance_score": 0.7144,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4442,
+        "recency": 0.387,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -789,14 +789,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7059,
-      "importance": 0.7059,
-      "importance_score": 0.7059,
+      "score": 0.6944,
+      "importance": 0.6944,
+      "importance_score": 0.6944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3443,
+        "recency": 0.287,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -887,14 +887,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.5519,
+      "importance": 0.5519,
+      "importance_score": 0.5519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9517,
+        "recency": 0.8945,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -965,14 +965,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6816,
-      "importance": 0.6816,
-      "importance_score": 0.6816,
+      "score": 0.6702,
+      "importance": 0.6702,
+      "importance_score": 0.6702,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2232,
+        "recency": 0.1659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1063,14 +1063,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5475,
+      "importance": 0.5475,
+      "importance_score": 0.5475,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9296,
+        "recency": 0.8724,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1084,6 +1084,162 @@
         "title": "DSL 使 LLM 能够可靠地投入使用",
         "url": "https://martinfowler.com/articles/llm-and-dsls.html",
         "source": "martinfowler.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1e554fb8d50e",
+      "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://news.ycombinator.com/item?id=48926085",
+      "primary_url": "https://news.ycombinator.com/item?id=48926085",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
+          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+          "url": "https://news.ycombinator.com/item?id=48926085",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T21:34:34.167000Z"
+        },
+        {
+          "id": "e980321d726487a32c7236e317ddd02c2d938e4b",
+          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+          "url": "https://brainless.swerdlow.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T19:42:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
+          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+          "url": "https://news.ycombinator.com/item?id=48926085",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T21:34:34.167000Z"
+        },
+        {
+          "id": "e980321d726487a32c7236e317ddd02c2d938e4b",
+          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+          "url": "https://brainless.swerdlow.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T19:42:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T19:42:53Z",
+      "latest_at": "2026-07-15T21:34:34.167000Z",
+      "primary_item": {
+        "id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
+        "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+        "url": "https://news.ycombinator.com/item?id=48926085",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1cf72682d058",
+      "title": "人工智能数据中心与财富集中",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "primary_url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "source": "www.schneier.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69f83da53299d5f8d64ad4b7353bfc5778d66947",
+          "title": "人工智能数据中心与财富集中",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "source": "www.schneier.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T21:29:18.470000Z"
+        },
+        {
+          "id": "8ecf4fd6b28a9ab522ab51105dd70514756a8b17",
+          "title": "人工智能数据中心与财富集中 / AI Data Centers and the Concentration of Wealth",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T21:06:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.schneier.com"
+      ],
+      "items": [
+        {
+          "id": "69f83da53299d5f8d64ad4b7353bfc5778d66947",
+          "title": "人工智能数据中心与财富集中",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "source": "www.schneier.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T21:29:18.470000Z"
+        },
+        {
+          "id": "8ecf4fd6b28a9ab522ab51105dd70514756a8b17",
+          "title": "人工智能数据中心与财富集中 / AI Data Centers and the Concentration of Wealth",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T21:06:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9833,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T21:06:48Z",
+      "latest_at": "2026-07-15T21:29:18.470000Z",
+      "primary_item": {
+        "id": "69f83da53299d5f8d64ad4b7353bfc5778d66947",
+        "title": "人工智能数据中心与财富集中",
+        "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+        "source": "www.schneier.com",
         "source_name": "Buzzing"
       }
     },
@@ -1141,14 +1297,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.6451,
+        "recency": 0.5879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,14 +1394,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.55,
-      "importance": 0.55,
-      "importance_score": 0.55,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8851,
+        "recency": 0.8279,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1316,14 +1472,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9738,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1413,14 +1569,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8294,
+        "recency": 0.7722,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1491,14 +1647,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9405,
+        "recency": 0.8832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1569,14 +1725,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9405,
+        "recency": 0.8832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1591,182 +1747,6 @@
         "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
         "source": "theconvivialsociety.substack.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bb5c71f166df",
-      "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-      "url": "https://news.ycombinator.com/item?id=48920650",
-      "primary_url": "https://news.ycombinator.com/item?id=48920650",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d5919a209275208eeaac93b2a5e4c3f0d0a77be9",
-          "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://news.ycombinator.com/item?id=48920650",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T16:03:49.878000Z"
-        },
-        {
-          "id": "b97af7af088a93ed1b81ab8f21da5ccb5bda1ec3",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "userfrom1995.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T13:45:18.703000Z"
-        },
-        {
-          "id": "64b5a7d699792e3eb5505e9b56763d8138c0126d",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T13:36:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "userfrom1995.github.io"
-      ],
-      "items": [
-        {
-          "id": "d5919a209275208eeaac93b2a5e4c3f0d0a77be9",
-          "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://news.ycombinator.com/item?id=48920650",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T16:03:49.878000Z"
-        },
-        {
-          "id": "b97af7af088a93ed1b81ab8f21da5ccb5bda1ec3",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "userfrom1995.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T13:45:18.703000Z"
-        },
-        {
-          "id": "64b5a7d699792e3eb5505e9b56763d8138c0126d",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T13:36:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8145,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T13:36:30Z",
-      "latest_at": "2026-07-15T16:03:49.878000Z",
-      "primary_item": {
-        "id": "d5919a209275208eeaac93b2a5e4c3f0d0a77be9",
-        "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-        "url": "https://news.ycombinator.com/item?id=48920650",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b666cd2c3054",
-      "title": "三胞胎脸孔与乱码文字露馅!呼和浩特摄影一等奖因AI作假被撤销",
-      "url": "https://www.aibase.com/news/29598",
-      "primary_url": "https://www.aibase.com/news/29598",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dd074d7acae7c3285279221816a604ec997990e9",
-          "title": "三胞胎脸孔与乱码文字露馅!呼和浩特摄影一等奖因AI作假被撤销",
-          "url": "https://www.aibase.com/news/29598",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T01:52:21.436236Z"
-        },
-        {
-          "id": "e7a1b0271566632325819ba8e21664f24a3e5e5b",
-          "title": "三胞胎脸孔与乱码文字露馅！呼和浩特摄影一等奖因 AI 作假被撤销",
-          "url": "https://www.aibase.com/zh/news/29598",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dd074d7acae7c3285279221816a604ec997990e9",
-          "title": "三胞胎脸孔与乱码文字露馅!呼和浩特摄影一等奖因AI作假被撤销",
-          "url": "https://www.aibase.com/news/29598",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T01:52:21.436236Z"
-        },
-        {
-          "id": "e7a1b0271566632325819ba8e21664f24a3e5e5b",
-          "title": "三胞胎脸孔与乱码文字露馅！呼和浩特摄影一等奖因 AI 作假被撤销",
-          "url": "https://www.aibase.com/zh/news/29598",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6816,
-      "importance": 0.6816,
-      "importance_score": 0.6816,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2232,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T01:52:21.436236Z",
-      "latest_at": "2026-07-15T01:52:21.436236Z",
-      "primary_item": {
-        "id": "dd074d7acae7c3285279221816a604ec997990e9",
-        "title": "三胞胎脸孔与乱码文字露馅!呼和浩特摄影一等奖因AI作假被撤销",
-        "url": "https://www.aibase.com/news/29598",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
