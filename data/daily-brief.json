@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T15:40:49.720786Z",
+  "generated_at": "2026-07-16T17:08:31.227699Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "37b5011ae884ef84b220eb21e65e0cd19a5b6ae0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "0f3f124c96ef51d62519a16c5eaa74a3b1a00f1c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0345-226f-9817-a15afe2c7ef9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c9152b2af428d9879e35f84722268bdb8e87f05a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0216-24f2-be37-f94354a61daf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "37b5011ae884ef84b220eb21e65e0cd19a5b6ae0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
@@ -255,15 +264,6 @@
           "id": "0f3f124c96ef51d62519a16c5eaa74a3b1a00f1c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0345-226f-9817-a15afe2c7ef9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c9152b2af428d9879e35f84722268bdb8e87f05a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0216-24f2-be37-f94354a61daf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,196 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T16:15:55.295474Z",
-      "latest_at": "2026-07-16T15:40:49.720786Z",
+      "earliest_at": "2026-07-15T17:44:57.234883Z",
+      "latest_at": "2026-07-16T17:08:31.227699Z",
       "primary_item": {
-        "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
+        "id": "37b5011ae884ef84b220eb21e65e0cd19a5b6ae0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_8fe39edff791",
+      "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ed38a837e6df66b70357bb878fdb525481735328",
+          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ed38a837e6df66b70357bb878fdb525481735328",
+          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9524,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "ed38a837e6df66b70357bb878fdb525481735328",
+        "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_45a4595f19b7",
+      "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+          "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+          "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9524,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+        "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fcee2e11000f",
+      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+      "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
+      "primary_url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
+      "source": "Google Blog：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "891ee00b6a9018a00b91be5d1a06700f75871263",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "891ee00b6a9018a00b91be5d1a06700f75871263",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9524,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "891ee00b6a9018a00b91be5d1a06700f75871263",
+        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+        "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
+        "source": "Google Blog：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -333,14 +515,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9565,
+        "recency": 0.8956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -393,14 +575,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -532,14 +714,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7043,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -593,14 +775,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.7977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,14 +835,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.7905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,14 +895,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7024,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,14 +955,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.7016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -833,14 +1015,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3466,
+        "recency": 0.2857,
         "story_heat": 0.0
       },
       "category": "official",
@@ -894,21 +1076,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3466,
+        "recency": 0.2857,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T00:00:00Z",
       "latest_at": "2026-07-16T00:00:00Z",
@@ -955,14 +1136,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.668,
+        "recency": 0.6072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,14 +1214,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6624,
+        "recency": 0.6015,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1057,65 +1238,6 @@
         "url": "https://www.aibase.com/news/29652",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_63755d018575",
-      "title": "远程操控Agent干活：Codex+UU远程方案",
-      "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
-      "primary_url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8aaeacd4e6ff906f01f7ecc650276fa48224a34b",
-          "title": "远程操控Agent干活：Codex+UU远程方案",
-          "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T04:43:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "8aaeacd4e6ff906f01f7ecc650276fa48224a34b",
-          "title": "远程操控Agent干活：Codex+UU远程方案",
-          "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T04:43:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5433,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T04:43:14Z",
-      "latest_at": "2026-07-16T04:43:14Z",
-      "primary_item": {
-        "id": "8aaeacd4e6ff906f01f7ecc650276fa48224a34b",
-        "title": "远程操控Agent干活：Codex+UU远程方案",
-        "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1153,14 +1275,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6795,
+        "recency": 0.6186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1175,6 +1297,66 @@
         "url": "https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6f16a999c8dd",
+      "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "primary_url": "https://openai.com/index/cars24",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48799bf8785bffe1caa48542043220ab69aaac18",
+          "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
+          "url": "https://openai.com/index/cars24",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "48799bf8785bffe1caa48542043220ab69aaac18",
+          "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
+          "url": "https://openai.com/index/cars24",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2857,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "48799bf8785bffe1caa48542043220ab69aaac18",
+        "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
+        "url": "https://openai.com/index/cars24",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1212,14 +1394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,14 +1454,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,186 +1475,6 @@
         "id": "f4a75af3ed93f8812fe5bb412077d4c9f9c3c81b",
         "title": "穆拉蒂重磅回归：思维机器实验室发布首款多模态开源模型 Inkling",
         "url": "https://www.aibase.com/news/29654",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_40f901761971",
-      "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-      "url": "https://www.aibase.com/news/29661",
-      "primary_url": "https://www.aibase.com/news/29661",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "url": "https://www.aibase.com/news/29661",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "url": "https://www.aibase.com/news/29661",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7652,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T10:02:45.011588Z",
-      "latest_at": "2026-07-16T10:02:45.011588Z",
-      "primary_item": {
-        "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "url": "https://www.aibase.com/news/29661",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b3056b635cff",
-      "title": "苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相",
-      "url": "https://www.aibase.com/news/29656",
-      "primary_url": "https://www.aibase.com/news/29656",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0006a0921f724d6a2694676b5510d7d5016be293",
-          "title": "苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相",
-          "url": "https://www.aibase.com/news/29656",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0006a0921f724d6a2694676b5510d7d5016be293",
-          "title": "苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相",
-          "url": "https://www.aibase.com/news/29656",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7652,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T10:02:45.011588Z",
-      "latest_at": "2026-07-16T10:02:45.011588Z",
-      "primary_item": {
-        "id": "0006a0921f724d6a2694676b5510d7d5016be293",
-        "title": "苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相",
-        "url": "https://www.aibase.com/news/29656",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_081501f38216",
-      "title": "谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上",
-      "url": "https://www.aibase.com/news/29655",
-      "primary_url": "https://www.aibase.com/news/29655",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "54cc7c35ee7d136233116fbc305ad4fb69fb0e4d",
-          "title": "谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上",
-          "url": "https://www.aibase.com/news/29655",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "54cc7c35ee7d136233116fbc305ad4fb69fb0e4d",
-          "title": "谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上",
-          "url": "https://www.aibase.com/news/29655",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7652,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T10:02:45.011588Z",
-      "latest_at": "2026-07-16T10:02:45.011588Z",
-      "primary_item": {
-        "id": "54cc7c35ee7d136233116fbc305ad4fb69fb0e4d",
-        "title": "谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上",
-        "url": "https://www.aibase.com/news/29655",
         "source": "AIbase",
         "source_name": "AIbase"
       }
