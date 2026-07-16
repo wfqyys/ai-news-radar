@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T02:02:52.380325Z",
+  "generated_at": "2026-07-16T05:23:30.702656Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "54bf38f8048bb3fd1a3aedad342b1f391e6e00d6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "aa87ad9a09694b052a7bf6c78468ef8fe54f83c1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1711-0975-a82d-8d08baa1d2dd&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "73e5767fbea15d45254c462460254243aabe293d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1447-12e4-bdb5-99d653f6a0e8&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "54bf38f8048bb3fd1a3aedad342b1f391e6e00d6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
@@ -255,15 +264,6 @@
           "id": "aa87ad9a09694b052a7bf6c78468ef8fe54f83c1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1711-0975-a82d-8d08baa1d2dd&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "73e5767fbea15d45254c462460254243aabe293d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1447-12e4-bdb5-99d653f6a0e8&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,94 +288,195 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T04:46:44.655175Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
+      "earliest_at": "2026-07-15T07:10:41.888921Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
+        "id": "54bf38f8048bb3fd1a3aedad342b1f391e6e00d6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_a0c85dd027ed",
-      "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
-      "url": "https://www.aibase.com/news/29629",
-      "primary_url": "https://www.aibase.com/news/29629",
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7753,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+        "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_781aca4a086a",
+      "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+      "url": "https://www.aibase.com/news/29645",
+      "primary_url": "https://www.aibase.com/news/29645",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c8b5b2ace08d3696fa366600d7a132f056134b1c",
-          "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
-          "url": "https://www.aibase.com/news/29629",
+          "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
+          "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "url": "https://www.aibase.com/news/29645",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
-        },
-        {
-          "id": "12543798ef7320573c0e8ce5d3db202aa37ba360",
-          "title": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
-          "url": "https://www.aibase.com/zh/news/29629",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c8b5b2ace08d3696fa366600d7a132f056134b1c",
-          "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
-          "url": "https://www.aibase.com/news/29629",
+          "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
+          "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "url": "https://www.aibase.com/news/29645",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
-        },
-        {
-          "id": "12543798ef7320573c0e8ce5d3db202aa37ba360",
-          "title": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
-          "url": "https://www.aibase.com/zh/news/29629",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "c8b5b2ace08d3696fa366600d7a132f056134b1c",
-        "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
-        "url": "https://www.aibase.com/news/29629",
+        "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
+        "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+        "url": "https://www.aibase.com/news/29645",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_63755d018575",
+      "title": "远程操控Agent干活：Codex+UU远程方案",
+      "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
+      "primary_url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8aaeacd4e6ff906f01f7ecc650276fa48224a34b",
+          "title": "远程操控Agent干活：Codex+UU远程方案",
+          "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T04:43:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "8aaeacd4e6ff906f01f7ecc650276fa48224a34b",
+          "title": "远程操控Agent干活：Codex+UU远程方案",
+          "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T04:43:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.972,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T04:43:14Z",
+      "latest_at": "2026-07-16T04:43:14Z",
+      "primary_item": {
+        "id": "8aaeacd4e6ff906f01f7ecc650276fa48224a34b",
+        "title": "远程操控Agent干活：Codex+UU远程方案",
+        "url": "https://aihot.virxact.com/items/cmrn1vzyk059lbije00njtmaj",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -413,14 +514,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8579,
+        "recency": 0.7186,
         "story_heat": 0.0
       },
       "category": "official",
@@ -440,64 +541,183 @@
       }
     },
     {
-      "story_id": "story_53e3149d2cc1",
-      "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_65d479ee8538",
+      "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
+      "url": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
+      "primary_url": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
+          "id": "c17f863e6f8b25ed95f157973a7c113245fadf87",
+          "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
+          "url": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T03:27:08Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "公众号：千问APP（阿里）"
       ],
       "items": [
         {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
+          "id": "c17f863e6f8b25ed95f157973a7c113245fadf87",
+          "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
+          "url": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T03:27:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6436,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T17:29:41Z",
-      "latest_at": "2026-07-15T17:29:41Z",
+      "earliest_at": "2026-07-16T03:27:08Z",
+      "latest_at": "2026-07-16T03:27:08Z",
       "primary_item": {
-        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-        "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "c17f863e6f8b25ed95f157973a7c113245fadf87",
+        "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
+        "url": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e33ab9ff9267",
+      "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+      "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+      "primary_url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8587,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T02:00:00Z",
+      "latest_at": "2026-07-16T02:00:00Z",
+      "primary_item": {
+        "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
+        "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+        "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f358a18acb4",
+      "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+      "url": "https://www.aibase.com/news/29643",
+      "primary_url": "https://www.aibase.com/news/29643",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
+          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+          "url": "https://www.aibase.com/news/29643",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T05:23:30.702656Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
+          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+          "url": "https://www.aibase.com/news/29643",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T05:23:30.702656Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
+      "primary_item": {
+        "id": "c9564b346f5939b55222446f8964f299c9fb0809",
+        "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+        "url": "https://www.aibase.com/news/29643",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -535,14 +755,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.8422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,86 +778,6 @@
         "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
         "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bf122c7567f8",
-      "title": "腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单",
-      "url": "https://www.aibase.com/news/29632",
-      "primary_url": "https://www.aibase.com/news/29632",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3f3d3040b0e7be3448f1b33defd502a6d9c2b410",
-          "title": "腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单",
-          "url": "https://www.aibase.com/news/29632",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
-        },
-        {
-          "id": "4f13496d1bb407fc72a9ca720463143770112af7",
-          "title": "腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单",
-          "url": "https://www.aibase.com/zh/news/29632",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3f3d3040b0e7be3448f1b33defd502a6d9c2b410",
-          "title": "腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单",
-          "url": "https://www.aibase.com/news/29632",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
-        },
-        {
-          "id": "4f13496d1bb407fc72a9ca720463143770112af7",
-          "title": "腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单",
-          "url": "https://www.aibase.com/zh/news/29632",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
-      "primary_item": {
-        "id": "3f3d3040b0e7be3448f1b33defd502a6d9c2b410",
-        "title": "腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单",
-        "url": "https://www.aibase.com/news/29632",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -675,14 +815,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9378,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,14 +875,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,14 +935,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.7262,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -821,64 +961,63 @@
       }
     },
     {
-      "story_id": "story_5c8332d4091e",
-      "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_fd6d626f1c16",
+      "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
+      "url": "https://www.aibase.com/news/29637",
+      "primary_url": "https://www.aibase.com/news/29637",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:27:01Z"
+          "id": "e875af097ec64d728e9cde71c1cabc428537bb78",
+          "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
+          "url": "https://www.aibase.com/news/29637",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:27:01Z"
+          "id": "e875af097ec64d728e9cde71c1cabc428537bb78",
+          "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
+          "url": "https://www.aibase.com/news/29637",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
-      "importance_label": "官方更新",
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6418,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T17:27:01Z",
-      "latest_at": "2026-07-15T17:27:01Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-        "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "e875af097ec64d728e9cde71c1cabc428537bb78",
+        "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
+        "url": "https://www.aibase.com/news/29637",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -916,20 +1055,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.795,
+        "recency": 0.6557,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T21:07:41Z",
       "latest_at": "2026-07-15T21:07:41Z",
@@ -976,20 +1114,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7661,
+        "recency": 0.6268,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T20:26:06Z",
       "latest_at": "2026-07-15T20:26:06Z",
@@ -1002,21 +1139,21 @@
       }
     },
     {
-      "story_id": "story_24ea747f7029",
-      "title": "Suno接入iMessage：iPhone用户可直接在聊天中用AI生成歌曲，日产量超 700 万首",
-      "url": "https://www.aibase.com/news/29628",
-      "primary_url": "https://www.aibase.com/news/29628",
+      "story_id": "story_787c0472135c",
+      "title": "xAI罕见起诉Grok用户：指控其滥用AI生成儿童性虐待图片视频，已封停超 5 万个违规账户",
+      "url": "https://www.aibase.com/news/29640",
+      "primary_url": "https://www.aibase.com/news/29640",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d6627c7db78cbc6e5a20d69b163b9c29765dca05",
-          "title": "Suno接入iMessage：iPhone用户可直接在聊天中用AI生成歌曲，日产量超 700 万首",
-          "url": "https://www.aibase.com/news/29628",
+          "id": "3e005aa9680a25722f41b7df8fb1a52ddf3cdeca",
+          "title": "xAI罕见起诉Grok用户：指控其滥用AI生成儿童性虐待图片视频，已封停超 5 万个违规账户",
+          "url": "https://www.aibase.com/news/29640",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "source_count": 1,
@@ -1025,13 +1162,13 @@
       ],
       "items": [
         {
-          "id": "d6627c7db78cbc6e5a20d69b163b9c29765dca05",
-          "title": "Suno接入iMessage：iPhone用户可直接在聊天中用AI生成歌曲，日产量超 700 万首",
-          "url": "https://www.aibase.com/news/29628",
+          "id": "3e005aa9680a25722f41b7df8fb1a52ddf3cdeca",
+          "title": "xAI罕见起诉Grok用户：指控其滥用AI生成儿童性虐待图片视频，已封停超 5 万个违规账户",
+          "url": "https://www.aibase.com/news/29640",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "item_count": 1,
@@ -1051,132 +1188,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "d6627c7db78cbc6e5a20d69b163b9c29765dca05",
-        "title": "Suno接入iMessage：iPhone用户可直接在聊天中用AI生成歌曲，日产量超 700 万首",
-        "url": "https://www.aibase.com/news/29628",
+        "id": "3e005aa9680a25722f41b7df8fb1a52ddf3cdeca",
+        "title": "xAI罕见起诉Grok用户：指控其滥用AI生成儿童性虐待图片视频，已封停超 5 万个违规账户",
+        "url": "https://www.aibase.com/news/29640",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5fb48ca1be6d",
-      "title": "Thinking Machines 发布多模态模型 Inkling",
-      "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-      "primary_url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-      "source": "X：Thinking Machines (@thinkymachines)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20b7ecb64c0a577c5b007ded2c4f96c2e106ec60",
-          "title": "Thinking Machines 发布多模态模型 Inkling",
-          "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-          "source": "X：Thinking Machines (@thinkymachines)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T18:05:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thinking Machines (@thinkymachines)"
-      ],
-      "items": [
-        {
-          "id": "20b7ecb64c0a577c5b007ded2c4f96c2e106ec60",
-          "title": "Thinking Machines 发布多模态模型 Inkling",
-          "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-          "source": "X：Thinking Machines (@thinkymachines)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T18:05:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6687,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T18:05:50Z",
-      "latest_at": "2026-07-15T18:05:50Z",
-      "primary_item": {
-        "id": "20b7ecb64c0a577c5b007ded2c4f96c2e106ec60",
-        "title": "Thinking Machines 发布多模态模型 Inkling",
-        "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-        "source": "X：Thinking Machines (@thinkymachines)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d754e220fbb6",
-      "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-      "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-      "primary_url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "08b357b6e42ced9b30dde3e82bcde31bd96b88e4",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "08b357b6e42ced9b30dde3e82bcde31bd96b88e4",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6633,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T17:58:02Z",
-      "latest_at": "2026-07-15T17:58:02Z",
-      "primary_item": {
-        "id": "08b357b6e42ced9b30dde3e82bcde31bd96b88e4",
-        "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-        "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1214,20 +1233,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7325,
+        "recency": 0.5931,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T19:37:38Z",
       "latest_at": "2026-07-15T19:37:38Z",
@@ -1240,21 +1258,21 @@
       }
     },
     {
-      "story_id": "story_b2a4117074e0",
-      "title": "xAI罕见挥拳：起诉滥用Grok造不雅图的用户，今年已封禁 52222 个账号",
-      "url": "https://www.aibase.com/news/29633",
-      "primary_url": "https://www.aibase.com/news/29633",
+      "story_id": "story_ab2fa4aabe7c",
+      "title": "从70后到05后，同上一堂千问AI课:这群求职者，都想学会新技能",
+      "url": "https://www.aibase.com/news/29641",
+      "primary_url": "https://www.aibase.com/news/29641",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3fe80da6944b2f42fbf90bd117494df63414c93f",
-          "title": "xAI罕见挥拳：起诉滥用Grok造不雅图的用户，今年已封禁 52222 个账号",
-          "url": "https://www.aibase.com/news/29633",
+          "id": "d4b3c608a172c7f0e2d73ec38ae6ce15fd106121",
+          "title": "从70后到05后，同上一堂千问AI课:这群求职者，都想学会新技能",
+          "url": "https://www.aibase.com/news/29641",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "source_count": 1,
@@ -1263,13 +1281,13 @@
       ],
       "items": [
         {
-          "id": "3fe80da6944b2f42fbf90bd117494df63414c93f",
-          "title": "xAI罕见挥拳：起诉滥用Grok造不雅图的用户，今年已封禁 52222 个账号",
-          "url": "https://www.aibase.com/news/29633",
+          "id": "d4b3c608a172c7f0e2d73ec38ae6ce15fd106121",
+          "title": "从70后到05后，同上一堂千问AI课:这群求职者，都想学会新技能",
+          "url": "https://www.aibase.com/news/29641",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "item_count": 1,
@@ -1289,32 +1307,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "3fe80da6944b2f42fbf90bd117494df63414c93f",
-        "title": "xAI罕见挥拳：起诉滥用Grok造不雅图的用户，今年已封禁 52222 个账号",
-        "url": "https://www.aibase.com/news/29633",
+        "id": "d4b3c608a172c7f0e2d73ec38ae6ce15fd106121",
+        "title": "从70后到05后，同上一堂千问AI课:这群求职者，都想学会新技能",
+        "url": "https://www.aibase.com/news/29641",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b7bae1a2d7ad",
-      "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
-      "url": "https://www.aibase.com/news/29627",
-      "primary_url": "https://www.aibase.com/news/29627",
+      "story_id": "story_d4ce41158b40",
+      "title": "灵光App“灵光圈”社区焕新:上线热榜、关注等功能，PC端支持导入文档及音视频素材",
+      "url": "https://www.aibase.com/news/29644",
+      "primary_url": "https://www.aibase.com/news/29644",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1f7d3e304e5539e92adbaf9bdc5ec6807ad0a098",
-          "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
-          "url": "https://www.aibase.com/news/29627",
+          "id": "3c481ee7f5c4caad4f470dab563d1e9e2d4e838a",
+          "title": "灵光App“灵光圈”社区焕新:上线热榜、关注等功能，PC端支持导入文档及音视频素材",
+          "url": "https://www.aibase.com/news/29644",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "source_count": 1,
@@ -1323,13 +1341,13 @@
       ],
       "items": [
         {
-          "id": "1f7d3e304e5539e92adbaf9bdc5ec6807ad0a098",
-          "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
-          "url": "https://www.aibase.com/news/29627",
+          "id": "3c481ee7f5c4caad4f470dab563d1e9e2d4e838a",
+          "title": "灵光App“灵光圈”社区焕新:上线热榜、关注等功能，PC端支持导入文档及音视频素材",
+          "url": "https://www.aibase.com/news/29644",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "item_count": 1,
@@ -1349,91 +1367,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "1f7d3e304e5539e92adbaf9bdc5ec6807ad0a098",
-        "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
-        "url": "https://www.aibase.com/news/29627",
+        "id": "3c481ee7f5c4caad4f470dab563d1e9e2d4e838a",
+        "title": "灵光App“灵光圈”社区焕新:上线热榜、关注等功能，PC端支持导入文档及音视频素材",
+        "url": "https://www.aibase.com/news/29644",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_25ce7852a9cd",
-      "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-      "url": "https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd",
-      "primary_url": "https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96c54b97796647f65fc1ff9c79437bc1098f0ec4",
-          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "url": "https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T16:25:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "96c54b97796647f65fc1ff9c79437bc1098f0ec4",
-          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "url": "https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T16:25:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5989,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T16:25:19Z",
-      "latest_at": "2026-07-15T16:25:19Z",
-      "primary_item": {
-        "id": "96c54b97796647f65fc1ff9c79437bc1098f0ec4",
-        "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "url": "https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a35655f6d335",
-      "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机将亮相WAIC2026",
-      "url": "https://www.aibase.com/news/29630",
-      "primary_url": "https://www.aibase.com/news/29630",
+      "story_id": "story_6a13d66e9e65",
+      "title": "苹果与OpenAI纠纷内幕： 2 封关键邮件、 13 分钟间隔与 1 次姓名混淆导致沟通彻底断裂",
+      "url": "https://www.aibase.com/news/29638",
+      "primary_url": "https://www.aibase.com/news/29638",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1d3600e2f2869a9263de77c370ce03dc86de008",
-          "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机将亮相WAIC2026",
-          "url": "https://www.aibase.com/news/29630",
+          "id": "6d3258ec43eb9fe639a62985c7ac9bc5dd24d295",
+          "title": "苹果与OpenAI纠纷内幕： 2 封关键邮件、 13 分钟间隔与 1 次姓名混淆导致沟通彻底断裂",
+          "url": "https://www.aibase.com/news/29638",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "source_count": 1,
@@ -1442,13 +1401,13 @@
       ],
       "items": [
         {
-          "id": "e1d3600e2f2869a9263de77c370ce03dc86de008",
-          "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机将亮相WAIC2026",
-          "url": "https://www.aibase.com/news/29630",
+          "id": "6d3258ec43eb9fe639a62985c7ac9bc5dd24d295",
+          "title": "苹果与OpenAI纠纷内幕： 2 封关键邮件、 13 分钟间隔与 1 次姓名混淆导致沟通彻底断裂",
+          "url": "https://www.aibase.com/news/29638",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-16T02:02:52.380325Z"
+          "published_at": "2026-07-16T05:23:30.702656Z"
         }
       ],
       "item_count": 1,
@@ -1468,12 +1427,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-16T02:02:52.380325Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-16T05:23:30.702656Z",
       "primary_item": {
-        "id": "e1d3600e2f2869a9263de77c370ce03dc86de008",
-        "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机将亮相WAIC2026",
-        "url": "https://www.aibase.com/news/29630",
+        "id": "6d3258ec43eb9fe639a62985c7ac9bc5dd24d295",
+        "title": "苹果与OpenAI纠纷内幕： 2 封关键邮件、 13 分钟间隔与 1 次姓名混淆导致沟通彻底断裂",
+        "url": "https://www.aibase.com/news/29638",
         "source": "AIbase",
         "source_name": "AIbase"
       }
