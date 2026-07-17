@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T12:41:11.286792Z",
+  "generated_at": "2026-07-17T14:27:52.127218Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d47ba84c12d22f6dd30ebacd1737680edb5f58d4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2359-38bf-b6a7-ad086ca8569f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
@@ -255,15 +264,6 @@
           "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d47ba84c12d22f6dd30ebacd1737680edb5f58d4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2359-38bf-b6a7-ad086ca8569f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T13:59:07.832324Z",
-      "latest_at": "2026-07-17T12:41:11.286792Z",
+      "earliest_at": "2026-07-16T15:40:49.720786Z",
+      "latest_at": "2026-07-17T14:27:52.127218Z",
       "primary_item": {
-        "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
+        "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_3ebda52fc80e",
+      "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "primary_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
+          "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
+          "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.814,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T10:00:00Z",
+      "latest_at": "2026-07-17T10:00:00Z",
+      "primary_item": {
+        "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
+        "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -352,14 +413,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9367,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -432,14 +493,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -456,6 +517,66 @@
         "url": "https://www.aibase.com/news/29695",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1833374ea0e3",
+      "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+      "url": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
+      "primary_url": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d99522266ad10e89d447f733ef234f56b90c2f29",
+          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+          "url": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "d99522266ad10e89d447f733ef234f56b90c2f29",
+          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+          "url": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T10:00:00Z",
+      "latest_at": "2026-07-17T10:00:00Z",
+      "primary_item": {
+        "id": "d99522266ad10e89d447f733ef234f56b90c2f29",
+        "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+        "url": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -493,14 +614,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8752,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,14 +674,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8338,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -632,14 +753,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,14 +814,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6781,
+        "recency": 0.604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,14 +873,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.8583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,14 +933,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.6987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,14 +993,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,14 +1053,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,14 +1113,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,14 +1173,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,11 +1232,21 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-17T11:30:00Z"
+        },
+        {
+          "id": "580124ebb1136d3d20b4f077a2be25f5a60627bf",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Evidence of inconsistencies in evaluation process and selection of winners",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T11:30:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.kaggle.com"
       ],
@@ -1146,19 +1277,28 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-17T11:30:00Z"
+        },
+        {
+          "id": "580124ebb1136d3d20b4f077a2be25f5a60627bf",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Evidence of inconsistencies in evaluation process and selection of winners",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T11:30:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5833,
+      "importance": 0.5833,
+      "importance_score": 0.5833,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
+        "recency": 0.9263,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -1172,6 +1312,102 @@
         "url": "https://news.ycombinator.com/item?id=48946010",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6e5f1797a7d7",
+      "title": "苹果向OpenAI员工发出法律信函",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
+          "title": "苹果向OpenAI员工发出法律信函",
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T14:01:52.399000Z"
+        },
+        {
+          "id": "772a4df25d4e2cf771378fd34190947ffe15faa8",
+          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T12:02:39Z"
+        },
+        {
+          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
+          "title": "苹果向数十名OpenAI员工发出法律信函",
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T10:33:49.155000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
+          "title": "苹果向OpenAI员工发出法律信函",
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T14:01:52.399000Z"
+        },
+        {
+          "id": "772a4df25d4e2cf771378fd34190947ffe15faa8",
+          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T12:02:39Z"
+        },
+        {
+          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
+          "title": "苹果向数十名OpenAI员工发出法律信函",
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T10:33:49.155000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5694,
+      "importance": 0.5694,
+      "importance_score": 0.5694,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9819,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T10:33:49.155000Z",
+      "latest_at": "2026-07-17T14:01:52.399000Z",
+      "primary_item": {
+        "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
+        "title": "苹果向OpenAI员工发出法律信函",
+        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+        "source": "www.ft.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1209,14 +1445,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,55 +1471,55 @@
       }
     },
     {
-      "story_id": "story_feeac01a3bdf",
-      "title": "阶跃与支付宝达成AI Agent系统级合作",
-      "url": "https://finance.sina.com.cn/tech/it/2026-07-17/doc-iniickaw4208853.shtml",
-      "primary_url": "https://finance.sina.com.cn/tech/it/2026-07-17/doc-iniickaw4208853.shtml",
+      "story_id": "story_e70f84834f8d",
+      "title": "AI 泡沫，最多破一半",
+      "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876231.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "fab700b8e1a367182e57c88abd3265937492280c",
-          "title": "阶跃与支付宝达成AI Agent系统级合作",
-          "url": "https://finance.sina.com.cn/tech/it/2026-07-17/doc-iniickaw4208853.shtml",
+          "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
+          "title": "AI 泡沫，最多破一半",
+          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "50e8a162e79d37bbccd0d71a00fc7cd73488730d",
-          "title": "阶跃与支付宝达成AI Agent系统级合作",
-          "url": "https://36kr.com/newsflashes/3899555853862537?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "12d93bb24c12f164bc04af85c6f99f37b8452550",
+          "title": "AI泡沫，最多破一半",
+          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T09:53:20Z"
+          "published_at": "2026-07-17T13:02:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "fab700b8e1a367182e57c88abd3265937492280c",
-          "title": "阶跃与支付宝达成AI Agent系统级合作",
-          "url": "https://finance.sina.com.cn/tech/it/2026-07-17/doc-iniickaw4208853.shtml",
+          "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
+          "title": "AI 泡沫，最多破一半",
+          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "50e8a162e79d37bbccd0d71a00fc7cd73488730d",
-          "title": "阶跃与支付宝达成AI Agent系统级合作",
-          "url": "https://36kr.com/newsflashes/3899555853862537?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "12d93bb24c12f164bc04af85c6f99f37b8452550",
+          "title": "AI泡沫，最多破一半",
+          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T09:53:20Z"
+          "published_at": "2026-07-17T13:02:38Z"
         }
       ],
       "item_count": 2,
@@ -1302,92 +1538,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T09:53:20Z",
-      "latest_at": "2026-07-17T12:41:11.286792Z",
+      "earliest_at": "2026-07-17T13:02:38Z",
+      "latest_at": "2026-07-17T14:27:52.127218Z",
       "primary_item": {
-        "id": "fab700b8e1a367182e57c88abd3265937492280c",
-        "title": "阶跃与支付宝达成AI Agent系统级合作",
-        "url": "https://finance.sina.com.cn/tech/it/2026-07-17/doc-iniickaw4208853.shtml",
+        "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
+        "title": "AI 泡沫，最多破一半",
+        "url": "https://www.huxiu.com/article/4876231.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6e5f1797a7d7",
-      "title": "苹果向数十名 OpenAI 员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-          "title": "苹果向数十名 OpenAI 员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-          "title": "苹果向数十名 OpenAI 员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9732,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T10:33:49.155000Z",
-      "latest_at": "2026-07-17T12:02:39Z",
-      "primary_item": {
-        "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-        "title": "苹果向数十名 OpenAI 员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1425,14 +1583,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1448,162 +1606,6 @@
         "url": "https://www.aibase.com/news/29686",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bfa3b5bff4bb",
-      "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "primary_url": "https://github.com/anthropics/cwc-workshops",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a88339a770cc4f479709305667830f39185550f6",
-          "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
-          "url": "https://github.com/anthropics/cwc-workshops",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T11:04:16.343000Z"
-        },
-        {
-          "id": "05967126ac902872a92a663bd11c5a2e65f3a556",
-          "title": "人类学 / cwc-研讨会 / anthropics / cwc-workshops",
-          "url": "https://github.com/anthropics/cwc-workshops",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a88339a770cc4f479709305667830f39185550f6",
-          "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
-          "url": "https://github.com/anthropics/cwc-workshops",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T11:04:16.343000Z"
-        },
-        {
-          "id": "05967126ac902872a92a663bd11c5a2e65f3a556",
-          "title": "人类学 / cwc-研讨会 / anthropics / cwc-workshops",
-          "url": "https://github.com/anthropics/cwc-workshops",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9327,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T11:03:48.598029Z",
-      "latest_at": "2026-07-17T11:04:16.343000Z",
-      "primary_item": {
-        "id": "a88339a770cc4f479709305667830f39185550f6",
-        "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
-        "url": "https://github.com/anthropics/cwc-workshops",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_dee2311b1811",
-      "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
-      "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-      "primary_url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e08381d4c7c939e03b072ce1bff3415f6feec893",
-          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
-          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T09:45:49.602000Z"
-        },
-        {
-          "id": "0faca5e682f1c9050f7519a0e64cb6556813550e",
-          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考 / A Meta software engineer shares what it takes to keep up with AI — without letting it think for him",
-          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T09:30:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e08381d4c7c939e03b072ce1bff3415f6feec893",
-          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
-          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T09:45:49.602000Z"
-        },
-        {
-          "id": "0faca5e682f1c9050f7519a0e64cb6556813550e",
-          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考 / A Meta software engineer shares what it takes to keep up with AI — without letting it think for him",
-          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T09:30:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8782,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T09:30:02Z",
-      "latest_at": "2026-07-17T09:45:49.602000Z",
-      "primary_item": {
-        "id": "e08381d4c7c939e03b072ce1bff3415f6feec893",
-        "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
-        "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
