@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T23:25:17.618275Z",
+  "generated_at": "2026-07-17T00:58:03.458154Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0925-405f-b885-65d3073ee300&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-0925-405f-b885-65d3073ee300&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "600485f569a974c56a02fafa568416dcd7720f80",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a81bcf1ed9d30eb6ccab8f93a06e0f8d34843850",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ac355c0a5da78fa05ffdb3f2f4fef0e970e8b8dd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "600485f569a974c56a02fafa568416dcd7720f80",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a81bcf1ed9d30eb6ccab8f93a06e0f8d34843850",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0925-405f-b885-65d3073ee300&fp=-3",
@@ -255,15 +264,6 @@
           "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ac355c0a5da78fa05ffdb3f2f4fef0e970e8b8dd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0954-35a7-ac08-f7cf40cf501b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T23:54:08.269287Z",
-      "latest_at": "2026-07-16T23:25:17.618275Z",
+      "earliest_at": "2026-07-16T02:02:52.380325Z",
+      "latest_at": "2026-07-17T00:58:03.458154Z",
       "primary_item": {
-        "id": "a81bcf1ed9d30eb6ccab8f93a06e0f8d34843850",
+        "id": "600485f569a974c56a02fafa568416dcd7720f80",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0925-405f-b885-65d3073ee300&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8208,
+        "recency": 0.7564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -357,6 +357,66 @@
         "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_28c198917151",
+      "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
+      "url": "https://www.aibase.com/news/29663",
+      "primary_url": "https://www.aibase.com/news/29663",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "75d88910e1f8ba0d9aa2ff44ccb4965341f33bc6",
+          "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
+          "url": "https://www.aibase.com/news/29663",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T00:58:03.458154Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "75d88910e1f8ba0d9aa2ff44ccb4965341f33bc6",
+          "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
+          "url": "https://www.aibase.com/news/29663",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T00:58:03.458154Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T00:58:03.458154Z",
+      "latest_at": "2026-07-17T00:58:03.458154Z",
+      "primary_item": {
+        "id": "75d88910e1f8ba0d9aa2ff44ccb4965341f33bc6",
+        "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
+        "url": "https://www.aibase.com/news/29663",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -394,14 +454,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6908,
+        "recency": 0.6263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,14 +515,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6908,
+        "recency": 0.6263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -516,14 +576,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -539,6 +599,66 @@
         "url": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
         "source": "xAI：News（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_65d0b57cf08e",
+      "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
+      "url": "https://www.aibase.com/news/29664",
+      "primary_url": "https://www.aibase.com/news/29664",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2940756cf37a03368834f2ca46635a75bde1645c",
+          "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
+          "url": "https://www.aibase.com/news/29664",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T00:58:03.458154Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2940756cf37a03368834f2ca46635a75bde1645c",
+          "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
+          "url": "https://www.aibase.com/news/29664",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T00:58:03.458154Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T00:58:03.458154Z",
+      "latest_at": "2026-07-17T00:58:03.458154Z",
+      "primary_item": {
+        "id": "2940756cf37a03368834f2ca46635a75bde1645c",
+        "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
+        "url": "https://www.aibase.com/news/29664",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -576,14 +696,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8166,
+        "recency": 0.7521,
         "story_heat": 0.0
       },
       "category": "official",
@@ -637,14 +757,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -697,14 +817,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8234,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -757,14 +877,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,14 +937,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.7409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -877,14 +997,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7966,
+        "recency": 0.7322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,6 +1020,66 @@
         "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cc30dd7c4f97",
+      "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
+      "url": "https://www.aibase.com/news/29662",
+      "primary_url": "https://www.aibase.com/news/29662",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5dd46ee5fa8e27aab13b59ebca44c95aef6a116",
+          "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
+          "url": "https://www.aibase.com/news/29662",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T00:58:03.458154Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5dd46ee5fa8e27aab13b59ebca44c95aef6a116",
+          "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
+          "url": "https://www.aibase.com/news/29662",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T00:58:03.458154Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T00:58:03.458154Z",
+      "latest_at": "2026-07-17T00:58:03.458154Z",
+      "primary_item": {
+        "id": "a5dd46ee5fa8e27aab13b59ebca44c95aef6a116",
+        "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
+        "url": "https://www.aibase.com/news/29662",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -937,14 +1117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.755,
+        "recency": 0.6905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,14 +1177,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7789,
+        "recency": 0.7145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1058,20 +1238,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6908,
+        "recency": 0.6263,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T16:00:00Z",
       "latest_at": "2026-07-16T16:00:00Z",
@@ -1118,14 +1297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6339,
+        "recency": 0.5695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1139,65 +1318,6 @@
         "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
         "url": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f5ff7cda3685",
-      "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-      "url": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm",
-      "primary_url": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3b0c5fbad2b4e30b1737686f84005313b58864e7",
-          "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-          "url": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T13:07:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "3b0c5fbad2b4e30b1737686f84005313b58864e7",
-          "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-          "url": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T13:07:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5707,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T13:07:05Z",
-      "latest_at": "2026-07-16T13:07:05Z",
-      "primary_item": {
-        "id": "3b0c5fbad2b4e30b1737686f84005313b58864e7",
-        "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-        "url": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
       }
     },
@@ -1236,14 +1356,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7742,
+        "recency": 0.7098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1297,20 +1417,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7191,
+        "recency": 0.6547,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T16:40:48Z",
       "latest_at": "2026-07-16T16:40:48Z",
@@ -1319,144 +1438,6 @@
         "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
         "url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
         "source": "VentureBeat：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_453775e2121b",
-      "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-      "url": "https://www.aibase.com/news/29657",
-      "primary_url": "https://www.aibase.com/news/29657",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7d1090a56703ac165198f5cd860e65bcfc441628",
-          "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "url": "https://www.aibase.com/news/29657",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        },
-        {
-          "id": "63140c7f0eda5500d60f48f0b92b451dd5613f43",
-          "title": "前 OpenAI CTO 穆拉蒂打造多模态 Inkling 模型登场，号称美国最强开源 AI",
-          "url": "https://www.aibase.com/zh/news/29657",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7d1090a56703ac165198f5cd860e65bcfc441628",
-          "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "url": "https://www.aibase.com/news/29657",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T10:02:45.011588Z"
-        },
-        {
-          "id": "63140c7f0eda5500d60f48f0b92b451dd5613f43",
-          "title": "前 OpenAI CTO 穆拉蒂打造多模态 Inkling 模型登场，号称美国最强开源 AI",
-          "url": "https://www.aibase.com/zh/news/29657",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4427,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T10:02:45.011588Z",
-      "latest_at": "2026-07-16T10:02:45.011588Z",
-      "primary_item": {
-        "id": "7d1090a56703ac165198f5cd860e65bcfc441628",
-        "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-        "url": "https://www.aibase.com/news/29657",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_083453660951",
-      "title": "在 Claude Cowork 中使用 Claude Fable 5",
-      "url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-      "primary_url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3af98f2e77a64f503908cf60b9612616ec1e8150",
-          "title": "在 Claude Cowork 中使用 Claude Fable 5",
-          "url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:32:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "3af98f2e77a64f503908cf60b9612616ec1e8150",
-          "title": "在 Claude Cowork 中使用 Claude Fable 5",
-          "url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:32:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6299,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T14:32:22Z",
-      "latest_at": "2026-07-16T14:32:22Z",
-      "primary_item": {
-        "id": "3af98f2e77a64f503908cf60b9612616ec1e8150",
-        "title": "在 Claude Cowork 中使用 Claude Fable 5",
-        "url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     }
