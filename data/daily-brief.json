@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T14:27:52.127218Z",
+  "generated_at": "2026-07-17T15:55:49.438788Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-1163-b3d5-b6cbd519bb91&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-1163-b3d5-b6cbd519bb91&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "fb61b97876ea044750b2b0479438ec8286d28029",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-1163-b3d5-b6cbd519bb91&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "37b5011ae884ef84b220eb21e65e0cd19a5b6ae0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "fb61b97876ea044750b2b0479438ec8286d28029",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-1163-b3d5-b6cbd519bb91&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
@@ -255,15 +264,6 @@
           "id": "37b5011ae884ef84b220eb21e65e0cd19a5b6ae0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0308-5562-b6e2-b9ed8cc6d477&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "84c9528b01df08f8579f0623d9ae2f2c61bd072c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0141-19cd-aa08-6540e2ee60d5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T15:40:49.720786Z",
-      "latest_at": "2026-07-17T14:27:52.127218Z",
+      "earliest_at": "2026-07-16T17:08:31.227699Z",
+      "latest_at": "2026-07-17T15:55:49.438788Z",
       "primary_item": {
-        "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
+        "id": "fb61b97876ea044750b2b0479438ec8286d28029",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-1163-b3d5-b6cbd519bb91&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.814,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -413,14 +413,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8626,
+        "recency": 0.8015,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -436,6 +436,66 @@
         "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
         "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3881ac356776",
+      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+      "url": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+      "primary_url": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "71119a2b668340820099a56753e2d7cdf749a0b6",
+          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+          "url": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T14:08:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "71119a2b668340820099a56753e2d7cdf749a0b6",
+          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+          "url": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T14:08:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9255,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T14:08:29Z",
+      "latest_at": "2026-07-17T14:08:29Z",
+      "primary_item": {
+        "id": "71119a2b668340820099a56753e2d7cdf749a0b6",
+        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+        "url": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
       }
     },
@@ -493,14 +553,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.7972,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -554,14 +614,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.814,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -614,14 +674,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8011,
+        "recency": 0.74,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -674,14 +734,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7597,
+        "recency": 0.6987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -753,14 +813,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7148,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -814,14 +874,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.604,
+        "recency": 0.5429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -873,14 +933,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,20 +993,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6987,
+        "recency": 0.6376,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T07:14:00Z",
       "latest_at": "2026-07-17T07:14:00Z",
@@ -993,14 +1052,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1053,14 +1112,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,14 +1172,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,14 +1232,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1290,14 +1349,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5833,
-      "importance": 0.5833,
-      "importance_score": 0.5833,
+      "score": 0.5711,
+      "importance": 0.5711,
+      "importance_score": 0.5711,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.8653,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1386,14 +1445,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9819,
+        "recency": 0.9209,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1445,14 +1504,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1471,141 +1530,100 @@
       }
     },
     {
-      "story_id": "story_e70f84834f8d",
-      "title": "AI 泡沫，最多破一半",
-      "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876231.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_89bb8ead68de",
+      "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
+      "url": "https://news.ycombinator.com/item?id=48947754",
+      "primary_url": "https://news.ycombinator.com/item?id=48947754",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
-          "title": "AI 泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
+          "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
+          "url": "https://news.ycombinator.com/item?id=48947754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T15:28:14.046000Z"
         },
         {
-          "id": "12d93bb24c12f164bc04af85c6f99f37b8452550",
-          "title": "AI泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "1d68a8f9d37976d90ac46e338591f49615de6738",
+          "title": "Show HN: 发行方为人工智能代理的链上债券市场",
+          "url": "https://selbonds.now",
+          "source": "selbonds.now",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T14:33:52.909000Z"
+        },
+        {
+          "id": "dc9322c0d5c2d9b0cb9b53e67f0017a71592a24e",
+          "title": "Show HN: 发行方为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
+          "url": "https://selbonds.now",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T13:02:38Z"
+          "published_at": "2026-07-17T14:25:20Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "selbonds.now"
       ],
       "items": [
         {
-          "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
-          "title": "AI 泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
+          "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
+          "url": "https://news.ycombinator.com/item?id=48947754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T15:28:14.046000Z"
         },
         {
-          "id": "12d93bb24c12f164bc04af85c6f99f37b8452550",
-          "title": "AI泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "1d68a8f9d37976d90ac46e338591f49615de6738",
+          "title": "Show HN: 发行方为人工智能代理的链上债券市场",
+          "url": "https://selbonds.now",
+          "source": "selbonds.now",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T14:33:52.909000Z"
+        },
+        {
+          "id": "dc9322c0d5c2d9b0cb9b53e67f0017a71592a24e",
+          "title": "Show HN: 发行方为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
+          "url": "https://selbonds.now",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T13:02:38Z"
+          "published_at": "2026-07-17T14:25:20Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9808,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T13:02:38Z",
-      "latest_at": "2026-07-17T14:27:52.127218Z",
+      "earliest_at": "2026-07-17T14:25:20Z",
+      "latest_at": "2026-07-17T15:28:14.046000Z",
       "primary_item": {
-        "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
-        "title": "AI 泡沫，最多破一半",
-        "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fc5bf1529f71",
-      "title": "阶跃星辰发布STEPX Neo样机，全球首款大模型原生智能体手机亮相",
-      "url": "https://www.aibase.com/news/29686",
-      "primary_url": "https://www.aibase.com/news/29686",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c9d1db12cb82883d0892bb851740a8ff86789e66",
-          "title": "阶跃星辰发布STEPX Neo样机，全球首款大模型原生智能体手机亮相",
-          "url": "https://www.aibase.com/news/29686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:05:10.023477Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c9d1db12cb82883d0892bb851740a8ff86789e66",
-          "title": "阶跃星辰发布STEPX Neo样机，全球首款大模型原生智能体手机亮相",
-          "url": "https://www.aibase.com/news/29686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:05:10.023477Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7759,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T09:05:10.023477Z",
-      "latest_at": "2026-07-17T09:05:10.023477Z",
-      "primary_item": {
-        "id": "c9d1db12cb82883d0892bb851740a8ff86789e66",
-        "title": "阶跃星辰发布STEPX Neo样机，全球首款大模型原生智能体手机亮相",
-        "url": "https://www.aibase.com/news/29686",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
+        "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
+        "url": "https://news.ycombinator.com/item?id=48947754",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
