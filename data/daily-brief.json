@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T00:58:03.458154Z",
+  "generated_at": "2026-07-17T04:07:50.476584Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1408-21c4-8b14-4be756f31a2e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-1408-21c4-8b14-4be756f31a2e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "609bc6daf8352139c881c3d2f77cc28abe0d5f2d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1408-21c4-8b14-4be756f31a2e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "600485f569a974c56a02fafa568416dcd7720f80",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "54bf38f8048bb3fd1a3aedad342b1f391e6e00d6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "609bc6daf8352139c881c3d2f77cc28abe0d5f2d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1408-21c4-8b14-4be756f31a2e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "600485f569a974c56a02fafa568416dcd7720f80",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
@@ -255,15 +264,6 @@
           "id": "54bf38f8048bb3fd1a3aedad342b1f391e6e00d6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1523-575a-9488-5d4fd63f19c6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "35ca87269aa7d32b5d1d17c41a9a7f663ac7ba91",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1203-130f-aa87-be053e1441a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T02:02:52.380325Z",
-      "latest_at": "2026-07-17T00:58:03.458154Z",
+      "earliest_at": "2026-07-16T05:23:30.702656Z",
+      "latest_at": "2026-07-17T04:07:50.476584Z",
       "primary_item": {
-        "id": "600485f569a974c56a02fafa568416dcd7720f80",
+        "id": "609bc6daf8352139c881c3d2f77cc28abe0d5f2d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1408-21c4-8b14-4be756f31a2e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_f8ea66b0a429",
+      "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+      "url": "https://www.aibase.com/news/29668",
+      "primary_url": "https://www.aibase.com/news/29668",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dd841454e8f1dd5bdbd4deb83527391e045e84ce",
+          "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "url": "https://www.aibase.com/news/29668",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dd841454e8f1dd5bdbd4deb83527391e045e84ce",
+          "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "url": "https://www.aibase.com/news/29668",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T04:07:50.476584Z",
+      "latest_at": "2026-07-17T04:07:50.476584Z",
+      "primary_item": {
+        "id": "dd841454e8f1dd5bdbd4deb83527391e045e84ce",
+        "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+        "url": "https://www.aibase.com/news/29668",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -333,14 +393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7564,
+        "recency": 0.6246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,21 +420,81 @@
       }
     },
     {
-      "story_id": "story_28c198917151",
-      "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
-      "url": "https://www.aibase.com/news/29663",
-      "primary_url": "https://www.aibase.com/news/29663",
+      "story_id": "story_37bb87b27853",
+      "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+      "url": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4",
+      "primary_url": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2780c6f56a56f0f9169105d8e75ab06946dac9ab",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "url": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T00:40:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "2780c6f56a56f0f9169105d8e75ab06946dac9ab",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "url": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T00:40:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8559,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T00:40:20Z",
+      "latest_at": "2026-07-17T00:40:20Z",
+      "primary_item": {
+        "id": "2780c6f56a56f0f9169105d8e75ab06946dac9ab",
+        "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+        "url": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_180c6dd9656a",
+      "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+      "url": "https://www.aibase.com/news/29673",
+      "primary_url": "https://www.aibase.com/news/29673",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "75d88910e1f8ba0d9aa2ff44ccb4965341f33bc6",
-          "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
-          "url": "https://www.aibase.com/news/29663",
+          "id": "2eedff0dcf7d900f80dd8ccfeb606352fef39a6e",
+          "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+          "url": "https://www.aibase.com/news/29673",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-17T00:58:03.458154Z"
+          "published_at": "2026-07-17T04:07:50.476584Z"
         }
       ],
       "source_count": 1,
@@ -383,13 +503,13 @@
       ],
       "items": [
         {
-          "id": "75d88910e1f8ba0d9aa2ff44ccb4965341f33bc6",
-          "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
-          "url": "https://www.aibase.com/news/29663",
+          "id": "2eedff0dcf7d900f80dd8ccfeb606352fef39a6e",
+          "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+          "url": "https://www.aibase.com/news/29673",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-17T00:58:03.458154Z"
+          "published_at": "2026-07-17T04:07:50.476584Z"
         }
       ],
       "item_count": 1,
@@ -409,12 +529,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T00:58:03.458154Z",
-      "latest_at": "2026-07-17T00:58:03.458154Z",
+      "earliest_at": "2026-07-17T04:07:50.476584Z",
+      "latest_at": "2026-07-17T04:07:50.476584Z",
       "primary_item": {
-        "id": "75d88910e1f8ba0d9aa2ff44ccb4965341f33bc6",
-        "title": "2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高",
-        "url": "https://www.aibase.com/news/29663",
+        "id": "2eedff0dcf7d900f80dd8ccfeb606352fef39a6e",
+        "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+        "url": "https://www.aibase.com/news/29673",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -454,14 +574,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6263,
+        "recency": 0.4946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -515,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6263,
+        "recency": 0.4946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -576,14 +696,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.7304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -599,66 +719,6 @@
         "url": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
         "source": "xAI：News（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_65d0b57cf08e",
-      "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
-      "url": "https://www.aibase.com/news/29664",
-      "primary_url": "https://www.aibase.com/news/29664",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2940756cf37a03368834f2ca46635a75bde1645c",
-          "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
-          "url": "https://www.aibase.com/news/29664",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T00:58:03.458154Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2940756cf37a03368834f2ca46635a75bde1645c",
-          "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
-          "url": "https://www.aibase.com/news/29664",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T00:58:03.458154Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T00:58:03.458154Z",
-      "latest_at": "2026-07-17T00:58:03.458154Z",
-      "primary_item": {
-        "id": "2940756cf37a03368834f2ca46635a75bde1645c",
-        "title": "NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑",
-        "url": "https://www.aibase.com/news/29664",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -696,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7521,
+        "recency": 0.6204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -720,6 +780,66 @@
         "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cf0bb669f868",
+      "title": "AI旅行平台 Fora 完成6000万美元D轮融资，估值升至10亿美元",
+      "url": "https://www.aibase.com/news/29666",
+      "primary_url": "https://www.aibase.com/news/29666",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f693130f262b9fde88e83441a5c424daf60fea0d",
+          "title": "AI旅行平台 Fora 完成6000万美元D轮融资，估值升至10亿美元",
+          "url": "https://www.aibase.com/news/29666",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f693130f262b9fde88e83441a5c424daf60fea0d",
+          "title": "AI旅行平台 Fora 完成6000万美元D轮融资，估值升至10亿美元",
+          "url": "https://www.aibase.com/news/29666",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T04:07:50.476584Z",
+      "latest_at": "2026-07-17T04:07:50.476584Z",
+      "primary_item": {
+        "id": "f693130f262b9fde88e83441a5c424daf60fea0d",
+        "title": "AI旅行平台 Fora 完成6000万美元D轮融资，估值升至10亿美元",
+        "url": "https://www.aibase.com/news/29666",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -757,20 +877,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.6795,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T20:26:23Z",
       "latest_at": "2026-07-16T20:26:23Z",
@@ -817,20 +936,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.759,
+        "recency": 0.6272,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T19:11:01Z",
       "latest_at": "2026-07-16T19:11:01Z",
@@ -877,20 +995,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
+        "recency": 0.6214,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T19:02:38Z",
       "latest_at": "2026-07-16T19:02:38Z",
@@ -937,20 +1054,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7409,
+        "recency": 0.6091,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T18:44:58Z",
       "latest_at": "2026-07-16T18:44:58Z",
@@ -960,126 +1076,6 @@
         "url": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
         "source": "X：ChatGPT (@ChatGPTapp)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a6c603c73d1b",
-      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-      "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
-      "primary_url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dcbfd5db38feb8b952d35bb82f69be3d34475d57",
-          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T18:32:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "dcbfd5db38feb8b952d35bb82f69be3d34475d57",
-          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T18:32:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7322,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T18:32:23Z",
-      "latest_at": "2026-07-16T18:32:23Z",
-      "primary_item": {
-        "id": "dcbfd5db38feb8b952d35bb82f69be3d34475d57",
-        "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-        "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cc30dd7c4f97",
-      "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
-      "url": "https://www.aibase.com/news/29662",
-      "primary_url": "https://www.aibase.com/news/29662",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5dd46ee5fa8e27aab13b59ebca44c95aef6a116",
-          "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
-          "url": "https://www.aibase.com/news/29662",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T00:58:03.458154Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5dd46ee5fa8e27aab13b59ebca44c95aef6a116",
-          "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
-          "url": "https://www.aibase.com/news/29662",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T00:58:03.458154Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T00:58:03.458154Z",
-      "latest_at": "2026-07-17T00:58:03.458154Z",
-      "primary_item": {
-        "id": "a5dd46ee5fa8e27aab13b59ebca44c95aef6a116",
-        "title": "医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗",
-        "url": "https://www.aibase.com/news/29662",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1117,20 +1113,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6905,
+        "recency": 0.5587,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T17:32:26Z",
       "latest_at": "2026-07-16T17:32:26Z",
@@ -1140,6 +1135,66 @@
         "url": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_56e2f37f781c",
+      "title": "DoorDash推出AI命令行工具dd-cli，可通过智能助手直接点餐",
+      "url": "https://www.aibase.com/news/29667",
+      "primary_url": "https://www.aibase.com/news/29667",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d56b1cb7161cf63da72c0ef0e4198452fe4d7190",
+          "title": "DoorDash推出AI命令行工具dd-cli，可通过智能助手直接点餐",
+          "url": "https://www.aibase.com/news/29667",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d56b1cb7161cf63da72c0ef0e4198452fe4d7190",
+          "title": "DoorDash推出AI命令行工具dd-cli，可通过智能助手直接点餐",
+          "url": "https://www.aibase.com/news/29667",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T04:07:50.476584Z",
+      "latest_at": "2026-07-17T04:07:50.476584Z",
+      "primary_item": {
+        "id": "d56b1cb7161cf63da72c0ef0e4198452fe4d7190",
+        "title": "DoorDash推出AI命令行工具dd-cli，可通过智能助手直接点餐",
+        "url": "https://www.aibase.com/news/29667",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1177,14 +1232,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7145,
+        "recency": 0.5827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1204,121 +1259,122 @@
       }
     },
     {
-      "story_id": "story_fcee2e11000f",
-      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-      "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-      "primary_url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-      "source": "Google Blog：AI（RSS）",
+      "story_id": "story_a6c603c73d1b",
+      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+      "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
+      "primary_url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "891ee00b6a9018a00b91be5d1a06700f75871263",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-          "source": "Google Blog：AI（RSS）",
+          "id": "dcbfd5db38feb8b952d35bb82f69be3d34475d57",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:00:00Z"
+          "published_at": "2026-07-16T18:32:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Blog：AI（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "891ee00b6a9018a00b91be5d1a06700f75871263",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-          "source": "Google Blog：AI（RSS）",
+          "id": "dcbfd5db38feb8b952d35bb82f69be3d34475d57",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:00:00Z"
+          "published_at": "2026-07-16T18:32:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6263,
+        "recency": 0.6004,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
+      "earliest_at": "2026-07-16T18:32:23Z",
+      "latest_at": "2026-07-16T18:32:23Z",
       "primary_item": {
-        "id": "891ee00b6a9018a00b91be5d1a06700f75871263",
-        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-        "url": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-        "source": "Google Blog：AI（RSS）",
+        "id": "dcbfd5db38feb8b952d35bb82f69be3d34475d57",
+        "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+        "url": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dce06fcd8769",
-      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-      "url": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
-      "primary_url": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9ba46c6a672d",
+      "title": "Google Vids引入Gemini Omni模型 上传自拍+音频就能定制专属数字分身",
+      "url": "https://www.aibase.com/news/29665",
+      "primary_url": "https://www.aibase.com/news/29665",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9a7e4d2a6cbcf68efd09eaad6bc8bcdecb7d94f6",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "url": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
+          "id": "e70f57cc879169e6d7f4a5d0d7e52f8cc3d54c2d",
+          "title": "Google Vids引入Gemini Omni模型 上传自拍+音频就能定制专属数字分身",
+          "url": "https://www.aibase.com/news/29665",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9a7e4d2a6cbcf68efd09eaad6bc8bcdecb7d94f6",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "url": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
+          "id": "e70f57cc879169e6d7f4a5d0d7e52f8cc3d54c2d",
+          "title": "Google Vids引入Gemini Omni模型 上传自拍+音频就能定制专属数字分身",
+          "url": "https://www.aibase.com/news/29665",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T04:07:50.476584Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5695,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-16T14:38:08Z",
-      "latest_at": "2026-07-16T14:38:08Z",
+      "earliest_at": "2026-07-17T04:07:50.476584Z",
+      "latest_at": "2026-07-17T04:07:50.476584Z",
       "primary_item": {
-        "id": "9a7e4d2a6cbcf68efd09eaad6bc8bcdecb7d94f6",
-        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "url": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "e70f57cc879169e6d7f4a5d0d7e52f8cc3d54c2d",
+        "title": "Google Vids引入Gemini Omni模型 上传自拍+音频就能定制专属数字分身",
+        "url": "https://www.aibase.com/news/29665",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1356,14 +1412,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7098,
+        "recency": 0.578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1380,65 +1436,6 @@
         "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c4db1cae1fbe",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-      "url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-      "primary_url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-      "source": "VentureBeat：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1357b3fd70e78d81f20afde2efc103f6b50eefbf",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-          "source": "VentureBeat：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "VentureBeat：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1357b3fd70e78d81f20afde2efc103f6b50eefbf",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-          "source": "VentureBeat：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6547,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T16:40:48Z",
-      "latest_at": "2026-07-16T16:40:48Z",
-      "primary_item": {
-        "id": "1357b3fd70e78d81f20afde2efc103f6b50eefbf",
-        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-        "url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-        "source": "VentureBeat：AI（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
