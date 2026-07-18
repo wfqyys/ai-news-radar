@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T21:12:12.443225Z",
+  "generated_at": "2026-07-18T22:12:44.232184Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0712-3904-a080-95c0266699b4&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0712-3904-a080-95c0266699b4&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0813-055f-bc82-57e7502bd41b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0813-055f-bc82-57e7502bd41b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0e4d64b0711ac1c789fa069c5789cfde23a47c6c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0813-055f-bc82-57e7502bd41b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b54b76b51d3db333b7294ad36c47cc1b4ea2648b",
           "title": "点击这里进入 / Click here to enter",
@@ -154,32 +163,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "bd5be91f613b71f68e4c0649c3cab7eb3e98a930",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0813-030d-b902-6e23a774d5c0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "69025a296ca8d1f0792eef90363f65d5c6a68834",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0714-091d-8396-0c61cd18ac88&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 18,
+      "source_count": 17,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "0e4d64b0711ac1c789fa069c5789cfde23a47c6c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0813-055f-bc82-57e7502bd41b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b54b76b51d3db333b7294ad36c47cc1b4ea2648b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0712-3904-a080-95c0266699b4&fp=-3",
@@ -322,28 +322,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "bd5be91f613b71f68e4c0649c3cab7eb3e98a930",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0813-030d-b902-6e23a774d5c0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "69025a296ca8d1f0792eef90363f65d5c6a68834",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0714-091d-8396-0c61cd18ac88&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 18,
-      "duplicate_count": 18,
+      "item_count": 17,
+      "duplicate_count": 17,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -360,12 +342,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T21:13:45.554644Z",
-      "latest_at": "2026-07-18T21:12:12.443225Z",
+      "earliest_at": "2026-07-17T23:15:39.631774Z",
+      "latest_at": "2026-07-18T22:12:44.232184Z",
       "primary_item": {
-        "id": "b54b76b51d3db333b7294ad36c47cc1b4ea2648b",
+        "id": "0e4d64b0711ac1c789fa069c5789cfde23a47c6c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0712-3904-a080-95c0266699b4&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0813-055f-bc82-57e7502bd41b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -443,14 +425,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
+      "score": 0.5514,
+      "importance": 0.5514,
+      "importance_score": 0.5514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9342,
+        "recency": 0.8921,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,6 +446,84 @@
         "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31435a601668",
+      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9366,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T20:31:37Z",
+      "latest_at": "2026-07-18T20:41:23.690000Z",
+      "primary_item": {
+        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -521,14 +581,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9441,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -618,14 +678,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7453,
+        "recency": 0.7032,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -696,14 +756,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.812,
+        "recency": 0.77,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -793,14 +853,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6785,
+        "recency": 0.6365,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -909,14 +969,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6597,
+        "recency": 0.6177,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -987,14 +1047,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4815,
-      "importance": 0.4815,
-      "importance_score": 0.4815,
+      "score": 0.4731,
+      "importance": 0.4731,
+      "importance_score": 0.4731,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6675,
+        "recency": 0.6254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1065,14 +1125,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4793,
-      "importance": 0.4793,
-      "importance_score": 0.4793,
+      "score": 0.4709,
+      "importance": 0.4709,
+      "importance_score": 0.4709,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6564,
+        "recency": 0.6143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1143,14 +1203,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4703,
-      "importance": 0.4703,
-      "importance_score": 0.4703,
+      "score": 0.4619,
+      "importance": 0.4619,
+      "importance_score": 0.4619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6115,
+        "recency": 0.5694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1221,14 +1281,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4626,
-      "importance": 0.4626,
-      "importance_score": 0.4626,
+      "score": 0.4542,
+      "importance": 0.4542,
+      "importance_score": 0.4542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5732,
+        "recency": 0.5311,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,84 +1303,6 @@
         "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4593,
-      "importance": 0.4593,
-      "importance_score": 0.4593,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5566,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1376,14 +1358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4591,
-      "importance": 0.4591,
-      "importance_score": 0.4591,
+      "score": 0.4507,
+      "importance": 0.4507,
+      "importance_score": 0.4507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5555,
+        "recency": 0.5134,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1473,14 +1455,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7234,
+        "recency": 0.6813,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1551,14 +1533,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4703,
-      "importance": 0.4703,
-      "importance_score": 0.4703,
+      "score": 0.4619,
+      "importance": 0.4619,
+      "importance_score": 0.4619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6115,
+        "recency": 0.5694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1576,30 +1558,30 @@
       }
     },
     {
-      "story_id": "story_628b40994a12",
-      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "story_id": "story_e02649f4fa30",
+      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T09:29:57.791000Z"
+          "published_at": "2026-07-18T10:33:45.979000Z"
         },
         {
-          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T09:17:01Z"
+          "published_at": "2026-07-18T10:21:01Z"
         }
       ],
       "source_count": 2,
@@ -1609,46 +1591,46 @@
       ],
       "items": [
         {
-          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T09:29:57.791000Z"
+          "published_at": "2026-07-18T10:33:45.979000Z"
         },
         {
-          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T09:17:01Z"
+          "published_at": "2026-07-18T10:21:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4505,
-      "importance": 0.4505,
-      "importance_score": 0.4505,
+      "score": 0.4509,
+      "importance": 0.4509,
+      "importance_score": 0.4509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5123,
+        "recency": 0.5146,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T09:17:01Z",
-      "latest_at": "2026-07-18T09:29:57.791000Z",
+      "earliest_at": "2026-07-18T10:21:01Z",
+      "latest_at": "2026-07-18T10:33:45.979000Z",
       "primary_item": {
-        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1707,14 +1689,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4384,
-      "importance": 0.4384,
-      "importance_score": 0.4384,
+      "score": 0.43,
+      "importance": 0.43,
+      "importance_score": 0.43,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4519,
+        "recency": 0.4099,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1804,14 +1786,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.3932,
-      "importance": 0.3932,
-      "importance_score": 0.3932,
+      "score": 0.3848,
+      "importance": 0.3848,
+      "importance_score": 0.3848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1012,
+        "recency": 0.0592,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1829,30 +1811,30 @@
       }
     },
     {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "story_id": "story_628b40994a12",
+      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
+          "published_at": "2026-07-18T09:29:57.791000Z"
         },
         {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
+          "published_at": "2026-07-18T09:17:01Z"
         }
       ],
       "source_count": 2,
@@ -1862,46 +1844,46 @@
       ],
       "items": [
         {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
+          "published_at": "2026-07-18T09:29:57.791000Z"
         },
         {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
+          "published_at": "2026-07-18T09:17:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.446,
-      "importance": 0.446,
-      "importance_score": 0.446,
+      "score": 0.4421,
+      "importance": 0.4421,
+      "importance_score": 0.4421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.49,
+        "recency": 0.4703,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
+      "earliest_at": "2026-07-18T09:17:01Z",
+      "latest_at": "2026-07-18T09:29:57.791000Z",
       "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1959,14 +1941,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3813,
-      "importance": 0.3813,
-      "importance_score": 0.3813,
+      "score": 0.3729,
+      "importance": 0.3729,
+      "importance_score": 0.3729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1667,
+        "recency": 0.1246,
         "story_heat": 0.25
       },
       "category": "watch",
