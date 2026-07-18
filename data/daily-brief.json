@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T11:52:41.998190Z",
+  "generated_at": "2026-07-18T13:01:40.422578Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2302-10a9-93f0-438985cb0dac&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2302-10a9-93f0-438985cb0dac&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4356ba8399ca1cf3d35897daf548ed7c44e12f12",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2302-10a9-93f0-438985cb0dac&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4c8d2bc8e18fdf4f44a864927e71b706949038f8",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "4356ba8399ca1cf3d35897daf548ed7c44e12f12",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2302-10a9-93f0-438985cb0dac&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4c8d2bc8e18fdf4f44a864927e71b706949038f8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
@@ -291,15 +300,6 @@
           "id": "3f57c55d5566ea631928a531c944d9d4e1b2868e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0028-2077-a10f-d423feeefd2e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T12:41:11.286792Z",
-      "latest_at": "2026-07-18T11:52:41.998190Z",
+      "earliest_at": "2026-07-17T14:27:52.127218Z",
+      "latest_at": "2026-07-18T13:01:40.422578Z",
       "primary_item": {
-        "id": "4c8d2bc8e18fdf4f44a864927e71b706949038f8",
+        "id": "4356ba8399ca1cf3d35897daf548ed7c44e12f12",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2302-10a9-93f0-438985cb0dac&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,21 +369,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4253,
+        "recency": 0.3774,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T22:05:11Z",
       "latest_at": "2026-07-17T22:05:11Z",
@@ -430,20 +429,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7047,
+        "recency": 0.6568,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-18T04:47:25Z",
       "latest_at": "2026-07-18T04:47:25Z",
@@ -490,21 +488,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4254,
+        "recency": 0.3775,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T22:05:18Z",
       "latest_at": "2026-07-17T22:05:18Z",
@@ -551,21 +548,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.386,
+        "recency": 0.3381,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T21:08:30Z",
       "latest_at": "2026-07-17T21:08:30Z",
@@ -612,14 +608,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.3299,
+        "recency": 0.282,
         "story_heat": 0.0
       },
       "category": "official",
@@ -638,135 +634,117 @@
       }
     },
     {
-      "story_id": "story_b59aca9fee2b",
-      "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "url": "https://news.ycombinator.com/item?id=48952880",
-      "primary_url": "https://news.ycombinator.com/item?id=48952880",
+      "story_id": "story_8b8e1d1337bc",
+      "title": "为什么人工智能公司的标志看起来像屁眼？ (2025) / Why do AI company logos look like buttholes? (2025)",
+      "url": "https://news.ycombinator.com/item?id=48956924",
+      "primary_url": "https://news.ycombinator.com/item?id=48956924",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
-          "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
+          "id": "f3e50f09fdb5d310e69576423c260b49e37fe003",
+          "title": "为什么人工智能公司的标志看起来像屁眼？ (2025) / Why do AI company logos look like buttholes? (2025)",
+          "url": "https://news.ycombinator.com/item?id=48956924",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T08:03:35.207000Z"
+          "published_at": "2026-07-18T13:02:13.745000Z"
         },
         {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
+          "published_at": "2026-07-18T12:09:54.152000Z"
         },
         {
-          "id": "203cce17e24319491719b480af600f291373ef87",
-          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T22:59:17.288000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:06:50Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "localnewsmatters.org"
+        "velvetshark.com"
       ],
       "items": [
         {
-          "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
-          "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
+          "id": "f3e50f09fdb5d310e69576423c260b49e37fe003",
+          "title": "为什么人工智能公司的标志看起来像屁眼？ (2025) / Why do AI company logos look like buttholes? (2025)",
+          "url": "https://news.ycombinator.com/item?id=48956924",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T08:03:35.207000Z"
+          "published_at": "2026-07-18T13:02:13.745000Z"
         },
         {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
+          "published_at": "2026-07-18T12:09:54.152000Z"
         },
         {
-          "id": "203cce17e24319491719b480af600f291373ef87",
-          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T22:59:17.288000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:06:50Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5912,
-      "importance": 0.5912,
-      "importance_score": 0.5912,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T22:26:30Z",
-      "latest_at": "2026-07-18T08:03:35.207000Z",
+      "earliest_at": "2026-07-18T11:06:50Z",
+      "latest_at": "2026-07-18T13:02:13.745000Z",
       "primary_item": {
-        "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
-        "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-        "url": "https://news.ycombinator.com/item?id=48952880",
+        "id": "f3e50f09fdb5d310e69576423c260b49e37fe003",
+        "title": "为什么人工智能公司的标志看起来像屁眼？ (2025) / Why do AI company logos look like buttholes? (2025)",
+        "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -825,14 +803,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9521,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,14 +881,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9617,
+        "recency": 0.9138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -924,6 +902,240 @@
         "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
         "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
         "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e02649f4fa30",
+      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T10:33:45.979000Z"
+        },
+        {
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T10:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T10:33:45.979000Z"
+        },
+        {
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T10:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8973,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T10:21:01Z",
+      "latest_at": "2026-07-18T10:33:45.979000Z",
+      "primary_item": {
+        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b9b544c1b5eb",
+      "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+      "url": "https://news.ycombinator.com/item?id=48956949",
+      "primary_url": "https://news.ycombinator.com/item?id=48956949",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:02:13.745000Z"
+        },
+        {
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:02:13.745000Z"
+        },
+        {
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:02:13.745000Z",
+      "primary_item": {
+        "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+        "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+        "url": "https://news.ycombinator.com/item?id=48956949",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:38:22.428000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:38:22.428000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9521,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:38:22.428000Z",
+      "latest_at": "2026-07-18T11:52:41.998190Z",
+      "primary_item": {
+        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+        "title": "利奥加文/airllm / lyogavin / airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
@@ -981,14 +1193,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.853,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1006,55 +1218,55 @@
       }
     },
     {
-      "story_id": "story_26149269af1e",
-      "title": "利奥加文/airllm / lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_737581f31a19",
+      "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://news.ycombinator.com/item?id=48956879",
+      "primary_url": "https://news.ycombinator.com/item?id=48956879",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T11:38:22.428000Z"
+          "published_at": "2026-07-18T13:02:13.745000Z"
+        },
+        {
+          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T11:38:22.428000Z"
+          "published_at": "2026-07-18T13:02:13.745000Z"
+        },
+        {
+          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "item_count": 2,
@@ -1073,14 +1285,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T11:38:22.428000Z",
-      "latest_at": "2026-07-18T11:52:41.998190Z",
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T13:02:13.745000Z",
       "primary_item": {
-        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-        "title": "利奥加文/airllm / lyogavin / airllm",
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+        "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "url": "https://news.ycombinator.com/item?id=48956879",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1175,14 +1387,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4864,
+      "importance": 0.4864,
+      "importance_score": 0.4864,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4898,
+        "recency": 0.4419,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1196,84 +1408,6 @@
         "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
         "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
         "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8786,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
-      "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1331,14 +1465,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.7926,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,14 +1543,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4841,
-      "importance": 0.4841,
-      "importance_score": 0.4841,
+      "score": 0.4745,
+      "importance": 0.4745,
+      "importance_score": 0.4745,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.1703,
+        "recency": 0.1224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1434,30 +1568,127 @@
       }
     },
     {
-      "story_id": "story_5290513c27de",
-      "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-      "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-      "primary_url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+      "story_id": "story_b59aca9fee2b",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "localnewsmatters.org"
+      ],
+      "items": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4419,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
+      "primary_item": {
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7808576f556e",
+      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.611000Z"
+          "published_at": "2026-07-18T08:57:49.615000Z"
         },
         {
-          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T07:48:01Z"
+          "published_at": "2026-07-18T08:41:01Z"
         }
       ],
       "source_count": 2,
@@ -1467,46 +1698,46 @@
       ],
       "items": [
         {
-          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.611000Z"
+          "published_at": "2026-07-18T08:57:49.615000Z"
         },
         {
-          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T07:48:01Z"
+          "published_at": "2026-07-18T08:41:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8786,
+        "recency": 0.8307,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T07:48:01Z",
-      "latest_at": "2026-07-18T08:57:49.611000Z",
+      "earliest_at": "2026-07-18T08:41:01Z",
+      "latest_at": "2026-07-18T08:57:49.615000Z",
       "primary_item": {
-        "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-        "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-        "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1564,14 +1795,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.459,
-      "importance": 0.459,
-      "importance_score": 0.459,
+      "score": 0.4495,
+      "importance": 0.4495,
+      "importance_score": 0.4495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5552,
+        "recency": 0.5073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1586,239 +1817,6 @@
         "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_949888382c5b",
-      "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-      "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876326.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
-          "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7116f8e8b9179387a047b37b24487e550c1d2051",
-          "title": "从WAIC看AI人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T05:08:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
-          "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7116f8e8b9179387a047b37b24487e550c1d2051",
-          "title": "从WAIC看AI人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T05:08:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7549,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T05:08:51Z",
-      "latest_at": "2026-07-18T05:59:48.458426Z",
-      "primary_item": {
-        "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
-        "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-        "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_8821bf048534",
-      "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-      "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-      "primary_url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:25:48.388000Z"
-        },
-        {
-          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:25:48.388000Z"
-        },
-        {
-          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8563,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T08:11:01Z",
-      "latest_at": "2026-07-18T08:25:48.388000Z",
-      "primary_item": {
-        "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
-        "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-        "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d8581c7978e8",
-      "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-      "primary_url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1d827be49958addbae4c2327e045c38859112be0",
-          "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T21:13:51.783000Z"
-        },
-        {
-          "id": "92cf1fa8956212f412a7631be0d8895d1d791e47",
-          "title": "随着人工智能相关交易走势震荡，芯片制造商及其他热门股股价下跌",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:53.086000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "1d827be49958addbae4c2327e045c38859112be0",
-          "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T21:13:51.783000Z"
-        },
-        {
-          "id": "92cf1fa8956212f412a7631be0d8895d1d791e47",
-          "title": "随着人工智能相关交易走势震荡，芯片制造商及其他热门股股价下跌",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:53.086000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4259,
-      "importance": 0.4259,
-      "importance_score": 0.4259,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3897,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:01:53.086000Z",
-      "latest_at": "2026-07-17T21:13:51.783000Z",
-      "primary_item": {
-        "id": "1d827be49958addbae4c2327e045c38859112be0",
-        "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-        "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
       }
     }
   ]
