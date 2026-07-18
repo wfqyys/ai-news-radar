@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T09:53:24.087891Z",
+  "generated_at": "2026-07-18T10:57:32.890077Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
           "title": "点击这里进入 / Click here to enter",
@@ -147,12 +156,21 @@
           "published_at": null
         }
       ],
-      "source_count": 15,
+      "source_count": 16,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
@@ -288,8 +306,8 @@
           "published_at": null
         }
       ],
-      "item_count": 15,
-      "duplicate_count": 15,
+      "item_count": 16,
+      "duplicate_count": 16,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -307,31 +325,31 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-17T11:03:48.598029Z",
-      "latest_at": "2026-07-18T09:53:24.087891Z",
+      "latest_at": "2026-07-18T10:57:32.890077Z",
       "primary_item": {
-        "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
+        "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "story_id": "story_ed66fc264272",
+      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
+          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
+          "published_at": "2026-07-17T22:05:11Z"
         }
       ],
       "source_count": 1,
@@ -340,25 +358,25 @@
       ],
       "items": [
         {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
+          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
+          "published_at": "2026-07-17T22:05:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5083,
+        "recency": 0.4636,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,12 +385,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
+      "earliest_at": "2026-07-17T22:05:11Z",
+      "latest_at": "2026-07-17T22:05:11Z",
       "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
+        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -412,14 +430,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7875,
+        "recency": 0.743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,21 +456,21 @@
       }
     },
     {
-      "story_id": "story_ed66fc264272",
-      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+      "story_id": "story_d7c9b0f9da4b",
+      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
+          "published_at": "2026-07-17T22:05:18Z"
         }
       ],
       "source_count": 1,
@@ -461,25 +479,25 @@
       ],
       "items": [
         {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
+          "published_at": "2026-07-17T22:05:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5082,
+        "recency": 0.4637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,12 +506,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T22:05:11Z",
-      "latest_at": "2026-07-17T22:05:11Z",
+      "earliest_at": "2026-07-17T22:05:18Z",
+      "latest_at": "2026-07-17T22:05:18Z",
       "primary_item": {
-        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -533,14 +551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4688,
+        "recency": 0.4243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,14 +612,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.4127,
+        "recency": 0.3682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,14 +692,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6476,
-      "importance": 0.6476,
-      "importance_score": 0.6476,
+      "score": 0.6387,
+      "importance": 0.6387,
+      "importance_score": 0.6387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0532,
+        "recency": 0.0087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -809,14 +827,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6077,
-      "importance": 0.6077,
-      "importance_score": 0.6077,
+      "score": 0.5988,
+      "importance": 0.5988,
+      "importance_score": 0.5988,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9237,
+        "recency": 0.8792,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -831,6 +849,84 @@
         "url": "https://news.ycombinator.com/item?id=48952880",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_334727c4b329",
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T09:30:23Z",
+      "latest_at": "2026-07-18T10:57:32.890077Z",
+      "primary_item": {
+        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -887,14 +983,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9614,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -909,84 +1005,6 @@
         "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0587f2f56e55",
-      "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:15:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:15:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9233,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T07:15:18Z",
-      "latest_at": "2026-07-18T08:02:58.830276Z",
-      "primary_item": {
-        "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-        "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-        "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1081,14 +1099,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5726,
+        "recency": 0.5281,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1159,14 +1177,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9614,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,6 +1199,84 @@
         "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0587f2f56e55",
+      "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
+          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:15:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
+          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:15:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8788,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T07:15:18Z",
+      "latest_at": "2026-07-18T08:02:58.830276Z",
+      "primary_item": {
+        "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
+        "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+        "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1237,14 +1333,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.4917,
+      "importance": 0.4917,
+      "importance_score": 0.4917,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.2531,
+        "recency": 0.2086,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1259,84 +1355,6 @@
         "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
         "source": "Hugging Face Blog",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_949888382c5b",
-      "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-      "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876326.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
-          "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7116f8e8b9179387a047b37b24487e550c1d2051",
-          "title": "从WAIC看AI人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T05:08:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
-          "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7116f8e8b9179387a047b37b24487e550c1d2051",
-          "title": "从WAIC看AI人才市场：模型之外，哪些人正在变得更值钱？",
-          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T05:08:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8378,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T05:08:51Z",
-      "latest_at": "2026-07-18T05:59:48.458426Z",
-      "primary_item": {
-        "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
-        "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
-        "url": "https://www.huxiu.com/article/4876326.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1393,14 +1411,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9392,
+        "recency": 0.8946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,14 +1488,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4667,
+      "importance": 0.4667,
+      "importance_score": 0.4667,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6381,
+        "recency": 0.5935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,30 +1513,30 @@
       }
     },
     {
-      "story_id": "story_ae83638cce07",
-      "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-      "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876323.html?f=rss",
+      "story_id": "story_949888382c5b",
+      "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
+      "url": "https://www.huxiu.com/article/4876326.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876326.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
-          "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
+          "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
+          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "8fdfd3453344015cd14e701f83274f483c2c2751",
-          "title": "过去未去，未来已来：肯尼亚人工智能魔幻现状",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "id": "7116f8e8b9179387a047b37b24487e550c1d2051",
+          "title": "从WAIC看AI人才市场：模型之外，哪些人正在变得更值钱？",
+          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T04:49:23Z"
+          "published_at": "2026-07-18T05:08:51Z"
         }
       ],
       "source_count": 2,
@@ -1528,46 +1546,46 @@
       ],
       "items": [
         {
-          "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
-          "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
+          "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
+          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "8fdfd3453344015cd14e701f83274f483c2c2751",
-          "title": "过去未去，未来已来：肯尼亚人工智能魔幻现状",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "id": "7116f8e8b9179387a047b37b24487e550c1d2051",
+          "title": "从WAIC看AI人才市场：模型之外，哪些人正在变得更值钱？",
+          "url": "https://www.huxiu.com/article/4876326.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T04:49:23Z"
+          "published_at": "2026-07-18T05:08:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8378,
+        "recency": 0.7932,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T04:49:23Z",
+      "earliest_at": "2026-07-18T05:08:51Z",
       "latest_at": "2026-07-18T05:59:48.458426Z",
       "primary_item": {
-        "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
-        "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-        "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+        "id": "c5733a4ed86e15a374740a874069c4cf6af92341",
+        "title": "从 WAIC 看 AI 人才市场：模型之外，哪些人正在变得更值钱？",
+        "url": "https://www.huxiu.com/article/4876326.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1625,14 +1643,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4425,
-      "importance": 0.4425,
-      "importance_score": 0.4425,
+      "score": 0.4336,
+      "importance": 0.4336,
+      "importance_score": 0.4336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4725,
+        "recency": 0.428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1703,14 +1721,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4585,
-      "importance": 0.4585,
-      "importance_score": 0.4585,
+      "score": 0.4496,
+      "importance": 0.4496,
+      "importance_score": 0.4496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5526,
+        "recency": 0.5081,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1728,100 +1746,81 @@
       }
     },
     {
-      "story_id": "story_459273eee35f",
-      "title": "Mozilla：开源人工智能的发展现状",
-      "url": "https://stateofopensource.ai",
-      "primary_url": "https://stateofopensource.ai",
-      "source": "stateofopensource.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_ae83638cce07",
+      "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
+      "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876323.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
+          "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
+          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
+          "id": "8fdfd3453344015cd14e701f83274f483c2c2751",
+          "title": "过去未去，未来已来：肯尼亚人工智能魔幻现状",
+          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-18T04:49:23Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "stateofopensource.ai"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
+          "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
+          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
+          "id": "8fdfd3453344015cd14e701f83274f483c2c2751",
+          "title": "过去未去，未来已来：肯尼亚人工智能魔幻现状",
+          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-18T04:49:23Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.423,
-      "importance": 0.423,
-      "importance_score": 0.423,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2502,
-        "story_heat": 0.5
+        "recency": 0.7932,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T14:31:10Z",
-      "latest_at": "2026-07-17T15:53:45.162000Z",
+      "earliest_at": "2026-07-18T04:49:23Z",
+      "latest_at": "2026-07-18T05:59:48.458426Z",
       "primary_item": {
-        "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-        "title": "Mozilla：开源人工智能的发展现状",
-        "url": "https://stateofopensource.ai",
-        "source": "stateofopensource.ai",
-        "source_name": "Buzzing"
+        "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
+        "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
+        "url": "https://www.huxiu.com/article/4876323.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
