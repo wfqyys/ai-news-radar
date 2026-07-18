@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T10:57:32.890077Z",
+  "generated_at": "2026-07-18T11:52:41.998190Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4c8d2bc8e18fdf4f44a864927e71b706949038f8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c642bc96c3a2713d211295bf774ae03ae8b2a942",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2104-105c-8c58-fd89631ca69e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "4c8d2bc8e18fdf4f44a864927e71b706949038f8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
@@ -291,15 +300,6 @@
           "id": "33f9aa681fc6e84ad67433c005be3c7eccd6f68c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2241-44a8-866d-e984b4ee55d9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c642bc96c3a2713d211295bf774ae03ae8b2a942",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2104-105c-8c58-fd89631ca69e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T11:03:48.598029Z",
-      "latest_at": "2026-07-18T10:57:32.890077Z",
+      "earliest_at": "2026-07-17T12:41:11.286792Z",
+      "latest_at": "2026-07-18T11:52:41.998190Z",
       "primary_item": {
-        "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
+        "id": "4c8d2bc8e18fdf4f44a864927e71b706949038f8",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2153-0860-865e-2f3b563fbc3c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,14 +369,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4636,
+        "recency": 0.4253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,14 +430,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -490,14 +490,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4637,
+        "recency": 0.4254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -551,14 +551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4243,
+        "recency": 0.386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -612,21 +612,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.3682,
+        "recency": 0.3299,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T19:47:45Z",
       "latest_at": "2026-07-17T19:47:45Z",
@@ -636,85 +635,6 @@
         "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ccacbade1f56",
-      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-      "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-      "primary_url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "32afefd26ad7601e98763403ed9f7c86d74afb78",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        },
-        {
-          "id": "27d094edfe6bdad1adb3eedebf138da0e49ecdc0",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32afefd26ad7601e98763403ed9f7c86d74afb78",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        },
-        {
-          "id": "27d094edfe6bdad1adb3eedebf138da0e49ecdc0",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6387,
-      "importance": 0.6387,
-      "importance_score": 0.6387,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0087,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T11:10:01Z",
-      "latest_at": "2026-07-17T11:10:01Z",
-      "primary_item": {
-        "id": "32afefd26ad7601e98763403ed9f7c86d74afb78",
-        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -827,14 +747,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5988,
-      "importance": 0.5988,
-      "importance_score": 0.5988,
+      "score": 0.5912,
+      "importance": 0.5912,
+      "importance_score": 0.5912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8792,
+        "recency": 0.8409,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -849,6 +769,84 @@
         "url": "https://news.ycombinator.com/item?id=48952880",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1261f03c93da",
+      "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "primary_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "92c287bceaa2847e205f847ad850224aac18b026",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:38:22.428000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "92c287bceaa2847e205f847ad850224aac18b026",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:38:22.428000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:38:22.428000Z",
+      "latest_at": "2026-07-18T11:52:41.998190Z",
+      "primary_item": {
+        "id": "92c287bceaa2847e205f847ad850224aac18b026",
+        "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -905,14 +903,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -930,30 +928,30 @@
       }
     },
     {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "story_id": "story_628b40994a12",
+      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
+          "published_at": "2026-07-18T09:29:57.791000Z"
         },
         {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
+          "published_at": "2026-07-18T09:17:01Z"
         }
       ],
       "source_count": 2,
@@ -963,48 +961,126 @@
       ],
       "items": [
         {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
+          "published_at": "2026-07-18T09:29:57.791000Z"
         },
         {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
+          "published_at": "2026-07-18T09:17:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9169,
+        "recency": 0.9009,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
+      "earliest_at": "2026-07-18T09:17:01Z",
+      "latest_at": "2026-07-18T09:29:57.791000Z",
       "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:38:22.428000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:38:22.428000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:38:22.428000Z",
+      "latest_at": "2026-07-18T11:52:41.998190Z",
+      "primary_item": {
+        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+        "title": "利奥加文/airllm / lyogavin / airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1099,14 +1175,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5036,
-      "importance": 0.5036,
-      "importance_score": 0.5036,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5281,
+        "recency": 0.4898,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1124,30 +1200,30 @@
       }
     },
     {
-      "story_id": "story_5290513c27de",
-      "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-      "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-      "primary_url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+      "story_id": "story_7808576f556e",
+      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.611000Z"
+          "published_at": "2026-07-18T08:57:49.615000Z"
         },
         {
-          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T07:48:01Z"
+          "published_at": "2026-07-18T08:41:01Z"
         }
       ],
       "source_count": 2,
@@ -1157,46 +1233,46 @@
       ],
       "items": [
         {
-          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.611000Z"
+          "published_at": "2026-07-18T08:57:49.615000Z"
         },
         {
-          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T07:48:01Z"
+          "published_at": "2026-07-18T08:41:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9169,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T07:48:01Z",
-      "latest_at": "2026-07-18T08:57:49.611000Z",
+      "earliest_at": "2026-07-18T08:41:01Z",
+      "latest_at": "2026-07-18T08:57:49.615000Z",
       "primary_item": {
-        "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-        "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-        "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1255,14 +1331,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8788,
+        "recency": 0.8405,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,14 +1409,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4917,
-      "importance": 0.4917,
-      "importance_score": 0.4917,
+      "score": 0.4841,
+      "importance": 0.4841,
+      "importance_score": 0.4841,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.2086,
+        "recency": 0.1703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,30 +1434,30 @@
       }
     },
     {
-      "story_id": "story_8821bf048534",
-      "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-      "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
-      "primary_url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+      "story_id": "story_5290513c27de",
+      "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+      "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+      "primary_url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:25:48.388000Z"
+          "published_at": "2026-07-18T08:57:49.611000Z"
         },
         {
-          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:11:01Z"
+          "published_at": "2026-07-18T07:48:01Z"
         }
       ],
       "source_count": 2,
@@ -1391,46 +1467,46 @@
       ],
       "items": [
         {
-          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:25:48.388000Z"
+          "published_at": "2026-07-18T08:57:49.611000Z"
         },
         {
-          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
-          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
-          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:11:01Z"
+          "published_at": "2026-07-18T07:48:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8946,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T08:11:01Z",
-      "latest_at": "2026-07-18T08:25:48.388000Z",
+      "earliest_at": "2026-07-18T07:48:01Z",
+      "latest_at": "2026-07-18T08:57:49.611000Z",
       "primary_item": {
-        "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
-        "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
-        "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+        "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
+        "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+        "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1488,14 +1564,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4667,
-      "importance": 0.4667,
-      "importance_score": 0.4667,
+      "score": 0.459,
+      "importance": 0.459,
+      "importance_score": 0.459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5935,
+        "recency": 0.5552,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1566,14 +1642,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7932,
+        "recency": 0.7549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1588,6 +1664,84 @@
         "url": "https://www.huxiu.com/article/4876326.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8821bf048534",
+      "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+      "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+      "primary_url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:25:48.388000Z"
+        },
+        {
+          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:25:48.388000Z"
+        },
+        {
+          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8563,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T08:11:01Z",
+      "latest_at": "2026-07-18T08:25:48.388000Z",
+      "primary_item": {
+        "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
+        "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+        "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1643,14 +1797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4336,
-      "importance": 0.4336,
-      "importance_score": 0.4336,
+      "score": 0.4259,
+      "importance": 0.4259,
+      "importance_score": 0.4259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.428,
+        "recency": 0.3897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1665,162 +1819,6 @@
         "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_76d953ff97c7",
-      "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-      "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-      "primary_url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
-          "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T23:09:12Z"
-        },
-        {
-          "id": "30725d0aca6480e1eea50306a78413db62f84088",
-          "title": "“想出这个的人都是个大白痴”：LG 的游戏显示器和电视正面临用户的反抗，因为它们似乎在电脑上安装了广告软件，并告诉你警告客人他们可能会被人工智能功能记录下来，以遵守“窃听”法律 / 'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:54:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
-          "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T23:09:12Z"
-        },
-        {
-          "id": "30725d0aca6480e1eea50306a78413db62f84088",
-          "title": "“想出这个的人都是个大白痴”：LG 的游戏显示器和电视正面临用户的反抗，因为它们似乎在电脑上安装了广告软件，并告诉你警告客人他们可能会被人工智能功能记录下来，以遵守“窃听”法律 / 'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:54:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4496,
-      "importance": 0.4496,
-      "importance_score": 0.4496,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5081,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T16:54:44Z",
-      "latest_at": "2026-07-17T23:09:12Z",
-      "primary_item": {
-        "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
-        "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-        "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_ae83638cce07",
-      "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-      "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876323.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
-          "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8fdfd3453344015cd14e701f83274f483c2c2751",
-          "title": "过去未去，未来已来：肯尼亚人工智能魔幻现状",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T04:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
-          "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8fdfd3453344015cd14e701f83274f483c2c2751",
-          "title": "过去未去，未来已来：肯尼亚人工智能魔幻现状",
-          "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T04:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T04:49:23Z",
-      "latest_at": "2026-07-18T05:59:48.458426Z",
-      "primary_item": {
-        "id": "473a99c6ad5c6c65e9008e551b06754cccfe0ae7",
-        "title": "肯尼亚人工智能魔幻现状：过去未去，未来已来",
-        "url": "https://www.huxiu.com/article/4876323.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
