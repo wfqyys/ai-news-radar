@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T23:15:39.631774Z",
+  "generated_at": "2026-07-18T00:52:50.671814Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0916-1043-8169-a0872feb951a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0916-1043-8169-a0872feb951a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1053-1445-94b4-1c222135a8d2&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-1053-1445-94b4-1c222135a8d2&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "283e51f000a0fb23802796e23e95315525cfef2a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1053-1445-94b4-1c222135a8d2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5a7fe05e62b2608979bb3cdff28244a18eb73242",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "600485f569a974c56a02fafa568416dcd7720f80",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a81bcf1ed9d30eb6ccab8f93a06e0f8d34843850",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0925-405f-b885-65d3073ee300&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "283e51f000a0fb23802796e23e95315525cfef2a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1053-1445-94b4-1c222135a8d2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5a7fe05e62b2608979bb3cdff28244a18eb73242",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0916-1043-8169-a0872feb951a&fp=-3",
@@ -273,15 +282,6 @@
           "id": "600485f569a974c56a02fafa568416dcd7720f80",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1058-35b8-ad70-a7574fbf5817&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a81bcf1ed9d30eb6ccab8f93a06e0f8d34843850",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0925-405f-b885-65d3073ee300&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T23:25:17.618275Z",
-      "latest_at": "2026-07-17T23:15:39.631774Z",
+      "earliest_at": "2026-07-17T00:58:03.458154Z",
+      "latest_at": "2026-07-18T00:52:50.671814Z",
       "primary_item": {
-        "id": "5a7fe05e62b2608979bb3cdff28244a18eb73242",
+        "id": "283e51f000a0fb23802796e23e95315525cfef2a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0916-1043-8169-a0872feb951a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1053-1445-94b4-1c222135a8d2&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.8632,
-      "importance_score": 0.8632,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9511,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -412,14 +412,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.8632,
-      "importance_score": 0.8632,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9511,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,14 +473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8553,
-      "importance": 0.8553,
-      "importance_score": 0.8553,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9117,
+        "recency": 0.8442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -534,14 +534,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.768,
+        "recency": 0.7005,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -594,14 +594,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7659,
+        "recency": 0.6984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -654,14 +654,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8531,
-      "importance": 0.8531,
-      "importance_score": 0.8531,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8556,
+        "recency": 0.7881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -715,21 +715,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4475,
+        "recency": 0.38,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T10:00:00Z",
       "latest_at": "2026-07-17T10:00:00Z",
@@ -776,20 +775,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.747,
+        "recency": 0.6795,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T17:11:19Z",
       "latest_at": "2026-07-17T17:11:19Z",
@@ -836,20 +834,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7211,
+        "recency": 0.6536,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T16:34:01Z",
       "latest_at": "2026-07-17T16:34:01Z",
@@ -896,20 +893,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7203,
+        "recency": 0.6528,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T16:32:51Z",
       "latest_at": "2026-07-17T16:32:51Z",
@@ -975,14 +971,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4961,
+        "recency": 0.4286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1035,14 +1031,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.62,
+        "recency": 0.5525,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,14 +1109,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4918,
+        "recency": 0.4243,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1192,14 +1188,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7189,
-      "importance": 0.7189,
-      "importance_score": 0.7189,
+      "score": 0.7054,
+      "importance": 0.7054,
+      "importance_score": 0.7054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4094,
+        "recency": 0.3419,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1218,137 +1214,119 @@
       }
     },
     {
-      "story_id": "story_459273eee35f",
-      "title": "开源人工智能的现状 / The state of open source AI",
-      "url": "https://news.ycombinator.com/item?id=48947825",
-      "primary_url": "https://news.ycombinator.com/item?id=48947825",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_0fb4407ddf01",
+      "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-          "title": "开源人工智能的现状 / The state of open source AI",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T20:02:18.084000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
+          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
+          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "published_at": "2026-07-17T23:38:00.204000Z"
         },
         {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
+          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
+          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
+          "source": "Slashdot (科技资讯)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-17T17:33:00Z"
+        },
+        {
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "stateofopensource.ai"
+        "Hacker News · 24h最热",
+        "New York Times",
+        "Slashdot (科技资讯)",
+        "www.nytimes.com"
       ],
       "items": [
         {
-          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-          "title": "开源人工智能的现状 / The state of open source AI",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T20:02:18.084000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
+          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
+          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "published_at": "2026-07-17T23:38:00.204000Z"
         },
         {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
+          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
+          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
+          "source": "Slashdot (科技资讯)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-17T17:33:00Z"
+        },
+        {
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5961,
-      "importance": 0.5961,
-      "importance_score": 0.5961,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5876,
+      "importance": 0.5876,
+      "importance_score": 0.5876,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8657,
-        "story_heat": 1.0
+        "recency": 0.948,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T14:31:10Z",
-      "latest_at": "2026-07-17T20:02:18.084000Z",
+      "earliest_at": "2026-07-17T16:17:06Z",
+      "latest_at": "2026-07-17T23:38:00.204000Z",
       "primary_item": {
-        "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-        "title": "开源人工智能的现状 / The state of open source AI",
-        "url": "https://news.ycombinator.com/item?id=48947825",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
+        "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1405,14 +1383,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5892,
-      "importance": 0.5892,
-      "importance_score": 0.5892,
+      "score": 0.5757,
+      "importance": 0.5757,
+      "importance_score": 0.5757,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.696,
+        "recency": 0.6285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1430,255 +1408,256 @@
       }
     },
     {
-      "story_id": "story_d8581c7978e8",
-      "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-      "primary_url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-      "source": "www.reuters.com",
+      "story_id": "story_b59aca9fee2b",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1d827be49958addbae4c2327e045c38859112be0",
-          "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T21:13:51.783000Z"
+          "published_at": "2026-07-17T23:38:00.200000Z"
         },
         {
-          "id": "92cf1fa8956212f412a7631be0d8895d1d791e47",
-          "title": "随着人工智能相关交易走势震荡，芯片制造商及其他热门股股价下跌",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:53.086000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "1d827be49958addbae4c2327e045c38859112be0",
-          "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T21:13:51.783000Z"
+          "id": "203cce17e24319491719b480af600f291373ef87",
+          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T22:59:17.288000Z"
         },
         {
-          "id": "92cf1fa8956212f412a7631be0d8895d1d791e47",
-          "title": "随着人工智能相关交易走势震荡，芯片制造商及其他热门股股价下跌",
-          "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:53.086000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9154,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:01:53.086000Z",
-      "latest_at": "2026-07-17T21:13:51.783000Z",
-      "primary_item": {
-        "id": "1d827be49958addbae4c2327e045c38859112be0",
-        "title": "芯片股回调引发市场对AI行情动能及杠杆交易的担忧",
-        "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_df8556207aaf",
-      "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-      "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-      "primary_url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "63bc46d72b718ce70cf70c9b00345e7194fb0d66",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T20:58:04.783000Z"
-        },
-        {
-          "id": "2a28eeb107c628c7c4e04c1855d45fe25b251ff6",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事 / Anthropic reveals it will pay $600,000 for someone to shape its tricky IPO story",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-          "source": "Business Insider",
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T09:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "63bc46d72b718ce70cf70c9b00345e7194fb0d66",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T20:58:04.783000Z"
-        },
-        {
-          "id": "2a28eeb107c628c7c4e04c1855d45fe25b251ff6",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事 / Anthropic reveals it will pay $600,000 for someone to shape its tricky IPO story",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T09:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9045,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T09:00:01Z",
-      "latest_at": "2026-07-17T20:58:04.783000Z",
-      "primary_item": {
-        "id": "63bc46d72b718ce70cf70c9b00345e7194fb0d66",
-        "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-        "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0fb4407ddf01",
-      "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-      "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-      "primary_url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T17:33:00Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
+          "published_at": "2026-07-17T22:26:30Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times",
-        "Slashdot (科技资讯)"
+        "Hacker News",
+        "hackernews",
+        "localnewsmatters.org"
       ],
       "items": [
         {
-          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T17:33:00Z"
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
         },
         {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
+          "id": "203cce17e24319491719b480af600f291373ef87",
+          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T22:59:17.288000Z"
         },
         {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
+          "published_at": "2026-07-17T22:26:30Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.762,
+        "recency": 0.948,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T16:17:06Z",
-      "latest_at": "2026-07-17T17:33:00Z",
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
       "primary_item": {
-        "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-        "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-        "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a6dcd1cf8b35",
+      "title": "反AI情绪愈演愈烈，多家头部AI公司加强高管安保",
+      "url": "https://www.ithome.com/0/978/344.htm",
+      "primary_url": "https://www.ithome.com/0/978/344.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3636571f159a9c3f7856f16e0455813d57821ebd",
+          "title": "反AI情绪愈演愈烈，多家头部AI公司加强高管安保",
+          "url": "https://www.ithome.com/0/978/344.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ac51bdae33758bea59f00d8f364ea3de4ad86fc6",
+          "title": "“反 AI”情绪愈演愈烈，多家头部 AI 公司加强高管安保",
+          "url": "https://www.ithome.com/0/978/344.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T00:18:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3636571f159a9c3f7856f16e0455813d57821ebd",
+          "title": "反AI情绪愈演愈烈，多家头部AI公司加强高管安保",
+          "url": "https://www.ithome.com/0/978/344.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ac51bdae33758bea59f00d8f364ea3de4ad86fc6",
+          "title": "“反 AI”情绪愈演愈烈，多家头部 AI 公司加强高管安保",
+          "url": "https://www.ithome.com/0/978/344.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T00:18:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T00:18:44Z",
+      "latest_at": "2026-07-18T00:52:50.671814Z",
+      "primary_item": {
+        "id": "3636571f159a9c3f7856f16e0455813d57821ebd",
+        "title": "反AI情绪愈演愈烈，多家头部AI公司加强高管安保",
+        "url": "https://www.ithome.com/0/978/344.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3ec801a48bca",
+      "title": "每个人都对人工智能感到奇怪——除了那些把它强加给我们的人 / Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "url": "https://news.ycombinator.com/item?id=48952445",
+      "primary_url": "https://news.ycombinator.com/item?id=48952445",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e414d3ab9d4910334a8e875a9429c2ff18da00dc",
+          "title": "每个人都对人工智能感到奇怪——除了那些把它强加给我们的人 / Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+          "url": "https://news.ycombinator.com/item?id=48952445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T21:59:13.767000Z"
+        },
+        {
+          "id": "60afa9aac6c479b89f74d752d8ddb197b84ed200",
+          "title": "每个人都对人工智能感到奇怪——除了那些把它强加给我们的人 / Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+          "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T21:24:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e414d3ab9d4910334a8e875a9429c2ff18da00dc",
+          "title": "每个人都对人工智能感到奇怪——除了那些把它强加给我们的人 / Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+          "url": "https://news.ycombinator.com/item?id=48952445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T21:59:13.767000Z"
+        },
+        {
+          "id": "60afa9aac6c479b89f74d752d8ddb197b84ed200",
+          "title": "每个人都对人工智能感到奇怪——除了那些把它强加给我们的人 / Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+          "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T21:24:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8794,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T21:24:07Z",
+      "latest_at": "2026-07-17T21:59:13.767000Z",
+      "primary_item": {
+        "id": "e414d3ab9d4910334a8e875a9429c2ff18da00dc",
+        "title": "每个人都对人工智能感到奇怪——除了那些把它强加给我们的人 / Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+        "url": "https://news.ycombinator.com/item?id=48952445",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
