@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-19T09:24:56.775540Z",
+  "generated_at": "2026-07-19T10:50:55.621943Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-2051-220c-a19d-dc1f24fe5eab&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-2051-220c-a19d-dc1f24fe5eab&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e4da9d5849e6643ca61a8fcd4d63e8234d0b7103",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-2051-220c-a19d-dc1f24fe5eab&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "cafb917e04b26163480643adf505817d26d527b6",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "e4da9d5849e6643ca61a8fcd4d63e8234d0b7103",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-2051-220c-a19d-dc1f24fe5eab&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "cafb917e04b26163480643adf505817d26d527b6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
@@ -309,15 +318,6 @@
           "id": "cfda0d1e6e3921b61d4cecb12b944e06dbe0df21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2057-56e9-86e2-d3a99ac2dcc6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,12 +342,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-18T09:53:24.087891Z",
-      "latest_at": "2026-07-19T09:24:56.775540Z",
+      "earliest_at": "2026-07-18T10:57:32.890077Z",
+      "latest_at": "2026-07-19T10:50:55.621943Z",
       "primary_item": {
-        "id": "cafb917e04b26163480643adf505817d26d527b6",
+        "id": "e4da9d5849e6643ca61a8fcd4d63e8234d0b7103",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-2051-220c-a19d-dc1f24fe5eab&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -387,14 +387,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9484,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,14 +447,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8253,
+        "recency": 0.7656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,14 +507,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7918,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,20 +567,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.6655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T02:49:15Z",
       "latest_at": "2026-07-19T02:49:15Z",
@@ -702,14 +701,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "score": 0.6111,
+      "importance": 0.6111,
+      "importance_score": 0.6111,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9407,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -724,6 +723,317 @@
         "url": "https://news.ycombinator.com/item?id=48962983",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_467092bd0013",
+      "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+      "url": "https://www.ithome.com/0/978/745.htm",
+      "primary_url": "https://www.ithome.com/0/978/745.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0f06fc9100cc51387bab71b37692f2aa8a580540",
+          "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "fb4d32b264bf0b2e8edb06dea5df75634973bda9",
+          "title": "我国发起首届世界人工智能大会 · 学术平台，录用 57 篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T09:52:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0f06fc9100cc51387bab71b37692f2aa8a580540",
+          "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "fb4d32b264bf0b2e8edb06dea5df75634973bda9",
+          "title": "我国发起首届世界人工智能大会 · 学术平台，录用 57 篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T09:52:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T09:52:22Z",
+      "latest_at": "2026-07-19T10:50:55.621943Z",
+      "primary_item": {
+        "id": "0f06fc9100cc51387bab71b37692f2aa8a580540",
+        "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+        "url": "https://www.ithome.com/0/978/745.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_88ee6fb79923",
+      "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
+      "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+      "primary_url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8a4f109a28c530f06223a846d2c3a77a9c6fa444",
+          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
+          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T10:01:15.542000Z"
+        },
+        {
+          "id": "89d35b82358829e2007bec6800345d32459b1689",
+          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。 / I skipped college and now earn over $40 an hour in a blue-collar job. The AI boom is creating more opportunities for me.",
+          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T09:10:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8a4f109a28c530f06223a846d2c3a77a9c6fa444",
+          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
+          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T10:01:15.542000Z"
+        },
+        {
+          "id": "89d35b82358829e2007bec6800345d32459b1689",
+          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。 / I skipped college and now earn over $40 an hour in a blue-collar job. The AI boom is creating more opportunities for me.",
+          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T09:10:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9655,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T09:10:01Z",
+      "latest_at": "2026-07-19T10:01:15.542000Z",
+      "primary_item": {
+        "id": "8a4f109a28c530f06223a846d2c3a77a9c6fa444",
+        "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
+        "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dbd57b2637da",
+      "title": "Claude Code 现在使用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+      "url": "https://news.ycombinator.com/item?id=48966569",
+      "primary_url": "https://news.ycombinator.com/item?id=48966569",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f4463449a9dc88ef5c43b35764acedf19ea87b1e",
+          "title": "Claude Code 现在使用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://news.ycombinator.com/item?id=48966569",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T10:51:25.654000Z"
+        },
+        {
+          "id": "c0cb2775bff1e86fecbcc740172108efab750734",
+          "title": "Claude Code 现在使用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T10:03:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f4463449a9dc88ef5c43b35764acedf19ea87b1e",
+          "title": "Claude Code 现在使用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://news.ycombinator.com/item?id=48966569",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T10:51:25.654000Z"
+        },
+        {
+          "id": "c0cb2775bff1e86fecbcc740172108efab750734",
+          "title": "Claude Code 现在使用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T10:03:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T10:03:23Z",
+      "latest_at": "2026-07-19T10:51:25.654000Z",
+      "primary_item": {
+        "id": "f4463449a9dc88ef5c43b35764acedf19ea87b1e",
+        "title": "Claude Code 现在使用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+        "url": "https://news.ycombinator.com/item?id=48966569",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_74e3e3f8305c",
+      "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T06:49:20.905000Z"
+        },
+        {
+          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:33:12.706000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T06:49:20.905000Z"
+        },
+        {
+          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:33:12.706000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8322,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:33:12.706000Z",
+      "latest_at": "2026-07-19T06:49:20.905000Z",
+      "primary_item": {
+        "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+        "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -780,14 +1090,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9403,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,161 +1112,6 @@
         "url": "https://www.gelonghui.com/p/5633132",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_74e3e3f8305c",
-      "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T06:49:20.905000Z"
-        },
-        {
-          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:33:12.706000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T06:49:20.905000Z"
-        },
-        {
-          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:33:12.706000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8919,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:33:12.706000Z",
-      "latest_at": "2026-07-19T06:49:20.905000Z",
-      "primary_item": {
-        "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-        "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_025193bf4ac8",
-      "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://news.ycombinator.com/item?id=48965886",
-      "primary_url": "https://news.ycombinator.com/item?id=48965886",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://news.ycombinator.com/item?id=48965886",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T09:25:28.487000Z"
-        },
-        {
-          "id": "f890cdfedf519b82e5afe45c5fcff3eac94b0904",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T08:00:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://news.ycombinator.com/item?id=48965886",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T09:25:28.487000Z"
-        },
-        {
-          "id": "f890cdfedf519b82e5afe45c5fcff3eac94b0904",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T08:00:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T08:00:24Z",
-      "latest_at": "2026-07-19T09:25:28.487000Z",
-      "primary_item": {
-        "id": "06d63551e727dc494f1979de287abae694cb5cc3",
-        "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-        "url": "https://news.ycombinator.com/item?id=48965886",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1013,14 +1168,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
+      "score": 0.49,
+      "importance": 0.49,
+      "importance_score": 0.49,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7697,
+        "recency": 0.71,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,6 +1190,84 @@
         "url": "https://codex-resets.com",
         "source": "codex-resets.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_87cd30f5b2eb",
+      "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://news.ycombinator.com/item?id=48965850",
+      "primary_url": "https://news.ycombinator.com/item?id=48965850",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://news.ycombinator.com/item?id=48965850",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T10:51:25.654000Z"
+        },
+        {
+          "id": "7a8eb125771c2d5fedc488e142da8abed7b33ccb",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://github.com/openai/codex/pull/33972/files",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:54:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://news.ycombinator.com/item?id=48965850",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T10:51:25.654000Z"
+        },
+        {
+          "id": "7a8eb125771c2d5fedc488e142da8abed7b33ccb",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://github.com/openai/codex/pull/33972/files",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:54:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T07:54:39Z",
+      "latest_at": "2026-07-19T10:51:25.654000Z",
+      "primary_item": {
+        "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
+        "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "url": "https://news.ycombinator.com/item?id=48965850",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1091,14 +1324,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4887,
-      "importance": 0.4887,
-      "importance_score": 0.4887,
+      "score": 0.4767,
+      "importance": 0.4767,
+      "importance_score": 0.4767,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7033,
+        "recency": 0.6436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,14 +1401,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4862,
-      "importance": 0.4862,
-      "importance_score": 0.4862,
+      "score": 0.4742,
+      "importance": 0.4742,
+      "importance_score": 0.4742,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6908,
+        "recency": 0.6311,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,14 +1478,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
+      "score": 0.49,
+      "importance": 0.49,
+      "importance_score": 0.49,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7697,
+        "recency": 0.71,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1267,6 +1500,84 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_025193bf4ac8",
+      "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://news.ycombinator.com/item?id=48965886",
+      "primary_url": "https://news.ycombinator.com/item?id=48965886",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://news.ycombinator.com/item?id=48965886",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T09:25:28.487000Z"
+        },
+        {
+          "id": "f890cdfedf519b82e5afe45c5fcff3eac94b0904",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T08:00:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://news.ycombinator.com/item?id=48965886",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T09:25:28.487000Z"
+        },
+        {
+          "id": "f890cdfedf519b82e5afe45c5fcff3eac94b0904",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T08:00:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9407,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T08:00:24Z",
+      "latest_at": "2026-07-19T09:25:28.487000Z",
+      "primary_item": {
+        "id": "06d63551e727dc494f1979de287abae694cb5cc3",
+        "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+        "url": "https://news.ycombinator.com/item?id=48965886",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1342,14 +1653,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4581,
-      "importance": 0.4581,
-      "importance_score": 0.4581,
+      "score": 0.4461,
+      "importance": 0.4461,
+      "importance_score": 0.4461,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4253,
+        "recency": 0.3656,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1364,240 +1675,6 @@
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c3bcd186db5a",
-      "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-      "url": "https://www.ithome.com/0/978/607.htm",
-      "primary_url": "https://www.ithome.com/0/978/607.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6481,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T23:12:58Z",
-      "latest_at": "2026-07-19T00:58:15.848309Z",
-      "primary_item": {
-        "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-        "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-        "url": "https://www.ithome.com/0/978/607.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_31435a601668",
-      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T20:41:23.690000Z"
-        },
-        {
-          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T20:31:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T20:41:23.690000Z"
-        },
-        {
-          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T20:31:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.442,
-      "importance": 0.442,
-      "importance_score": 0.442,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4698,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T20:31:37Z",
-      "latest_at": "2026-07-18T20:41:23.690000Z",
-      "primary_item": {
-        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
-        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc67acbfa669",
-      "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-      "url": "https://news.ycombinator.com/item?id=48964585",
-      "primary_url": "https://news.ycombinator.com/item?id=48964585",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://news.ycombinator.com/item?id=48964585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://calculus.academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T02:55:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://news.ycombinator.com/item?id=48964585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://calculus.academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T02:55:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7695,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:55:43Z",
-      "latest_at": "2026-07-19T03:53:01.304000Z",
-      "primary_item": {
-        "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
-        "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-        "url": "https://news.ycombinator.com/item?id=48964585",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1673,14 +1750,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4203,
-      "importance": 0.4203,
-      "importance_score": 0.4203,
+      "score": 0.4083,
+      "importance": 0.4083,
+      "importance_score": 0.4083,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2364,
+        "recency": 0.1767,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1698,30 +1775,30 @@
       }
     },
     {
-      "story_id": "story_51d49c809e60",
-      "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-      "url": "https://www.ithome.com/0/978/613.htm",
-      "primary_url": "https://www.ithome.com/0/978/613.htm",
+      "story_id": "story_c3bcd186db5a",
+      "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+      "url": "https://www.ithome.com/0/978/607.htm",
+      "primary_url": "https://www.ithome.com/0/978/607.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
+          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
-          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "e3313a10b89c440e574530a6c756515914574019",
+          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:42:36Z"
+          "published_at": "2026-07-18T23:12:58Z"
         }
       ],
       "source_count": 2,
@@ -1731,126 +1808,48 @@
       ],
       "items": [
         {
-          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
+          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
-          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "e3313a10b89c440e574530a6c756515914574019",
+          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:42:36Z"
+          "published_at": "2026-07-18T23:12:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
+      "score": 0.4657,
+      "importance": 0.4657,
+      "importance_score": 0.4657,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6481,
+        "recency": 0.5884,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T23:42:36Z",
+      "earliest_at": "2026-07-18T23:12:58Z",
       "latest_at": "2026-07-19T00:58:15.848309Z",
       "primary_item": {
-        "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-        "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-        "url": "https://www.ithome.com/0/978/613.htm",
+        "id": "67f0dac503720c3ea4253db50d889597e79621d5",
+        "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+        "url": "https://www.ithome.com/0/978/607.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6cc9999f1d8a",
-      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://news.ycombinator.com/item?id=48964185",
-      "primary_url": "https://news.ycombinator.com/item?id=48964185",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:10:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:10:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7695,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:10:54Z",
-      "latest_at": "2026-07-19T03:53:01.304000Z",
-      "primary_item": {
-        "id": "50309255056c40114111478e6000e7427e2e1f2f",
-        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://news.ycombinator.com/item?id=48964185",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
