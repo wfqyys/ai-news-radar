@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-19T07:03:37.101902Z",
+  "generated_at": "2026-07-19T09:24:56.775540Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1704-0820-8675-c8cdc3f63b3e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-1704-0820-8675-c8cdc3f63b3e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cafb917e04b26163480643adf505817d26d527b6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "523af0a5d8dda00fea74ed3a1b08b8dfed14ea94",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d06cebcc98e2bdf43ae860b979cc70d35a61113e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1803-27fc-b3e0-2e9d8cfbaf58&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "cafb917e04b26163480643adf505817d26d527b6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "523af0a5d8dda00fea74ed3a1b08b8dfed14ea94",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1704-0820-8675-c8cdc3f63b3e&fp=-3",
@@ -309,15 +318,6 @@
           "id": "d2cc7c9b273385a86db23498fc1325e47332eed5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1953-491a-b697-64eb76146b85&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d06cebcc98e2bdf43ae860b979cc70d35a61113e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1803-27fc-b3e0-2e9d8cfbaf58&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,14 +342,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-18T08:02:58.830276Z",
-      "latest_at": "2026-07-19T07:03:37.101902Z",
+      "earliest_at": "2026-07-18T09:53:24.087891Z",
+      "latest_at": "2026-07-19T09:24:56.775540Z",
       "primary_item": {
-        "id": "523af0a5d8dda00fea74ed3a1b08b8dfed14ea94",
+        "id": "cafb917e04b26163480643adf505817d26d527b6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1704-0820-8675-c8cdc3f63b3e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1925-2356-9c98-992b8cef817f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_080cb76ee94f",
+      "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+      "url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
+      "primary_url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ce986d560de67c41d4b0e3e2f774f1b7a1da5e4",
+          "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+          "url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T08:10:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "6ce986d560de67c41d4b0e3e2f774f1b7a1da5e4",
+          "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+          "url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T08:10:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9484,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T08:10:39Z",
+      "latest_at": "2026-07-19T08:10:39Z",
+      "primary_item": {
+        "id": "6ce986d560de67c41d4b0e3e2f774f1b7a1da5e4",
+        "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+        "url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -387,14 +447,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9235,
+        "recency": 0.8253,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,14 +507,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.89,
+        "recency": 0.7918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,14 +567,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8234,
+        "recency": 0.7252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -530,6 +590,218 @@
         "url": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d307adecd0d",
+      "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://news.ycombinator.com/item?id=48962983",
+      "primary_url": "https://news.ycombinator.com/item?id=48962983",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "74119b61675202f81605c75f19e49287ea04cb51",
+          "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T09:25:28.487000Z"
+        },
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T23:24:28.728000Z"
+        },
+        {
+          "id": "b7c4dbc5dc9c07270461dab53f23d1fd394da6b1",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T22:13:39Z"
+        },
+        {
+          "id": "32e65e68ee238c2a392d6a103c6d896d9b3ec0a9",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "petapixel.com"
+      ],
+      "items": [
+        {
+          "id": "74119b61675202f81605c75f19e49287ea04cb51",
+          "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T09:25:28.487000Z"
+        },
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T23:24:28.728000Z"
+        },
+        {
+          "id": "b7c4dbc5dc9c07270461dab53f23d1fd394da6b1",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T22:13:39Z"
+        },
+        {
+          "id": "32e65e68ee238c2a392d6a103c6d896d9b3ec0a9",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:13:39Z",
+      "latest_at": "2026-07-19T09:25:28.487000Z",
+      "primary_item": {
+        "id": "74119b61675202f81605c75f19e49287ea04cb51",
+        "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+        "url": "https://news.ycombinator.com/item?id=48962983",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_fe602fc4cf57",
+      "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+      "url": "https://www.gelonghui.com/p/5633132",
+      "primary_url": "https://www.gelonghui.com/p/5633132",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+          "url": "https://www.gelonghui.com/p/5633132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
+          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:09:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+          "url": "https://www.gelonghui.com/p/5633132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
+          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:09:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T07:09:08Z",
+      "latest_at": "2026-07-19T09:24:56.775540Z",
+      "primary_item": {
+        "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+        "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+        "url": "https://www.gelonghui.com/p/5633132",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -585,14 +857,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9901,
+        "recency": 0.8919,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -607,6 +879,84 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_025193bf4ac8",
+      "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://news.ycombinator.com/item?id=48965886",
+      "primary_url": "https://news.ycombinator.com/item?id=48965886",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://news.ycombinator.com/item?id=48965886",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T09:25:28.487000Z"
+        },
+        {
+          "id": "f890cdfedf519b82e5afe45c5fcff3eac94b0904",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T08:00:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://news.ycombinator.com/item?id=48965886",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T09:25:28.487000Z"
+        },
+        {
+          "id": "f890cdfedf519b82e5afe45c5fcff3eac94b0904",
+          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T08:00:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T08:00:24Z",
+      "latest_at": "2026-07-19T09:25:28.487000Z",
+      "primary_item": {
+        "id": "06d63551e727dc494f1979de287abae694cb5cc3",
+        "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
+        "url": "https://news.ycombinator.com/item?id=48965886",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -663,14 +1013,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8678,
+        "recency": 0.7697,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -684,181 +1034,6 @@
         "title": "《法典》重置",
         "url": "https://codex-resets.com",
         "source": "codex-resets.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc67acbfa669",
-      "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-      "url": "https://news.ycombinator.com/item?id=48964585",
-      "primary_url": "https://news.ycombinator.com/item?id=48964585",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://news.ycombinator.com/item?id=48964585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://calculus.academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T02:55:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://news.ycombinator.com/item?id=48964585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
-          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-          "url": "https://calculus.academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T02:55:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8676,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:55:43Z",
-      "latest_at": "2026-07-19T03:53:01.304000Z",
-      "primary_item": {
-        "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
-        "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
-        "url": "https://news.ycombinator.com/item?id=48964585",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_6d307adecd0d",
-      "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-      "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-      "source": "petapixel.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "petapixel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T00:25:26.091000Z"
-        },
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T23:24:28.728000Z"
-        },
-        {
-          "id": "b7c4dbc5dc9c07270461dab53f23d1fd394da6b1",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "petapixel.com"
-      ],
-      "items": [
-        {
-          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "petapixel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T00:25:26.091000Z"
-        },
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T23:24:28.728000Z"
-        },
-        {
-          "id": "b7c4dbc5dc9c07270461dab53f23d1fd394da6b1",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7235,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:13:39Z",
-      "latest_at": "2026-07-19T00:25:26.091000Z",
-      "primary_item": {
-        "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
-        "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-        "source": "petapixel.com",
         "source_name": "Buzzing"
       }
     },
@@ -916,14 +1091,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.4887,
+      "importance": 0.4887,
+      "importance_score": 0.4887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8014,
+        "recency": 0.7033,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -993,14 +1168,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.4862,
+      "importance": 0.4862,
+      "importance_score": 0.4862,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.789,
+        "recency": 0.6908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1015,84 +1190,6 @@
         "url": "https://www.v2ex.com/t/1228308",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_c3bcd186db5a",
-      "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-      "url": "https://www.ithome.com/0/978/607.htm",
-      "primary_url": "https://www.ithome.com/0/978/607.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7463,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T23:12:58Z",
-      "latest_at": "2026-07-19T00:58:15.848309Z",
-      "primary_item": {
-        "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-        "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-        "url": "https://www.ithome.com/0/978/607.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1148,14 +1245,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8678,
+        "recency": 0.7697,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1170,84 +1267,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6cc9999f1d8a",
-      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://news.ycombinator.com/item?id=48964185",
-      "primary_url": "https://news.ycombinator.com/item?id=48964185",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:10:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T03:53:01.304000Z"
-        },
-        {
-          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:10:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8676,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:10:54Z",
-      "latest_at": "2026-07-19T03:53:01.304000Z",
-      "primary_item": {
-        "id": "50309255056c40114111478e6000e7427e2e1f2f",
-        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://news.ycombinator.com/item?id=48964185",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1323,14 +1342,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4777,
-      "importance": 0.4777,
-      "importance_score": 0.4777,
+      "score": 0.4581,
+      "importance": 0.4581,
+      "importance_score": 0.4581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5235,
+        "recency": 0.4253,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1348,30 +1367,30 @@
       }
     },
     {
-      "story_id": "story_51d49c809e60",
-      "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-      "url": "https://www.ithome.com/0/978/613.htm",
-      "primary_url": "https://www.ithome.com/0/978/613.htm",
+      "story_id": "story_c3bcd186db5a",
+      "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+      "url": "https://www.ithome.com/0/978/607.htm",
+      "primary_url": "https://www.ithome.com/0/978/607.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
+          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
-          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "e3313a10b89c440e574530a6c756515914574019",
+          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:42:36Z"
+          "published_at": "2026-07-18T23:12:58Z"
         }
       ],
       "source_count": 2,
@@ -1381,46 +1400,46 @@
       ],
       "items": [
         {
-          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
+          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
-          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "e3313a10b89c440e574530a6c756515914574019",
+          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
+          "url": "https://www.ithome.com/0/978/607.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:42:36Z"
+          "published_at": "2026-07-18T23:12:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.4776,
+      "importance": 0.4776,
+      "importance_score": 0.4776,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7463,
+        "recency": 0.6481,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T23:42:36Z",
+      "earliest_at": "2026-07-18T23:12:58Z",
       "latest_at": "2026-07-19T00:58:15.848309Z",
       "primary_item": {
-        "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-        "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-        "url": "https://www.ithome.com/0/978/613.htm",
+        "id": "67f0dac503720c3ea4253db50d889597e79621d5",
+        "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
+        "url": "https://www.ithome.com/0/978/607.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1479,14 +1498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4616,
-      "importance": 0.4616,
-      "importance_score": 0.4616,
+      "score": 0.442,
+      "importance": 0.442,
+      "importance_score": 0.442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5679,
+        "recency": 0.4698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,6 +1520,84 @@
         "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bc67acbfa669",
+      "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+      "url": "https://news.ycombinator.com/item?id=48964585",
+      "primary_url": "https://news.ycombinator.com/item?id=48964585",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://news.ycombinator.com/item?id=48964585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:53:01.304000Z"
+        },
+        {
+          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://calculus.academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T02:55:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://news.ycombinator.com/item?id=48964585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:53:01.304000Z"
+        },
+        {
+          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://calculus.academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T02:55:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7695,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:55:43Z",
+      "latest_at": "2026-07-19T03:53:01.304000Z",
+      "primary_item": {
+        "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+        "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+        "url": "https://news.ycombinator.com/item?id=48964585",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1576,14 +1673,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4399,
-      "importance": 0.4399,
-      "importance_score": 0.4399,
+      "score": 0.4203,
+      "importance": 0.4203,
+      "importance_score": 0.4203,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3346,
+        "recency": 0.2364,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1601,30 +1698,30 @@
       }
     },
     {
-      "story_id": "story_c7c25f5dcb54",
-      "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
-      "url": "https://www.ithome.com/0/978/611.htm",
-      "primary_url": "https://www.ithome.com/0/978/611.htm",
+      "story_id": "story_51d49c809e60",
+      "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+      "url": "https://www.ithome.com/0/978/613.htm",
+      "primary_url": "https://www.ithome.com/0/978/613.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "6d836b5678c8e824695b6b1bfe46628e2992f733",
-          "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
-          "url": "https://www.ithome.com/0/978/611.htm",
+          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
+          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "16c873fb0544345b81f30c8ca1cddd6b0ebf8f3a",
-          "title": "飞机遇到颠簸时安全带指示灯总是“亮得太晚”？AI 正改变这一切",
-          "url": "https://www.ithome.com/0/978/611.htm",
+          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
+          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:29:28Z"
+          "published_at": "2026-07-18T23:42:36Z"
         }
       ],
       "source_count": 2,
@@ -1634,223 +1731,126 @@
       ],
       "items": [
         {
-          "id": "6d836b5678c8e824695b6b1bfe46628e2992f733",
-          "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
-          "url": "https://www.ithome.com/0/978/611.htm",
+          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
+          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "16c873fb0544345b81f30c8ca1cddd6b0ebf8f3a",
-          "title": "飞机遇到颠簸时安全带指示灯总是“亮得太晚”？AI 正改变这一切",
-          "url": "https://www.ithome.com/0/978/611.htm",
+          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
+          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:29:28Z"
+          "published_at": "2026-07-18T23:42:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.4776,
+      "importance": 0.4776,
+      "importance_score": 0.4776,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7463,
+        "recency": 0.6481,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T23:29:28Z",
+      "earliest_at": "2026-07-18T23:42:36Z",
       "latest_at": "2026-07-19T00:58:15.848309Z",
       "primary_item": {
-        "id": "6d836b5678c8e824695b6b1bfe46628e2992f733",
-        "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
-        "url": "https://www.ithome.com/0/978/611.htm",
+        "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
+        "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+        "url": "https://www.ithome.com/0/978/613.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_cdc22d7d874c",
-      "title": "“审查人工智能代码”并非一个站得住脚的论点",
-      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-      "source": "softwaremaxims.com",
-      "source_name": "Buzzing",
+      "story_id": "story_6cc9999f1d8a",
+      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://news.ycombinator.com/item?id=48964185",
+      "primary_url": "https://news.ycombinator.com/item?id=48964185",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "softwaremaxims.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T16:41:31.812000Z"
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:53:01.304000Z"
         },
         {
-          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:25:19Z"
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "softwaremaxims.com"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "softwaremaxims.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T16:41:31.812000Z"
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:53:01.304000Z"
         },
         {
-          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:25:19Z"
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4283,
-      "importance": 0.4283,
-      "importance_score": 0.4283,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4013,
+        "recency": 0.7695,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T16:25:19Z",
-      "latest_at": "2026-07-18T16:41:31.812000Z",
+      "earliest_at": "2026-07-18T22:10:54Z",
+      "latest_at": "2026-07-19T03:53:01.304000Z",
       "primary_item": {
-        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-        "title": "“审查人工智能代码”并非一个站得住脚的论点",
-        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-        "source": "softwaremaxims.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b9b544c1b5eb",
-      "title": "图表展示：AI对Stack Overflow的影响",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "source": "data.stackexchange.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:02:13.745000Z"
-        },
-        {
-          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "data.stackexchange.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:02:13.745000Z"
-        },
-        {
-          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4266,
-      "importance": 0.4266,
-      "importance_score": 0.4266,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2678,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T13:29:15.879000Z",
-      "primary_item": {
-        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-        "title": "图表展示：AI对Stack Overflow的影响",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-        "source": "data.stackexchange.com",
-        "source_name": "Buzzing"
+        "id": "50309255056c40114111478e6000e7427e2e1f2f",
+        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://news.ycombinator.com/item?id=48964185",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
