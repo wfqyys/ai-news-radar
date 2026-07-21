@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-21T05:34:10.999564Z",
+  "generated_at": "2026-07-21T08:15:20.159276Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1534-375e-83e8-e6e2eb1e79be&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-1534-375e-83e8-e6e2eb1e79be&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "72733ebae2c961f3463c5ae7f89d03b8f72d64ff",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "00fdb2820e204c4918a2192fe193fd751cc1b0a8",
           "title": "点击这里进入 / Click here to enter",
@@ -120,12 +129,21 @@
           "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "72733ebae2c961f3463c5ae7f89d03b8f72d64ff",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "00fdb2820e204c4918a2192fe193fd751cc1b0a8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1534-375e-83e8-e6e2eb1e79be&fp=-3",
@@ -234,8 +252,8 @@
           "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -253,13 +271,413 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-20T08:22:13.075098Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "00fdb2820e204c4918a2192fe193fd751cc1b0a8",
+        "id": "72733ebae2c961f3463c5ae7f89d03b8f72d64ff",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1534-375e-83e8-e6e2eb1e79be&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_9845e7cd14ea",
+      "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+      "url": "https://www.aibase.com/news/29756",
+      "primary_url": "https://www.aibase.com/news/29756",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5375f665c2d768abb77f4cf770527082f840e5a",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/news/29756",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T08:15:20.159276Z"
+        },
+        {
+          "id": "13440fcad2e43e829a0c40ff9979e36b420ac7ce",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/zh/news/29756",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a5375f665c2d768abb77f4cf770527082f840e5a",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/news/29756",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T08:15:20.159276Z"
+        },
+        {
+          "id": "13440fcad2e43e829a0c40ff9979e36b420ac7ce",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/zh/news/29756",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
+      "primary_item": {
+        "id": "a5375f665c2d768abb77f4cf770527082f840e5a",
+        "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+        "url": "https://www.aibase.com/news/29756",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_acccba44298c",
+      "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+      "url": "https://www.aibase.com/news/29753",
+      "primary_url": "https://www.aibase.com/news/29753",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/news/29753",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T08:15:20.159276Z"
+        },
+        {
+          "id": "aca907820c54710161a06255d301084df2f1cda3",
+          "title": "阿里发布 Qwen-Image-3.0，支持 4.5K Token 超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/zh/news/29753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/news/29753",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T08:15:20.159276Z"
+        },
+        {
+          "id": "aca907820c54710161a06255d301084df2f1cda3",
+          "title": "阿里发布 Qwen-Image-3.0，支持 4.5K Token 超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/zh/news/29753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
+      "primary_item": {
+        "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+        "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+        "url": "https://www.aibase.com/news/29753",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b8a06beceb6",
+      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+      "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+      "primary_url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90b2021022e8eb24e7c9b4838b59d675f6efbe89",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "90b2021022e8eb24e7c9b4838b59d675f6efbe89",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T06:00:00Z",
+      "latest_at": "2026-07-21T06:00:00Z",
+      "primary_item": {
+        "id": "90b2021022e8eb24e7c9b4838b59d675f6efbe89",
+        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+        "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f13e575380b6",
+      "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+      "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+      "primary_url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
+          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+          "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T05:54:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
+          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+          "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T05:54:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9019,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T05:54:05Z",
+      "latest_at": "2026-07-21T05:54:05Z",
+      "primary_item": {
+        "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
+        "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+        "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ea83daa3c624",
+      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+      "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
+      "primary_url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
+          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T03:33:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
+          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T03:33:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.804,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T03:33:08Z",
+      "latest_at": "2026-07-21T03:33:08Z",
+      "primary_item": {
+        "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
+        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+        "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d5547275be79",
+      "title": "Anthropic 与作家群体15亿美元版权和解获批",
+      "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
+      "primary_url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3b420a95588550b6fe2a0fad76ab4efeb42720a7",
+          "title": "Anthropic 与作家群体15亿美元版权和解获批",
+          "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:57:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3b420a95588550b6fe2a0fad76ab4efeb42720a7",
+          "title": "Anthropic 与作家群体15亿美元版权和解获批",
+          "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:57:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7379,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T01:57:54Z",
+      "latest_at": "2026-07-21T01:57:54Z",
+      "primary_item": {
+        "id": "3b420a95588550b6fe2a0fad76ab4efeb42720a7",
+        "title": "Anthropic 与作家群体15亿美元版权和解获批",
+        "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -316,14 +734,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8881,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -340,186 +758,6 @@
         "url": "https://www.aibase.com/news/29739",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea83daa3c624",
-      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-      "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "primary_url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9159,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T03:33:08Z",
-      "latest_at": "2026-07-21T03:33:08Z",
-      "primary_item": {
-        "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-        "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_124511929247",
-      "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-      "url": "https://www.aibase.com/news/29746",
-      "primary_url": "https://www.aibase.com/news/29746",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-          "url": "https://www.aibase.com/news/29746",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-          "url": "https://www.aibase.com/news/29746",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
-      "primary_item": {
-        "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-        "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-        "url": "https://www.aibase.com/news/29746",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d5547275be79",
-      "title": "Anthropic 与作家群体15亿美元版权和解获批",
-      "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
-      "primary_url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3b420a95588550b6fe2a0fad76ab4efeb42720a7",
-          "title": "Anthropic 与作家群体15亿美元版权和解获批",
-          "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T01:57:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3b420a95588550b6fe2a0fad76ab4efeb42720a7",
-          "title": "Anthropic 与作家群体15亿美元版权和解获批",
-          "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T01:57:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8498,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T01:57:54Z",
-      "latest_at": "2026-07-21T01:57:54Z",
-      "primary_item": {
-        "id": "3b420a95588550b6fe2a0fad76ab4efeb42720a7",
-        "title": "Anthropic 与作家群体15亿美元版权和解获批",
-        "url": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -557,14 +795,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8171,
+        "recency": 0.7052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,66 +817,6 @@
         "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
         "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_caa6a338eefe",
-      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-      "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
-      "primary_url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
-          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-          "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T00:35:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
-          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-          "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T00:35:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7925,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T00:35:26Z",
-      "latest_at": "2026-07-21T00:35:26Z",
-      "primary_item": {
-        "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
-        "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-        "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -677,21 +855,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5348,
+        "recency": 0.4228,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T18:24:14Z",
       "latest_at": "2026-07-20T18:24:14Z",
@@ -704,21 +881,21 @@
       }
     },
     {
-      "story_id": "story_4ca1da280c69",
-      "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-      "url": "https://www.aibase.com/news/29743",
-      "primary_url": "https://www.aibase.com/news/29743",
+      "story_id": "story_c1d8b6c925be",
+      "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+      "url": "https://www.aibase.com/news/29750",
+      "primary_url": "https://www.aibase.com/news/29750",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-          "url": "https://www.aibase.com/news/29743",
+          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+          "url": "https://www.aibase.com/news/29750",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "source_count": 1,
@@ -727,13 +904,13 @@
       ],
       "items": [
         {
-          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-          "url": "https://www.aibase.com/news/29743",
+          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+          "url": "https://www.aibase.com/news/29750",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "item_count": 1,
@@ -753,14 +930,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-        "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-        "url": "https://www.aibase.com/news/29743",
+        "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+        "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+        "url": "https://www.aibase.com/news/29750",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_caa6a338eefe",
+      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+      "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+      "primary_url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6806,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-21T00:35:26Z",
+      "latest_at": "2026-07-21T00:35:26Z",
+      "primary_item": {
+        "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
+        "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+        "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -798,21 +1034,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4348,
+        "recency": 0.3228,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T16:00:14Z",
       "latest_at": "2026-07-20T16:00:14Z",
@@ -825,21 +1060,21 @@
       }
     },
     {
-      "story_id": "story_2f8618569029",
-      "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-      "url": "https://www.aibase.com/news/29737",
-      "primary_url": "https://www.aibase.com/news/29737",
+      "story_id": "story_db4933908fbc",
+      "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+      "url": "https://www.aibase.com/news/29755",
+      "primary_url": "https://www.aibase.com/news/29755",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
-          "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-          "url": "https://www.aibase.com/news/29737",
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "url": "https://www.aibase.com/news/29755",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "source_count": 1,
@@ -848,13 +1083,13 @@
       ],
       "items": [
         {
-          "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
-          "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-          "url": "https://www.aibase.com/news/29737",
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "url": "https://www.aibase.com/news/29755",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "item_count": 1,
@@ -874,32 +1109,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
-        "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-        "url": "https://www.aibase.com/news/29737",
+        "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+        "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+        "url": "https://www.aibase.com/news/29755",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fa132966645b",
-      "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-      "url": "https://www.aibase.com/news/29745",
-      "primary_url": "https://www.aibase.com/news/29745",
+      "story_id": "story_3b41417a4f6b",
+      "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+      "url": "https://www.aibase.com/news/29759",
+      "primary_url": "https://www.aibase.com/news/29759",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-          "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-          "url": "https://www.aibase.com/news/29745",
+          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+          "url": "https://www.aibase.com/news/29759",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "source_count": 1,
@@ -908,13 +1143,13 @@
       ],
       "items": [
         {
-          "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-          "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-          "url": "https://www.aibase.com/news/29745",
+          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+          "url": "https://www.aibase.com/news/29759",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "item_count": 1,
@@ -934,92 +1169,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-        "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-        "url": "https://www.aibase.com/news/29745",
+        "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+        "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+        "url": "https://www.aibase.com/news/29759",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c3556096c82e",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3106,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
-      "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5e0ff2ac52f1",
-      "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-      "url": "https://www.aibase.com/news/29735",
-      "primary_url": "https://www.aibase.com/news/29735",
+      "story_id": "story_f21e1902b7f0",
+      "title": "​YouTube 收紧政策，严打低质 AI 内容",
+      "url": "https://www.aibase.com/news/29757",
+      "primary_url": "https://www.aibase.com/news/29757",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "205264bcdd946b2b89023bc4dc84bd5bc42de0f6",
-          "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-          "url": "https://www.aibase.com/news/29735",
+          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+          "title": "​YouTube 收紧政策，严打低质 AI 内容",
+          "url": "https://www.aibase.com/news/29757",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "source_count": 1,
@@ -1028,13 +1203,13 @@
       ],
       "items": [
         {
-          "id": "205264bcdd946b2b89023bc4dc84bd5bc42de0f6",
-          "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-          "url": "https://www.aibase.com/news/29735",
+          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+          "title": "​YouTube 收紧政策，严打低质 AI 内容",
+          "url": "https://www.aibase.com/news/29757",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "item_count": 1,
@@ -1054,32 +1229,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "205264bcdd946b2b89023bc4dc84bd5bc42de0f6",
-        "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-        "url": "https://www.aibase.com/news/29735",
+        "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+        "title": "​YouTube 收紧政策，严打低质 AI 内容",
+        "url": "https://www.aibase.com/news/29757",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6ab6798e51f1",
-      "title": "拍照即修图！Adobe推出全新AI相机工具，一键开启智能修图新时代",
-      "url": "https://www.aibase.com/news/29740",
-      "primary_url": "https://www.aibase.com/news/29740",
+      "story_id": "story_8539691cf9a1",
+      "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+      "url": "https://www.aibase.com/news/29752",
+      "primary_url": "https://www.aibase.com/news/29752",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dd8052ae7818e6ab8ed631755552c0b0b1bd47e7",
-          "title": "拍照即修图！Adobe推出全新AI相机工具，一键开启智能修图新时代",
-          "url": "https://www.aibase.com/news/29740",
+          "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
+          "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+          "url": "https://www.aibase.com/news/29752",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "source_count": 1,
@@ -1088,13 +1263,13 @@
       ],
       "items": [
         {
-          "id": "dd8052ae7818e6ab8ed631755552c0b0b1bd47e7",
-          "title": "拍照即修图！Adobe推出全新AI相机工具，一键开启智能修图新时代",
-          "url": "https://www.aibase.com/news/29740",
+          "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
+          "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+          "url": "https://www.aibase.com/news/29752",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "item_count": 1,
@@ -1114,308 +1289,129 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "dd8052ae7818e6ab8ed631755552c0b0b1bd47e7",
-        "title": "拍照即修图！Adobe推出全新AI相机工具，一键开启智能修图新时代",
-        "url": "https://www.aibase.com/news/29740",
+        "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
+        "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+        "url": "https://www.aibase.com/news/29752",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_319f430f7004",
-      "title": "智谱AI落地1GW国产AI算力中心，并收购中科加禾强化AI Infra能力",
-      "url": "https://www.aibase.com/news/29736",
-      "primary_url": "https://www.aibase.com/news/29736",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02c216d21fcc067407587c39a2721e3bf61f95c2",
-          "title": "智谱AI落地1GW国产AI算力中心，并收购中科加禾强化AI Infra能力",
-          "url": "https://www.aibase.com/news/29736",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "02c216d21fcc067407587c39a2721e3bf61f95c2",
-          "title": "智谱AI落地1GW国产AI算力中心，并收购中科加禾强化AI Infra能力",
-          "url": "https://www.aibase.com/news/29736",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
-      "primary_item": {
-        "id": "02c216d21fcc067407587c39a2721e3bf61f95c2",
-        "title": "智谱AI落地1GW国产AI算力中心，并收购中科加禾强化AI Infra能力",
-        "url": "https://www.aibase.com/news/29736",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d171fa0ebcad",
-      "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
-      "url": "https://www.aibase.com/news/29742",
-      "primary_url": "https://www.aibase.com/news/29742",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4712d1eef3f7ae43fc990915eee0384e5b6fec14",
-          "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
-          "url": "https://www.aibase.com/news/29742",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4712d1eef3f7ae43fc990915eee0384e5b6fec14",
-          "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
-          "url": "https://www.aibase.com/news/29742",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
-      "primary_item": {
-        "id": "4712d1eef3f7ae43fc990915eee0384e5b6fec14",
-        "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
-        "url": "https://www.aibase.com/news/29742",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9a7bbd32aac8",
-      "title": "《自然》调查：AI 热潮中，科学家也 FOMO",
-      "url": "https://www.huxiu.com/article/4876989.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876989.html?f=rss",
+      "story_id": "story_76adcf10307c",
+      "title": "腾讯云：将大规模部署国产化算力和 NPO 超级节点",
+      "url": "https://www.jiemian.com/article/14803949.html",
+      "primary_url": "https://www.jiemian.com/article/14803949.html",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "712f53d8c065ac14c749b36b2f80996d64f9cbb5",
-          "title": "《自然》调查：AI 热潮中，科学家也 FOMO",
-          "url": "https://www.huxiu.com/article/4876989.html?f=rss",
+          "id": "a936266c76a655db07a169b7e4b8fa63b206761f",
+          "title": "腾讯云：将大规模部署国产化算力和 NPO 超级节点",
+          "url": "https://www.jiemian.com/article/14803949.html",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4407129d2324cc463ac71715e3386e9f7b490fdf",
-          "title": "《自然》调查：AI热潮中，科学家也FOMO",
-          "url": "https://www.huxiu.com/article/4876989.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "199c6da53633b379b77f796a92598edaab48dcc3",
+          "title": "腾讯云：将大规模部署国产化算力，布局 NPO 超级节点",
+          "url": "https://www.ithome.com/0/979/624.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-21T04:51:20Z"
+          "published_at": "2026-07-21T08:01:38Z"
+        },
+        {
+          "id": "de56aa17e76d67b256bf7324266251e7db6ff3ef",
+          "title": "腾讯云：将大规模部署国产化算力和NPO超级节点",
+          "url": "https://36kr.com/newsflashes/3905101534168711?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T07:54:42Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "36氪 (36Kr)",
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "712f53d8c065ac14c749b36b2f80996d64f9cbb5",
-          "title": "《自然》调查：AI 热潮中，科学家也 FOMO",
-          "url": "https://www.huxiu.com/article/4876989.html?f=rss",
+          "id": "a936266c76a655db07a169b7e4b8fa63b206761f",
+          "title": "腾讯云：将大规模部署国产化算力和 NPO 超级节点",
+          "url": "https://www.jiemian.com/article/14803949.html",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4407129d2324cc463ac71715e3386e9f7b490fdf",
-          "title": "《自然》调查：AI热潮中，科学家也FOMO",
-          "url": "https://www.huxiu.com/article/4876989.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "199c6da53633b379b77f796a92598edaab48dcc3",
+          "title": "腾讯云：将大规模部署国产化算力，布局 NPO 超级节点",
+          "url": "https://www.ithome.com/0/979/624.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-21T04:51:20Z"
+          "published_at": "2026-07-21T08:01:38Z"
+        },
+        {
+          "id": "de56aa17e76d67b256bf7324266251e7db6ff3ef",
+          "title": "腾讯云：将大规模部署国产化算力和NPO超级节点",
+          "url": "https://36kr.com/newsflashes/3905101534168711?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T07:54:42Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-21T04:51:20Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T07:54:42Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "712f53d8c065ac14c749b36b2f80996d64f9cbb5",
-        "title": "《自然》调查：AI 热潮中，科学家也 FOMO",
-        "url": "https://www.huxiu.com/article/4876989.html?f=rss",
+        "id": "a936266c76a655db07a169b7e4b8fa63b206761f",
+        "title": "腾讯云：将大规模部署国产化算力和 NPO 超级节点",
+        "url": "https://www.jiemian.com/article/14803949.html",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_1db9c8ac2637",
-      "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://news.ycombinator.com/item?id=48987863",
-      "primary_url": "https://news.ycombinator.com/item?id=48987863",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
-          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://news.ycombinator.com/item?id=48987863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T05:24:10.232000Z"
-        },
-        {
-          "id": "1ecdc927bb296c35650d94155a5fc91070885333",
-          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T03:56:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
-          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://news.ycombinator.com/item?id=48987863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T05:24:10.232000Z"
-        },
-        {
-          "id": "1ecdc927bb296c35650d94155a5fc91070885333",
-          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T03:56:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5466,
-      "importance": 0.5466,
-      "importance_score": 0.5466,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.993,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T03:56:03Z",
-      "latest_at": "2026-07-21T05:24:10.232000Z",
-      "primary_item": {
-        "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
-        "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "url": "https://news.ycombinator.com/item?id=48987863",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3cec5bf88604",
-      "title": "算力飙升 10 倍！谷歌秘密研发Frozen芯片，Gemini大模型硬核升级",
-      "url": "https://www.aibase.com/news/29741",
-      "primary_url": "https://www.aibase.com/news/29741",
+      "story_id": "story_28b09c72d54f",
+      "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+      "url": "https://www.aibase.com/news/29751",
+      "primary_url": "https://www.aibase.com/news/29751",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48abec2ce65fe43705a17a5d86a0730e9bf9a8f4",
-          "title": "算力飙升 10 倍！谷歌秘密研发Frozen芯片，Gemini大模型硬核升级",
-          "url": "https://www.aibase.com/news/29741",
+          "id": "a98f62849d129eed98b242a739433499223673c1",
+          "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+          "url": "https://www.aibase.com/news/29751",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "source_count": 1,
@@ -1424,13 +1420,13 @@
       ],
       "items": [
         {
-          "id": "48abec2ce65fe43705a17a5d86a0730e9bf9a8f4",
-          "title": "算力飙升 10 倍！谷歌秘密研发Frozen芯片，Gemini大模型硬核升级",
-          "url": "https://www.aibase.com/news/29741",
+          "id": "a98f62849d129eed98b242a739433499223673c1",
+          "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+          "url": "https://www.aibase.com/news/29751",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T05:34:10.999564Z"
+          "published_at": "2026-07-21T08:15:20.159276Z"
         }
       ],
       "item_count": 1,
@@ -1450,14 +1446,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-21T05:34:10.999564Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-21T08:15:20.159276Z",
       "primary_item": {
-        "id": "48abec2ce65fe43705a17a5d86a0730e9bf9a8f4",
-        "title": "算力飙升 10 倍！谷歌秘密研发Frozen芯片，Gemini大模型硬核升级",
-        "url": "https://www.aibase.com/news/29741",
+        "id": "a98f62849d129eed98b242a739433499223673c1",
+        "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+        "url": "https://www.aibase.com/news/29751",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1db9c8ac2637",
+      "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "primary_url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "source": "asia.nikkei.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "asia.nikkei.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T05:54:05.672000Z"
+        },
+        {
+          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
+          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://news.ycombinator.com/item?id=48987863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-21T05:24:10.232000Z"
+        },
+        {
+          "id": "1ecdc927bb296c35650d94155a5fc91070885333",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T03:56:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "asia.nikkei.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "asia.nikkei.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T05:54:05.672000Z"
+        },
+        {
+          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
+          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://news.ycombinator.com/item?id=48987863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-21T05:24:10.232000Z"
+        },
+        {
+          "id": "1ecdc927bb296c35650d94155a5fc91070885333",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T03:56:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9019,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-21T03:56:03Z",
+      "latest_at": "2026-07-21T05:54:05.672000Z",
+      "primary_item": {
+        "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
+        "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "source": "asia.nikkei.com",
+        "source_name": "Buzzing"
       }
     }
   ]
