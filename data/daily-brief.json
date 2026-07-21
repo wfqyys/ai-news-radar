@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-21T20:42:20.060483Z",
+  "generated_at": "2026-07-21T22:00:00.175026Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0642-48bb-8316-3c60c8e0b2e9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-0642-48bb-8316-3c60c8e0b2e9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0800-3526-bc89-9dba7d5163b7&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-0800-3526-bc89-9dba7d5163b7&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6ade928d4e6ff61ca0fc50d5140755c221e97d74",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0800-3526-bc89-9dba7d5163b7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c29d885f6ce97302fd19013aea6ecde81c810150",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "2e4bc386136615218f40516be45c62282bc0bced",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0854-0730-bf7d-afb326ad7119&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "39cfc51518d45a849df80cf81f87101ec08b5423",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0740-115b-8a91-d8efe2d1c865&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "6ade928d4e6ff61ca0fc50d5140755c221e97d74",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0800-3526-bc89-9dba7d5163b7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c29d885f6ce97302fd19013aea6ecde81c810150",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0642-48bb-8316-3c60c8e0b2e9&fp=-3",
@@ -237,15 +246,6 @@
           "id": "2e4bc386136615218f40516be45c62282bc0bced",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0854-0730-bf7d-afb326ad7119&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "39cfc51518d45a849df80cf81f87101ec08b5423",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0740-115b-8a91-d8efe2d1c865&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,73 +270,167 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T21:39:44.991139Z",
-      "latest_at": "2026-07-21T20:42:20.060483Z",
+      "earliest_at": "2026-07-20T22:53:44.518242Z",
+      "latest_at": "2026-07-21T22:00:00.175026Z",
       "primary_item": {
-        "id": "c29d885f6ce97302fd19013aea6ecde81c810150",
+        "id": "6ade928d4e6ff61ca0fc50d5140755c221e97d74",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0642-48bb-8316-3c60c8e0b2e9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0800-3526-bc89-9dba7d5163b7&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_d42362617c64",
-      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "story_id": "story_20b0eb2d5c14",
+      "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "primary_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
+          "published_at": "2026-07-21T07:00:00Z"
+        },
+        {
+          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
+          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T21:47:48.098000Z"
+        },
+        {
+          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T20:43:27.075000Z"
+        },
+        {
+          "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:38:04Z"
+        },
+        {
+          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:09:52Z"
+        },
+        {
+          "id": "fecd8ca47044972009950030a7e954d6d615448d",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:09:52Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 6,
       "source_names": [
-        "OpenAI News"
+        "Hacker News (黑客新闻)",
+        "Lobsters (技术社区)",
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
+          "published_at": "2026-07-21T07:00:00Z"
+        },
+        {
+          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
+          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T21:47:48.098000Z"
+        },
+        {
+          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T20:43:27.075000Z"
+        },
+        {
+          "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:38:04Z"
+        },
+        {
+          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:09:52Z"
+        },
+        {
+          "id": "fecd8ca47044972009950030a7e954d6d615448d",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:09:52Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8456,
-        "story_heat": 0.0
+        "recency": 0.375,
+        "story_heat": 1.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:00:00Z",
-      "latest_at": "2026-07-21T17:00:00Z",
+      "earliest_at": "2026-07-21T07:00:00Z",
+      "latest_at": "2026-07-21T21:47:48.098000Z",
       "primary_item": {
-        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
+        "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -376,14 +470,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7654,
+        "recency": 0.7115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -399,6 +493,67 @@
         "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d42362617c64",
+      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
+          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
+          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T17:00:00Z",
+      "latest_at": "2026-07-21T17:00:00Z",
+      "primary_item": {
+        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
+        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -437,14 +592,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8039,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,14 +653,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,14 +713,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.9024,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,6 +735,66 @@
         "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
         "url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_234dc9df4c2d",
+      "title": "Laguna S 2.1 免费开源上线 OpenCode",
+      "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+      "primary_url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+      "source": "X：opencode (@opencode)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
+          "title": "Laguna S 2.1 免费开源上线 OpenCode",
+          "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+          "source": "X：opencode (@opencode)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T18:17:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：opencode (@opencode)"
+      ],
+      "items": [
+        {
+          "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
+          "title": "Laguna S 2.1 免费开源上线 OpenCode",
+          "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+          "source": "X：opencode (@opencode)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T18:17:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8452,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T18:17:06Z",
+      "latest_at": "2026-07-21T18:17:06Z",
+      "primary_item": {
+        "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
+        "title": "Laguna S 2.1 免费开源上线 OpenCode",
+        "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+        "source": "X：opencode (@opencode)",
         "source_name": "AI HOT"
       }
     },
@@ -618,14 +833,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8836,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -678,14 +893,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8614,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,14 +953,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8538,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -798,14 +1013,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8414,
+        "recency": 0.7874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -858,14 +1073,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8039,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,14 +1133,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.7501,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,14 +1193,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8004,
+        "recency": 0.7465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1038,14 +1253,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7737,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,14 +1313,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7692,
+        "recency": 0.7153,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,87 +1336,6 @@
         "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
         "source": "OpenAI：Alignment 研究博客（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20b0eb2d5c14",
-      "title": "OpenAI 与 Hugging Face 合作解决模型评估期间的安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "primary_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-          "title": "OpenAI 与 Hugging Face 合作解决模型评估期间的安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "fecd8ca47044972009950030a7e954d6d615448d",
-          "title": "OpenAI 与 Hugging Face 合作解决安全事件 / OpenAI and Hugging Face partner to address security incident",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-          "title": "OpenAI 与 Hugging Face 合作解决模型评估期间的安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "fecd8ca47044972009950030a7e954d6d615448d",
-          "title": "OpenAI 与 Hugging Face 合作解决安全事件 / OpenAI and Hugging Face partner to address security incident",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4289,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T07:00:00Z",
-      "latest_at": "2026-07-21T20:09:52Z",
-      "primary_item": {
-        "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-        "title": "OpenAI 与 Hugging Face 合作解决模型评估期间的安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1239,14 +1373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.8025,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,14 +1493,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6748,
+        "recency": 0.6209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,66 +1514,6 @@
         "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
         "url": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_53d974fc8f09",
-      "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-      "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-      "primary_url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "60c3c5e5ad214ed105af39ae764b8ce8690867c6",
-          "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-          "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:37:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "60c3c5e5ad214ed105af39ae764b8ce8690867c6",
-          "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-          "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:37:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.788,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:37:05Z",
-      "latest_at": "2026-07-21T15:37:05Z",
-      "primary_item": {
-        "id": "60c3c5e5ad214ed105af39ae764b8ce8690867c6",
-        "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-        "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     }
