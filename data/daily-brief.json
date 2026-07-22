@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-22T03:56:06.500792Z",
+  "generated_at": "2026-07-22T06:25:16.539724Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1356-3477-b218-d01e39b247d0&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-1356-3477-b218-d01e39b247d0&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1625-4706-bc58-09b43955dabd&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-1625-4706-bc58-09b43955dabd&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "002cdf87fd3aa6e69ed1d74b3ad2ed609af42889",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1625-4706-bc58-09b43955dabd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c9ffbb4cb7160ebef86a0c053622d44157a5ccea",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "72733ebae2c961f3463c5ae7f89d03b8f72d64ff",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "00fdb2820e204c4918a2192fe193fd751cc1b0a8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1534-375e-83e8-e6e2eb1e79be&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "002cdf87fd3aa6e69ed1d74b3ad2ed609af42889",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1625-4706-bc58-09b43955dabd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c9ffbb4cb7160ebef86a0c053622d44157a5ccea",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1356-3477-b218-d01e39b247d0&fp=-3",
@@ -237,15 +246,6 @@
           "id": "72733ebae2c961f3463c5ae7f89d03b8f72d64ff",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1816-473f-a2e3-35d7921b974e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "00fdb2820e204c4918a2192fe193fd751cc1b0a8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1534-375e-83e8-e6e2eb1e79be&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:34:10.999564Z",
-      "latest_at": "2026-07-22T03:56:06.500792Z",
+      "earliest_at": "2026-07-21T08:15:20.159276Z",
+      "latest_at": "2026-07-22T06:25:16.539724Z",
       "primary_item": {
-        "id": "c9ffbb4cb7160ebef86a0c053622d44157a5ccea",
+        "id": "002cdf87fd3aa6e69ed1d74b3ad2ed609af42889",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1356-3477-b218-d01e39b247d0&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1625-4706-bc58-09b43955dabd&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +334,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,7 +361,7 @@
       }
     },
     {
-      "story_id": "story_bc7c548c4d8d",
+      "story_id": "story_743922591bae",
       "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
       "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
       "primary_url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
@@ -432,14 +432,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7906,
+        "recency": 0.6871,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -455,6 +455,126 @@
         "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
         "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7d038491e1dd",
+      "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+      "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+      "primary_url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
+          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T04:52:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
+          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T04:52:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9354,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T04:52:13Z",
+      "latest_at": "2026-07-22T04:52:13Z",
+      "primary_item": {
+        "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
+        "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+        "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bfa34f884748",
+      "title": "腾讯设计Agent平台Miora全面开放",
+      "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+      "primary_url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f29711c8d6fece5b0710c9971d41e7851d743aa3",
+          "title": "腾讯设计Agent平台Miora全面开放",
+          "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T04:21:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "f29711c8d6fece5b0710c9971d41e7851d743aa3",
+          "title": "腾讯设计Agent平台Miora全面开放",
+          "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T04:21:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9137,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T04:21:03Z",
+      "latest_at": "2026-07-22T04:21:03Z",
+      "primary_item": {
+        "id": "f29711c8d6fece5b0710c9971d41e7851d743aa3",
+        "title": "腾讯设计Agent平台Miora全面开放",
+        "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -586,14 +706,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1277,
+        "recency": 0.0241,
         "story_heat": 1.0
       },
       "category": "official",
@@ -614,21 +734,21 @@
       }
     },
     {
-      "story_id": "story_078dd7b5ac27",
-      "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
-      "url": "https://www.aibase.com/news/29776",
-      "primary_url": "https://www.aibase.com/news/29776",
+      "story_id": "story_fcf30a467b12",
+      "title": "编程神器再进化！Claude Code深度集成iOS模拟器，AI自动帮你写代码做测试",
+      "url": "https://www.aibase.com/news/29793",
+      "primary_url": "https://www.aibase.com/news/29793",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
-          "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
-          "url": "https://www.aibase.com/news/29776",
+          "id": "0812c6a098611b34ada7ddd26a7cf504b6e76d7e",
+          "title": "编程神器再进化！Claude Code深度集成iOS模拟器，AI自动帮你写代码做测试",
+          "url": "https://www.aibase.com/news/29793",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-22T03:56:06.500792Z"
+          "published_at": "2026-07-22T06:25:16.539724Z"
         }
       ],
       "source_count": 1,
@@ -637,13 +757,13 @@
       ],
       "items": [
         {
-          "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
-          "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
-          "url": "https://www.aibase.com/news/29776",
+          "id": "0812c6a098611b34ada7ddd26a7cf504b6e76d7e",
+          "title": "编程神器再进化！Claude Code深度集成iOS模拟器，AI自动帮你写代码做测试",
+          "url": "https://www.aibase.com/news/29793",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-22T03:56:06.500792Z"
+          "published_at": "2026-07-22T06:25:16.539724Z"
         }
       ],
       "item_count": 1,
@@ -663,14 +783,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T03:56:06.500792Z",
-      "latest_at": "2026-07-22T03:56:06.500792Z",
+      "earliest_at": "2026-07-22T06:25:16.539724Z",
+      "latest_at": "2026-07-22T06:25:16.539724Z",
       "primary_item": {
-        "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
-        "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
-        "url": "https://www.aibase.com/news/29776",
+        "id": "0812c6a098611b34ada7ddd26a7cf504b6e76d7e",
+        "title": "编程神器再进化！Claude Code深度集成iOS模拟器，AI自动帮你写代码做测试",
+        "url": "https://www.aibase.com/news/29793",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9a6142f044e7",
+      "title": "OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型",
+      "url": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6",
+      "primary_url": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f82fea17cdfdd0502e9a984d6f71806054331a04",
+          "title": "OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型",
+          "url": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f82fea17cdfdd0502e9a984d6f71806054331a04",
+          "title": "OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型",
+          "url": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7324,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T00:00:00Z",
+      "latest_at": "2026-07-22T00:00:00Z",
+      "primary_item": {
+        "id": "f82fea17cdfdd0502e9a984d6f71806054331a04",
+        "title": "OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型",
+        "url": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -708,14 +888,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4642,
+        "recency": 0.3606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -732,6 +912,66 @@
         "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_679edbcbd87b",
+      "title": "腾讯Miora AI创意平台全量上线 多智能体协同重构内容生产流程",
+      "url": "https://www.aibase.com/news/29792",
+      "primary_url": "https://www.aibase.com/news/29792",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "499e8947a9f8021215bc4e3930569f82311ad44a",
+          "title": "腾讯Miora AI创意平台全量上线 多智能体协同重构内容生产流程",
+          "url": "https://www.aibase.com/news/29792",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T06:25:16.539724Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "499e8947a9f8021215bc4e3930569f82311ad44a",
+          "title": "腾讯Miora AI创意平台全量上线 多智能体协同重构内容生产流程",
+          "url": "https://www.aibase.com/news/29792",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T06:25:16.539724Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T06:25:16.539724Z",
+      "latest_at": "2026-07-22T06:25:16.539724Z",
+      "primary_item": {
+        "id": "499e8947a9f8021215bc4e3930569f82311ad44a",
+        "title": "腾讯Miora AI创意平台全量上线 多智能体协同重构内容生产流程",
+        "url": "https://www.aibase.com/news/29792",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -769,14 +1009,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5444,
+        "recency": 0.4408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -830,20 +1070,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7488,
+        "recency": 0.6452,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T21:54:19Z",
       "latest_at": "2026-07-21T21:54:19Z",
@@ -890,21 +1129,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5027,
+        "recency": 0.3991,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T16:00:00Z",
       "latest_at": "2026-07-21T16:00:00Z",
@@ -914,66 +1152,6 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5fa98640dd2f",
-      "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
-      "url": "https://www.aibase.com/news/29790",
-      "primary_url": "https://www.aibase.com/news/29790",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5aebc9dcf86851c94935d9b20cf2699e815382ee",
-          "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
-          "url": "https://www.aibase.com/news/29790",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T03:56:06.500792Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5aebc9dcf86851c94935d9b20cf2699e815382ee",
-          "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
-          "url": "https://www.aibase.com/news/29790",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T03:56:06.500792Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T03:56:06.500792Z",
-      "latest_at": "2026-07-22T03:56:06.500792Z",
-      "primary_item": {
-        "id": "5aebc9dcf86851c94935d9b20cf2699e815382ee",
-        "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
-        "url": "https://www.aibase.com/news/29790",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1011,14 +1189,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6729,
+        "recency": 0.5693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,6 +1211,66 @@
         "url": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
         "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_11ae72f4df2e",
+      "title": "腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案",
+      "url": "https://www.aibase.com/news/29794",
+      "primary_url": "https://www.aibase.com/news/29794",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bce511756bb8c25cf1e8fccd73b9222cb205f079",
+          "title": "腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案",
+          "url": "https://www.aibase.com/news/29794",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T06:25:16.539724Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bce511756bb8c25cf1e8fccd73b9222cb205f079",
+          "title": "腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案",
+          "url": "https://www.aibase.com/news/29794",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T06:25:16.539724Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T06:25:16.539724Z",
+      "latest_at": "2026-07-22T06:25:16.539724Z",
+      "primary_item": {
+        "id": "bce511756bb8c25cf1e8fccd73b9222cb205f079",
+        "title": "腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案",
+        "url": "https://www.aibase.com/news/29794",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1070,14 +1308,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6551,
+        "recency": 0.5515,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1095,239 +1333,123 @@
       }
     },
     {
-      "story_id": "story_234dc9df4c2d",
-      "title": "Laguna S 2.1 免费开源上线 OpenCode",
-      "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-      "primary_url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-      "source": "X：opencode (@opencode)",
-      "source_name": "AI HOT",
+      "story_id": "story_078dd7b5ac27",
+      "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+      "url": "https://www.aibase.com/news/29776",
+      "primary_url": "https://www.aibase.com/news/29776",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
-          "title": "Laguna S 2.1 免费开源上线 OpenCode",
-          "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-          "source": "X：opencode (@opencode)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:17:06Z"
+          "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
+          "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+          "url": "https://www.aibase.com/news/29776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T03:56:06.500792Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：opencode (@opencode)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
-          "title": "Laguna S 2.1 免费开源上线 OpenCode",
-          "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-          "source": "X：opencode (@opencode)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:17:06Z"
+          "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
+          "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+          "url": "https://www.aibase.com/news/29776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T03:56:06.500792Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5979,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-21T18:17:06Z",
-      "latest_at": "2026-07-21T18:17:06Z",
+      "earliest_at": "2026-07-22T03:56:06.500792Z",
+      "latest_at": "2026-07-22T03:56:06.500792Z",
       "primary_item": {
-        "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
-        "title": "Laguna S 2.1 免费开源上线 OpenCode",
-        "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-        "source": "X：opencode (@opencode)",
-        "source_name": "AI HOT"
+        "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
+        "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+        "url": "https://www.aibase.com/news/29776",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_431daaf1f7ed",
-      "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-      "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-      "primary_url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_5fa98640dd2f",
+      "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
+      "url": "https://www.aibase.com/news/29790",
+      "primary_url": "https://www.aibase.com/news/29790",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b939eb0c679a40469923550aeb24dc99a08434f",
-          "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-          "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:54:42Z"
+          "id": "5aebc9dcf86851c94935d9b20cf2699e815382ee",
+          "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
+          "url": "https://www.aibase.com/news/29790",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T03:56:06.500792Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3b939eb0c679a40469923550aeb24dc99a08434f",
-          "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-          "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:54:42Z"
+          "id": "5aebc9dcf86851c94935d9b20cf2699e815382ee",
+          "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
+          "url": "https://www.aibase.com/news/29790",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T03:56:06.500792Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5824,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:54:42Z",
-      "latest_at": "2026-07-21T17:54:42Z",
+      "earliest_at": "2026-07-22T03:56:06.500792Z",
+      "latest_at": "2026-07-22T03:56:06.500792Z",
       "primary_item": {
-        "id": "3b939eb0c679a40469923550aeb24dc99a08434f",
-        "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-        "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6ec849783226",
-      "title": "xAI 推出 Grok for Outlook 加载项",
-      "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-      "primary_url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c36e3d33c79bff59b16f6d96e15f91effa6b696",
-          "title": "xAI 推出 Grok for Outlook 加载项",
-          "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:22:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "2c36e3d33c79bff59b16f6d96e15f91effa6b696",
-          "title": "xAI 推出 Grok for Outlook 加载项",
-          "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:22:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5602,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T17:22:49Z",
-      "latest_at": "2026-07-21T17:22:49Z",
-      "primary_item": {
-        "id": "2c36e3d33c79bff59b16f6d96e15f91effa6b696",
-        "title": "xAI 推出 Grok for Outlook 加载项",
-        "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce951ce40ef4",
-      "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-      "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-      "primary_url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f411c36c3ad7175244d35189924ec3aedcfe1033",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-          "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f411c36c3ad7175244d35189924ec3aedcfe1033",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-          "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5526,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T17:11:50Z",
-      "latest_at": "2026-07-21T17:11:50Z",
-      "primary_item": {
-        "id": "f411c36c3ad7175244d35189924ec3aedcfe1033",
-        "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-        "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "5aebc9dcf86851c94935d9b20cf2699e815382ee",
+        "title": "AI代理惊险“越狱”！OpenAI与Hugging Face联手化解渗透危机",
+        "url": "https://www.aibase.com/news/29790",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1365,14 +1487,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,180 +1513,63 @@
       }
     },
     {
-      "story_id": "story_c16d85f8e5cd",
-      "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-      "url": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-      "primary_url": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-      "source": "X：Andrej Karpathy (@karpathy)",
-      "source_name": "AI HOT",
+      "story_id": "story_a98e4990f1e8",
+      "title": "Gemini 3.6 Flash来了，但网友笑得更大声：省下了token，却没保住智商",
+      "url": "https://www.aibase.com/news/29784",
+      "primary_url": "https://www.aibase.com/news/29784",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "714b47e81be5f8e9d19fe8db2a239c6179d6cd3b",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-          "url": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-          "source": "X：Andrej Karpathy (@karpathy)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:53:55Z"
+          "id": "83134972bd4364fead239601e56502d02fb2cab0",
+          "title": "Gemini 3.6 Flash来了，但网友笑得更大声：省下了token，却没保住智商",
+          "url": "https://www.aibase.com/news/29784",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T03:56:06.500792Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Andrej Karpathy (@karpathy)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "714b47e81be5f8e9d19fe8db2a239c6179d6cd3b",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-          "url": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-          "source": "X：Andrej Karpathy (@karpathy)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:53:55Z"
+          "id": "83134972bd4364fead239601e56502d02fb2cab0",
+          "title": "Gemini 3.6 Flash来了，但网友笑得更大声：省下了token，却没保住智商",
+          "url": "https://www.aibase.com/news/29784",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T03:56:06.500792Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5401,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-21T16:53:55Z",
-      "latest_at": "2026-07-21T16:53:55Z",
+      "earliest_at": "2026-07-22T03:56:06.500792Z",
+      "latest_at": "2026-07-22T03:56:06.500792Z",
       "primary_item": {
-        "id": "714b47e81be5f8e9d19fe8db2a239c6179d6cd3b",
-        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-        "url": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-        "source": "X：Andrej Karpathy (@karpathy)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_67183efcfb0e",
-      "title": "OpenAI 发布奖励寻求行为新研究",
-      "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "primary_url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-          "title": "OpenAI 发布奖励寻求行为新研究",
-          "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:05:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-          "title": "OpenAI 发布奖励寻求行为新研究",
-          "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:05:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5899,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T18:05:38Z",
-      "latest_at": "2026-07-21T18:05:38Z",
-      "primary_item": {
-        "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-        "title": "OpenAI 发布奖励寻求行为新研究",
-        "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_30ce283d3e0c",
-      "title": "Claude 不是编译器--它比编译器更好",
-      "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "primary_url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5552,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T17:15:35Z",
-      "latest_at": "2026-07-21T17:15:35Z",
-      "primary_item": {
-        "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-        "title": "Claude 不是编译器--它比编译器更好",
-        "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "83134972bd4364fead239601e56502d02fb2cab0",
+        "title": "Gemini 3.6 Flash来了，但网友笑得更大声：省下了token，却没保住智商",
+        "url": "https://www.aibase.com/news/29784",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
