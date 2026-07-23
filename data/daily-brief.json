@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T22:51:14.209728Z",
+  "generated_at": "2026-07-23T23:54:54.836523Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-4112-8c60-941b9659e656&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-4112-8c60-941b9659e656&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "cd4f5bfa1706cc2303f781c68937e5d37e0bb129",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "af64a546e24414f5bdfb1b458f789f4d85a9b79f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1102-27ef-be7a-8460a4a420c7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "50934e97bde8afc2385011b17854af24589b1ea0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0928-39af-97ad-1cf3ec912815&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "cd4f5bfa1706cc2303f781c68937e5d37e0bb129",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-4112-8c60-941b9659e656&fp=-3",
@@ -237,15 +246,6 @@
           "id": "af64a546e24414f5bdfb1b458f789f4d85a9b79f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1102-27ef-be7a-8460a4a420c7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "50934e97bde8afc2385011b17854af24589b1ea0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0928-39af-97ad-1cf3ec912815&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T23:28:10.102707Z",
-      "latest_at": "2026-07-23T22:51:14.209728Z",
+      "earliest_at": "2026-07-23T01:01:58.587819Z",
+      "latest_at": "2026-07-23T23:54:54.836523Z",
       "primary_item": {
-        "id": "cd4f5bfa1706cc2303f781c68937e5d37e0bb129",
+        "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-4112-8c60-941b9659e656&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8794,
-      "importance": 0.8794,
-      "importance_score": 0.8794,
+      "score": 0.8705,
+      "importance": 0.8705,
+      "importance_score": 0.8705,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9869,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8565,
-      "importance": 0.8565,
-      "importance_score": 0.8565,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8727,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -437,14 +437,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8545,
-      "importance": 0.8545,
-      "importance_score": 0.8545,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9077,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,14 +498,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,14 +558,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -618,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8693,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -678,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8394,
+        "recency": 0.7952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,14 +738,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7948,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -798,14 +798,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7571,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -858,14 +858,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.736,
+        "recency": 0.6917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,14 +918,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8224,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,14 +978,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6677,
+        "recency": 0.6235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,14 +1037,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8111,
+        "recency": 0.7669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1117,14 +1117,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4637,
+        "recency": 0.4195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,65 +1140,6 @@
         "url": "https://www.aibase.com/news/29843",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_41c35581d3e9",
-      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-      "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-      "primary_url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2662fb0091f6757ee04fe0196d3f49ce35602e74",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "2662fb0091f6757ee04fe0196d3f49ce35602e74",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.571,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T12:33:27Z",
-      "latest_at": "2026-07-23T12:33:27Z",
-      "primary_item": {
-        "id": "2662fb0091f6757ee04fe0196d3f49ce35602e74",
-        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-        "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1236,14 +1177,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6311,
+        "recency": 0.5869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1258,65 +1199,6 @@
         "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_53f6b71a0c79",
-      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-      "url": "https://www.aibase.com/news/29844",
-      "primary_url": "https://www.aibase.com/news/29844",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "url": "https://www.aibase.com/news/29844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T11:53:16.229909Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "url": "https://www.aibase.com/news/29844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T11:53:16.229909Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5431,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T11:53:16.229909Z",
-      "latest_at": "2026-07-23T11:53:16.229909Z",
-      "primary_item": {
-        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-        "url": "https://www.aibase.com/news/29844",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1354,14 +1236,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6939,
+        "recency": 0.6497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1378,6 +1260,85 @@
         "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_31d1d471a9ff",
+      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+      "url": "https://www.aibase.com/news/29834",
+      "primary_url": "https://www.aibase.com/news/29834",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T07:28:09.522042Z"
+        },
+        {
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T07:28:09.522042Z"
+        },
+        {
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7,
+      "importance": 0.7,
+      "importance_score": 0.7,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3148,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T07:28:09.522042Z",
+      "latest_at": "2026-07-23T07:28:09.522042Z",
+      "primary_item": {
+        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "url": "https://www.aibase.com/news/29834",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1434,14 +1395,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6704,
-      "importance": 0.6704,
-      "importance_score": 0.6704,
+      "score": 0.6616,
+      "importance": 0.6616,
+      "importance_score": 0.6616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1672,
+        "recency": 0.123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,6 +1418,85 @@
         "url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d45548b0002",
+      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+      "url": "https://www.aibase.com/news/29816",
+      "primary_url": "https://www.aibase.com/news/29816",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T04:47:19.187273Z"
+        },
+        {
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T04:47:19.187273Z"
+        },
+        {
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6776,
+      "importance": 0.6776,
+      "importance_score": 0.6776,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2031,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T04:47:19.187273Z",
+      "latest_at": "2026-07-23T04:47:19.187273Z",
+      "primary_item": {
+        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+        "url": "https://www.aibase.com/news/29816",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
