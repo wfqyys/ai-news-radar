@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T09:59:00.688650Z",
+  "generated_at": "2026-07-23T11:53:16.229909Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1959-32cd-925f-4e5da8f38dd8&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-1959-32cd-925f-4e5da8f38dd8&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "277206cd52bd9af56c2e6ffab3f1a39d0cb3a03e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "3a667199d8afdc3a2fb3e7e6d12ee2b147e9b665",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "ffd143fed6641baae9e1a776789ddda7c577dbec",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-2255-3298-8c68-81f02e09df46&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f646b353e114eb1e45fab415a7b09b622cb4195b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-2124-47c4-bb47-3dcc8d8deb74&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "277206cd52bd9af56c2e6ffab3f1a39d0cb3a03e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "3a667199d8afdc3a2fb3e7e6d12ee2b147e9b665",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1959-32cd-925f-4e5da8f38dd8&fp=-3",
@@ -237,15 +246,6 @@
           "id": "ffd143fed6641baae9e1a776789ddda7c577dbec",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-2255-3298-8c68-81f02e09df46&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f646b353e114eb1e45fab415a7b09b622cb4195b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-2124-47c4-bb47-3dcc8d8deb74&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T11:24:16.284842Z",
-      "latest_at": "2026-07-23T09:59:00.688650Z",
+      "earliest_at": "2026-07-22T12:55:03.980430Z",
+      "latest_at": "2026-07-23T11:53:16.229909Z",
       "primary_item": {
-        "id": "3a667199d8afdc3a2fb3e7e6d12ee2b147e9b665",
+        "id": "277206cd52bd9af56c2e6ffab3f1a39d0cb3a03e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1959-32cd-925f-4e5da8f38dd8&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +334,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,87 +361,127 @@
       }
     },
     {
-      "story_id": "story_5f2608b33727",
-      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-      "url": "https://www.aibase.com/news/29834",
-      "primary_url": "https://www.aibase.com/news/29834",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6e83d3da665d",
+      "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+      "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
+      "primary_url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T07:28:09.522042Z"
-        },
-        {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "00c65bb131e9de37a9bc1b872e84100e746a2794",
+          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+          "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T11:20:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "公众号：昆仑万维（天工）"
       ],
       "items": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T07:28:09.522042Z"
-        },
-        {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "00c65bb131e9de37a9bc1b872e84100e746a2794",
+          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+          "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T11:20:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8952,
-        "story_heat": 0.25
+        "recency": 0.9769,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T07:28:09.522042Z",
-      "latest_at": "2026-07-23T07:28:09.522042Z",
+      "earliest_at": "2026-07-23T11:20:00Z",
+      "latest_at": "2026-07-23T11:20:00Z",
       "primary_item": {
-        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-        "url": "https://www.aibase.com/news/29834",
+        "id": "00c65bb131e9de37a9bc1b872e84100e746a2794",
+        "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+        "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_53f6b71a0c79",
+      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+      "url": "https://www.aibase.com/news/29844",
+      "primary_url": "https://www.aibase.com/news/29844",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "url": "https://www.aibase.com/news/29844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T11:53:16.229909Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "url": "https://www.aibase.com/news/29844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T11:53:16.229909Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T11:53:16.229909Z",
+      "latest_at": "2026-07-23T11:53:16.229909Z",
+      "primary_item": {
+        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "url": "https://www.aibase.com/news/29844",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9f6d35e74fe5",
+      "story_id": "story_ec5b166bece9",
       "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
       "url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
       "primary_url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
@@ -494,14 +534,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7035,
+        "recency": 0.6241,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,14 +595,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8253,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -615,14 +655,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8018,
+        "recency": 0.7225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,20 +715,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7507,
+        "recency": 0.6713,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T04:00:00Z",
       "latest_at": "2026-07-23T04:00:00Z",
@@ -701,61 +740,81 @@
       }
     },
     {
-      "story_id": "story_dc7ed3f9bfb7",
-      "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-      "url": "https://www.aibase.com/news/29837",
-      "primary_url": "https://www.aibase.com/news/29837",
+      "story_id": "story_31d1d471a9ff",
+      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+      "url": "https://www.aibase.com/news/29834",
+      "primary_url": "https://www.aibase.com/news/29834",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
-          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-          "url": "https://www.aibase.com/news/29837",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:59:00.688650Z"
+          "published_at": "2026-07-23T07:28:09.522042Z"
+        },
+        {
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
-          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-          "url": "https://www.aibase.com/news/29837",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:59:00.688650Z"
+          "published_at": "2026-07-23T07:28:09.522042Z"
+        },
+        {
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8159,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T09:59:00.688650Z",
-      "latest_at": "2026-07-23T09:59:00.688650Z",
+      "earliest_at": "2026-07-23T07:28:09.522042Z",
+      "latest_at": "2026-07-23T07:28:09.522042Z",
       "primary_item": {
-        "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
-        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-        "url": "https://www.aibase.com/news/29837",
+        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "url": "https://www.aibase.com/news/29834",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -795,14 +854,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3757,
+        "recency": 0.2963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -821,136 +880,17 @@
       }
     },
     {
-      "story_id": "story_f772ab06de64",
-      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-      "url": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
-      "primary_url": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5b9efc912c41c188fb712fccb8cced8a714f7c2",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "url": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T23:51:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "d5b9efc912c41c188fb712fccb8cced8a714f7c2",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "url": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T23:51:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5782,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T23:51:33Z",
-      "latest_at": "2026-07-22T23:51:33Z",
-      "primary_item": {
-        "id": "d5b9efc912c41c188fb712fccb8cced8a714f7c2",
-        "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-        "url": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3710e649c509",
-      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2658,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T16:21:47Z",
-      "latest_at": "2026-07-22T16:21:47Z",
-      "primary_item": {
-        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_252a63ec2f91",
-      "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-      "url": "https://www.aibase.com/news/29838",
-      "primary_url": "https://www.aibase.com/news/29838",
+      "story_id": "story_dc7ed3f9bfb7",
+      "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+      "url": "https://www.aibase.com/news/29837",
+      "primary_url": "https://www.aibase.com/news/29837",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2a357b11b9a3d3850eab41504d47db0334717279",
-          "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-          "url": "https://www.aibase.com/news/29838",
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "url": "https://www.aibase.com/news/29837",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -963,9 +903,9 @@
       ],
       "items": [
         {
-          "id": "2a357b11b9a3d3850eab41504d47db0334717279",
-          "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-          "url": "https://www.aibase.com/news/29838",
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "url": "https://www.aibase.com/news/29837",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -974,14 +914,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,9 +932,9 @@
       "earliest_at": "2026-07-23T09:59:00.688650Z",
       "latest_at": "2026-07-23T09:59:00.688650Z",
       "primary_item": {
-        "id": "2a357b11b9a3d3850eab41504d47db0334717279",
-        "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-        "url": "https://www.aibase.com/news/29838",
+        "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "url": "https://www.aibase.com/news/29837",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1053,14 +993,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7165,
-      "importance": 0.7165,
-      "importance_score": 0.7165,
+      "score": 0.7007,
+      "importance": 0.7007,
+      "importance_score": 0.7007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.1527,
+        "recency": 0.0734,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1077,6 +1017,66 @@
         "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_252a63ec2f91",
+      "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
+      "url": "https://www.aibase.com/news/29838",
+      "primary_url": "https://www.aibase.com/news/29838",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a357b11b9a3d3850eab41504d47db0334717279",
+          "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
+          "url": "https://www.aibase.com/news/29838",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:59:00.688650Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2a357b11b9a3d3850eab41504d47db0334717279",
+          "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
+          "url": "https://www.aibase.com/news/29838",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:59:00.688650Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9207,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T09:59:00.688650Z",
+      "latest_at": "2026-07-23T09:59:00.688650Z",
+      "primary_item": {
+        "id": "2a357b11b9a3d3850eab41504d47db0334717279",
+        "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
+        "url": "https://www.aibase.com/news/29838",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1114,14 +1114,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,66 +1135,6 @@
         "id": "729e792e03a162fb01b4c6f57c2da1bc72fa177e",
         "title": "北京抛出\"智能体新政\"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了",
         "url": "https://www.aibase.com/news/29839",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_68e653bdbdaf",
-      "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
-      "url": "https://www.aibase.com/news/29841",
-      "primary_url": "https://www.aibase.com/news/29841",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
-          "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
-          "url": "https://www.aibase.com/news/29841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T09:59:00.688650Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
-          "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
-          "url": "https://www.aibase.com/news/29841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T09:59:00.688650Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T09:59:00.688650Z",
-      "latest_at": "2026-07-23T09:59:00.688650Z",
-      "primary_item": {
-        "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
-        "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
-        "url": "https://www.aibase.com/news/29841",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1253,14 +1193,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6723,
-      "importance": 0.6723,
-      "importance_score": 0.6723,
+      "score": 0.6564,
+      "importance": 0.6564,
+      "importance_score": 0.6564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1763,
+        "recency": 0.0969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1276,6 +1216,66 @@
         "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_68e653bdbdaf",
+      "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+      "url": "https://www.aibase.com/news/29841",
+      "primary_url": "https://www.aibase.com/news/29841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
+          "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+          "url": "https://www.aibase.com/news/29841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:59:00.688650Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
+          "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+          "url": "https://www.aibase.com/news/29841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:59:00.688650Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9207,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T09:59:00.688650Z",
+      "latest_at": "2026-07-23T09:59:00.688650Z",
+      "primary_item": {
+        "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
+        "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+        "url": "https://www.aibase.com/news/29841",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1313,14 +1313,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1445,14 +1445,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5948,
-      "importance": 0.5948,
-      "importance_score": 0.5948,
+      "score": 0.5789,
+      "importance": 0.5789,
+      "importance_score": 0.5789,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8588,
+        "recency": 0.7795,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1467,86 +1467,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5d45548b0002",
-      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-      "url": "https://www.aibase.com/news/29816",
-      "primary_url": "https://www.aibase.com/news/29816",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T04:47:19.187273Z"
-        },
-        {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T04:47:19.187273Z"
-        },
-        {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7835,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T04:47:19.187273Z",
-      "latest_at": "2026-07-23T04:47:19.187273Z",
-      "primary_item": {
-        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-        "url": "https://www.aibase.com/news/29816",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1641,14 +1561,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5831,
-      "importance": 0.5831,
-      "importance_score": 0.5831,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9255,
+        "recency": 0.8462,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1663,6 +1583,140 @@
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
         "source": "simonwillison.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8fcc591b02eb",
+      "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话 / Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://news.ycombinator.com/item?id=49010345",
+      "primary_url": "https://news.ycombinator.com/item?id=49010345",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1a70a0ee952856708b38fce86e8e630e0d3d2349",
+          "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话 / Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://news.ycombinator.com/item?id=49010345",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T04:33:28.961000Z"
+        },
+        {
+          "id": "de24454ec96d517a66eae577ba7ea341587538d6",
+          "title": "陶哲轩关于雅可比猜想反例的ChatGPT对话",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "chatgpt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:19:53.264000Z"
+        },
+        {
+          "id": "0a7f8eefe8e1e0b85a588f2789ead62450430efc",
+          "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话 / Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "url": "https://news.ycombinator.com/item?id=49010345",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-22T17:43:00.140000Z"
+        },
+        {
+          "id": "e6dbe8492b0d0acd83400131aec0baab4d6c1ab6",
+          "title": "陶哲轩关于雅可比猜想反例的ChatGPT对话 / Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T17:30:40Z"
+        },
+        {
+          "id": "f0bf17a336293d8ae060cc6bba7cc1080b02a418",
+          "title": "陶哲轩关于雅可比猜想反例的ChatGPT对话 / Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T17:30:40Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "chatgpt.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1a70a0ee952856708b38fce86e8e630e0d3d2349",
+          "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话 / Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://news.ycombinator.com/item?id=49010345",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T04:33:28.961000Z"
+        },
+        {
+          "id": "de24454ec96d517a66eae577ba7ea341587538d6",
+          "title": "陶哲轩关于雅可比猜想反例的ChatGPT对话",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "chatgpt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:19:53.264000Z"
+        },
+        {
+          "id": "0a7f8eefe8e1e0b85a588f2789ead62450430efc",
+          "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话 / Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "url": "https://news.ycombinator.com/item?id=49010345",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-22T17:43:00.140000Z"
+        },
+        {
+          "id": "e6dbe8492b0d0acd83400131aec0baab4d6c1ab6",
+          "title": "陶哲轩关于雅可比猜想反例的ChatGPT对话 / Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T17:30:40Z"
+        },
+        {
+          "id": "f0bf17a336293d8ae060cc6bba7cc1080b02a418",
+          "title": "陶哲轩关于雅可比猜想反例的ChatGPT对话 / Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T17:30:40Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6946,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-22T17:30:40Z",
+      "latest_at": "2026-07-23T04:33:28.961000Z",
+      "primary_item": {
+        "id": "1a70a0ee952856708b38fce86e8e630e0d3d2349",
+        "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话 / Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "url": "https://news.ycombinator.com/item?id=49010345",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
