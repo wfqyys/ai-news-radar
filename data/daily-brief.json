@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T21:35:03.634966Z",
+  "generated_at": "2026-07-24T22:56:40.574582Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-2562-b8be-57ffbfee8078&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-2562-b8be-57ffbfee8078&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0857-00aa-be77-cda30d309144&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0857-00aa-be77-cda30d309144&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "030f1ef700e660a2fabc0395487364cfe8474e9a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0857-00aa-be77-cda30d309144&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "99cb05ffb6235f8c3c876fa0b34195843e6d2e4e",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cd4f5bfa1706cc2303f781c68937e5d37e0bb129",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-4112-8c60-941b9659e656&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "030f1ef700e660a2fabc0395487364cfe8474e9a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0857-00aa-be77-cda30d309144&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "99cb05ffb6235f8c3c876fa0b34195843e6d2e4e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-2562-b8be-57ffbfee8078&fp=-3",
@@ -237,15 +246,6 @@
           "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cd4f5bfa1706cc2303f781c68937e5d37e0bb129",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-4112-8c60-941b9659e656&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T22:51:14.209728Z",
-      "latest_at": "2026-07-24T21:35:03.634966Z",
+      "earliest_at": "2026-07-23T23:54:54.836523Z",
+      "latest_at": "2026-07-24T22:56:40.574582Z",
       "primary_item": {
-        "id": "99cb05ffb6235f8c3c876fa0b34195843e6d2e4e",
+        "id": "030f1ef700e660a2fabc0395487364cfe8474e9a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-2562-b8be-57ffbfee8078&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0857-00aa-be77-cda30d309144&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7951,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,6 +339,66 @@
         "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a93f595d6f60",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+      "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+      "primary_url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Midjourney：Updates（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9737,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T22:18:48Z",
+      "latest_at": "2026-07-24T22:18:48Z",
+      "primary_item": {
+        "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
+        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+        "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -376,14 +436,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8978,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,14 +496,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8269,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,14 +556,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8259,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,20 +616,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.6869,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T15:25:45Z",
       "latest_at": "2026-07-24T15:25:45Z",
@@ -616,14 +675,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6704,
+        "recency": 0.6138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,14 +734,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6702,
+        "recency": 0.6135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -753,14 +812,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5397,
+        "recency": 0.4831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -813,14 +872,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6617,
+        "recency": 0.605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,14 +931,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6204,
+        "recency": 0.5637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,14 +1009,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7188,
+      "importance": 0.7188,
+      "importance_score": 0.7188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1007,
+        "recency": 0.044,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1011,14 +1070,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5977,
+        "recency": 0.541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1089,17 +1148,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
+      "score": 0.7145,
+      "importance": 0.7145,
+      "importance_score": 0.7145,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4443,
+        "recency": 0.3877,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1168,17 +1227,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
+      "score": 0.7145,
+      "importance": 0.7145,
+      "importance_score": 0.7145,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4443,
+        "recency": 0.3877,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1247,14 +1306,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6531,
-      "importance": 0.6531,
-      "importance_score": 0.6531,
+      "score": 0.6417,
+      "importance": 0.6417,
+      "importance_score": 0.6417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0803,
+        "recency": 0.0236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1326,17 +1385,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
+      "score": 0.7145,
+      "importance": 0.7145,
+      "importance_score": 0.7145,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4443,
+        "recency": 0.3877,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1349,6 +1408,84 @@
         "url": "https://www.aibase.com/news/29865",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_623700673134",
+      "title": "独家报道：其AI代理花了好几天时间对一家公司进行黑客攻击，但消息人士称OpenAI整整一周都没有察觉",
+      "url": "https://reut.rs/4fDP5bd",
+      "primary_url": "https://reut.rs/4fDP5bd",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0b1bf553251b85cd9ad01931d73f439d4db65527",
+          "title": "独家报道：其AI代理花了好几天时间对一家公司进行黑客攻击，但消息人士称OpenAI整整一周都没有察觉",
+          "url": "https://reut.rs/4fDP5bd",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T22:35:28.729000Z"
+        },
+        {
+          "id": "4cdff1b9feac5a7ac5babe47f20967ded1647287",
+          "title": "其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉",
+          "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T22:19:48.914000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "reut.rs",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "0b1bf553251b85cd9ad01931d73f439d4db65527",
+          "title": "独家报道：其AI代理花了好几天时间对一家公司进行黑客攻击，但消息人士称OpenAI整整一周都没有察觉",
+          "url": "https://reut.rs/4fDP5bd",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T22:35:28.729000Z"
+        },
+        {
+          "id": "4cdff1b9feac5a7ac5babe47f20967ded1647287",
+          "title": "其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉",
+          "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T22:19:48.914000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9853,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T22:19:48.914000Z",
+      "latest_at": "2026-07-24T22:35:28.729000Z",
+      "primary_item": {
+        "id": "0b1bf553251b85cd9ad01931d73f439d4db65527",
+        "title": "独家报道：其AI代理花了好几天时间对一家公司进行黑客攻击，但消息人士称OpenAI整整一周都没有察觉",
+        "url": "https://reut.rs/4fDP5bd",
+        "source": "reut.rs",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1405,14 +1542,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6748,
-      "importance": 0.6748,
-      "importance_score": 0.6748,
+      "score": 0.6634,
+      "importance": 0.6634,
+      "importance_score": 0.6634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1888,
+        "recency": 0.1321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,199 +1565,6 @@
         "url": "https://www.aibase.com/news/29849",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3ecc7db58a46",
-      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8532,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:15:35.524000Z",
-      "latest_at": "2026-07-24T18:03:38.315000Z",
-      "primary_item": {
-        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_890207b2b481",
-      "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "primary_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "source": "images.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:36:12.432000Z"
-        },
-        {
-          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "images.nvidia.com"
-      ],
-      "items": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:36:12.432000Z"
-        },
-        {
-          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8198,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:58:12Z",
-      "latest_at": "2026-07-24T17:15:36.535000Z",
-      "primary_item": {
-        "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-        "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "source": "images.nvidia.com",
-        "source_name": "Buzzing"
       }
     }
   ]
