@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T10:32:17.446233Z",
+  "generated_at": "2026-07-24T12:15:29.498335Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2032-471a-b556-5d93a2571316&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-2032-471a-b556-5d93a2571316&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f5cac9f9fa1c955922fdaf8469b7b29bd040917b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7d605cd4a06814511f80da5107fb95913ed2bfba",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "8d966137183d92d7ea7c33dc0117760e63d7cf0b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2343-006c-931a-bc6fa2daa9ef&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "277206cd52bd9af56c2e6ffab3f1a39d0cb3a03e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "f5cac9f9fa1c955922fdaf8469b7b29bd040917b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7d605cd4a06814511f80da5107fb95913ed2bfba",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2032-471a-b556-5d93a2571316&fp=-3",
@@ -237,15 +246,6 @@
           "id": "8d966137183d92d7ea7c33dc0117760e63d7cf0b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2343-006c-931a-bc6fa2daa9ef&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "277206cd52bd9af56c2e6ffab3f1a39d0cb3a03e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-2153-400b-935e-5ba1b642ba15&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T11:53:16.229909Z",
-      "latest_at": "2026-07-24T10:32:17.446233Z",
+      "earliest_at": "2026-07-23T13:42:33.729512Z",
+      "latest_at": "2026-07-24T12:15:29.498335Z",
       "primary_item": {
-        "id": "7d605cd4a06814511f80da5107fb95913ed2bfba",
+        "id": "f5cac9f9fa1c955922fdaf8469b7b29bd040917b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2032-471a-b556-5d93a2571316&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +334,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -395,14 +395,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -455,14 +455,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9689,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -481,7 +481,7 @@
       }
     },
     {
-      "story_id": "story_721ab8610e98",
+      "story_id": "story_4efe088ce067",
       "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
       "url": "https://www.aibase.com/news/29870",
       "primary_url": "https://www.aibase.com/news/29870",
@@ -534,14 +534,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -595,14 +595,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.5001,
+        "recency": 0.4284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -656,14 +656,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,14 +735,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -796,21 +796,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.3859,
+        "recency": 0.3142,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T19:47:58Z",
       "latest_at": "2026-07-23T19:47:58Z",
@@ -823,7 +822,7 @@
       }
     },
     {
-      "story_id": "story_a1d8d484f87d",
+      "story_id": "story_95b1a68f21aa",
       "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
       "url": "https://www.aibase.com/news/29865",
       "primary_url": "https://www.aibase.com/news/29865",
@@ -876,14 +875,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -956,14 +955,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5406,
+        "recency": 0.4689,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1016,21 +1015,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4209,
+        "recency": 0.3492,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T20:38:22Z",
       "latest_at": "2026-07-23T20:38:22Z",
@@ -1077,14 +1075,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1137,14 +1135,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,66 +1158,6 @@
         "url": "https://www.aibase.com/news/29879",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1c806736e9c9",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3243,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1257,14 +1195,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,14 +1311,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5918,
-      "importance": 0.5918,
-      "importance_score": 0.5918,
+      "score": 0.5774,
+      "importance": 0.5774,
+      "importance_score": 0.5774,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9689,
+        "recency": 0.8972,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1432,14 +1370,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1458,114 +1396,55 @@
       }
     },
     {
-      "story_id": "story_86a897ea7bdc",
-      "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-      "url": "https://www.aibase.com/news/29868",
-      "primary_url": "https://www.aibase.com/news/29868",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T08:14:54.236041Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T08:14:54.236041Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9046,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T08:14:54.236041Z",
-      "latest_at": "2026-07-24T08:14:54.236041Z",
-      "primary_item": {
-        "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-        "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "url": "https://www.aibase.com/news/29868",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_83788d69eb32",
-      "title": "基于结构与进化信息设计最小化 RNA 引导核酸酶",
-      "url": "https://hub.baai.ac.cn/view/56591",
-      "primary_url": "https://hub.baai.ac.cn/view/56591",
-      "source": "Readhub · AI",
+      "story_id": "story_03532acae388",
+      "title": "Lordog / 深入 llms / Lordog / dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "primary_url": "https://github.com/Lordog/dive-into-llms",
+      "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "84b658157599d12f488a3722434e456a42305a74",
-          "title": "基于结构与进化信息设计最小化 RNA 引导核酸酶",
-          "url": "https://hub.baai.ac.cn/view/56591",
-          "source": "Readhub · AI",
+          "id": "480e54cf1abc38b368d0f4a8d996db84928a65ae",
+          "title": "Lordog / 深入 llms / Lordog / dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4a30674bb2b0996dfd4b6eff16c78a16911a4066",
-          "title": "基于结构与进化信息设计最小化RNA引导核酸酶",
-          "url": "https://hub.baai.ac.cn/view/56591",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cbedaa52f9f511b65d780429c22b68c5169aad6a",
+          "title": "Lordog / 深入 llms / Lordog /      dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T11:51:36.659000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "84b658157599d12f488a3722434e456a42305a74",
-          "title": "基于结构与进化信息设计最小化 RNA 引导核酸酶",
-          "url": "https://hub.baai.ac.cn/view/56591",
-          "source": "Readhub · AI",
+          "id": "480e54cf1abc38b368d0f4a8d996db84928a65ae",
+          "title": "Lordog / 深入 llms / Lordog / dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4a30674bb2b0996dfd4b6eff16c78a16911a4066",
-          "title": "基于结构与进化信息设计最小化RNA引导核酸酶",
-          "url": "https://hub.baai.ac.cn/view/56591",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cbedaa52f9f511b65d780429c22b68c5169aad6a",
+          "title": "Lordog / 深入 llms / Lordog /      dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T11:51:36.659000Z"
         }
       ],
       "item_count": 2,
@@ -1584,14 +1463,170 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T08:14:54.236041Z",
-      "latest_at": "2026-07-24T10:32:17.446233Z",
+      "earliest_at": "2026-07-24T11:51:36.659000Z",
+      "latest_at": "2026-07-24T12:15:29.498335Z",
       "primary_item": {
-        "id": "84b658157599d12f488a3722434e456a42305a74",
-        "title": "基于结构与进化信息设计最小化 RNA 引导核酸酶",
-        "url": "https://hub.baai.ac.cn/view/56591",
-        "source": "Readhub · AI",
+        "id": "480e54cf1abc38b368d0f4a8d996db84928a65ae",
+        "title": "Lordog / 深入 llms / Lordog / dive-into-llms",
+        "url": "https://github.com/Lordog/dive-into-llms",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_202b977a01a3",
+      "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+      "url": "https://news.ycombinator.com/item?id=49033087",
+      "primary_url": "https://news.ycombinator.com/item?id=49033087",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://news.ycombinator.com/item?id=49033087",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T12:05:53.543000Z"
+        },
+        {
+          "id": "df81c52733ee51385b9800aba059456e2591f598",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://sliplane.io/blog/hetzner-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:24:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://news.ycombinator.com/item?id=49033087",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T12:05:53.543000Z"
+        },
+        {
+          "id": "df81c52733ee51385b9800aba059456e2591f598",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://sliplane.io/blog/hetzner-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:24:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9933,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T09:24:44Z",
+      "latest_at": "2026-07-24T12:05:53.543000Z",
+      "primary_item": {
+        "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
+        "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+        "url": "https://news.ycombinator.com/item?id=49033087",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2b7ddff8ef48",
+      "title": "Flux 3 X Mimic：新一代视频动作模型",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
+      "source": "bfl.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "539cfde02a953756792f6ab60804a10a92679232",
+          "title": "Flux 3 X Mimic：新一代视频动作模型",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "bfl.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T11:55:45.885000Z"
+        },
+        {
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
+          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T09:31:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "bfl.ai"
+      ],
+      "items": [
+        {
+          "id": "539cfde02a953756792f6ab60804a10a92679232",
+          "title": "Flux 3 X Mimic：新一代视频动作模型",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "bfl.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T11:55:45.885000Z"
+        },
+        {
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
+          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T09:31:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9863,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T09:31:48Z",
+      "latest_at": "2026-07-24T11:55:45.885000Z",
+      "primary_item": {
+        "id": "539cfde02a953756792f6ab60804a10a92679232",
+        "title": "Flux 3 X Mimic：新一代视频动作模型",
+        "url": "https://bfl.ai/blog/flux-3-mimic",
+        "source": "bfl.ai",
+        "source_name": "Buzzing"
       }
     }
   ]
