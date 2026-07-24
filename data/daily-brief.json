@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T15:52:35.166550Z",
+  "generated_at": "2026-07-24T17:24:20.761935Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0324-4464-8db7-78d17432dc32&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0324-4464-8db7-78d17432dc32&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "419985ca67daae9a40fc38ee1b89e9743b5b4518",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0324-4464-8db7-78d17432dc32&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f9b3565ac66459281f06002d20547f40de9785c0",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "bc267c30062b80d0cc8af881b9b0d81fbaf60815",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0443-4704-bc70-b42e340a03b4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cc073d92b547685c67acadc5bca719d8167cd095",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0314-0654-b95a-d831f832883d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "419985ca67daae9a40fc38ee1b89e9743b5b4518",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0324-4464-8db7-78d17432dc32&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f9b3565ac66459281f06002d20547f40de9785c0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
@@ -237,15 +246,6 @@
           "id": "bc267c30062b80d0cc8af881b9b0d81fbaf60815",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0443-4704-bc70-b42e340a03b4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cc073d92b547685c67acadc5bca719d8167cd095",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0314-0654-b95a-d831f832883d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T17:13:37.059387Z",
-      "latest_at": "2026-07-24T15:52:35.166550Z",
+      "earliest_at": "2026-07-23T18:43:26.005389Z",
+      "latest_at": "2026-07-24T17:24:20.761935Z",
       "primary_item": {
-        "id": "f9b3565ac66459281f06002d20547f40de9785c0",
+        "id": "419985ca67daae9a40fc38ee1b89e9743b5b4518",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0324-4464-8db7-78d17432dc32&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_67c184ed18ef",
+      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T16:40:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T16:40:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8789,
+      "importance": 0.8789,
+      "importance_score": 0.8789,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9693,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T16:40:04Z",
+      "latest_at": "2026-07-24T16:40:04Z",
+      "primary_item": {
+        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -315,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -337,66 +398,6 @@
         "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
         "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
         "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b927b0e5ae8",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-      "primary_url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dca66767fe3bef273853d68962e785803bc21d4b",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "dca66767fe3bef273853d68962e785803bc21d4b",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T13:40:30Z",
-      "latest_at": "2026-07-24T13:40:30Z",
-      "primary_item": {
-        "id": "dca66767fe3bef273853d68962e785803bc21d4b",
-        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-        "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
       }
     },
@@ -435,14 +436,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.908,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -457,6 +458,66 @@
         "title": "Runway Agent 推出自然语言工作流功能",
         "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
         "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3b927b0e5ae8",
+      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+      "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
+      "primary_url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dca66767fe3bef273853d68962e785803bc21d4b",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "dca66767fe3bef273853d68962e785803bc21d4b",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8446,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:40:30Z",
+      "latest_at": "2026-07-24T13:40:30Z",
+      "primary_item": {
+        "id": "dca66767fe3bef273853d68962e785803bc21d4b",
+        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
+        "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
       }
     },
@@ -514,14 +575,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7139,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -575,14 +636,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -635,14 +696,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8582,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.7718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,6 +779,87 @@
         "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e75df1016aa1",
+      "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "fbff60b365401a28ab96244e93112140f55e7ecf",
+          "title": "近距离工作5 / Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "fbff60b365401a28ab96244e93112140f55e7ecf",
+          "title": "近距离工作5 / Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2748,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T00:00:00Z",
+      "latest_at": "2026-07-24T16:55:26Z",
+      "primary_item": {
+        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+        "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -755,20 +897,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7472,
+        "recency": 0.6835,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:48:32Z",
       "latest_at": "2026-07-24T09:48:32Z",
@@ -834,14 +975,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6822,
+        "recency": 0.6184,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -858,66 +999,6 @@
         "url": "https://www.aibase.com/news/29870",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d1636ce0d6d1",
-      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.2776,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T22:32:23Z",
-      "latest_at": "2026-07-23T22:32:23Z",
-      "primary_item": {
-        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -955,14 +1036,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6219,
+        "recency": 0.5581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,20 +1095,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7465,
+        "recency": 0.6827,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:47:29Z",
       "latest_at": "2026-07-24T09:47:29Z",
@@ -1093,14 +1173,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6822,
+        "recency": 0.6184,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1117,6 +1197,66 @@
         "url": "https://www.aibase.com/news/29875",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d1636ce0d6d1",
+      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T22:32:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T22:32:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.2139,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T22:32:23Z",
+      "latest_at": "2026-07-23T22:32:23Z",
+      "primary_item": {
+        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1173,14 +1313,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6822,
+        "recency": 0.6184,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1253,14 +1393,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7006,
-      "importance": 0.7006,
-      "importance_score": 0.7006,
+      "score": 0.6879,
+      "importance": 0.6879,
+      "importance_score": 0.6879,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3181,
+        "recency": 0.2544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1313,14 +1453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,14 +1513,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1396,161 +1536,6 @@
         "url": "https://www.aibase.com/news/29879",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_55dc522f59b8",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T10:32:17.446233Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T10:32:17.446233Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7776,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T10:32:17.446233Z",
-      "latest_at": "2026-07-24T10:32:17.446233Z",
-      "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "url": "https://www.aibase.com/news/29880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4275b12f720d",
-      "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
-          "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T12:59:33.377000Z"
-        },
-        {
-          "id": "17ef619a19fb79704aa76e4c8698f5653e267ad4",
-          "title": "英特尔基于人工智能的预测显示，其复苏势头正在增强",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T22:35:30.555000Z"
-        },
-        {
-          "id": "13f1509fce711785f3e575025ec161c2ffae2d63",
-          "title": "英特尔股价飙升，因人工智能数据中心业务增长提振了销售预期",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:43:33.304000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
-          "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T12:59:33.377000Z"
-        },
-        {
-          "id": "17ef619a19fb79704aa76e4c8698f5653e267ad4",
-          "title": "英特尔基于人工智能的预测显示，其复苏势头正在增强",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T22:35:30.555000Z"
-        },
-        {
-          "id": "13f1509fce711785f3e575025ec161c2ffae2d63",
-          "title": "英特尔股价飙升，因人工智能数据中心业务增长提振了销售预期",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:43:33.304000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8798,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T20:43:33.304000Z",
-      "latest_at": "2026-07-24T12:59:33.377000Z",
-      "primary_item": {
-        "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
-        "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
