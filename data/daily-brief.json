@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T14:19:28.907571Z",
+  "generated_at": "2026-07-24T15:52:35.166550Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0020-034a-af79-9ab9cfe08f60&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0020-034a-af79-9ab9cfe08f60&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f9b3565ac66459281f06002d20547f40de9785c0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f00fb9194c9d73736f0dd63dc857c651b45c831c",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "cc073d92b547685c67acadc5bca719d8167cd095",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0314-0654-b95a-d831f832883d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ea0ee49178dcfb976dec116f0b58a2923111e717",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0151-3949-ad91-6feefb6ca684&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "f9b3565ac66459281f06002d20547f40de9785c0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f00fb9194c9d73736f0dd63dc857c651b45c831c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0020-034a-af79-9ab9cfe08f60&fp=-3",
@@ -237,15 +246,6 @@
           "id": "cc073d92b547685c67acadc5bca719d8167cd095",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0314-0654-b95a-d831f832883d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ea0ee49178dcfb976dec116f0b58a2923111e717",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0151-3949-ad91-6feefb6ca684&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T15:51:07.433051Z",
-      "latest_at": "2026-07-24T14:19:28.907571Z",
+      "earliest_at": "2026-07-23T17:13:37.059387Z",
+      "latest_at": "2026-07-24T15:52:35.166550Z",
       "primary_item": {
-        "id": "f00fb9194c9d73736f0dd63dc857c651b45c831c",
+        "id": "f9b3565ac66459281f06002d20547f40de9785c0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0020-034a-af79-9ab9cfe08f60&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0153-07da-beab-756f68df4b17&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_c2294f4348a1",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+      "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+      "primary_url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T15:25:45Z",
+      "latest_at": "2026-07-24T15:25:45Z",
+      "primary_item": {
+        "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
+        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+        "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -315,14 +375,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,14 +435,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -454,14 +514,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.7776,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -515,14 +575,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9642,
+        "recency": 0.8995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -635,14 +695,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 0.8355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,14 +755,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8118,
+        "recency": 0.7472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,14 +834,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7468,
+        "recency": 0.6822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,21 +895,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.3423,
+        "recency": 0.2776,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T22:32:23Z",
       "latest_at": "2026-07-23T22:32:23Z",
@@ -896,14 +955,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6865,
+        "recency": 0.6219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,14 +1014,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.7465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,14 +1093,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7468,
+        "recency": 0.6822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1058,66 +1117,6 @@
         "url": "https://www.aibase.com/news/29875",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_52002f50b4f8",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.2281,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
-      "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1174,14 +1173,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7468,
+        "recency": 0.6822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1254,14 +1253,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7136,
-      "importance": 0.7136,
-      "importance_score": 0.7136,
+      "score": 0.7006,
+      "importance": 0.7006,
+      "importance_score": 0.7006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3828,
+        "recency": 0.3181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,66 +1276,6 @@
         "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_53c15e4668db",
-      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2631,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T20:38:22Z",
-      "latest_at": "2026-07-23T20:38:22Z",
-      "primary_item": {
-        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1374,14 +1313,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.7776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1434,14 +1373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.7776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1494,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.7776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,6 +1456,101 @@
         "url": "https://www.aibase.com/news/29880",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4275b12f720d",
+      "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
+          "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T12:59:33.377000Z"
+        },
+        {
+          "id": "17ef619a19fb79704aa76e4c8698f5653e267ad4",
+          "title": "英特尔基于人工智能的预测显示，其复苏势头正在增强",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T22:35:30.555000Z"
+        },
+        {
+          "id": "13f1509fce711785f3e575025ec161c2ffae2d63",
+          "title": "英特尔股价飙升，因人工智能数据中心业务增长提振了销售预期",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:43:33.304000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
+          "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T12:59:33.377000Z"
+        },
+        {
+          "id": "17ef619a19fb79704aa76e4c8698f5653e267ad4",
+          "title": "英特尔基于人工智能的预测显示，其复苏势头正在增强",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T22:35:30.555000Z"
+        },
+        {
+          "id": "13f1509fce711785f3e575025ec161c2ffae2d63",
+          "title": "英特尔股价飙升，因人工智能数据中心业务增长提振了销售预期",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:43:33.304000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8798,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-23T20:43:33.304000Z",
+      "latest_at": "2026-07-24T12:59:33.377000Z",
+      "primary_item": {
+        "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
+        "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     }
   ]
