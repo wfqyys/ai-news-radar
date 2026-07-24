@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T23:54:54.836523Z",
+  "generated_at": "2026-07-24T02:06:51.931422Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1207-21b9-8eb5-7e500b4b4743&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-1207-21b9-8eb5-7e500b4b4743&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "718aff42c47d5b87bf46ea306686f35371049425",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1207-21b9-8eb5-7e500b4b4743&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "95f394550e22b60b4d14935f053c33341507dff8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1447-46ae-9993-f7b3115451d4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "af64a546e24414f5bdfb1b458f789f4d85a9b79f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1102-27ef-be7a-8460a4a420c7&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "718aff42c47d5b87bf46ea306686f35371049425",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1207-21b9-8eb5-7e500b4b4743&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
@@ -237,15 +246,6 @@
           "id": "95f394550e22b60b4d14935f053c33341507dff8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1447-46ae-9993-f7b3115451d4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "af64a546e24414f5bdfb1b458f789f4d85a9b79f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1102-27ef-be7a-8460a4a420c7&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T01:01:58.587819Z",
-      "latest_at": "2026-07-23T23:54:54.836523Z",
+      "earliest_at": "2026-07-23T04:47:19.187273Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
       "primary_item": {
-        "id": "72366d98188f6dbea80956f3080a7f686fd2eba2",
+        "id": "718aff42c47d5b87bf46ea306686f35371049425",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-23dc-8242-64b04cfdcc33&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1207-21b9-8eb5-7e500b4b4743&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8705,
-      "importance": 0.8705,
-      "importance_score": 0.8705,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9427,
+        "recency": 0.8511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,6 +339,246 @@
         "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7f2884b15907",
+      "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+      "url": "https://www.aibase.com/news/29854",
+      "primary_url": "https://www.aibase.com/news/29854",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
+          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "url": "https://www.aibase.com/news/29854",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "5437ede740b12e621da6eae30e5c049d50f97121",
+          "title": "Alphabet 持有的 Anthropic 股份价值飙升至约 1240 亿美元",
+          "url": "https://api3.cls.cn/share/article/2435681?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
+          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "url": "https://www.aibase.com/news/29854",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "5437ede740b12e621da6eae30e5c049d50f97121",
+          "title": "Alphabet 持有的 Anthropic 股份价值飙升至约 1240 亿美元",
+          "url": "https://api3.cls.cn/share/article/2435681?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T21:34:02.415306Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
+      "primary_item": {
+        "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
+        "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+        "url": "https://www.aibase.com/news/29854",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d70d846b51ce",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+      "primary_url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8916,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
+      "primary_item": {
+        "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8c1880fe5b44",
+      "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+      "url": "https://www.aibase.com/news/29849",
+      "primary_url": "https://www.aibase.com/news/29849",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
+          "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/news/29849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "e7f291c8bc3dd5a6f09a9684b54d6c0759886f19",
+          "title": "Runway 推出生成式媒体 AI 模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/zh/news/29849",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
+          "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/news/29849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "e7f291c8bc3dd5a6f09a9684b54d6c0759886f19",
+          "title": "Runway 推出生成式媒体 AI 模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/zh/news/29849",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T02:06:51.931422Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
+      "primary_item": {
+        "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
+        "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+        "url": "https://www.aibase.com/news/29849",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -376,14 +616,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8285,
+        "recency": 0.7369,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,6 +640,86 @@
         "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9a81dae508f3",
+      "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+      "url": "https://www.aibase.com/news/29851",
+      "primary_url": "https://www.aibase.com/news/29851",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
+          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+          "url": "https://www.aibase.com/news/29851",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
+          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/29851",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
+          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+          "url": "https://www.aibase.com/news/29851",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
+          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/29851",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T02:06:51.931422Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
+      "primary_item": {
+        "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
+        "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+        "url": "https://www.aibase.com/news/29851",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -437,14 +757,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8635,
+        "recency": 0.7719,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,14 +818,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,14 +878,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.7421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -618,14 +938,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8251,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -678,14 +998,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7952,
+        "recency": 0.7036,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -701,6 +1021,86 @@
         "url": "https://aihot.virxact.com/items/cmrxxj0po03lxroxpdqvnx53d",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a3ebb28926ff",
+      "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+      "url": "https://www.aibase.com/news/29852",
+      "primary_url": "https://www.aibase.com/news/29852",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+          "url": "https://www.aibase.com/news/29852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
+          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
+          "url": "https://www.aibase.com/zh/news/29852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+          "url": "https://www.aibase.com/news/29852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
+          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
+          "url": "https://www.aibase.com/zh/news/29852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T02:06:51.931422Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
+      "primary_item": {
+        "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+        "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+        "url": "https://www.aibase.com/news/29852",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -738,20 +1138,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7505,
+        "recency": 0.6589,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T17:55:42Z",
       "latest_at": "2026-07-23T17:55:42Z",
@@ -798,20 +1197,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7129,
+        "recency": 0.6213,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T17:01:30Z",
       "latest_at": "2026-07-23T17:01:30Z",
@@ -858,20 +1256,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6917,
+        "recency": 0.6001,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T16:31:01Z",
       "latest_at": "2026-07-23T16:31:01Z",
@@ -918,20 +1315,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7782,
+        "recency": 0.6865,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T18:35:29Z",
       "latest_at": "2026-07-23T18:35:29Z",
@@ -944,62 +1340,83 @@
       }
     },
     {
-      "story_id": "story_51cb85aff157",
-      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-      "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
-      "primary_url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9c497f92690c",
+      "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+      "url": "https://www.aibase.com/news/29855",
+      "primary_url": "https://www.aibase.com/news/29855",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d72d9d40545ab23a2e366b0c68884577a5eb15b0",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
+          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/news/29855",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/zh/news/29855",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d72d9d40545ab23a2e366b0c68884577a5eb15b0",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
+          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/news/29855",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
+        },
+        {
+          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/zh/news/29855",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6235,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-23T14:52:44Z",
-      "latest_at": "2026-07-23T14:52:44Z",
+      "earliest_at": "2026-07-24T02:06:51.931422Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
       "primary_item": {
-        "id": "d72d9d40545ab23a2e366b0c68884577a5eb15b0",
-        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-        "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+        "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+        "url": "https://www.aibase.com/news/29855",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1037,14 +1454,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7669,
+        "recency": 0.6753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1064,437 +1481,61 @@
       }
     },
     {
-      "story_id": "story_959e9d757ff8",
-      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-      "url": "https://www.aibase.com/news/29843",
-      "primary_url": "https://www.aibase.com/news/29843",
+      "story_id": "story_ff0c03a1a781",
+      "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
+      "url": "https://www.aibase.com/news/29848",
+      "primary_url": "https://www.aibase.com/news/29848",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "url": "https://www.aibase.com/news/29843",
+          "id": "c937b54990992105f2a742fc1f7e1471aa5ad1c2",
+          "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
+          "url": "https://www.aibase.com/news/29848",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:59:00.688650Z"
-        },
-        {
-          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
-          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
-          "url": "https://www.aibase.com/zh/news/29843",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "url": "https://www.aibase.com/news/29843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T09:59:00.688650Z"
-        },
-        {
-          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
-          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
-          "url": "https://www.aibase.com/zh/news/29843",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4195,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T09:59:00.688650Z",
-      "latest_at": "2026-07-23T09:59:00.688650Z",
-      "primary_item": {
-        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-        "url": "https://www.aibase.com/news/29843",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5a27bee3a57d",
-      "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-      "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-      "primary_url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
+          "published_at": "2026-07-24T02:06:51.931422Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
+          "id": "c937b54990992105f2a742fc1f7e1471aa5ad1c2",
+          "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
+          "url": "https://www.aibase.com/news/29848",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T02:06:51.931422Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5869,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T14:00:00Z",
-      "latest_at": "2026-07-23T14:00:00Z",
-      "primary_item": {
-        "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
-        "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-        "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_660c6350b79c",
-      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T15:30:29Z",
-      "latest_at": "2026-07-23T15:30:29Z",
+      "earliest_at": "2026-07-24T02:06:51.931422Z",
+      "latest_at": "2026-07-24T02:06:51.931422Z",
       "primary_item": {
-        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_31d1d471a9ff",
-      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-      "url": "https://www.aibase.com/news/29834",
-      "primary_url": "https://www.aibase.com/news/29834",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T07:28:09.522042Z"
-        },
-        {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T07:28:09.522042Z"
-        },
-        {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7,
-      "importance": 0.7,
-      "importance_score": 0.7,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3148,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T07:28:09.522042Z",
-      "latest_at": "2026-07-23T07:28:09.522042Z",
-      "primary_item": {
-        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-        "url": "https://www.aibase.com/news/29834",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec5b166bece9",
-      "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-      "url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
-      "primary_url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e6e05ae0b1244fb714d1bfdb1bb3d05d68eec6bf",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-          "url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T02:51:59Z"
-        },
-        {
-          "id": "8d5408770ce9f1e4966f428aa9ebc4adbcdfa2d7",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T02:51:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e6e05ae0b1244fb714d1bfdb1bb3d05d68eec6bf",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-          "url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T02:51:59Z"
-        },
-        {
-          "id": "8d5408770ce9f1e4966f428aa9ebc4adbcdfa2d7",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T02:51:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6616,
-      "importance": 0.6616,
-      "importance_score": 0.6616,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.123,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T02:51:59Z",
-      "latest_at": "2026-07-23T02:51:59Z",
-      "primary_item": {
-        "id": "e6e05ae0b1244fb714d1bfdb1bb3d05d68eec6bf",
-        "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-        "url": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5d45548b0002",
-      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-      "url": "https://www.aibase.com/news/29816",
-      "primary_url": "https://www.aibase.com/news/29816",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T04:47:19.187273Z"
-        },
-        {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T04:47:19.187273Z"
-        },
-        {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6776,
-      "importance": 0.6776,
-      "importance_score": 0.6776,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2031,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T04:47:19.187273Z",
-      "latest_at": "2026-07-23T04:47:19.187273Z",
-      "primary_item": {
-        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-        "url": "https://www.aibase.com/news/29816",
+        "id": "c937b54990992105f2a742fc1f7e1471aa5ad1c2",
+        "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
+        "url": "https://www.aibase.com/news/29848",
         "source": "AIbase",
         "source_name": "AIbase"
       }
