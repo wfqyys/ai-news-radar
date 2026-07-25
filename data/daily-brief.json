@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T10:08:20.989209Z",
+  "generated_at": "2026-07-25T11:41:28.547646Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2141-517b-8aa4-a5c5bf728e6c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-2141-517b-8aa4-a5c5bf728e6c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "182f276124c315134cf0420a1df5af8eac14b19d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2141-517b-8aa4-a5c5bf728e6c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "f5cac9f9fa1c955922fdaf8469b7b29bd040917b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7d605cd4a06814511f80da5107fb95913ed2bfba",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2032-471a-b556-5d93a2571316&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "182f276124c315134cf0420a1df5af8eac14b19d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2141-517b-8aa4-a5c5bf728e6c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
@@ -255,15 +264,6 @@
           "id": "f5cac9f9fa1c955922fdaf8469b7b29bd040917b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2216-0012-b878-7691805035f9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7d605cd4a06814511f80da5107fb95913ed2bfba",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2032-471a-b556-5d93a2571316&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T10:32:17.446233Z",
-      "latest_at": "2026-07-25T10:08:20.989209Z",
+      "earliest_at": "2026-07-24T12:15:29.498335Z",
+      "latest_at": "2026-07-25T11:41:28.547646Z",
       "primary_item": {
-        "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
+        "id": "182f276124c315134cf0420a1df5af8eac14b19d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2141-517b-8aa4-a5c5bf728e6c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -352,21 +352,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6253,
+        "recency": 0.5606,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-25T01:08:45Z",
       "latest_at": "2026-07-25T01:08:45Z",
@@ -413,14 +412,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.272,
+        "recency": 0.2074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -439,109 +438,127 @@
       }
     },
     {
-      "story_id": "story_0d93824837c0",
-      "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-      "url": "https://www.aibase.com/news/29878",
-      "primary_url": "https://www.aibase.com/news/29878",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1a80d0c28a4d",
+      "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+      "primary_url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+      "source": "www.alexhyett.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T10:32:17.446233Z"
+          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
+          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+          "source": "www.alexhyett.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T11:07:01.937000Z"
         },
         {
-          "id": "853e55fbbd390d90b06120a5a4e83cb63bb8bd29",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入 OpenAI，数学最高荣誉得主转向 AI 安全",
-          "url": "https://www.aibase.com/zh/news/29878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
+          "title": "我尝试用人工智能构建一个真正的应用程序。花了一年的时间 / I Tried Building a Real App with AI. It Took a Year",
+          "url": "https://news.ycombinator.com/item?id=49034342",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T14:06:05.677000Z"
+        },
+        {
+          "id": "ec716d2644b0134b2a8872c55b3075a33a5a3ae6",
+          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
+          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T12:00:17Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.alexhyett.com"
       ],
       "items": [
         {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T10:32:17.446233Z"
+          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
+          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+          "source": "www.alexhyett.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T11:07:01.937000Z"
         },
         {
-          "id": "853e55fbbd390d90b06120a5a4e83cb63bb8bd29",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入 OpenAI，数学最高荣誉得主转向 AI 安全",
-          "url": "https://www.aibase.com/zh/news/29878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
+          "title": "我尝试用人工智能构建一个真正的应用程序。花了一年的时间 / I Tried Building a Real App with AI. It Took a Year",
+          "url": "https://news.ycombinator.com/item?id=49034342",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T14:06:05.677000Z"
+        },
+        {
+          "id": "ec716d2644b0134b2a8872c55b3075a33a5a3ae6",
+          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
+          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T12:00:17Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6403,
-      "importance": 0.6403,
-      "importance_score": 0.6403,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5682,
+      "importance": 0.5682,
+      "importance_score": 0.5682,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0166,
-        "story_heat": 0.25
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9761,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T10:32:17.446233Z",
-      "latest_at": "2026-07-24T10:32:17.446233Z",
+      "earliest_at": "2026-07-24T12:00:17Z",
+      "latest_at": "2026-07-25T11:07:01.937000Z",
       "primary_item": {
-        "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-        "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-        "url": "https://www.aibase.com/news/29878",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
+        "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+        "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+        "source": "www.alexhyett.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_cbed4f8a8384",
-      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "story_id": "story_2b75b6719305",
+      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T09:15:25.633000Z"
+          "published_at": "2026-07-25T10:35:07.024000Z"
         },
         {
-          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T08:19:01Z"
+          "published_at": "2026-07-25T10:02:01Z"
         }
       ],
       "source_count": 2,
@@ -551,46 +568,46 @@
       ],
       "items": [
         {
-          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T09:15:25.633000Z"
+          "published_at": "2026-07-25T10:35:07.024000Z"
         },
         {
-          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T08:19:01Z"
+          "published_at": "2026-07-25T10:02:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9632,
+        "recency": 0.9539,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T08:19:01Z",
-      "latest_at": "2026-07-25T09:15:25.633000Z",
+      "earliest_at": "2026-07-25T10:02:01Z",
+      "latest_at": "2026-07-25T10:35:07.024000Z",
       "primary_item": {
-        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -648,14 +665,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8966,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,6 +686,84 @@
         "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
         "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
         "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2f0d90351d09",
+      "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+      "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+      "primary_url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:18:52.834000Z"
+        },
+        {
+          "id": "1c3259612b7ca7f95ff710eb8f2295ad81e586cc",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。 / I've worked as a software engineer for 14 years. AI could cut junior jobs — but not the need for experienced engineers.",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T09:15:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:18:52.834000Z"
+        },
+        {
+          "id": "1c3259612b7ca7f95ff710eb8f2295ad81e586cc",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。 / I've worked as a software engineer for 14 years. AI could cut junior jobs — but not the need for experienced engineers.",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T09:15:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9426,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T09:15:02Z",
+      "latest_at": "2026-07-25T10:18:52.834000Z",
+      "primary_item": {
+        "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
+        "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+        "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -725,14 +820,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.3227,
+        "recency": 0.258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -803,14 +898,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.4922,
+      "importance": 0.4922,
+      "importance_score": 0.4922,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7857,
+        "recency": 0.721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7345,
+        "recency": 0.6699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,14 +1054,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7345,
+        "recency": 0.6699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1056,14 +1151,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4906,
-      "importance": 0.4906,
-      "importance_score": 0.4906,
+      "score": 0.4776,
+      "importance": 0.4776,
+      "importance_score": 0.4776,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5878,
+        "recency": 0.5231,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1153,14 +1248,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4813,
-      "importance": 0.4813,
-      "importance_score": 0.4813,
+      "score": 0.4683,
+      "importance": 0.4683,
+      "importance_score": 0.4683,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5413,
+        "recency": 0.4766,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1174,6 +1269,84 @@
         "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
         "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
         "source": "unsung.aresluna.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbed4f8a8384",
+      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T08:19:01Z",
+      "latest_at": "2026-07-25T09:15:25.633000Z",
+      "primary_item": {
+        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1231,14 +1404,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4567,
+      "importance": 0.4567,
+      "importance_score": 0.4567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.608,
+        "recency": 0.5434,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1309,14 +1482,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7345,
+        "recency": 0.6699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,14 +1560,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4607,
-      "importance": 0.4607,
-      "importance_score": 0.4607,
+      "score": 0.4478,
+      "importance": 0.4478,
+      "importance_score": 0.4478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5635,
+        "recency": 0.4988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,14 +1637,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4874,
-      "importance": 0.4874,
-      "importance_score": 0.4874,
+      "score": 0.4745,
+      "importance": 0.4745,
+      "importance_score": 0.4745,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6971,
+        "recency": 0.6325,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1542,14 +1715,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.4322,
+      "importance": 0.4322,
+      "importance_score": 0.4322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4857,
+        "recency": 0.421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1638,14 +1811,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.439,
-      "importance": 0.439,
-      "importance_score": 0.439,
+      "score": 0.4261,
+      "importance": 0.4261,
+      "importance_score": 0.4261,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3301,
+        "recency": 0.2654,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1659,181 +1832,6 @@
         "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_890207b2b481",
-      "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "primary_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "source": "images.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:36:12.432000Z"
-        },
-        {
-          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "images.nvidia.com"
-      ],
-      "items": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:36:12.432000Z"
-        },
-        {
-          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4323,
-      "importance": 0.4323,
-      "importance_score": 0.4323,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2967,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:58:12Z",
-      "latest_at": "2026-07-24T17:15:36.535000Z",
-      "primary_item": {
-        "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-        "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "source": "images.nvidia.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e7c943659275",
-      "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-      "primary_url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c5ae713ed7127e5e1c33addb2305d9d675bd5a38",
-          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
-          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.349000Z"
-        },
-        {
-          "id": "aac4e194476f0b5a481661eca187184474336a73",
-          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应 / Canadian legislator reads out apparent LLM response in floor speech",
-          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T21:25:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "c5ae713ed7127e5e1c33addb2305d9d675bd5a38",
-          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
-          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.349000Z"
-        },
-        {
-          "id": "aac4e194476f0b5a481661eca187184474336a73",
-          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应 / Canadian legislator reads out apparent LLM response in floor speech",
-          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T21:25:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4857,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T21:25:15Z",
-      "latest_at": "2026-07-24T21:47:42.349000Z",
-      "primary_item": {
-        "id": "c5ae713ed7127e5e1c33addb2305d9d675bd5a38",
-        "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
-        "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     }
