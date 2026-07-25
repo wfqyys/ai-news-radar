@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T08:28:13.987487Z",
+  "generated_at": "2026-07-25T10:08:20.989209Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1828-3683-87c6-46476e135644&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-1828-3683-87c6-46476e135644&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7e7e2742f38237772cc1494f6f87ad669947225f",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7e7e2742f38237772cc1494f6f87ad669947225f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1828-3683-87c6-46476e135644&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,17 +289,17 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-24T10:32:17.446233Z",
-      "latest_at": "2026-07-25T08:28:13.987487Z",
+      "latest_at": "2026-07-25T10:08:20.989209Z",
       "primary_item": {
-        "id": "7e7e2742f38237772cc1494f6f87ad669947225f",
+        "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1828-3683-87c6-46476e135644&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_919f33d88a9b",
+      "story_id": "story_fd7969533d87",
       "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
       "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
       "primary_url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
@@ -334,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6948,
+        "recency": 0.6253,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -395,21 +413,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3416,
+        "recency": 0.272,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T16:40:04Z",
       "latest_at": "2026-07-24T16:40:04Z",
@@ -419,65 +436,6 @@
         "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a93f595d6f60",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-      "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-      "primary_url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-      "source": "Midjourney：Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Midjourney：Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5768,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T22:18:48Z",
-      "latest_at": "2026-07-24T22:18:48Z",
-      "primary_item": {
-        "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
-        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-        "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-        "source": "Midjourney：Updates（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -534,14 +492,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6542,
-      "importance": 0.6542,
-      "importance_score": 0.6542,
+      "score": 0.6403,
+      "importance": 0.6403,
+      "importance_score": 0.6403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0862,
+        "recency": 0.0166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -557,6 +515,84 @@
         "url": "https://www.aibase.com/news/29878",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cbed4f8a8384",
+      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9632,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T08:19:01Z",
+      "latest_at": "2026-07-25T09:15:25.633000Z",
+      "primary_item": {
+        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -612,14 +648,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9662,
+        "recency": 0.8966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -689,14 +725,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.3922,
+        "recency": 0.3227,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -767,14 +803,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8552,
+        "recency": 0.7857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -845,14 +881,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,14 +959,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,14 +1056,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5045,
-      "importance": 0.5045,
-      "importance_score": 0.5045,
+      "score": 0.4906,
+      "importance": 0.4906,
+      "importance_score": 0.4906,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6573,
+        "recency": 0.5878,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1117,14 +1153,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6108,
+        "recency": 0.5413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1195,14 +1231,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4835,
-      "importance": 0.4835,
-      "importance_score": 0.4835,
+      "score": 0.4696,
+      "importance": 0.4696,
+      "importance_score": 0.4696,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6776,
+        "recency": 0.608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,14 +1309,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,14 +1387,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4746,
-      "importance": 0.4746,
-      "importance_score": 0.4746,
+      "score": 0.4607,
+      "importance": 0.4607,
+      "importance_score": 0.4607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.633,
+        "recency": 0.5635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,14 +1464,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
+      "score": 0.4874,
+      "importance": 0.4874,
+      "importance_score": 0.4874,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7667,
+        "recency": 0.6971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1506,14 +1542,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.459,
-      "importance": 0.459,
-      "importance_score": 0.459,
+      "score": 0.4451,
+      "importance": 0.4451,
+      "importance_score": 0.4451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5552,
+        "recency": 0.4857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1602,14 +1638,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4529,
-      "importance": 0.4529,
-      "importance_score": 0.4529,
+      "score": 0.439,
+      "importance": 0.439,
+      "importance_score": 0.439,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3996,
+        "recency": 0.3301,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1699,14 +1735,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4462,
-      "importance": 0.4462,
-      "importance_score": 0.4462,
+      "score": 0.4323,
+      "importance": 0.4323,
+      "importance_score": 0.4323,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3662,
+        "recency": 0.2967,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1777,14 +1813,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.459,
-      "importance": 0.459,
-      "importance_score": 0.459,
+      "score": 0.4451,
+      "importance": 0.4451,
+      "importance_score": 0.4451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5552,
+        "recency": 0.4857,
         "story_heat": 0.25
       },
       "category": "watch",
