@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T15:59:37.147496Z",
+  "generated_at": "2026-07-25T17:06:36.241288Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0200-063d-91e1-68b45f5f2c56&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0200-063d-91e1-68b45f5f2c56&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0307-0189-9acc-ea0c54e1ca61&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0307-0189-9acc-ea0c54e1ca61&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "c57fb9bc06d8fcbf357c8e652ad92eaae0f41a38",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0307-0189-9acc-ea0c54e1ca61&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "214e0feeb4ddc77c0a45b84abcd7d68cc94d7768",
           "title": "点击这里进入 / Click here to enter",
@@ -138,12 +147,21 @@
           "published_at": null
         }
       ],
-      "source_count": 14,
+      "source_count": 15,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "c57fb9bc06d8fcbf357c8e652ad92eaae0f41a38",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0307-0189-9acc-ea0c54e1ca61&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "214e0feeb4ddc77c0a45b84abcd7d68cc94d7768",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0200-063d-91e1-68b45f5f2c56&fp=-3",
@@ -270,8 +288,8 @@
           "published_at": null
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
+      "item_count": 15,
+      "duplicate_count": 15,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -289,11 +307,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-24T17:24:20.761935Z",
-      "latest_at": "2026-07-25T15:59:37.147496Z",
+      "latest_at": "2026-07-25T17:06:36.241288Z",
       "primary_item": {
-        "id": "214e0feeb4ddc77c0a45b84abcd7d68cc94d7768",
+        "id": "c57fb9bc06d8fcbf357c8e652ad92eaae0f41a38",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0200-063d-91e1-68b45f5f2c56&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0307-0189-9acc-ea0c54e1ca61&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7133,
-      "importance": 0.7133,
-      "importance_score": 0.7133,
+      "score": 0.704,
+      "importance": 0.704,
+      "importance_score": 0.704,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3813,
+        "recency": 0.3348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -435,6 +453,162 @@
         "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2635b89b4413",
+      "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:52:06.885000Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:52:06.885000Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T14:49:49Z",
+      "latest_at": "2026-07-25T16:52:06.885000Z",
+      "primary_item": {
+        "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+        "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "一般性决议：Debian 中 LLM 的使用",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        },
+        {
+          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T16:10:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        },
+        {
+          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T16:10:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9727,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T16:10:47Z",
+      "latest_at": "2026-07-25T16:27:16.797000Z",
+      "primary_item": {
+        "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+        "title": "一般性决议：Debian 中 LLM 的使用",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -491,14 +665,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9455,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -513,84 +687,6 @@
         "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_4de03213f8f7",
-      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://news.ycombinator.com/item?id=49047448",
-      "primary_url": "https://news.ycombinator.com/item?id=49047448",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T14:21:50.881000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T14:21:50.881000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9321,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:33:03Z",
-      "latest_at": "2026-07-25T14:21:50.881000Z",
-      "primary_item": {
-        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "url": "https://news.ycombinator.com/item?id=49047448",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -647,14 +743,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8856,
+        "recency": 0.8391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,6 +765,84 @@
         "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4de03213f8f7",
+      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://news.ycombinator.com/item?id=49047448",
+      "primary_url": "https://news.ycombinator.com/item?id=49047448",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T14:21:50.881000Z"
+        },
+        {
+          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T13:33:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T14:21:50.881000Z"
+        },
+        {
+          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T13:33:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8856,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T13:33:03Z",
+      "latest_at": "2026-07-25T14:21:50.881000Z",
+      "primary_item": {
+        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "url": "https://news.ycombinator.com/item?id=49047448",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -724,14 +898,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4785,
-      "importance": 0.4785,
-      "importance_score": 0.4785,
+      "score": 0.4692,
+      "importance": 0.4692,
+      "importance_score": 0.4692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6527,
+        "recency": 0.6062,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.4936,
+      "importance": 0.4936,
+      "importance_score": 0.4936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7747,
+        "recency": 0.7281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,14 +1053,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4657,
-      "importance": 0.4657,
-      "importance_score": 0.4657,
+      "score": 0.4564,
+      "importance": 0.4564,
+      "importance_score": 0.4564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.0787,
+        "recency": 0.0322,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -957,14 +1131,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4564,
-      "importance": 0.4564,
-      "importance_score": 0.4564,
+      "score": 0.447,
+      "importance": 0.447,
+      "importance_score": 0.447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5418,
+        "recency": 0.4952,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,14 +1209,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4461,
-      "importance": 0.4461,
-      "importance_score": 0.4461,
+      "score": 0.4368,
+      "importance": 0.4368,
+      "importance_score": 0.4368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4906,
+        "recency": 0.4441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1113,14 +1287,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4461,
-      "importance": 0.4461,
-      "importance_score": 0.4461,
+      "score": 0.4368,
+      "importance": 0.4368,
+      "importance_score": 0.4368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4906,
+        "recency": 0.4441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1191,14 +1365,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.4914,
+      "importance": 0.4914,
+      "importance_score": 0.4914,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7634,
+        "recency": 0.7169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1288,14 +1462,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4325,
-      "importance": 0.4325,
-      "importance_score": 0.4325,
+      "score": 0.4232,
+      "importance": 0.4232,
+      "importance_score": 0.4232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2973,
+        "recency": 0.2508,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1366,14 +1540,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4208,
-      "importance": 0.4208,
-      "importance_score": 0.4208,
+      "score": 0.4115,
+      "importance": 0.4115,
+      "importance_score": 0.4115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3641,
+        "recency": 0.3176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1444,14 +1618,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4461,
-      "importance": 0.4461,
-      "importance_score": 0.4461,
+      "score": 0.4368,
+      "importance": 0.4368,
+      "importance_score": 0.4368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4906,
+        "recency": 0.4441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,14 +1696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4119,
-      "importance": 0.4119,
-      "importance_score": 0.4119,
+      "score": 0.4026,
+      "importance": 0.4026,
+      "importance_score": 0.4026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3196,
+        "recency": 0.2731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1619,14 +1793,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4418,
-      "importance": 0.4418,
-      "importance_score": 0.4418,
+      "score": 0.4325,
+      "importance": 0.4325,
+      "importance_score": 0.4325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3438,
+        "recency": 0.2973,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1641,162 +1815,6 @@
         "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_cbed4f8a8384",
-      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T09:15:25.633000Z"
-        },
-        {
-          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T08:19:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T09:15:25.633000Z"
-        },
-        {
-          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T08:19:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4919,
-      "importance": 0.4919,
-      "importance_score": 0.4919,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7193,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T08:19:01Z",
-      "latest_at": "2026-07-25T09:15:25.633000Z",
-      "primary_item": {
-        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_70081e2eda02",
-      "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-      "primary_url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.345000Z"
-        },
-        {
-          "id": "91ad81f7fa941cd2b198dfb3408c76cd919985e2",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃 / Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T21:05:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.345000Z"
-        },
-        {
-          "id": "91ad81f7fa941cd2b198dfb3408c76cd919985e2",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃 / Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T21:05:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3963,
-      "importance": 0.3963,
-      "importance_score": 0.3963,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2417,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T21:05:51Z",
-      "latest_at": "2026-07-24T21:47:42.345000Z",
-      "primary_item": {
-        "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-        "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
       }
     }
   ]
