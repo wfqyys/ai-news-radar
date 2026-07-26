@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T14:47:19.880464Z",
+  "generated_at": "2026-07-26T15:57:09.379410Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0047-42f5-9fe7-6bddb7552191&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0047-42f5-9fe7-6bddb7552191&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0157-3370-ba56-102bd73c7808&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0157-3370-ba56-102bd73c7808&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4ed65063fbe2640edba57a355366d902bcf7b542",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0157-3370-ba56-102bd73c7808&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "6f9addb81d0261e285c41bd4914d3bbceb609b44",
           "title": "点击这里进入 / Click here to enter",
@@ -147,12 +156,21 @@
           "published_at": null
         }
       ],
-      "source_count": 15,
+      "source_count": 16,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "4ed65063fbe2640edba57a355366d902bcf7b542",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0157-3370-ba56-102bd73c7808&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "6f9addb81d0261e285c41bd4914d3bbceb609b44",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0047-42f5-9fe7-6bddb7552191&fp=-3",
@@ -288,8 +306,8 @@
           "published_at": null
         }
       ],
-      "item_count": 15,
-      "duplicate_count": 15,
+      "item_count": 16,
+      "duplicate_count": 16,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -307,11 +325,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-25T15:59:37.147496Z",
-      "latest_at": "2026-07-26T14:47:19.880464Z",
+      "latest_at": "2026-07-26T15:57:09.379410Z",
       "primary_item": {
-        "id": "6f9addb81d0261e285c41bd4914d3bbceb609b44",
+        "id": "4ed65063fbe2640edba57a355366d902bcf7b542",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0047-42f5-9fe7-6bddb7552191&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0157-3370-ba56-102bd73c7808&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -370,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.8731,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,14 +449,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.742,
+        "recency": 0.6935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,65 +471,6 @@
         "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
         "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_73ab447bb1af",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-      "primary_url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T03:54:52Z",
-      "latest_at": "2026-07-26T03:54:52Z",
-      "primary_item": {
-        "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
-        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -550,14 +509,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6156,
+        "recency": 0.5671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,6 +531,84 @@
         "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b6ef92302bcf",
+      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+      "url": "https://news.ycombinator.com/item?id=49058669",
+      "primary_url": "https://news.ycombinator.com/item?id=49058669",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:57:36.377000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:57:36.377000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T15:57:36.377000Z",
+      "primary_item": {
+        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+        "url": "https://news.ycombinator.com/item?id=49058669",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -647,14 +684,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8469,
+        "recency": 0.7984,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -725,14 +762,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.947,
+        "recency": 0.8985,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -750,79 +787,79 @@
       }
     },
     {
-      "story_id": "story_2ed824c58a51",
-      "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-      "url": "https://news.ycombinator.com/item?id=49056689",
-      "primary_url": "https://news.ycombinator.com/item?id=49056689",
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
+          "published_at": "2026-07-26T15:57:36.377000Z"
         },
         {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
+          "published_at": "2026-07-26T15:57:36.377000Z"
         },
         {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9223,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T10:42:00Z",
-      "latest_at": "2026-07-26T12:55:30.643000Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:57:36.377000Z",
       "primary_item": {
-        "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-        "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-        "url": "https://news.ycombinator.com/item?id=49056689",
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -900,14 +937,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7136,
+        "recency": 0.6651,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1014,14 +1051,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5469,
+        "recency": 0.4984,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1092,14 +1129,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4885,
-      "importance": 0.4885,
-      "importance_score": 0.4885,
+      "score": 0.4788,
+      "importance": 0.4788,
+      "importance_score": 0.4788,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7025,
+        "recency": 0.654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1189,14 +1226,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4824,
-      "importance": 0.4824,
-      "importance_score": 0.4824,
+      "score": 0.4727,
+      "importance": 0.4727,
+      "importance_score": 0.4727,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5469,
+        "recency": 0.4984,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1267,14 +1304,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8135,
+        "recency": 0.765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,6 +1326,84 @@
         "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2ed824c58a51",
+      "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+      "url": "https://news.ycombinator.com/item?id=49056689",
+      "primary_url": "https://news.ycombinator.com/item?id=49056689",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://news.ycombinator.com/item?id=49056689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T12:55:30.643000Z"
+        },
+        {
+          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://code.claude.com/docs/en/data-usage",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:42:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://news.ycombinator.com/item?id=49056689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T12:55:30.643000Z"
+        },
+        {
+          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://code.claude.com/docs/en/data-usage",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:42:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8739,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T10:42:00Z",
+      "latest_at": "2026-07-26T12:55:30.643000Z",
+      "primary_item": {
+        "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
+        "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+        "url": "https://news.ycombinator.com/item?id=49056689",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1364,14 +1479,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4824,
-      "importance": 0.4824,
-      "importance_score": 0.4824,
+      "score": 0.4727,
+      "importance": 0.4727,
+      "importance_score": 0.4727,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5469,
+        "recency": 0.4984,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1461,14 +1576,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4446,
-      "importance": 0.4446,
-      "importance_score": 0.4446,
+      "score": 0.4349,
+      "importance": 0.4349,
+      "importance_score": 0.4349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3582,
+        "recency": 0.3097,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1539,14 +1654,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
+      "score": 0.4855,
+      "importance": 0.4855,
+      "importance_score": 0.4855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7358,
+        "recency": 0.6873,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1560,180 +1675,6 @@
         "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
         "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bded7cfd2e34",
-      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-      "url": "https://news.ycombinator.com/item?id=49050859",
-      "primary_url": "https://news.ycombinator.com/item?id=49050859",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T02:11:13.218000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:36:06.535000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T02:11:13.218000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:36:06.535000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.443,
-      "importance": 0.443,
-      "importance_score": 0.443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4749,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T22:36:06.535000Z",
-      "latest_at": "2026-07-26T02:11:13.218000Z",
-      "primary_item": {
-        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-        "url": "https://news.ycombinator.com/item?id=49050859",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2635b89b4413",
-      "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-      "primary_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-      "source": "tobi.knaup.me",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "tobi.knaup.me",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T18:19:01.763000Z"
-        },
-        {
-          "id": "88c737a3a01b84780895c5873a1200fca6e52247",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T14:49:49Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "tobi.knaup.me"
-      ],
-      "items": [
-        {
-          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "tobi.knaup.me",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T18:19:01.763000Z"
-        },
-        {
-          "id": "88c737a3a01b84780895c5873a1200fca6e52247",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T14:49:49Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4024,
-      "importance": 0.4024,
-      "importance_score": 0.4024,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.147,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T14:49:49Z",
-      "latest_at": "2026-07-25T18:19:01.763000Z",
-      "primary_item": {
-        "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-        "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-        "source": "tobi.knaup.me",
         "source_name": "Buzzing"
       }
     },
@@ -1791,14 +1732,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4023,
-      "importance": 0.4023,
-      "importance_score": 0.4023,
+      "score": 0.3926,
+      "importance": 0.3926,
+      "importance_score": 0.3926,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2714,
+        "recency": 0.2229,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1869,14 +1810,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3908,
-      "importance": 0.3908,
-      "importance_score": 0.3908,
+      "score": 0.3811,
+      "importance": 0.3811,
+      "importance_score": 0.3811,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2141,
+        "recency": 0.1656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1891,6 +1832,83 @@
         "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
         "source": "claude.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9130fcc2d02a",
+      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        },
+        {
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        },
+        {
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3877,
+      "importance": 0.3877,
+      "importance_score": 0.3877,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:43:11Z",
+      "latest_at": "2026-07-25T20:43:11Z",
+      "primary_item": {
+        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+        "url": "https://fly.io/blog/kurt-scott-money-sprites",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
