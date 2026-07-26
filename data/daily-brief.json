@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T20:51:17.982995Z",
+  "generated_at": "2026-07-26T21:53:47.768966Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "275f127cd909214075081373efdb075cbc56e90d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "5302c8c9fda2ca47a76c54f512853919d09a0d46",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0847-57f7-b539-1145ea2516d4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1319e7b20da0ea41bb262ce2cd3c969d9444c0b2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0749-0723-ab4b-2b9ebd059509&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "275f127cd909214075081373efdb075cbc56e90d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
@@ -273,15 +282,6 @@
           "id": "5302c8c9fda2ca47a76c54f512853919d09a0d46",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0847-57f7-b539-1145ea2516d4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1319e7b20da0ea41bb262ce2cd3c969d9444c0b2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0749-0723-ab4b-2b9ebd059509&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T21:48:46.931933Z",
-      "latest_at": "2026-07-26T20:51:17.982995Z",
+      "earliest_at": "2026-07-25T22:47:37.349065Z",
+      "latest_at": "2026-07-26T21:53:47.768966Z",
       "primary_item": {
-        "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
+        "id": "275f127cd909214075081373efdb075cbc56e90d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -430,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6689,
+        "recency": 0.6255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -454,6 +454,103 @@
         "url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a43a7c831c0",
+      "title": "人工智能的新“超能力”：专注与坚持到底",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "primary_url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "www.rickmanelius.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+          "title": "人工智能的新“超能力”：专注与坚持到底",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "www.rickmanelius.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T21:46:07.121000Z"
+        },
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:57:36.377000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "人工智能的新“超能力”：专注与坚持到底 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.rickmanelius.com"
+      ],
+      "items": [
+        {
+          "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+          "title": "人工智能的新“超能力”：专注与坚持到底",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "www.rickmanelius.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T21:46:07.121000Z"
+        },
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:57:36.377000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "人工智能的新“超能力”：专注与坚持到底 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5719,
+      "importance": 0.5719,
+      "importance_score": 0.5719,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9947,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T21:46:07.121000Z",
+      "primary_item": {
+        "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+        "title": "人工智能的新“超能力”：专注与坚持到底",
+        "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+        "source": "www.rickmanelius.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -474,15 +571,6 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:57:36.377000Z"
-        },
-        {
           "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
@@ -501,12 +589,11 @@
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
-        "aerospaceglobalnews.com",
-        "hackernews"
+        "aerospaceglobalnews.com"
       ],
       "items": [
         {
@@ -519,15 +606,6 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:57:36.377000Z"
-        },
-        {
           "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
@@ -546,17 +624,17 @@
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8274,
-        "story_heat": 0.75
+        "recency": 0.784,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -626,14 +704,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.8976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -652,7 +730,7 @@
     },
     {
       "story_id": "story_ace01848219f",
-      "title": "德克尔 / Decker",
+      "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
       "url": "https://beyondloom.com/decker",
       "primary_url": "https://beyondloom.com/decker",
       "source": "Hacker News · 24h最热",
@@ -660,7 +738,7 @@
       "sources": [
         {
           "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "德克尔 / Decker",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -669,7 +747,7 @@
         },
         {
           "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -684,7 +762,7 @@
       "items": [
         {
           "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "德克尔 / Decker",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -693,7 +771,7 @@
         },
         {
           "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -703,14 +781,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8971,
+        "recency": 0.8537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,7 +799,7 @@
       "latest_at": "2026-07-26T18:23:06Z",
       "primary_item": {
         "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-        "title": "德克尔 / Decker",
+        "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
         "url": "https://beyondloom.com/decker",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -781,14 +859,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8609,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -859,14 +937,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8843,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -956,14 +1034,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
+      "score": 0.4831,
+      "importance": 0.4831,
+      "importance_score": 0.4831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5941,
+        "recency": 0.5507,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1034,14 +1112,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4868,
-      "importance": 0.4868,
-      "importance_score": 0.4868,
+      "score": 0.4782,
+      "importance": 0.4782,
+      "importance_score": 0.4782,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6942,
+        "recency": 0.6508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1111,14 +1189,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4929,
+      "importance": 0.4929,
+      "importance_score": 0.4929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7679,
+        "recency": 0.7245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,14 +1286,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4652,
-      "importance": 0.4652,
-      "importance_score": 0.4652,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4608,
+        "recency": 0.4174,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1230,84 +1308,6 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:57:36.377000Z"
-        },
-        {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:57:36.377000Z"
-        },
-        {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.796,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:57:36.377000Z",
-      "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1364,14 +1364,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4379,
-      "importance": 0.4379,
-      "importance_score": 0.4379,
+      "score": 0.4293,
+      "importance": 0.4293,
+      "importance_score": 0.4293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4497,
+        "recency": 0.4063,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1442,14 +1442,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4602,
-      "importance": 0.4602,
-      "importance_score": 0.4602,
+      "score": 0.4515,
+      "importance": 0.4515,
+      "importance_score": 0.4515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5608,
+        "recency": 0.5174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,6 +1464,84 @@
         "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2ed824c58a51",
+      "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+      "url": "https://news.ycombinator.com/item?id=49056689",
+      "primary_url": "https://news.ycombinator.com/item?id=49056689",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://news.ycombinator.com/item?id=49056689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T12:55:30.643000Z"
+        },
+        {
+          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://code.claude.com/docs/en/data-usage",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:42:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://news.ycombinator.com/item?id=49056689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T12:55:30.643000Z"
+        },
+        {
+          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
+          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "url": "https://code.claude.com/docs/en/data-usage",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:42:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4732,
+      "importance": 0.4732,
+      "importance_score": 0.4732,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6262,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T10:42:00Z",
+      "latest_at": "2026-07-26T12:55:30.643000Z",
+      "primary_item": {
+        "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
+        "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
+        "url": "https://news.ycombinator.com/item?id=49056689",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1539,14 +1617,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4318,
-      "importance": 0.4318,
-      "importance_score": 0.4318,
+      "score": 0.4232,
+      "importance": 0.4232,
+      "importance_score": 0.4232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2942,
+        "recency": 0.2508,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1561,162 +1639,6 @@
         "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_40b66364c786",
-      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T02:18:54.069000Z"
-        },
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T02:18:54.069000Z"
-        },
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3935,
-      "importance": 0.3935,
-      "importance_score": 0.3935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2275,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:59:11.659000Z",
-      "latest_at": "2026-07-26T02:18:54.069000Z",
-      "primary_item": {
-        "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2ed824c58a51",
-      "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-      "url": "https://news.ycombinator.com/item?id=49056689",
-      "primary_url": "https://news.ycombinator.com/item?id=49056689",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
-        },
-        {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
-        },
-        {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4819,
-      "importance": 0.4819,
-      "importance_score": 0.4819,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6696,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:42:00Z",
-      "latest_at": "2026-07-26T12:55:30.643000Z",
-      "primary_item": {
-        "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-        "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-        "url": "https://news.ycombinator.com/item?id=49056689",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1773,14 +1695,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4446,
-      "importance": 0.4446,
-      "importance_score": 0.4446,
+      "score": 0.4359,
+      "importance": 0.4359,
+      "importance_score": 0.4359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.483,
+        "recency": 0.4396,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1850,14 +1772,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3924,
-      "importance": 0.3924,
-      "importance_score": 0.3924,
+      "score": 0.3838,
+      "importance": 0.3838,
+      "importance_score": 0.3838,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2222,
+        "recency": 0.1788,
         "story_heat": 0.25
       },
       "category": "watch",
