@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T08:15:17.404747Z",
+  "generated_at": "2026-07-26T10:16:23.561331Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1815-40dd-a0a8-0633bdfddcb3&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-1815-40dd-a0a8-0633bdfddcb3&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2016-48e5-bb16-6093badb2ac0&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-2016-48e5-bb16-6093badb2ac0&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "73f496172798b45d5c3f0c5b5c68114f6099ed09",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2016-48e5-bb16-6093badb2ac0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "dde86beaf9ece9b897c2542f82c4ff4a34a9fca6",
           "title": "点击这里进入 / Click here to enter",
@@ -136,32 +145,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7e7e2742f38237772cc1494f6f87ad669947225f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1828-3683-87c6-46476e135644&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 16,
+      "source_count": 15,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "73f496172798b45d5c3f0c5b5c68114f6099ed09",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2016-48e5-bb16-6093badb2ac0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "dde86beaf9ece9b897c2542f82c4ff4a34a9fca6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1815-40dd-a0a8-0633bdfddcb3&fp=-3",
@@ -286,28 +286,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "a3ea76c0b3792be8a976d2c37e2f72e24551855c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2008-4364-9555-88a39a29b77e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7e7e2742f38237772cc1494f6f87ad669947225f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1828-3683-87c6-46476e135644&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 16,
-      "duplicate_count": 16,
+      "item_count": 15,
+      "duplicate_count": 15,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -324,14 +306,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T08:28:13.987487Z",
-      "latest_at": "2026-07-26T08:15:17.404747Z",
+      "earliest_at": "2026-07-25T11:41:28.547646Z",
+      "latest_at": "2026-07-26T10:16:23.561331Z",
       "primary_item": {
-        "id": "dde86beaf9ece9b897c2542f82c4ff4a34a9fca6",
+        "id": "73f496172798b45d5c3f0c5b5c68114f6099ed09",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1815-40dd-a0a8-0633bdfddcb3&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2016-48e5-bb16-6093badb2ac0&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_374cd493157f",
+      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+      "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+      "primary_url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aa07566062ab676281ff6daf0a431598cbc4d465",
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+          "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T08:35:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aa07566062ab676281ff6daf0a431598cbc4d465",
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+          "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T08:35:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9302,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T08:35:49Z",
+      "latest_at": "2026-07-26T08:35:49Z",
+      "primary_item": {
+        "id": "aa07566062ab676281ff6daf0a431598cbc4d465",
+        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+        "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -369,14 +411,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8037,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,14 +471,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,14 +531,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6739,
+        "recency": 0.5898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,14 +628,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9017,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -700,14 +742,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8192,
+        "recency": 0.7351,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -721,6 +763,84 @@
         "title": "Debian 中 LLM 的应用：三项提案",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "source": "www.debian.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a3b5dcaa1793",
+      "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+      "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "32983f03804d9d312c734f42395e4adf75445c37",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T08:26:52.518000Z"
+        },
+        {
+          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "32983f03804d9d312c734f42395e4adf75445c37",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T08:26:52.518000Z"
+        },
+        {
+          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9239,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T08:11:01Z",
+      "latest_at": "2026-07-26T08:26:52.518000Z",
+      "primary_item": {
+        "id": "32983f03804d9d312c734f42395e4adf75445c37",
+        "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+        "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -778,14 +898,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9747,
+        "recency": 0.8906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -875,14 +995,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8192,
+        "recency": 0.7351,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -972,14 +1092,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8192,
+        "recency": 0.7351,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1069,14 +1189,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.4823,
+      "importance": 0.4823,
+      "importance_score": 0.4823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6305,
+        "recency": 0.5464,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1146,14 +1266,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4974,
-      "importance": 0.4974,
-      "importance_score": 0.4974,
+      "score": 0.4806,
+      "importance": 0.4806,
+      "importance_score": 0.4806,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7472,
+        "recency": 0.6631,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,83 +1288,6 @@
         "url": "https://news.ycombinator.com/item?id=49050859",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8ec02e1c13b5",
-      "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-      "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4878142.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T01:30:00Z"
-        },
-        {
-          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T09:41:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T01:30:00Z"
-        },
-        {
-          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T09:41:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4917,
-      "importance": 0.4917,
-      "importance_score": 0.4917,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7185,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T09:41:17Z",
-      "latest_at": "2026-07-26T01:30:00Z",
-      "primary_item": {
-        "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
-        "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-        "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1320,14 +1363,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4569,
-      "importance": 0.4569,
-      "importance_score": 0.4569,
+      "score": 0.44,
+      "importance": 0.44,
+      "importance_score": 0.44,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4193,
+        "recency": 0.3352,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1398,14 +1441,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4567,
-      "importance": 0.4567,
-      "importance_score": 0.4567,
+      "score": 0.4399,
+      "importance": 0.4399,
+      "importance_score": 0.4399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5436,
+        "recency": 0.4595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1420,84 +1463,6 @@
         "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_40b66364c786",
-      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-      "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        },
-        {
-          "id": "1a8594fac9c97c26e23f9918e366df5e0e9c7262",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” / Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        },
-        {
-          "id": "1a8594fac9c97c26e23f9918e366df5e0e9c7262",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” / Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4541,
-      "importance": 0.4541,
-      "importance_score": 0.4541,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5305,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:21:01Z",
-      "latest_at": "2026-07-25T20:59:11.659000Z",
-      "primary_item": {
-        "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-        "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1554,14 +1519,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4759,
-      "importance": 0.4759,
-      "importance_score": 0.4759,
+      "score": 0.4591,
+      "importance": 0.4591,
+      "importance_score": 0.4591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6395,
+        "recency": 0.5554,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1632,14 +1597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4453,
-      "importance": 0.4453,
-      "importance_score": 0.4453,
+      "score": 0.4284,
+      "importance": 0.4284,
+      "importance_score": 0.4284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4863,
+        "recency": 0.4022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,6 +1618,84 @@
         "title": "Show HN: 《扫雷》光线投射版",
         "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
         "source": "claude.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_40b66364c786",
+      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+      "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
+        },
+        {
+          "id": "1a8594fac9c97c26e23f9918e366df5e0e9c7262",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” / Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
+        },
+        {
+          "id": "1a8594fac9c97c26e23f9918e366df5e0e9c7262",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” / Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4373,
+      "importance": 0.4373,
+      "importance_score": 0.4373,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:21:01Z",
+      "latest_at": "2026-07-25T20:59:11.659000Z",
+      "primary_item": {
+        "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+        "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1709,14 +1752,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4519,
-      "importance": 0.4519,
-      "importance_score": 0.4519,
+      "score": 0.4351,
+      "importance": 0.4351,
+      "importance_score": 0.4351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5194,
+        "recency": 0.4353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1786,14 +1829,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4407,
-      "importance": 0.4407,
-      "importance_score": 0.4407,
+      "score": 0.4239,
+      "importance": 0.4239,
+      "importance_score": 0.4239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4635,
+        "recency": 0.3794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1808,84 +1851,6 @@
         "url": "https://news.ycombinator.com/item?id=49048034",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7991fa3ce865",
-      "title": "AI的新“北极星”：每美元智能值",
-      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-          "title": "AI的新“北极星”：每美元智能值",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.939000Z"
-        },
-        {
-          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
-          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T13:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-          "title": "AI的新“北极星”：每美元智能值",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.939000Z"
-        },
-        {
-          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
-          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T13:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3896,
-      "importance": 0.3896,
-      "importance_score": 0.3896,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.208,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:02:01Z",
-      "latest_at": "2026-07-25T13:14:51.939000Z",
-      "primary_item": {
-        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-        "title": "AI的新“北极星”：每美元智能值",
-        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
