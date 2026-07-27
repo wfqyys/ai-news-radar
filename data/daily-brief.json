@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-27T20:49:33.539452Z",
+  "generated_at": "2026-07-27T22:00:31.496912Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5f975378adb08b1d4a380e573da9f069feb73ca8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "50ae9e416dbc26e7f09955c69ccc5dc5b0b7be8f",
           "title": "点击这里进入 / Click here to enter",
@@ -100,32 +109,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "275f127cd909214075081373efdb075cbc56e90d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 11,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "5f975378adb08b1d4a380e573da9f069feb73ca8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "50ae9e416dbc26e7f09955c69ccc5dc5b0b7be8f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
@@ -214,28 +214,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "275f127cd909214075081373efdb075cbc56e90d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0754-0786-9cf4-73d786509a10&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 11,
+      "duplicate_count": 11,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -252,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T20:51:17.982995Z",
-      "latest_at": "2026-07-27T20:49:33.539452Z",
+      "earliest_at": "2026-07-26T22:54:39.111702Z",
+      "latest_at": "2026-07-27T22:00:31.496912Z",
       "primary_item": {
-        "id": "50ae9e416dbc26e7f09955c69ccc5dc5b0b7be8f",
+        "id": "5f975378adb08b1d4a380e573da9f069feb73ca8",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8722,
-      "importance": 0.8722,
-      "importance_score": 0.8722,
+      "score": 0.8623,
+      "importance": 0.8623,
+      "importance_score": 0.8623,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9959,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8823,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,6 +363,67 @@
         "title": "安全带就是您所需要的（大部分） / The harness is all you need (mostly)",
         "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_58d617805c7f",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -419,14 +462,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7989,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,14 +523,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,14 +583,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9137,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -600,14 +643,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,14 +703,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,14 +763,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8262,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,14 +823,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,14 +902,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5592,
+        "recency": 0.5099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -919,14 +962,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7989,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -979,14 +1022,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7879,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1039,14 +1082,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7751,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1065,60 +1108,80 @@
       }
     },
     {
-      "story_id": "story_c10baae1c2d7",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "url": "https://www.aibase.com/news/29910",
-      "primary_url": "https://www.aibase.com/news/29910",
+      "story_id": "story_86af27777b25",
+      "title": "AI越狱一周无人察觉，OpenAI失控智能体还留下了\"逃脱秘籍\"",
+      "url": "https://www.aibase.com/news/29895",
+      "primary_url": "https://www.aibase.com/news/29895",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "url": "https://www.aibase.com/news/29910",
+          "id": "d6faab5c3c8f321d4946747851d6f7d9e4f1624b",
+          "title": "AI越狱一周无人察觉，OpenAI失控智能体还留下了\"逃脱秘籍\"",
+          "url": "https://www.aibase.com/news/29895",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
+          "published_at": "2026-07-27T06:03:51.869821Z"
+        },
+        {
+          "id": "2ceb89adb25ee49c57ca71e2e75645a76fb1f59b",
+          "title": "AI 越狱一周无人察觉，OpenAI 失控智能体还留下了「逃脱秘籍」",
+          "url": "https://www.aibase.com/zh/news/29895",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "url": "https://www.aibase.com/news/29910",
+          "id": "d6faab5c3c8f321d4946747851d6f7d9e4f1624b",
+          "title": "AI越狱一周无人察觉，OpenAI失控智能体还留下了\"逃脱秘籍\"",
+          "url": "https://www.aibase.com/news/29895",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
+          "published_at": "2026-07-27T06:03:51.869821Z"
+        },
+        {
+          "id": "2ceb89adb25ee49c57ca71e2e75645a76fb1f59b",
+          "title": "AI 越狱一周无人察觉，OpenAI 失控智能体还留下了「逃脱秘籍」",
+          "url": "https://www.aibase.com/zh/news/29895",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7041,
+      "importance": 0.7041,
+      "importance_score": 0.7041,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5592,
-        "story_heat": 0.0
+        "recency": 0.3357,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T10:14:44.680756Z",
-      "latest_at": "2026-07-27T10:14:44.680756Z",
+      "earliest_at": "2026-07-27T06:03:51.869821Z",
+      "latest_at": "2026-07-27T06:03:51.869821Z",
       "primary_item": {
-        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "url": "https://www.aibase.com/news/29910",
+        "id": "d6faab5c3c8f321d4946747851d6f7d9e4f1624b",
+        "title": "AI越狱一周无人察觉，OpenAI失控智能体还留下了\"逃脱秘籍\"",
+        "url": "https://www.aibase.com/news/29895",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1158,14 +1221,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7674,
+        "recency": 0.7182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1184,178 +1247,159 @@
       }
     },
     {
-      "story_id": "story_6f1c03ecf872",
-      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-      "url": "https://www.aibase.com/news/29914",
-      "primary_url": "https://www.aibase.com/news/29914",
+      "story_id": "story_21fb6033f4c2",
+      "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+      "url": "https://www.aibase.com/news/29897",
+      "primary_url": "https://www.aibase.com/news/29897",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "url": "https://www.aibase.com/news/29914",
+          "id": "b1fa71459d9f10f6b65c55f38b1ed28e29265504",
+          "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+          "url": "https://www.aibase.com/news/29897",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
+          "published_at": "2026-07-27T06:03:51.869821Z"
+        },
+        {
+          "id": "4bbf47dd6643b9fa1720d3677763e2c94d310cde",
+          "title": "Cursor 新一代 AI 智能体集群完成 SQLite 重建测试，全部配置实现 100% 通过率",
+          "url": "https://www.aibase.com/zh/news/29897",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "url": "https://www.aibase.com/news/29914",
+          "id": "b1fa71459d9f10f6b65c55f38b1ed28e29265504",
+          "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+          "url": "https://www.aibase.com/news/29897",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
+          "published_at": "2026-07-27T06:03:51.869821Z"
+        },
+        {
+          "id": "4bbf47dd6643b9fa1720d3677763e2c94d310cde",
+          "title": "Cursor 新一代 AI 智能体集群完成 SQLite 重建测试，全部配置实现 100% 通过率",
+          "url": "https://www.aibase.com/zh/news/29897",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7041,
+      "importance": 0.7041,
+      "importance_score": 0.7041,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5592,
-        "story_heat": 0.0
+        "recency": 0.3357,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T10:14:44.680756Z",
-      "latest_at": "2026-07-27T10:14:44.680756Z",
+      "earliest_at": "2026-07-27T06:03:51.869821Z",
+      "latest_at": "2026-07-27T06:03:51.869821Z",
       "primary_item": {
-        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "url": "https://www.aibase.com/news/29914",
+        "id": "b1fa71459d9f10f6b65c55f38b1ed28e29265504",
+        "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+        "url": "https://www.aibase.com/news/29897",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3897ee6f8580",
-      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-      "url": "https://www.aibase.com/news/29903",
-      "primary_url": "https://www.aibase.com/news/29903",
+      "story_id": "story_d3cb5c17bc52",
+      "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+      "url": "https://www.aibase.com/news/29894",
+      "primary_url": "https://www.aibase.com/news/29894",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "url": "https://www.aibase.com/news/29903",
+          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/news/29894",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
+          "published_at": "2026-07-27T06:03:51.869821Z"
+        },
+        {
+          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/zh/news/29894",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "url": "https://www.aibase.com/news/29903",
+          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/news/29894",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
+          "published_at": "2026-07-27T06:03:51.869821Z"
+        },
+        {
+          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/zh/news/29894",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7041,
+      "importance": 0.7041,
+      "importance_score": 0.7041,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5592,
-        "story_heat": 0.0
+        "recency": 0.3357,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T10:14:44.680756Z",
-      "latest_at": "2026-07-27T10:14:44.680756Z",
+      "earliest_at": "2026-07-27T06:03:51.869821Z",
+      "latest_at": "2026-07-27T06:03:51.869821Z",
       "primary_item": {
-        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "url": "https://www.aibase.com/news/29903",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1923e73b8c97",
-      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-      "url": "https://www.aibase.com/news/29904",
-      "primary_url": "https://www.aibase.com/news/29904",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5592,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T10:14:44.680756Z",
-      "latest_at": "2026-07-27T10:14:44.680756Z",
-      "primary_item": {
-        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "url": "https://www.aibase.com/news/29904",
+        "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
+        "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+        "url": "https://www.aibase.com/news/29894",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1471,14 +1515,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5911,
-      "importance": 0.5911,
-      "importance_score": 0.5911,
+      "score": 0.5813,
+      "importance": 0.5813,
+      "importance_score": 0.5813,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.7913,
         "story_heat": 1.0
       },
       "category": "multi_source",
