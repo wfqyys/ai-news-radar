@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-27T22:00:31.496912Z",
+  "generated_at": "2026-07-27T23:32:50.234207Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0933-11c4-bea8-8fd6728194b1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0933-11c4-bea8-8fd6728194b1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "30f1b7f56581e69212a7478577f1c1e4a0ecf0d8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0933-11c4-bea8-8fd6728194b1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5f975378adb08b1d4a380e573da9f069feb73ca8",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "a9890b142c7137cb3f253044ea1e1a7acf9102e1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0955-4125-81ab-26431d3118d2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "24cac08f042f6b92732482cc4baff36a06db2d2c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0854-5834-9cc9-be8aec61eaab&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "30f1b7f56581e69212a7478577f1c1e4a0ecf0d8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0933-11c4-bea8-8fd6728194b1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5f975378adb08b1d4a380e573da9f069feb73ca8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
@@ -201,15 +210,6 @@
           "id": "a9890b142c7137cb3f253044ea1e1a7acf9102e1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0955-4125-81ab-26431d3118d2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "24cac08f042f6b92732482cc4baff36a06db2d2c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0854-5834-9cc9-be8aec61eaab&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T22:54:39.111702Z",
-      "latest_at": "2026-07-27T22:00:31.496912Z",
+      "earliest_at": "2026-07-26T23:55:19.535394Z",
+      "latest_at": "2026-07-27T23:32:50.234207Z",
       "primary_item": {
-        "id": "5f975378adb08b1d4a380e573da9f069feb73ca8",
+        "id": "30f1b7f56581e69212a7478577f1c1e4a0ecf0d8",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0800-53ea-b5fc-c587837f920d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0933-11c4-bea8-8fd6728194b1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.8623,
-      "importance_score": 0.8623,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9466,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.833,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,6 +364,66 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a58686969ced",
+      "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+      "url": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
+      "primary_url": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a95652367edd8a9ab2f447efa89f170c13d3bd5f",
+          "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+          "url": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T22:26:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "a95652367edd8a9ab2f447efa89f170c13d3bd5f",
+          "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+          "url": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T22:26:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9536,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T22:26:00Z",
+      "latest_at": "2026-07-27T22:26:00Z",
+      "primary_item": {
+        "id": "a95652367edd8a9ab2f447efa89f170c13d3bd5f",
+        "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+        "url": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -401,14 +461,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7917,
+        "recency": 0.7276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -462,14 +522,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7496,
+        "recency": 0.6855,
         "story_heat": 0.0
       },
       "category": "official",
@@ -523,14 +583,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,14 +643,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -643,14 +703,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8388,
+        "recency": 0.7747,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -703,14 +763,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.833,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,14 +823,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8262,
+        "recency": 0.7621,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,20 +883,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7477,
+        "recency": 0.6836,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T15:57:12Z",
       "latest_at": "2026-07-27T15:57:12Z",
@@ -902,14 +961,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5099,
+        "recency": 0.4458,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -962,20 +1021,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7496,
+        "recency": 0.6855,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T16:00:00Z",
       "latest_at": "2026-07-27T16:00:00Z",
@@ -1022,20 +1080,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.6745,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T15:44:05Z",
       "latest_at": "2026-07-27T15:44:05Z",
@@ -1082,20 +1139,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7259,
+        "recency": 0.6617,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T15:25:45Z",
       "latest_at": "2026-07-27T15:25:45Z",
@@ -1161,14 +1217,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7041,
-      "importance": 0.7041,
-      "importance_score": 0.7041,
+      "score": 0.6913,
+      "importance": 0.6913,
+      "importance_score": 0.6913,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3357,
+        "recency": 0.2715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1221,20 +1277,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7182,
+        "recency": 0.654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T15:14:40Z",
       "latest_at": "2026-07-27T15:14:40Z",
@@ -1300,14 +1355,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7041,
-      "importance": 0.7041,
-      "importance_score": 0.7041,
+      "score": 0.6913,
+      "importance": 0.6913,
+      "importance_score": 0.6913,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3357,
+        "recency": 0.2715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,14 +1434,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7041,
-      "importance": 0.7041,
-      "importance_score": 0.7041,
+      "score": 0.6913,
+      "importance": 0.6913,
+      "importance_score": 0.6913,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3357,
+        "recency": 0.2715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1402,141 +1457,6 @@
         "url": "https://www.aibase.com/news/29894",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e045d97ea961",
-      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-      "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-      "primary_url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://news.ycombinator.com/item?id=49070427",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T15:57:53.380000Z"
-        },
-        {
-          "id": "b721e0783cfafd2c5cdc089a540d7f1273c44a7a",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-27T14:42:41Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Mac Rumors",
-        "Slashdot (科技资讯)",
-        "hackernews",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://news.ycombinator.com/item?id=49070427",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T15:57:53.380000Z"
-        },
-        {
-          "id": "b721e0783cfafd2c5cdc089a540d7f1273c44a7a",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-27T14:42:41Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5813,
-      "importance": 0.5813,
-      "importance_score": 0.5813,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7913,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:11:48Z",
-      "latest_at": "2026-07-27T17:00:00Z",
-      "primary_item": {
-        "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
-        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-        "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
       }
     }
   ]
