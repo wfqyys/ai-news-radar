@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-27T19:18:35.477896Z",
+  "generated_at": "2026-07-27T20:49:33.539452Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0518-56bf-bb3b-55a5900fe7de&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0518-56bf-bb3b-55a5900fe7de&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "50ae9e416dbc26e7f09955c69ccc5dc5b0b7be8f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5c625b4cab1f3d0d3f2fd9565d4b5e70ce628101",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "274e5a21c5f79ae865f19efe613149c7d64743de",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0542-409d-b17e-03a80ba6e1e1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "50ae9e416dbc26e7f09955c69ccc5dc5b0b7be8f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5c625b4cab1f3d0d3f2fd9565d4b5e70ce628101",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0518-56bf-bb3b-55a5900fe7de&fp=-3",
@@ -219,15 +228,6 @@
           "id": "48f5d39920fb7aef3812875ac56fa3ccda9f66ae",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0651-4165-928b-5fde15029f2d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "274e5a21c5f79ae865f19efe613149c7d64743de",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0542-409d-b17e-03a80ba6e1e1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T19:42:18.305209Z",
-      "latest_at": "2026-07-27T19:18:35.477896Z",
+      "earliest_at": "2026-07-26T20:51:17.982995Z",
+      "latest_at": "2026-07-27T20:49:33.539452Z",
       "primary_item": {
-        "id": "5c625b4cab1f3d0d3f2fd9565d4b5e70ce628101",
+        "id": "50ae9e416dbc26e7f09955c69ccc5dc5b0b7be8f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0518-56bf-bb3b-55a5900fe7de&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-5353-8564-d7f0693e8bf1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_1fe7f694c616",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8722,
+      "importance": 0.8722,
+      "importance_score": 0.8722,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9959,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
+      "primary_item": {
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_97b8a5b6a8dc",
+      "title": "安全带就是您所需要的（大部分） / The harness is all you need (mostly)",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "安全带就是您所需要的（大部分） / The harness is all you need (mostly)",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "安全带就是您所需要的（大部分） / The harness is all you need (mostly)",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:00:00Z",
+      "latest_at": "2026-07-27T18:00:00Z",
+      "primary_item": {
+        "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+        "title": "安全带就是您所需要的（大部分） / The harness is all you need (mostly)",
+        "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -297,14 +419,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8621,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +443,66 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0f38d4167132",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+      "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+      "primary_url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9301,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T19:08:51Z",
+      "latest_at": "2026-07-27T19:08:51Z",
+      "primary_item": {
+        "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
+        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+        "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -358,14 +540,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9769,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,14 +600,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.8881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -440,6 +622,66 @@
         "title": "用Claude和Python构建技能驱动的金融分析智能体",
         "url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9ed44996f7ba",
+      "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
+      "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+      "primary_url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bfb9f551a228bb25739193e50bdee9d17394460f",
+          "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "bfb9f551a228bb25739193e50bdee9d17394460f",
+          "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:00:00Z",
+      "latest_at": "2026-07-27T18:00:00Z",
+      "primary_item": {
+        "id": "bfb9f551a228bb25739193e50bdee9d17394460f",
+        "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
+        "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       }
     },
@@ -478,14 +720,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,66 +742,6 @@
         "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
         "url": "https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_626513cab9fe",
-      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-      "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-      "primary_url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "afc37f0841bacf34ebd6de65eae7e5cdf1747583",
-          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-          "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "afc37f0841bacf34ebd6de65eae7e5cdf1747583",
-          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-          "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T16:00:00Z",
-      "latest_at": "2026-07-27T16:00:00Z",
-      "primary_item": {
-        "id": "afc37f0841bacf34ebd6de65eae7e5cdf1747583",
-        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-        "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-        "source": "GitHub Blog",
         "source_name": "AI HOT"
       }
     },
@@ -598,14 +780,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8601,
+        "recency": 0.797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,21 +859,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6223,
+        "recency": 0.5592,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T10:14:44.680756Z",
       "latest_at": "2026-07-27T10:14:44.680756Z",
@@ -701,6 +882,66 @@
         "url": "https://www.aibase.com/news/29917",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_626513cab9fe",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+      "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+      "primary_url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "afc37f0841bacf34ebd6de65eae7e5cdf1747583",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "afc37f0841bacf34ebd6de65eae7e5cdf1747583",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7989,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T16:00:00Z",
+      "latest_at": "2026-07-27T16:00:00Z",
+      "primary_item": {
+        "id": "afc37f0841bacf34ebd6de65eae7e5cdf1747583",
+        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+        "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -738,14 +979,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.851,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,65 +1001,6 @@
         "title": "Kimi K3 上线 Modal，支持无损加速推理",
         "url": "https://aihot.virxact.com/items/cms3f0d9200b8rondo4rsvd7o",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9302477d4aea",
-      "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-      "url": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
-      "primary_url": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5045cbc149314358a08c98dadec0fb7b3c31343c",
-          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-          "url": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T09:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5045cbc149314358a08c98dadec0fb7b3c31343c",
-          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-          "url": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T09:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5705,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T09:00:07Z",
-      "latest_at": "2026-07-27T09:00:07Z",
-      "primary_item": {
-        "id": "5045cbc149314358a08c98dadec0fb7b3c31343c",
-        "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-        "url": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
-        "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -857,14 +1039,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8383,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,14 +1099,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6223,
+        "recency": 0.5592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -976,14 +1158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1036,14 +1218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6223,
+        "recency": 0.5592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1095,14 +1277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6223,
+        "recency": 0.5592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,14 +1336,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6223,
+        "recency": 0.5592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1289,14 +1471,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6038,
-      "importance": 0.6038,
-      "importance_score": 0.6038,
+      "score": 0.5911,
+      "importance": 0.5911,
+      "importance_score": 0.5911,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9038,
+        "recency": 0.8406,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1311,220 +1493,6 @@
         "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
         "source": "Slashdot (科技资讯)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5318ad83ce5d",
-      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/29908",
-      "primary_url": "https://www.aibase.com/news/29908",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/29908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/29908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T10:14:44.680756Z",
-      "latest_at": "2026-07-27T10:14:44.680756Z",
-      "primary_item": {
-        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "url": "https://www.aibase.com/news/29908",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ff293a83082f",
-      "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-      "url": "https://www.aibase.com/news/29905",
-      "primary_url": "https://www.aibase.com/news/29905",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "17d11038163f823192d508995e9fc61f94746787",
-          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "url": "https://www.aibase.com/news/29905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "17d11038163f823192d508995e9fc61f94746787",
-          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "url": "https://www.aibase.com/news/29905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T10:14:44.680756Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T10:14:44.680756Z",
-      "latest_at": "2026-07-27T10:14:44.680756Z",
-      "primary_item": {
-        "id": "17d11038163f823192d508995e9fc61f94746787",
-        "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-        "url": "https://www.aibase.com/news/29905",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8c2ab21032bb",
-      "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "primary_url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:41:20.960000Z"
-        },
-        {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
-        },
-        {
-          "id": "21feef6673198e67530ddef42b80ba5ba71485c0",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T04:10:31.499000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:41:20.960000Z"
-        },
-        {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
-        },
-        {
-          "id": "21feef6673198e67530ddef42b80ba5ba71485c0",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T04:10:31.499000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8908,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T04:10:31.499000Z",
-      "latest_at": "2026-07-27T16:41:20.960000Z",
-      "primary_item": {
-        "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-        "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-        "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
       }
     }
   ]
