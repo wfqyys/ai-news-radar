@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T23:55:19.535394Z",
+  "generated_at": "2026-07-27T02:24:22.805749Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0955-4125-81ab-26431d3118d2&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0955-4125-81ab-26431d3118d2&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1224-4568-9a1c-c94bc5b10992&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-1224-4568-9a1c-c94bc5b10992&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "312ca23f42bc3798d402f6086c20e88879de76e0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1224-4568-9a1c-c94bc5b10992&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a9890b142c7137cb3f253044ea1e1a7acf9102e1",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "3fde81b9f4267629d92ec1447f146dd75484b55c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1544-411d-833f-a197e336e89c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f27c8c7d8f6b383ebef74e05d64b10798b801291",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1211-0848-8f64-9aef187fe6c1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "312ca23f42bc3798d402f6086c20e88879de76e0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1224-4568-9a1c-c94bc5b10992&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a9890b142c7137cb3f253044ea1e1a7acf9102e1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0955-4125-81ab-26431d3118d2&fp=-3",
@@ -273,15 +282,6 @@
           "id": "3fde81b9f4267629d92ec1447f146dd75484b55c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1544-411d-833f-a197e336e89c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f27c8c7d8f6b383ebef74e05d64b10798b801291",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1211-0848-8f64-9aef187fe6c1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,14 +306,334 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T02:10:45.738837Z",
-      "latest_at": "2026-07-26T23:55:19.535394Z",
+      "earliest_at": "2026-07-26T05:44:20.700327Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
       "primary_item": {
-        "id": "a9890b142c7137cb3f253044ea1e1a7acf9102e1",
+        "id": "312ca23f42bc3798d402f6086c20e88879de76e0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0955-4125-81ab-26431d3118d2&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1224-4568-9a1c-c94bc5b10992&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_aa064157e74d",
+      "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+      "url": "https://www.aibase.com/news/29883",
+      "primary_url": "https://www.aibase.com/news/29883",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
+          "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "url": "https://www.aibase.com/news/29883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "99d5b02c22f04676b7b0107d4118f627518ddbaa",
+          "title": "Claude Opus 5 系统提示词被完整泄露：1511 行、约 3.4 万 token，写满的全是「不许」",
+          "url": "https://www.aibase.com/zh/news/29883",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
+          "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "url": "https://www.aibase.com/news/29883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "99d5b02c22f04676b7b0107d4118f627518ddbaa",
+          "title": "Claude Opus 5 系统提示词被完整泄露：1511 行、约 3.4 万 token，写满的全是「不许」",
+          "url": "https://www.aibase.com/zh/news/29883",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
+        "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+        "url": "https://www.aibase.com/news/29883",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cae104f7ca3b",
+      "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+      "url": "https://www.aibase.com/news/29889",
+      "primary_url": "https://www.aibase.com/news/29889",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
+          "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/news/29889",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "a07e146af471f52828aca86740b9c1c6daa05e40",
+          "title": "OpenAI 暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/zh/news/29889",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
+          "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/news/29889",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "a07e146af471f52828aca86740b9c1c6daa05e40",
+          "title": "OpenAI 暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/zh/news/29889",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
+        "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+        "url": "https://www.aibase.com/news/29889",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b4d313123afb",
+      "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+      "url": "https://www.aibase.com/news/29884",
+      "primary_url": "https://www.aibase.com/news/29884",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "url": "https://www.aibase.com/news/29884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
+          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
+          "url": "https://www.aibase.com/zh/news/29884",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "url": "https://www.aibase.com/news/29884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
+          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
+          "url": "https://www.aibase.com/zh/news/29884",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+        "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+        "url": "https://www.aibase.com/news/29884",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a5101199755d",
+      "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+      "url": "https://www.aibase.com/news/29887",
+      "primary_url": "https://www.aibase.com/news/29887",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c6491d7233e959458c654241f3525ce9f88b3673",
+          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+          "url": "https://www.aibase.com/news/29887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "b015bc5b97a0158a8a4fd388e6aaa80d3f3170ca",
+          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+          "url": "https://www.aibase.com/zh/news/29887",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c6491d7233e959458c654241f3525ce9f88b3673",
+          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+          "url": "https://www.aibase.com/news/29887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "b015bc5b97a0158a8a4fd388e6aaa80d3f3170ca",
+          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+          "url": "https://www.aibase.com/zh/news/29887",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "c6491d7233e959458c654241f3525ce9f88b3673",
+        "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+        "url": "https://www.aibase.com/news/29887",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -351,20 +671,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.6598,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T18:14:29Z",
       "latest_at": "2026-07-26T18:14:29Z",
@@ -430,14 +749,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5411,
+        "recency": 0.4376,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -453,6 +772,426 @@
         "url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4fdb1e3d6060",
+      "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+      "url": "https://www.aibase.com/news/29885",
+      "primary_url": "https://www.aibase.com/news/29885",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
+          "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+          "url": "https://www.aibase.com/news/29885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "cec9c9f68ad71cebb46efb73b9bc71f437ab7875",
+          "title": "英伟达联手韩国 Naver 豪掷 10 亿美元，打造 200 兆瓦 AI 算力工厂",
+          "url": "https://www.aibase.com/zh/news/29885",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
+          "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+          "url": "https://www.aibase.com/news/29885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "cec9c9f68ad71cebb46efb73b9bc71f437ab7875",
+          "title": "英伟达联手韩国 Naver 豪掷 10 亿美元，打造 200 兆瓦 AI 算力工厂",
+          "url": "https://www.aibase.com/zh/news/29885",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
+        "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+        "url": "https://www.aibase.com/news/29885",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b3e3bc8f90e4",
+      "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+      "url": "https://www.aibase.com/news/29888",
+      "primary_url": "https://www.aibase.com/news/29888",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "77b761b31a189ff4f45efb18662256518747b98e",
+          "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/news/29888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "93c082426363ca83d2ba31d763e21f67547add4e",
+          "title": "苹果智能眼镜或于 WWDC27 亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/zh/news/29888",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "77b761b31a189ff4f45efb18662256518747b98e",
+          "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/news/29888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "93c082426363ca83d2ba31d763e21f67547add4e",
+          "title": "苹果智能眼镜或于 WWDC27 亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/zh/news/29888",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "77b761b31a189ff4f45efb18662256518747b98e",
+        "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+        "url": "https://www.aibase.com/news/29888",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_074d3b5da572",
+      "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+      "url": "https://www.aibase.com/news/29886",
+      "primary_url": "https://www.aibase.com/news/29886",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "870ef7095167a56f00d3994286a4c1f01339a659",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/news/29886",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "1e655dc5d7a174493fb5d680e091f33f718ca4e4",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/zh/news/29886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "870ef7095167a56f00d3994286a4c1f01339a659",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/news/29886",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        },
+        {
+          "id": "1e655dc5d7a174493fb5d680e091f33f718ca4e4",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/zh/news/29886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "870ef7095167a56f00d3994286a4c1f01339a659",
+        "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+        "url": "https://www.aibase.com/news/29886",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bf758397b93b",
+      "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
+      "url": "https://www.aibase.com/news/29890",
+      "primary_url": "https://www.aibase.com/news/29890",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c0dd5f25f9d95d8a99ffe82e552084ce99b61ab8",
+          "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
+          "url": "https://www.aibase.com/news/29890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c0dd5f25f9d95d8a99ffe82e552084ce99b61ab8",
+          "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
+          "url": "https://www.aibase.com/news/29890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "c0dd5f25f9d95d8a99ffe82e552084ce99b61ab8",
+        "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
+        "url": "https://www.aibase.com/news/29890",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e6a1342dae5f",
+      "title": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+      "url": "https://www.aibase.com/news/29891",
+      "primary_url": "https://www.aibase.com/news/29891",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6045fe66b8a3259bf0708f0e1998c2acfc46a7b4",
+          "title": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+          "url": "https://www.aibase.com/news/29891",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6045fe66b8a3259bf0708f0e1998c2acfc46a7b4",
+          "title": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+          "url": "https://www.aibase.com/news/29891",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "6045fe66b8a3259bf0708f0e1998c2acfc46a7b4",
+        "title": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+        "url": "https://www.aibase.com/news/29891",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6d65f3d42ea3",
+      "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+      "url": "https://www.aibase.com/news/29882",
+      "primary_url": "https://www.aibase.com/news/29882",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7b1e7d502bcb1b071c4ec6d7ae033fbee6f69c4f",
+          "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "url": "https://www.aibase.com/news/29882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7b1e7d502bcb1b071c4ec6d7ae033fbee6f69c4f",
+          "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "url": "https://www.aibase.com/news/29882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "7b1e7d502bcb1b071c4ec6d7ae033fbee6f69c4f",
+        "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+        "url": "https://www.aibase.com/news/29882",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -528,14 +1267,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5551,
-      "importance": 0.5551,
-      "importance_score": 0.5551,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9103,
+        "recency": 0.8068,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -606,14 +1345,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9882,
+        "recency": 0.8847,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -684,14 +1423,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9803,
+        "recency": 0.8768,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,6 +1445,66 @@
         "url": "https://news.ycombinator.com/item?id=49063186",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_afcf010f8026",
+      "title": "三星会长李在镕会面奥特曼，AI 基础设施合作或成桌上议题",
+      "url": "https://www.aibase.com/news/29893",
+      "primary_url": "https://www.aibase.com/news/29893",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1ae71b3a399c6121e4223732d99b13c071b96117",
+          "title": "三星会长李在镕会面奥特曼，AI 基础设施合作或成桌上议题",
+          "url": "https://www.aibase.com/news/29893",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1ae71b3a399c6121e4223732d99b13c071b96117",
+          "title": "三星会长李在镕会面奥特曼，AI 基础设施合作或成桌上议题",
+          "url": "https://www.aibase.com/news/29893",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
+      "primary_item": {
+        "id": "1ae71b3a399c6121e4223732d99b13c071b96117",
+        "title": "三星会长李在镕会面奥特曼，AI 基础设施合作或成桌上议题",
+        "url": "https://www.aibase.com/news/29893",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -781,14 +1580,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
+      "score": 0.4922,
+      "importance": 0.4922,
+      "importance_score": 0.4922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6996,
+        "recency": 0.5961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -823,18 +1622,18 @@
           "published_at": "2026-07-26T22:26:38.669000Z"
         },
         {
-          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "id": "f6057e93143f7e534c46306dd768d63a53b5bbff",
           "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
           "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T20:49:43Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -848,25 +1647,25 @@
           "published_at": "2026-07-26T22:26:38.669000Z"
         },
         {
-          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "id": "f6057e93143f7e534c46306dd768d63a53b5bbff",
           "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
           "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T20:49:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.8349,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -884,781 +1683,63 @@
       }
     },
     {
-      "story_id": "story_ace01848219f",
-      "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-      "url": "https://beyondloom.com/decker",
-      "primary_url": "https://beyondloom.com/decker",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_32fc745a2f66",
+      "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+      "url": "https://www.aibase.com/news/29892",
+      "primary_url": "https://www.aibase.com/news/29892",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
-        },
-        {
-          "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
+          "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
+          "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+          "url": "https://www.aibase.com/news/29892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
-        },
-        {
-          "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
+          "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
+          "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+          "url": "https://www.aibase.com/news/29892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T02:24:22.805749Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7693,
-        "story_heat": 0.25
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T18:23:06Z",
-      "latest_at": "2026-07-26T18:23:06Z",
+      "earliest_at": "2026-07-27T02:24:22.805749Z",
+      "latest_at": "2026-07-27T02:24:22.805749Z",
       "primary_item": {
-        "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-        "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-        "url": "https://beyondloom.com/decker",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_3c20825102e6",
-      "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
-      "url": "https://github.com/MicSm/boffin",
-      "primary_url": "https://github.com/MicSm/boffin",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "809f80b2970c5be46cbff3b6445a293d1c5f2c33",
-          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
-          "url": "https://github.com/MicSm/boffin",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T17:30:55.877000Z"
-        },
-        {
-          "id": "24a9065f0540f35746be5b9d2257def900d10402",
-          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
-          "url": "https://github.com/MicSm/boffin",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T17:28:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "809f80b2970c5be46cbff3b6445a293d1c5f2c33",
-          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
-          "url": "https://github.com/MicSm/boffin",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T17:30:55.877000Z"
-        },
-        {
-          "id": "24a9065f0540f35746be5b9d2257def900d10402",
-          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
-          "url": "https://github.com/MicSm/boffin",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T17:28:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7331,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T17:28:03Z",
-      "latest_at": "2026-07-26T17:30:55.877000Z",
-      "primary_item": {
-        "id": "809f80b2970c5be46cbff3b6445a293d1c5f2c33",
-        "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
-        "url": "https://github.com/MicSm/boffin",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_87c41df62615",
-      "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-      "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-      "primary_url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T13:30:56.504000Z"
-        },
-        {
-          "id": "d2efd4f7f14e28a14b1fb351b31d54e5bd533704",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度 / How to best talk about AI in job interviews — even if you're skeptical of it",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T09:34:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T13:30:56.504000Z"
-        },
-        {
-          "id": "d2efd4f7f14e28a14b1fb351b31d54e5bd533704",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度 / How to best talk about AI in job interviews — even if you're skeptical of it",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T09:34:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4613,
-      "importance": 0.4613,
-      "importance_score": 0.4613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5664,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T09:34:01Z",
-      "latest_at": "2026-07-26T13:30:56.504000Z",
-      "primary_item": {
-        "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
-        "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-        "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_495f7b95d6b8",
-      "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-      "url": "https://news.ycombinator.com/item?id=49061015",
-      "primary_url": "https://news.ycombinator.com/item?id=49061015",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
-          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "url": "https://news.ycombinator.com/item?id=49061015",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T19:26:18.750000Z"
-        },
-        {
-          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
-          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "url": "https://github.com/hertz-ai/HARTOS",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T18:40:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
-          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "url": "https://news.ycombinator.com/item?id=49061015",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T19:26:18.750000Z"
-        },
-        {
-          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
-          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "url": "https://github.com/hertz-ai/HARTOS",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T18:40:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8132,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T18:40:08Z",
-      "latest_at": "2026-07-26T19:26:18.750000Z",
-      "primary_item": {
-        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
-        "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-        "url": "https://news.ycombinator.com/item?id=49061015",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_94d030042966",
-      "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
-      "url": "https://vectoral.com/blog/token-relay-market",
-      "primary_url": "https://vectoral.com/blog/token-relay-market",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
-          "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
-          "url": "https://vectoral.com/blog/token-relay-market",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T15:17:06Z"
-        },
-        {
-          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
-          "title": "推动代币转售商和欺诈行为的接力市场 / The relay market powering token resellers and fraud",
-          "url": "https://vectoral.com/blog/token-relay-market",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T15:17:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
-          "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
-          "url": "https://vectoral.com/blog/token-relay-market",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T15:17:06Z"
-        },
-        {
-          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
-          "title": "推动代币转售商和欺诈行为的接力市场 / The relay market powering token resellers and fraud",
-          "url": "https://vectoral.com/blog/token-relay-market",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T15:17:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.476,
-      "importance": 0.476,
-      "importance_score": 0.476,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6401,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T15:17:06Z",
-      "latest_at": "2026-07-26T15:17:06Z",
-      "primary_item": {
-        "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
-        "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
-        "url": "https://vectoral.com/blog/token-relay-market",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_16b138d9f3a3",
-      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "primary_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:38:53.861000Z"
-        },
-        {
-          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T00:36:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:38:53.861000Z"
-        },
-        {
-          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T00:36:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4124,
-      "importance": 0.4124,
-      "importance_score": 0.4124,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3219,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T00:36:30Z",
-      "latest_at": "2026-07-26T07:38:53.861000Z",
-      "primary_item": {
-        "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-        "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8a0d9544ac70",
-      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-      "url": "https://news.ycombinator.com/item?id=49059660",
-      "primary_url": "https://news.ycombinator.com/item?id=49059660",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T18:04:43.632000Z"
-        },
-        {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T18:04:43.632000Z"
-        },
-        {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7565,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T16:23:56Z",
-      "latest_at": "2026-07-26T18:04:43.632000Z",
-      "primary_item": {
-        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-        "url": "https://news.ycombinator.com/item?id=49059660",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_79cae2a287d1",
-      "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-      "primary_url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T10:18:47.689000Z"
-        },
-        {
-          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:03:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T10:18:47.689000Z"
-        },
-        {
-          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:03:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4346,
-      "importance": 0.4346,
-      "importance_score": 0.4346,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.433,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:03:01Z",
-      "latest_at": "2026-07-26T10:18:47.689000Z",
-      "primary_item": {
-        "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-        "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a3b5dcaa1793",
-      "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-      "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "32983f03804d9d312c734f42395e4adf75445c37",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T08:26:52.518000Z"
-        },
-        {
-          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "32983f03804d9d312c734f42395e4adf75445c37",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T08:26:52.518000Z"
-        },
-        {
-          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.419,
-      "importance": 0.419,
-      "importance_score": 0.419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3552,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T08:11:01Z",
-      "latest_at": "2026-07-26T08:26:52.518000Z",
-      "primary_item": {
-        "id": "32983f03804d9d312c734f42395e4adf75445c37",
-        "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-        "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2ed824c58a51",
-      "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-      "url": "https://news.ycombinator.com/item?id=49056689",
-      "primary_url": "https://news.ycombinator.com/item?id=49056689",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
-        },
-        {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
-        },
-        {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4564,
-      "importance": 0.4564,
-      "importance_score": 0.4564,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5418,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:42:00Z",
-      "latest_at": "2026-07-26T12:55:30.643000Z",
-      "primary_item": {
-        "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-        "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-        "url": "https://news.ycombinator.com/item?id=49056689",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
+        "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+        "url": "https://www.aibase.com/news/29892",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
