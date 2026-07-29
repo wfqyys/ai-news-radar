@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T20:46:45.214377Z",
+  "generated_at": "2026-07-29T21:54:59.495098Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0647-0701-ba05-0c9e1b96b744&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0647-0701-ba05-0c9e1b96b744&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0755-27aa-bd03-62d19a81c766&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0755-27aa-bd03-62d19a81c766&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4ca479dca98085193d595227e1b8a2795af606b9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0755-27aa-bd03-62d19a81c766&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "6b2a88f39d77a3f5eb14b2cec9a451c7a884a37a",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "e4b9b96734b47249456f45ef70880bab4042d286",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0832-5143-9d96-e40da724c170&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9bb846edf8f335df227d32259ab68bfca4385fba",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0712-4050-a687-1ba012d61878&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "4ca479dca98085193d595227e1b8a2795af606b9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0755-27aa-bd03-62d19a81c766&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "6b2a88f39d77a3f5eb14b2cec9a451c7a884a37a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0647-0701-ba05-0c9e1b96b744&fp=-3",
@@ -237,15 +246,6 @@
           "id": "e4b9b96734b47249456f45ef70880bab4042d286",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0832-5143-9d96-e40da724c170&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9bb846edf8f335df227d32259ab68bfca4385fba",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0712-4050-a687-1ba012d61878&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T21:12:20.612961Z",
-      "latest_at": "2026-07-29T20:46:45.214377Z",
+      "earliest_at": "2026-07-28T22:32:31.908269Z",
+      "latest_at": "2026-07-29T21:54:59.495098Z",
       "primary_item": {
-        "id": "6b2a88f39d77a3f5eb14b2cec9a451c7a884a37a",
+        "id": "4ca479dca98085193d595227e1b8a2795af606b9",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0647-0701-ba05-0c9e1b96b744&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0755-27aa-bd03-62d19a81c766&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7183,
+        "recency": 0.6709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,6 +339,66 @@
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4980c7237208",
+      "title": "Replit Design 发布：AI 赋能设计愿景",
+      "url": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+      "primary_url": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "273aa73558b500f7809624ea438e6e878b7f66aa",
+          "title": "Replit Design 发布：AI 赋能设计愿景",
+          "url": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T20:45:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "273aa73558b500f7809624ea438e6e878b7f66aa",
+          "title": "Replit Design 发布：AI 赋能设计愿景",
+          "url": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T20:45:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9519,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T20:45:42Z",
+      "latest_at": "2026-07-29T20:45:42Z",
+      "primary_item": {
+        "id": "273aa73558b500f7809624ea438e6e878b7f66aa",
+        "title": "Replit Design 发布：AI 赋能设计愿景",
+        "url": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -376,14 +436,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,14 +496,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8776,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,14 +556,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8578,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,14 +616,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8437,
+        "recency": 0.7963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,66 +638,6 @@
         "title": "Perplexity 开源智能体检测层 Numbat",
         "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
         "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2aa7558d6e08",
-      "title": "Replit 用环境智能重塑 AI 设计体验",
-      "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
-      "primary_url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
-          "title": "Replit 用环境智能重塑 AI 设计体验",
-          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:30:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
-          "title": "Replit 用环境智能重塑 AI 设计体验",
-          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:30:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8222,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T16:30:42Z",
-      "latest_at": "2026-07-29T16:30:42Z",
-      "primary_item": {
-        "id": "bb14e68dce272148d582f3223167f2327d4a9136",
-        "title": "Replit 用环境智能重塑 AI 设计体验",
-        "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
-        "source": "X：Replit (@Replit)",
         "source_name": "AI HOT"
       }
     },
@@ -676,14 +676,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8074,
+        "recency": 0.76,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,14 +736,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8024,
+        "recency": 0.755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -796,14 +796,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -875,21 +875,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5953,
+        "recency": 0.5479,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T11:03:58.959994Z",
       "latest_at": "2026-07-29T11:03:58.959994Z",
@@ -954,22 +953,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.1342,
+        "recency": 0.0868,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T00:00:00Z",
       "latest_at": "2026-07-29T00:00:00Z",
@@ -979,6 +977,66 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2aa7558d6e08",
+      "title": "Replit 用环境智能重塑 AI 设计体验",
+      "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "primary_url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+          "title": "Replit 用环境智能重塑 AI 设计体验",
+          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+          "title": "Replit 用环境智能重塑 AI 设计体验",
+          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7748,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:30:42Z",
+      "latest_at": "2026-07-29T16:30:42Z",
+      "primary_item": {
+        "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+        "title": "Replit 用环境智能重塑 AI 设计体验",
+        "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1016,14 +1074,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6647,
+        "recency": 0.6173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,14 +1133,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6428,
+        "recency": 0.5954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,14 +1192,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5406,
+        "recency": 0.4932,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1195,14 +1253,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7836,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1255,14 +1313,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6304,
+        "recency": 0.583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,21 +1391,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5953,
+        "recency": 0.5479,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T11:03:58.959994Z",
       "latest_at": "2026-07-29T11:03:58.959994Z",
@@ -1413,14 +1470,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4881,
+        "recency": 0.4407,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1434,85 +1491,6 @@
         "id": "034e53df47a51f30706c341f422edefe2833d210",
         "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
         "url": "https://www.aibase.com/news/29972",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9e9ac0b74498",
-      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-      "url": "https://www.aibase.com/news/29979",
-      "primary_url": "https://www.aibase.com/news/29979",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T08:29:39.862807Z"
-        },
-        {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T08:29:39.862807Z"
-        },
-        {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4881,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T08:29:39.862807Z",
-      "latest_at": "2026-07-29T08:29:39.862807Z",
-      "primary_item": {
-        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-        "url": "https://www.aibase.com/news/29979",
         "source": "AIbase",
         "source_name": "AIbase"
       }
