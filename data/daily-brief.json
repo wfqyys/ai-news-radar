@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T02:02:22.151536Z",
+  "generated_at": "2026-07-29T05:35:11.459014Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1202-49b8-a823-cd61899c495d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-1202-49b8-a823-cd61899c495d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1535-3597-a3bd-2b568b081da9&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-1535-3597-a3bd-2b568b081da9&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "94651280c757d5b13f828c01f4d8a1e8b9569069",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1535-3597-a3bd-2b568b081da9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b223ef486ff8dde6ff9508b1a0c1545d2341cc31",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "d2712b613d33d30b81b3c0cd9ce62cf4a36f0951",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1758-51c2-822e-2af665ab3993&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4c483cb770c49844a9b86ce6e54135f335917edd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1520-331c-9755-607414307bfd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "94651280c757d5b13f828c01f4d8a1e8b9569069",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1535-3597-a3bd-2b568b081da9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b223ef486ff8dde6ff9508b1a0c1545d2341cc31",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1202-49b8-a823-cd61899c495d&fp=-3",
@@ -219,15 +228,6 @@
           "id": "d2712b613d33d30b81b3c0cd9ce62cf4a36f0951",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1758-51c2-822e-2af665ab3993&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4c483cb770c49844a9b86ce6e54135f335917edd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1520-331c-9755-607414307bfd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:20:09.643348Z",
-      "latest_at": "2026-07-29T02:02:22.151536Z",
+      "earliest_at": "2026-07-28T07:58:29.587100Z",
+      "latest_at": "2026-07-29T05:35:11.459014Z",
       "primary_item": {
-        "id": "b223ef486ff8dde6ff9508b1a0c1545d2341cc31",
+        "id": "94651280c757d5b13f828c01f4d8a1e8b9569069",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1202-49b8-a823-cd61899c495d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1535-3597-a3bd-2b568b081da9&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.877,
-      "importance": 0.877,
-      "importance_score": 0.877,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.915,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +321,86 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e6213cb095f0",
+      "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+      "url": "https://www.aibase.com/news/29968",
+      "primary_url": "https://www.aibase.com/news/29968",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/news/29968",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T05:35:11.459014Z"
+        },
+        {
+          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
+          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/zh/news/29968",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/news/29968",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T05:35:11.459014Z"
+        },
+        {
+          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
+          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/zh/news/29968",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T05:35:11.459014Z",
+      "latest_at": "2026-07-29T05:35:11.459014Z",
+      "primary_item": {
+        "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+        "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+        "url": "https://www.aibase.com/news/29968",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -358,14 +438,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.8525,
-      "importance_score": 0.8525,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8977,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -385,26 +465,26 @@
       }
     },
     {
-      "story_id": "story_de49b49c573f",
-      "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-      "url": "https://www.aibase.com/news/29955",
-      "primary_url": "https://www.aibase.com/news/29955",
+      "story_id": "story_be16dbfe97e2",
+      "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+      "url": "https://www.aibase.com/news/29969",
+      "primary_url": "https://www.aibase.com/news/29969",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-          "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/news/29955",
+          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/news/29969",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T02:02:22.151536Z"
+          "published_at": "2026-07-29T05:35:11.459014Z"
         },
         {
-          "id": "7f2ac1cac858a9e504b6d29cba4971d23f522220",
-          "title": "OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/zh/news/29955",
+          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
+          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/zh/news/29969",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -418,18 +498,18 @@
       ],
       "items": [
         {
-          "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-          "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/news/29955",
+          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/news/29969",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T02:02:22.151536Z"
+          "published_at": "2026-07-29T05:35:11.459014Z"
         },
         {
-          "id": "7f2ac1cac858a9e504b6d29cba4971d23f522220",
-          "title": "OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/zh/news/29955",
+          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
+          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/zh/news/29969",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -454,37 +534,97 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T02:02:22.151536Z",
-      "latest_at": "2026-07-29T02:02:22.151536Z",
+      "earliest_at": "2026-07-29T05:35:11.459014Z",
+      "latest_at": "2026-07-29T05:35:11.459014Z",
       "primary_item": {
-        "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-        "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-        "url": "https://www.aibase.com/news/29955",
+        "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+        "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+        "url": "https://www.aibase.com/news/29969",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_efcf9320d436",
-      "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-      "url": "https://www.aibase.com/news/29959",
-      "primary_url": "https://www.aibase.com/news/29959",
+      "story_id": "story_01981b6f25e0",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "primary_url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T02:49:20Z",
+      "latest_at": "2026-07-29T02:49:20Z",
+      "primary_item": {
+        "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ce557ba3256e",
+      "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
+      "url": "https://www.aibase.com/news/29970",
+      "primary_url": "https://www.aibase.com/news/29970",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-          "url": "https://www.aibase.com/news/29959",
+          "id": "98a0d8b22634426326a42807827be4066a703aed",
+          "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
+          "url": "https://www.aibase.com/news/29970",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T02:02:22.151536Z"
+          "published_at": "2026-07-29T05:35:11.459014Z"
         },
         {
-          "id": "81bdbb603a74fa69432ab764f4338306bd4d2580",
-          "title": "Runlayer 起诉 HR 巨头 Rippling: 指控其利用试用期盗用代码，1:1 克隆 AI 网关",
-          "url": "https://www.aibase.com/zh/news/29959",
+          "id": "162ca10f19741c18bbe14b451674b6bcbbc250c1",
+          "title": "苹果系统更新首次点名感谢 AI：Claude、Codex 联手揪出多项漏洞",
+          "url": "https://www.aibase.com/zh/news/29970",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -498,18 +638,18 @@
       ],
       "items": [
         {
-          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-          "url": "https://www.aibase.com/news/29959",
+          "id": "98a0d8b22634426326a42807827be4066a703aed",
+          "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
+          "url": "https://www.aibase.com/news/29970",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T02:02:22.151536Z"
+          "published_at": "2026-07-29T05:35:11.459014Z"
         },
         {
-          "id": "81bdbb603a74fa69432ab764f4338306bd4d2580",
-          "title": "Runlayer 起诉 HR 巨头 Rippling: 指控其利用试用期盗用代码，1:1 克隆 AI 网关",
-          "url": "https://www.aibase.com/zh/news/29959",
+          "id": "162ca10f19741c18bbe14b451674b6bcbbc250c1",
+          "title": "苹果系统更新首次点名感谢 AI：Claude、Codex 联手揪出多项漏洞",
+          "url": "https://www.aibase.com/zh/news/29970",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -534,12 +674,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T02:02:22.151536Z",
-      "latest_at": "2026-07-29T02:02:22.151536Z",
+      "earliest_at": "2026-07-29T05:35:11.459014Z",
+      "latest_at": "2026-07-29T05:35:11.459014Z",
       "primary_item": {
-        "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-        "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-        "url": "https://www.aibase.com/news/29959",
+        "id": "98a0d8b22634426326a42807827be4066a703aed",
+        "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
+        "url": "https://www.aibase.com/news/29970",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -579,14 +719,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8665,
+        "recency": 0.7187,
         "story_heat": 0.0
       },
       "category": "official",
@@ -640,14 +780,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,6 +802,66 @@
         "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
         "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_270b36f5d48d",
+      "title": "我的Claude账号被封了",
+      "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "primary_url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+          "title": "我的Claude账号被封了",
+          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:06:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+          "title": "我的Claude账号被封了",
+          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:06:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7714,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:06:00Z",
+      "latest_at": "2026-07-29T00:06:00Z",
+      "primary_item": {
+        "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+        "title": "我的Claude账号被封了",
+        "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -700,14 +900,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5817,
+        "recency": 0.4339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -821,14 +1021,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.7297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -881,14 +1081,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8439,
+        "recency": 0.6961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -941,20 +1141,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8284,
+        "recency": 0.6806,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T21:55:12Z",
       "latest_at": "2026-07-28T21:55:12Z",
@@ -1001,20 +1200,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7878,
+        "recency": 0.6401,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T20:56:52Z",
       "latest_at": "2026-07-28T20:56:52Z",
@@ -1061,20 +1259,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.6195,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T20:27:17Z",
       "latest_at": "2026-07-28T20:27:17Z",
@@ -1121,20 +1318,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7671,
+        "recency": 0.6193,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T20:26:58Z",
       "latest_at": "2026-07-28T20:26:58Z",
@@ -1181,20 +1377,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.762,
+        "recency": 0.6142,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T20:19:41Z",
       "latest_at": "2026-07-28T20:19:41Z",
@@ -1241,20 +1436,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.6125,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T20:17:08Z",
       "latest_at": "2026-07-28T20:17:08Z",
@@ -1264,187 +1458,6 @@
         "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20a45b93c590",
-      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
-      "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cf8de9feb6b3",
-      "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
-      "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
-      "primary_url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf194ffe9c403853810d9560c887463679eeda64",
-          "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
-          "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T19:12:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cf194ffe9c403853810d9560c887463679eeda64",
-          "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
-          "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T19:12:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7153,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T19:12:27Z",
-      "latest_at": "2026-07-28T19:12:27Z",
-      "primary_item": {
-        "id": "cf194ffe9c403853810d9560c887463679eeda64",
-        "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
-        "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c0eabe5b8925",
-      "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-      "url": "https://www.aibase.com/news/29960",
-      "primary_url": "https://www.aibase.com/news/29960",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
-          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-          "url": "https://www.aibase.com/news/29960",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T02:02:22.151536Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
-          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-          "url": "https://www.aibase.com/news/29960",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T02:02:22.151536Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T02:02:22.151536Z",
-      "latest_at": "2026-07-29T02:02:22.151536Z",
-      "primary_item": {
-        "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
-        "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-        "url": "https://www.aibase.com/news/29960",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
