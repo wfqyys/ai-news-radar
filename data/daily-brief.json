@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T08:29:39.862807Z",
+  "generated_at": "2026-07-29T11:03:58.959994Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1830-01c4-a817-4d65a4d00dff&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-1830-01c4-a817-4d65a4d00dff&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2104-2677-a826-0532e515b24e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-2104-2677-a826-0532e515b24e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "493cb08bb14cf78f0de7b1d789df2a8a56840891",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2104-2677-a826-0532e515b24e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9c091bc5f5a51d06b5f9115409dd5d8a01759695",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "5024e47559482e8b3cff6ded9de527b49369cd00",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2251-105e-b63a-e06fdf152a8c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c2981d63336927878a1e7d48014a3f4bf94fe461",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2038-3074-82f0-43cb82b3fd02&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "493cb08bb14cf78f0de7b1d789df2a8a56840891",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2104-2677-a826-0532e515b24e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9c091bc5f5a51d06b5f9115409dd5d8a01759695",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1830-01c4-a817-4d65a4d00dff&fp=-3",
@@ -219,15 +228,6 @@
           "id": "5024e47559482e8b3cff6ded9de527b49369cd00",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2251-105e-b63a-e06fdf152a8c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c2981d63336927878a1e7d48014a3f4bf94fe461",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2038-3074-82f0-43cb82b3fd02&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,296 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T10:37:54.774547Z",
-      "latest_at": "2026-07-29T08:29:39.862807Z",
+      "earliest_at": "2026-07-28T12:50:45.478462Z",
+      "latest_at": "2026-07-29T11:03:58.959994Z",
       "primary_item": {
-        "id": "9c091bc5f5a51d06b5f9115409dd5d8a01759695",
+        "id": "493cb08bb14cf78f0de7b1d789df2a8a56840891",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1830-01c4-a817-4d65a4d00dff&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2104-2677-a826-0532e515b24e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_ee3da82e3a26",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8501,
+      "importance": 0.8501,
+      "importance_score": 0.8501,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9453,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
+      "primary_item": {
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5507eed440d2",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:03:58.959994Z"
+        },
+        {
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:03:58.959994Z"
+        },
+        {
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T11:03:58.959994Z",
+      "latest_at": "2026-07-29T11:03:58.959994Z",
+      "primary_item": {
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "url": "https://www.aibase.com/news/29983",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_50b1c91f9999",
+      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+      "url": "https://www.aibase.com/news/29984",
+      "primary_url": "https://www.aibase.com/news/29984",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:03:58.959994Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:03:58.959994Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T11:03:58.959994Z",
+      "latest_at": "2026-07-29T11:03:58.959994Z",
+      "primary_item": {
+        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "url": "https://www.aibase.com/news/29984",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.5389,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -316,14 +598,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,48 +625,48 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_a6ec8a388aad",
+      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6461,
+        "ai_relevance": 0.91,
+        "recency": 0.5216,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,14 +675,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
       "primary_item": {
-        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_01981b6f25e0",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "primary_url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6565,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T02:49:20Z",
+      "latest_at": "2026-07-29T02:49:20Z",
+      "primary_item": {
+        "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -457,14 +798,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,21 +825,139 @@
       }
     },
     {
-      "story_id": "story_a6ec8a388aad",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "story_id": "story_02f1defa53b1",
+      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+      "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+      "primary_url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
+          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:20:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
+          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:20:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5532,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T00:20:32Z",
+      "latest_at": "2026-07-29T00:20:32Z",
+      "primary_item": {
+        "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
+        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_270b36f5d48d",
+      "title": "我的Claude账号被封了",
+      "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "primary_url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+          "title": "我的Claude账号被封了",
+          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:06:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+          "title": "我的Claude账号被封了",
+          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:06:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5431,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T00:06:00Z",
+      "latest_at": "2026-07-29T00:06:00Z",
+      "primary_item": {
+        "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+        "title": "我的Claude账号被封了",
+        "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_575a114743a2",
+      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
+          "published_at": "2026-07-28T22:50:05Z"
         }
       ],
       "source_count": 1,
@@ -507,25 +966,25 @@
       ],
       "items": [
         {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
+          "published_at": "2026-07-28T22:50:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6287,
+        "ai_relevance": 0.87,
+        "recency": 0.4903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -534,12 +993,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
+      "earliest_at": "2026-07-28T22:50:05Z",
+      "latest_at": "2026-07-28T22:50:05Z",
       "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -598,14 +1057,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -625,81 +1084,101 @@
       }
     },
     {
-      "story_id": "story_01981b6f25e0",
-      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-      "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-      "primary_url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_5d0c5c0b946d",
+      "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+      "url": "https://www.aibase.com/news/29981",
+      "primary_url": "https://www.aibase.com/news/29981",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20Z"
+          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/news/29981",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T08:29:39.862807Z"
+        },
+        {
+          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/zh/news/29981",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20Z"
+          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/news/29981",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T08:29:39.862807Z"
+        },
+        {
+          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/zh/news/29981",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7637,
-        "story_heat": 0.0
+        "recency": 0.8928,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T02:49:20Z",
-      "latest_at": "2026-07-29T02:49:20Z",
+      "earliest_at": "2026-07-29T08:29:39.862807Z",
+      "latest_at": "2026-07-29T11:03:58.959994Z",
       "primary_item": {
-        "id": "63d2a850af8e88d42af7283369445546207d8f5b",
-        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-        "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+        "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+        "url": "https://www.aibase.com/news/29981",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_575a114743a2",
-      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "story_id": "story_20a45b93c590",
+      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
+          "published_at": "2026-07-28T19:10:45Z"
         }
       ],
       "source_count": 1,
@@ -708,459 +1187,281 @@
       ],
       "items": [
         {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
+          "published_at": "2026-07-28T19:10:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5975,
+        "ai_relevance": 0.91,
+        "recency": 0.338,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T22:50:05Z",
-      "latest_at": "2026-07-28T22:50:05Z",
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
       "primary_item": {
-        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_02f1defa53b1",
-      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-      "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "primary_url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_a0ffa3eef543",
+      "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+      "url": "https://www.aibase.com/news/29980",
+      "primary_url": "https://www.aibase.com/news/29980",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
+          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+          "url": "https://www.aibase.com/news/29980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T08:29:39.862807Z"
+        },
+        {
+          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
+          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
+          "url": "https://www.aibase.com/zh/news/29980",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
+          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+          "url": "https://www.aibase.com/news/29980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T08:29:39.862807Z"
+        },
+        {
+          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
+          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
+          "url": "https://www.aibase.com/zh/news/29980",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6603,
-        "story_heat": 0.0
+        "recency": 0.8928,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:20:32Z",
-      "latest_at": "2026-07-29T00:20:32Z",
+      "earliest_at": "2026-07-29T08:29:39.862807Z",
+      "latest_at": "2026-07-29T11:03:58.959994Z",
       "primary_item": {
-        "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-        "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+        "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+        "url": "https://www.aibase.com/news/29980",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_270b36f5d48d",
-      "title": "我的Claude账号被封了",
-      "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "primary_url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_8b3387f5a968",
+      "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+      "url": "https://www.aibase.com/news/29985",
+      "primary_url": "https://www.aibase.com/news/29985",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-          "title": "我的Claude账号被封了",
-          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:06:00Z"
+          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+          "url": "https://www.aibase.com/news/29985",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:03:58.959994Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-          "title": "我的Claude账号被封了",
-          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:06:00Z"
+          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+          "url": "https://www.aibase.com/news/29985",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:03:58.959994Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6502,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:06:00Z",
-      "latest_at": "2026-07-29T00:06:00Z",
+      "earliest_at": "2026-07-29T11:03:58.959994Z",
+      "latest_at": "2026-07-29T11:03:58.959994Z",
       "primary_item": {
-        "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-        "title": "我的Claude账号被封了",
-        "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+        "url": "https://www.aibase.com/news/29985",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_262ccbd9ae4e",
-      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-      "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "primary_url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_0ad5b94bb775",
+      "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://news.ycombinator.com/item?id=49095143",
+      "primary_url": "https://news.ycombinator.com/item?id=49095143",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-          "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-          "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
+          "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+          "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://news.ycombinator.com/item?id=49095143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:04:30.340000Z"
+        },
+        {
+          "id": "49d5200aa2b707bb64f2d1c37112bf220dc500d9",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim",
+          "url": "https://vimgolf.ai",
+          "source": "vimgolf.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T09:29:15.109000Z"
+        },
+        {
+          "id": "f7d196484bb37849e0d71a837e52d207d47e53de",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://vimgolf.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T09:26:52Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenRouter：Announcements（RSS）"
+        "Hacker News",
+        "hackernews",
+        "vimgolf.ai"
       ],
       "items": [
         {
-          "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-          "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-          "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
+          "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+          "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://news.ycombinator.com/item?id=49095143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:04:30.340000Z"
+        },
+        {
+          "id": "49d5200aa2b707bb64f2d1c37112bf220dc500d9",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim",
+          "url": "https://vimgolf.ai",
+          "source": "vimgolf.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T09:29:15.109000Z"
+        },
+        {
+          "id": "f7d196484bb37849e0d71a837e52d207d47e53de",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://vimgolf.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T09:26:52Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6461,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
+      "earliest_at": "2026-07-29T09:26:52Z",
+      "latest_at": "2026-07-29T11:04:30.340000Z",
       "primary_item": {
-        "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-        "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-        "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
+        "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+        "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+        "url": "https://news.ycombinator.com/item?id=49095143",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_d81cfe08f75c",
-      "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3127,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T16:00:00Z",
-      "latest_at": "2026-07-28T16:00:00Z",
-      "primary_item": {
-        "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-        "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1e141fc09d34",
-      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-      "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-      "primary_url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c44adb03555807d891b4605e719319dcc75982fb",
-          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-          "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T23:05:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "c44adb03555807d891b4605e719319dcc75982fb",
-          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-          "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T23:05:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6085,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T23:05:54Z",
-      "latest_at": "2026-07-28T23:05:54Z",
-      "primary_item": {
-        "id": "c44adb03555807d891b4605e719319dcc75982fb",
-        "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-        "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d4c7154373ba",
-      "title": "Anthropic 支持 AI 发展节奏请愿",
-      "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-      "primary_url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2870593fb5e994d3ce872a61220e9d8af39b4a36",
-          "title": "Anthropic 支持 AI 发展节奏请愿",
-          "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:17:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "2870593fb5e994d3ce872a61220e9d8af39b4a36",
-          "title": "Anthropic 支持 AI 发展节奏请愿",
-          "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:17:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5749,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T22:17:32Z",
-      "latest_at": "2026-07-28T22:17:32Z",
-      "primary_item": {
-        "id": "2870593fb5e994d3ce872a61220e9d8af39b4a36",
-        "title": "Anthropic 支持 AI 发展节奏请愿",
-        "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c685389daa3",
-      "title": "OpenAI 失控模型二次入侵 Modal 客户",
-      "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-      "primary_url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0603d54bb3870961a9bf16554f5e3d61a3bc625a",
-          "title": "OpenAI 失控模型二次入侵 Modal 客户",
-          "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T21:55:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "0603d54bb3870961a9bf16554f5e3d61a3bc625a",
-          "title": "OpenAI 失控模型二次入侵 Modal 客户",
-          "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T21:55:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5594,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T21:55:12Z",
-      "latest_at": "2026-07-28T21:55:12Z",
-      "primary_item": {
-        "id": "0603d54bb3870961a9bf16554f5e3d61a3bc625a",
-        "title": "OpenAI 失控模型二次入侵 Modal 客户",
-        "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e6213cb095f0",
+      "story_id": "story_3bb46e638656",
       "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
       "url": "https://www.aibase.com/news/29968",
       "primary_url": "https://www.aibase.com/news/29968",
@@ -1213,14 +1514,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.7717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1240,88 +1541,27 @@
       }
     },
     {
-      "story_id": "story_20a45b93c590",
-      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a7aeb4c8ba49",
+      "title": "不同的人工智能/镂空 / different-ai /      openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "primary_url": "https://github.com/different-ai/openwork",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4452,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
-      "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_be16dbfe97e2",
-      "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
-      "url": "https://www.aibase.com/news/29969",
-      "primary_url": "https://www.aibase.com/news/29969",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
-          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
-          "url": "https://www.aibase.com/news/29969",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T05:35:11.459014Z"
+          "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+          "title": "不同的人工智能/镂空 / different-ai /      openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:04:30.340000Z"
         },
         {
-          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
-          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
-          "url": "https://www.aibase.com/zh/news/29969",
-          "source": "Readhub · AI",
+          "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+          "title": "不同的人工智能/镂空 / different-ai / openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1329,24 +1569,24 @@
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
-          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
-          "url": "https://www.aibase.com/news/29969",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T05:35:11.459014Z"
+          "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+          "title": "不同的人工智能/镂空 / different-ai /      openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:04:30.340000Z"
         },
         {
-          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
-          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
-          "url": "https://www.aibase.com/zh/news/29969",
-          "source": "Readhub · AI",
+          "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+          "title": "不同的人工智能/镂空 / different-ai / openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1354,170 +1594,28 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
-      "importance_label": "行业动态",
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8788,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T05:35:11.459014Z",
-      "latest_at": "2026-07-29T05:35:11.459014Z",
-      "primary_item": {
-        "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
-        "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
-        "url": "https://www.aibase.com/news/29969",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ce557ba3256e",
-      "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
-      "url": "https://www.aibase.com/news/29970",
-      "primary_url": "https://www.aibase.com/news/29970",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98a0d8b22634426326a42807827be4066a703aed",
-          "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
-          "url": "https://www.aibase.com/news/29970",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T05:35:11.459014Z"
-        },
-        {
-          "id": "162ca10f19741c18bbe14b451674b6bcbbc250c1",
-          "title": "苹果系统更新首次点名感谢 AI：Claude、Codex 联手揪出多项漏洞",
-          "url": "https://www.aibase.com/zh/news/29970",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "98a0d8b22634426326a42807827be4066a703aed",
-          "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
-          "url": "https://www.aibase.com/news/29970",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T05:35:11.459014Z"
-        },
-        {
-          "id": "162ca10f19741c18bbe14b451674b6bcbbc250c1",
-          "title": "苹果系统更新首次点名感谢 AI：Claude、Codex 联手揪出多项漏洞",
-          "url": "https://www.aibase.com/zh/news/29970",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8788,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T05:35:11.459014Z",
-      "latest_at": "2026-07-29T05:35:11.459014Z",
-      "primary_item": {
-        "id": "98a0d8b22634426326a42807827be4066a703aed",
-        "title": "苹果系统更新首次点名感谢AI：Claude、Codex联手揪出多项漏洞",
-        "url": "https://www.aibase.com/news/29970",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5ebca1cd1ca8",
-      "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-      "url": "https://www.aibase.com/news/29973",
-      "primary_url": "https://www.aibase.com/news/29973",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
-          "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-          "url": "https://www.aibase.com/news/29973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T08:29:39.862807Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
-          "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-          "url": "https://www.aibase.com/news/29973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T08:29:39.862807Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-29T08:29:39.862807Z",
-      "latest_at": "2026-07-29T08:29:39.862807Z",
+      "earliest_at": "2026-07-29T11:03:58.959994Z",
+      "latest_at": "2026-07-29T11:04:30.340000Z",
       "primary_item": {
-        "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
-        "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-        "url": "https://www.aibase.com/news/29973",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+        "title": "不同的人工智能/镂空 / different-ai /      openwork",
+        "url": "https://github.com/different-ai/openwork",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     }
   ]
