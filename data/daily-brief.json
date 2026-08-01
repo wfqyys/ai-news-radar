@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T18:02:16.399139Z",
+  "generated_at": "2026-08-01T19:20:40.502617Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,20 +99,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6934,
+        "recency": 0.639,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-01T10:40:50Z",
       "latest_at": "2026-08-01T10:40:50Z",
@@ -125,62 +124,198 @@
       }
     },
     {
-      "story_id": "story_5a39f5e7e07a",
-      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-      "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-      "primary_url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-      "source": "X：Greg Brockman (@gdb)",
+      "story_id": "story_ceacf4cb4c8e",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "primary_url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
+          "published_at": "2026-07-31T20:25:20Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "tailscale.com"
       ],
       "items": [
         {
-          "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
+          "published_at": "2026-07-31T20:25:20Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.646,
+      "importance": 0.646,
+      "importance_score": 0.646,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5672,
-        "story_heat": 0.0
+        "recency": 0.0449,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-01T07:39:02Z",
-      "latest_at": "2026-08-01T07:39:02Z",
+      "earliest_at": "2026-07-31T20:25:20Z",
+      "latest_at": "2026-07-31T20:25:20.686000Z",
       "primary_item": {
-        "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
-        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-        "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-        "source": "X：Greg Brockman (@gdb)",
+        "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f5fb55945fb6",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "www.antipope.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T15:57:19.223000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.antipope.org"
+      ],
+      "items": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T15:57:19.223000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9561,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T18:17:24.719000Z",
+      "primary_item": {
+        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "source": "www.antipope.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -236,14 +371,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5789,
-      "importance": 0.5789,
-      "importance_score": 0.5789,
+      "score": 0.568,
+      "importance": 0.568,
+      "importance_score": 0.568,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.6443,
+        "recency": 0.5898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -333,14 +468,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9227,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -411,14 +546,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9418,
+        "recency": 0.8874,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -433,84 +568,6 @@
         "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f5fb55945fb6",
-      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://news.ycombinator.com/item?id=49134038",
-      "primary_url": "https://news.ycombinator.com/item?id=49134038",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:57:19.223000Z"
-        },
-        {
-          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:57:19.223000Z"
-        },
-        {
-          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9132,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T15:57:19.223000Z",
-      "primary_item": {
-        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-        "url": "https://news.ycombinator.com/item?id=49134038",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -586,14 +643,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7105,
+        "recency": 0.6561,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -664,14 +721,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8328,
+        "recency": 0.7784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,14 +799,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.4928,
+      "importance": 0.4928,
+      "importance_score": 0.4928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7786,
+        "recency": 0.7242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -839,14 +896,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
+      "score": 0.4842,
+      "importance": 0.4842,
+      "importance_score": 0.4842,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6105,
+        "recency": 0.5561,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -917,14 +974,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.4792,
+      "importance": 0.4792,
+      "importance_score": 0.4792,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7105,
+        "recency": 0.6561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,14 +1052,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.4792,
+      "importance": 0.4792,
+      "importance_score": 0.4792,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7105,
+        "recency": 0.6561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1073,14 +1130,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4834,
-      "importance": 0.4834,
-      "importance_score": 0.4834,
+      "score": 0.4726,
+      "importance": 0.4726,
+      "importance_score": 0.4726,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6772,
+        "recency": 0.6228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,14 +1207,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4676,
-      "importance": 0.4676,
-      "importance_score": 0.4676,
+      "score": 0.4567,
+      "importance": 0.4567,
+      "importance_score": 0.4567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.598,
+        "recency": 0.5436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1172,103 +1229,6 @@
         "url": "https://www.ithome.com/0/984/557.htm",
         "source": "IT之家 (ITHome)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b5a2b7d3ff4e",
-      "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "source": "manifest.build",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T19:52:01.629000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "manifest.build"
-      ],
-      "items": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T19:52:01.629000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4507,
-      "importance": 0.4507,
-      "importance_score": 0.4507,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3884,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T18:06:39Z",
-      "latest_at": "2026-08-01T03:21:33.850000Z",
-      "primary_item": {
-        "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-        "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-        "source": "manifest.build",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1325,14 +1285,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4701,
-      "importance": 0.4701,
-      "importance_score": 0.4701,
+      "score": 0.4592,
+      "importance": 0.4592,
+      "importance_score": 0.4592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6105,
+        "recency": 0.5561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,14 +1363,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4657,
-      "importance": 0.4657,
-      "importance_score": 0.4657,
+      "score": 0.4548,
+      "importance": 0.4548,
+      "importance_score": 0.4548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5883,
+        "recency": 0.5338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,103 +1384,6 @@
         "title": "我是一名创始人，也是一位在微软工作了十年的工程师。以下是我会聘请来领导人工智能转型的人选。",
         "url": "https://www.businessinsider.com/microsoft-engineer-heres-who-id-hire-for-the-ai-transition-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_32fd60636e2b",
-      "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "tailscale.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T19:52:01.629000Z"
-        },
-        {
-          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:03:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "tailscale.com"
-      ],
-      "items": [
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T19:52:01.629000Z"
-        },
-        {
-          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:03:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3929,
-      "importance": 0.3929,
-      "importance_score": 0.3929,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0994,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T19:03:45Z",
-      "latest_at": "2026-07-31T20:25:20.686000Z",
-      "primary_item": {
-        "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-        "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "tailscale.com",
         "source_name": "Buzzing"
       }
     },
@@ -1578,14 +1441,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3901,
-      "importance": 0.3901,
-      "importance_score": 0.3901,
+      "score": 0.3792,
+      "importance": 0.3792,
+      "importance_score": 0.3792,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2104,
+        "recency": 0.1559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,6 +1462,162 @@
         "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_866706fcf4ea",
+      "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://news.ycombinator.com/item?id=49127874",
+      "primary_url": "https://news.ycombinator.com/item?id=49127874",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
+          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
+          "url": "https://news.ycombinator.com/item?id=49127874",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T22:54:58.091000Z"
+        },
+        {
+          "id": "6cf27881da71cb933edd33dc6fa9f1b4385bfed0",
+          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
+          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T19:55:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
+          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
+          "url": "https://news.ycombinator.com/item?id=49127874",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T22:54:58.091000Z"
+        },
+        {
+          "id": "6cf27881da71cb933edd33dc6fa9f1b4385bfed0",
+          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
+          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T19:55:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3778,
+      "importance": 0.3778,
+      "importance_score": 0.3778,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1488,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T19:55:41Z",
+      "latest_at": "2026-07-31T22:54:58.091000Z",
+      "primary_item": {
+        "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
+        "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
+        "url": "https://news.ycombinator.com/item?id=49127874",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3ceada312631",
+      "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+      "url": "https://code.intellios.ai/cwbrowser",
+      "primary_url": "https://code.intellios.ai/cwbrowser",
+      "source": "code.intellios.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "code.intellios.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T21:45:09.957000Z"
+        },
+        {
+          "id": "bcfe10fa2622cd4799c49145d20c8314bb5de1f3",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T21:39:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "code.intellios.ai"
+      ],
+      "items": [
+        {
+          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "code.intellios.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T21:45:09.957000Z"
+        },
+        {
+          "id": "bcfe10fa2622cd4799c49145d20c8314bb5de1f3",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T21:39:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3681,
+      "importance": 0.3681,
+      "importance_score": 0.3681,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1003,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T21:39:52Z",
+      "latest_at": "2026-07-31T21:45:09.957000Z",
+      "primary_item": {
+        "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
+        "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+        "url": "https://code.intellios.ai/cwbrowser",
+        "source": "code.intellios.ai",
         "source_name": "Buzzing"
       }
     }
