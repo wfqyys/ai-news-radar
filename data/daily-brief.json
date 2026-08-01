@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:40:19.622926Z",
+  "generated_at": "2026-08-01T13:05:32.112434Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.8995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8324,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -219,14 +219,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6783,
+        "recency": 0.6192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -278,14 +278,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3498,
+        "recency": 0.2906,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,14 +376,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5563,
+      "importance": 0.5563,
+      "importance_score": 0.5563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9758,
+        "recency": 0.9166,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -398,6 +398,84 @@
         "url": "https://weeraman.com/the-prototype-isnt-the-product",
         "source": "weeraman.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_97c1a52e1c1b",
+      "title": "微软 / 初学者生成人工智能 / microsoft /      generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "primary_url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9e1bcea799222c4f27b53bb32fb9d6444ee9e458",
+          "title": "微软 / 初学者生成人工智能 / microsoft /      generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T12:43:30.418000Z"
+        },
+        {
+          "id": "89ac63604955cbdcf7469cbe1f5e141c8f4fd7b6",
+          "title": "微软 / 初学者生成人工智能 / microsoft / generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9e1bcea799222c4f27b53bb32fb9d6444ee9e458",
+          "title": "微软 / 初学者生成人工智能 / microsoft /      generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T12:43:30.418000Z"
+        },
+        {
+          "id": "89ac63604955cbdcf7469cbe1f5e141c8f4fd7b6",
+          "title": "微软 / 初学者生成人工智能 / microsoft / generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9847,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T11:40:19.622926Z",
+      "latest_at": "2026-08-01T12:43:30.418000Z",
+      "primary_item": {
+        "id": "9e1bcea799222c4f27b53bb32fb9d6444ee9e458",
+        "title": "微软 / 初学者生成人工智能 / microsoft /      generative-ai-for-beginners",
+        "url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -473,14 +551,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8757,
+        "recency": 0.8166,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -551,14 +629,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9758,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -629,14 +707,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9758,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -707,14 +785,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9425,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -785,14 +863,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8645,
+        "recency": 0.8053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -807,6 +885,83 @@
         "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
         "source": "chreke.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_16eec787773e",
+      "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+      "url": "https://www.ithome.com/0/984/557.htm",
+      "primary_url": "https://www.ithome.com/0/984/557.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        },
+        {
+          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
+          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        },
+        {
+          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
+          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8041,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T08:23:25Z",
+      "latest_at": "2026-08-01T08:23:25Z",
+      "primary_item": {
+        "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+        "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+        "url": "https://www.ithome.com/0/984/557.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -882,14 +1037,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.4919,
+      "importance": 0.4919,
+      "importance_score": 0.4919,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6536,
+        "recency": 0.5945,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -960,14 +1115,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8757,
+        "recency": 0.8166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,14 +1212,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4681,
-      "importance": 0.4681,
-      "importance_score": 0.4681,
+      "score": 0.4563,
+      "importance": 0.4563,
+      "importance_score": 0.4563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4756,
+        "recency": 0.4165,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1135,14 +1290,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8535,
+        "recency": 0.7943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,14 +1368,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.452,
-      "importance": 0.452,
-      "importance_score": 0.452,
+      "score": 0.4402,
+      "importance": 0.4402,
+      "importance_score": 0.4402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.1299,
+        "recency": 0.0708,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1310,14 +1465,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4504,
-      "importance": 0.4504,
-      "importance_score": 0.4504,
+      "score": 0.4386,
+      "importance": 0.4386,
+      "importance_score": 0.4386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.387,
+        "recency": 0.3278,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1407,14 +1562,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4459,
-      "importance": 0.4459,
-      "importance_score": 0.4459,
+      "score": 0.4341,
+      "importance": 0.4341,
+      "importance_score": 0.4341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3646,
+        "recency": 0.3054,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1429,162 +1584,6 @@
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "tailscale.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ce7c88024b2c",
-      "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "336c5ff3f7db5e1b454101e072cd57a8b1f30450",
-          "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T23:05:14.457000Z"
-        },
-        {
-          "id": "bbe045c2edb5e5dd6bb7850950668a3ff3c59222",
-          "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据",
-          "url": "https://reut.rs/4bk7nNl",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:41:36.171000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "reut.rs"
-      ],
-      "items": [
-        {
-          "id": "336c5ff3f7db5e1b454101e072cd57a8b1f30450",
-          "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T23:05:14.457000Z"
-        },
-        {
-          "id": "bbe045c2edb5e5dd6bb7850950668a3ff3c59222",
-          "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据",
-          "url": "https://reut.rs/4bk7nNl",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:41:36.171000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4431,
-      "importance": 0.4431,
-      "importance_score": 0.4431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4756,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T20:41:36.171000Z",
-      "latest_at": "2026-07-31T23:05:14.457000Z",
-      "primary_item": {
-        "id": "336c5ff3f7db5e1b454101e072cd57a8b1f30450",
-        "title": "独家报道：OpenAI在扩大黑客攻击调查范围的过程中，发现了其他AI代理逃脱封锁的证据 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_866706fcf4ea",
-      "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://news.ycombinator.com/item?id=49127874",
-      "primary_url": "https://news.ycombinator.com/item?id=49127874",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "url": "https://news.ycombinator.com/item?id=49127874",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T22:54:58.091000Z"
-        },
-        {
-          "id": "6cf27881da71cb933edd33dc6fa9f1b4385bfed0",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:55:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "url": "https://news.ycombinator.com/item?id=49127874",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T22:54:58.091000Z"
-        },
-        {
-          "id": "6cf27881da71cb933edd33dc6fa9f1b4385bfed0",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:55:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4417,
-      "importance": 0.4417,
-      "importance_score": 0.4417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4685,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T19:55:41Z",
-      "latest_at": "2026-07-31T22:54:58.091000Z",
-      "primary_item": {
-        "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-        "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-        "url": "https://news.ycombinator.com/item?id=49127874",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
