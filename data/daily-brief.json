@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:36:41.347981Z",
+  "generated_at": "2026-08-02T16:53:11.534221Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6161,
+        "recency": 0.563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -184,54 +184,55 @@
       }
     },
     {
-      "story_id": "story_65ef8d2bbdc6",
-      "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-      "url": "https://hub.baai.ac.cn/view/56822",
-      "primary_url": "https://hub.baai.ac.cn/view/56822",
+      "story_id": "story_5a3c7608e5bd",
+      "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+      "url": "https://www.huxiu.com/article/4880099.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4880099.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
+          "id": "ca097917620308fa4cedc97f93c203ce311b5ebd",
+          "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
-          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b7ba7b252657370e380709b2095f58c1f3c886e7",
+          "title": "AI不会成为世界的主人，但AI公司可能会。",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:00:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
+          "id": "ca097917620308fa4cedc97f93c203ce311b5ebd",
+          "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
-          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b7ba7b252657370e380709b2095f58c1f3c886e7",
+          "title": "AI不会成为世界的主人，但AI公司可能会。",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:00:22Z"
         }
       ],
       "item_count": 2,
@@ -250,14 +251,91 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T11:12:51.086113Z",
-      "latest_at": "2026-08-02T15:36:41.347981Z",
+      "earliest_at": "2026-08-02T16:00:22Z",
+      "latest_at": "2026-08-02T16:53:11.534221Z",
       "primary_item": {
-        "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-        "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-        "url": "https://hub.baai.ac.cn/view/56822",
+        "id": "ca097917620308fa4cedc97f93c203ce311b5ebd",
+        "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+        "url": "https://www.huxiu.com/article/4880099.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_0405ae091a4a",
+      "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "primary_url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        },
+        {
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        },
+        {
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9154,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T14:51:18Z",
+      "latest_at": "2026-08-02T14:51:18Z",
+      "primary_item": {
+        "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+        "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+        "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -314,14 +392,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9556,
+        "recency": 0.9025,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -392,14 +470,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.5279,
+        "recency": 0.4748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -414,6 +492,84 @@
         "url": "https://simonwillison.net/2026/Aug/2/open-letters",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_09e43c4dbf4f",
+      "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+      "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4880101.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
+          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
+          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:04:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
+          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
+          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:04:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T16:04:41Z",
+      "latest_at": "2026-08-02T16:53:11.534221Z",
+      "primary_item": {
+        "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
+        "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+        "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -470,14 +626,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8659,
+        "recency": 0.8128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,14 +704,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8168,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -626,14 +782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.4974,
+      "importance": 0.4974,
+      "importance_score": 0.4974,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8,
+        "recency": 0.7469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -648,6 +804,83 @@
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
         "source": "ankursethi.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_65ef8d2bbdc6",
+      "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+      "url": "https://hub.baai.ac.cn/view/56822",
+      "primary_url": "https://hub.baai.ac.cn/view/56822",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
+          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
+          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
+          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
+          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9469,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T11:12:51.086113Z",
+      "latest_at": "2026-08-02T15:36:41.347981Z",
+      "primary_item": {
+        "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
+        "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+        "url": "https://hub.baai.ac.cn/view/56822",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -704,14 +937,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4792,
-      "importance": 0.4792,
-      "importance_score": 0.4792,
+      "score": 0.4686,
+      "importance": 0.4686,
+      "importance_score": 0.4686,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.656,
+        "recency": 0.6029,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -782,14 +1015,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.498,
+      "importance": 0.498,
+      "importance_score": 0.498,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8032,
+        "recency": 0.7501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -897,14 +1130,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4736,
-      "importance": 0.4736,
-      "importance_score": 0.4736,
+      "score": 0.463,
+      "importance": 0.463,
+      "importance_score": 0.463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3782,
+        "recency": 0.3251,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -975,14 +1208,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.488,
-      "importance": 0.488,
-      "importance_score": 0.488,
+      "score": 0.4774,
+      "importance": 0.4774,
+      "importance_score": 0.4774,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7,
+        "recency": 0.6469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -997,84 +1230,6 @@
         "url": "https://www.businessinsider.com/steve-hanke-ai-not-destroying-jobs-unemployment-cost-data-centers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_099ccf3a13ec",
-      "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-      "url": "https://news.qq.com/rain/a/20260802A07RV800",
-      "primary_url": "https://news.qq.com/rain/a/20260802A07RV800",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
-          "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-          "url": "https://news.qq.com/rain/a/20260802A07RV800",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e5eabaf8fccf9a37472fc8330ceeaeb2714e432c",
-          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
-          "url": "https://www.huxiu.com/article/4880039.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T05:07:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
-          "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-          "url": "https://news.qq.com/rain/a/20260802A07RV800",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e5eabaf8fccf9a37472fc8330ceeaeb2714e432c",
-          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
-          "url": "https://www.huxiu.com/article/4880039.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T05:07:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4803,
-      "importance": 0.4803,
-      "importance_score": 0.4803,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6614,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T05:07:32Z",
-      "latest_at": "2026-08-02T07:29:06.620082Z",
-      "primary_item": {
-        "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
-        "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-        "url": "https://news.qq.com/rain/a/20260802A07RV800",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1150,14 +1305,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4793,
-      "importance": 0.4793,
-      "importance_score": 0.4793,
+      "score": 0.4687,
+      "importance": 0.4687,
+      "importance_score": 0.4687,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5317,
+        "recency": 0.4785,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1172,84 +1327,6 @@
         "url": "https://news.ycombinator.com/item?id=49140340",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2df07cd64bff",
-      "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-      "url": "https://www.ithome.com/0/984/712.htm",
-      "primary_url": "https://www.ithome.com/0/984/712.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T04:07:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T04:07:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4583,
-      "importance": 0.4583,
-      "importance_score": 0.4583,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5514,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T04:07:32Z",
-      "latest_at": "2026-08-02T04:50:43.057806Z",
-      "primary_item": {
-        "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-        "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-        "url": "https://www.ithome.com/0/984/712.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1306,14 +1383,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3948,
-      "importance": 0.3948,
-      "importance_score": 0.3948,
+      "score": 0.3841,
+      "importance": 0.3841,
+      "importance_score": 0.3841,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2338,
+        "recency": 0.1807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1328,6 +1405,84 @@
         "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
         "source": "www.bfswa.blog",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_099ccf3a13ec",
+      "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
+      "url": "https://news.qq.com/rain/a/20260802A07RV800",
+      "primary_url": "https://news.qq.com/rain/a/20260802A07RV800",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
+          "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
+          "url": "https://news.qq.com/rain/a/20260802A07RV800",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e5eabaf8fccf9a37472fc8330ceeaeb2714e432c",
+          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
+          "url": "https://www.huxiu.com/article/4880039.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T05:07:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
+          "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
+          "url": "https://news.qq.com/rain/a/20260802A07RV800",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e5eabaf8fccf9a37472fc8330ceeaeb2714e432c",
+          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
+          "url": "https://www.huxiu.com/article/4880039.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T05:07:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4697,
+      "importance": 0.4697,
+      "importance_score": 0.4697,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6083,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T05:07:32Z",
+      "latest_at": "2026-08-02T07:29:06.620082Z",
+      "primary_item": {
+        "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
+        "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
+        "url": "https://news.qq.com/rain/a/20260802A07RV800",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1401,14 +1556,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4793,
-      "importance": 0.4793,
-      "importance_score": 0.4793,
+      "score": 0.4687,
+      "importance": 0.4687,
+      "importance_score": 0.4687,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5317,
+        "recency": 0.4785,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1423,161 +1578,6 @@
         "url": "https://news.ycombinator.com/item?id=49139102",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a408ae343b81",
-      "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "primary_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3818,
-      "importance": 0.3818,
-      "importance_score": 0.3818,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1688,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T19:39:43Z",
-      "latest_at": "2026-08-01T19:39:43Z",
-      "primary_item": {
-        "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-        "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_9913dded4f75",
-      "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
-      "url": "https://www.ithome.com/0/984/671.htm",
-      "primary_url": "https://www.ithome.com/0/984/671.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "34f53649cf093a81fa348fe320de2adf87398de0",
-          "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
-          "url": "https://www.ithome.com/0/984/671.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c70a424ede9564b97959e47d0150984604ec6b21",
-          "title": "初创公司 Majestic 推出 AI 服务器“普罗米修斯”，可选配 8TB-128TB LPDDR6 内存",
-          "url": "https://www.ithome.com/0/984/671.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T02:06:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "34f53649cf093a81fa348fe320de2adf87398de0",
-          "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
-          "url": "https://www.ithome.com/0/984/671.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c70a424ede9564b97959e47d0150984604ec6b21",
-          "title": "初创公司 Majestic 推出 AI 服务器“普罗米修斯”，可选配 8TB-128TB LPDDR6 内存",
-          "url": "https://www.ithome.com/0/984/671.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T02:06:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4583,
-      "importance": 0.4583,
-      "importance_score": 0.4583,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5514,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T02:06:47Z",
-      "latest_at": "2026-08-02T04:50:43.057806Z",
-      "primary_item": {
-        "id": "34f53649cf093a81fa348fe320de2adf87398de0",
-        "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
-        "url": "https://www.ithome.com/0/984/671.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
