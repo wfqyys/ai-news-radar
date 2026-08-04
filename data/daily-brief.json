@@ -1,8 +1,330 @@
 {
-  "generated_at": "2026-08-04T05:15:39.506893Z",
+  "generated_at": "2026-08-04T07:59:15.469598Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0c7f3cef6357",
+      "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+      "url": "https://www.aibase.com/news/30099",
+      "primary_url": "https://www.aibase.com/news/30099",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/news/30099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T07:59:15.469598Z"
+        },
+        {
+          "id": "1b26d7273a37560686d281726f0f09d6c873d763",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/zh/news/30099",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/news/30099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T07:59:15.469598Z"
+        },
+        {
+          "id": "1b26d7273a37560686d281726f0f09d6c873d763",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/zh/news/30099",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T07:59:15.469598Z",
+      "latest_at": "2026-08-04T07:59:15.469598Z",
+      "primary_item": {
+        "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
+        "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+        "url": "https://www.aibase.com/news/30099",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3949965c0b54",
+      "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T23:27:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T23:27:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.6447,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T23:27:35Z",
+      "latest_at": "2026-08-03T23:27:35Z",
+      "primary_item": {
+        "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+        "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c5ad624a6ffb",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6672,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
+      "primary_item": {
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_474f194b36b7",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+      "primary_url": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8d154b28760028e6ea9d4530f095eae0d0350de",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "url": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e8d154b28760028e6ea9d4530f095eae0d0350de",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "url": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9399,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T06:32:44Z",
+      "latest_at": "2026-08-04T06:32:44Z",
+      "primary_item": {
+        "id": "e8d154b28760028e6ea9d4530f095eae0d0350de",
+        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "url": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_afd907be5405",
+      "title": "GPT-5.6 Luna降价80%永久生效",
+      "url": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+      "primary_url": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "622388b560129d7af122371c77a9a36581e5fa6b",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "622388b560129d7af122371c77a9a36581e5fa6b",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8807,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T05:07:32Z",
+      "latest_at": "2026-08-04T05:07:32Z",
+      "primary_item": {
+        "id": "622388b560129d7af122371c77a9a36581e5fa6b",
+        "title": "GPT-5.6 Luna降价80%永久生效",
+        "url": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_bbbbbb2d4c5a",
       "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
@@ -57,14 +379,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -84,21 +406,81 @@
       }
     },
     {
-      "story_id": "story_3949965c0b54",
-      "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "story_id": "story_a8dd359b3b10",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+      "primary_url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90a2f14e58ebb76e03074068ce257f5e9d3d9833",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "90a2f14e58ebb76e03074068ce257f5e9d3d9833",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8481,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T04:20:28Z",
+      "latest_at": "2026-08-04T04:20:28Z",
+      "primary_item": {
+        "id": "90a2f14e58ebb76e03074068ce257f5e9d3d9833",
+        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_36483847691e",
+      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
-          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T23:27:35Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "source_count": 1,
@@ -107,25 +489,25 @@
       ],
       "items": [
         {
-          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
-          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T23:27:35Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7583,
+        "ai_relevance": 0.87,
+        "recency": 0.6224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -134,74 +516,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T23:27:35Z",
-      "latest_at": "2026-08-03T23:27:35Z",
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
       "primary_item": {
-        "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
-        "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c5ad624a6ffb",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7808,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
-      "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -259,14 +580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -286,124 +607,180 @@
       }
     },
     {
-      "story_id": "story_a8dd359b3b10",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
-      "primary_url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
-      "source": "公众号：面壁智能（MiniCPM）",
+      "story_id": "story_6caded57f215",
+      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+      "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+      "primary_url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "90a2f14e58ebb76e03074068ce257f5e9d3d9833",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
-          "source": "公众号：面壁智能（MiniCPM）",
+          "id": "f4626bd4ae3ad7d268b82e9c2f22f90bf1a5c199",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
+          "published_at": "2026-08-04T00:06:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：面壁智能（MiniCPM）"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "90a2f14e58ebb76e03074068ce257f5e9d3d9833",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
-          "source": "公众号：面壁智能（MiniCPM）",
+          "id": "f4626bd4ae3ad7d268b82e9c2f22f90bf1a5c199",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
+          "published_at": "2026-08-04T00:06:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9617,
+        "recency": 0.6713,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T04:20:28Z",
-      "latest_at": "2026-08-04T04:20:28Z",
+      "earliest_at": "2026-08-04T00:06:00Z",
+      "latest_at": "2026-08-04T00:06:00Z",
       "primary_item": {
-        "id": "90a2f14e58ebb76e03074068ce257f5e9d3d9833",
-        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-        "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
-        "source": "公众号：面壁智能（MiniCPM）",
+        "id": "f4626bd4ae3ad7d268b82e9c2f22f90bf1a5c199",
+        "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+        "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_36483847691e",
-      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9eeac8490556",
+      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
+      "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+      "primary_url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
+          "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T23:19:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
+          "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T23:19:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.736,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6393,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T22:55:29Z",
-      "latest_at": "2026-08-03T22:55:29Z",
+      "earliest_at": "2026-08-03T23:19:50Z",
+      "latest_at": "2026-08-03T23:19:50Z",
       "primary_item": {
-        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
+        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
+        "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_02b5220d9272",
+      "title": "GPT-Live实时音频新架构发布",
+      "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
+      "primary_url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
+          "title": "GPT-Live实时音频新架构发布",
+          "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T22:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
+          "title": "GPT-Live实时音频新架构发布",
+          "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T22:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6018,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T22:25:53Z",
+      "latest_at": "2026-08-03T22:25:53Z",
+      "primary_item": {
+        "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
+        "title": "GPT-Live实时音频新架构发布",
+        "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -460,14 +837,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -487,183 +864,123 @@
       }
     },
     {
-      "story_id": "story_6caded57f215",
-      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-      "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
-      "primary_url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_0417c5bf90f3",
+      "title": "Claude Code 连接器可复用至 Artifacts",
+      "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+      "primary_url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+      "source": "X：Thariq (@trq212)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f4626bd4ae3ad7d268b82e9c2f22f90bf1a5c199",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
-          "source": "公众号：数字生命卡兹克",
+          "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
+          "title": "Claude Code 连接器可复用至 Artifacts",
+          "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+          "source": "X：Thariq (@trq212)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
+          "published_at": "2026-08-03T21:13:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Thariq (@trq212)"
       ],
       "items": [
         {
-          "id": "f4626bd4ae3ad7d268b82e9c2f22f90bf1a5c199",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
-          "source": "公众号：数字生命卡兹克",
+          "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
+          "title": "Claude Code 连接器可复用至 Artifacts",
+          "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+          "source": "X：Thariq (@trq212)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
+          "published_at": "2026-08-03T21:13:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.785,
+        "recency": 0.5518,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T00:06:00Z",
-      "latest_at": "2026-08-04T00:06:00Z",
+      "earliest_at": "2026-08-03T21:13:53Z",
+      "latest_at": "2026-08-03T21:13:53Z",
       "primary_item": {
-        "id": "f4626bd4ae3ad7d268b82e9c2f22f90bf1a5c199",
-        "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-        "url": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
-        "source": "公众号：数字生命卡兹克",
+        "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
+        "title": "Claude Code 连接器可复用至 Artifacts",
+        "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+        "source": "X：Thariq (@trq212)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9eeac8490556",
-      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-      "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-      "primary_url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9d307834399b",
+      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-          "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-          "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
-      "importance_label": "行业动态",
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7529,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4692,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T23:19:50Z",
-      "latest_at": "2026-08-03T23:19:50Z",
+      "earliest_at": "2026-08-03T19:14:58Z",
+      "latest_at": "2026-08-03T19:14:58Z",
       "primary_item": {
-        "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
-        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-        "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_02b5220d9272",
-      "title": "GPT-Live实时音频新架构发布",
-      "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-      "primary_url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
-          "title": "GPT-Live实时音频新架构发布",
-          "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
-          "title": "GPT-Live实时音频新架构发布",
-          "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T22:25:53Z",
-      "latest_at": "2026-08-03T22:25:53Z",
-      "primary_item": {
-        "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
-        "title": "GPT-Live实时音频新架构发布",
-        "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
+        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -720,14 +1037,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -744,244 +1061,6 @@
         "url": "https://www.aibase.com/news/30095",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0417c5bf90f3",
-      "title": "Claude Code 连接器可复用至 Artifacts",
-      "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-      "primary_url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6654,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T21:13:53Z",
-      "latest_at": "2026-08-03T21:13:53Z",
-      "primary_item": {
-        "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
-        "title": "Claude Code 连接器可复用至 Artifacts",
-        "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_df199a5296df",
-      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-      "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-      "primary_url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7a2c21d86f257577de2d547209a1721114498b49",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "7a2c21d86f257577de2d547209a1721114498b49",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6225,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T20:12:03Z",
-      "latest_at": "2026-08-03T20:12:03Z",
-      "primary_item": {
-        "id": "7a2c21d86f257577de2d547209a1721114498b49",
-        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-        "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_76b2cc8ec141",
-      "title": "微软开源 Orchard 智能体训练框架",
-      "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-      "primary_url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "26cf8f2f219dc5e8961561c4278b2804570ff298",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
-      ],
-      "items": [
-        {
-          "id": "26cf8f2f219dc5e8961561c4278b2804570ff298",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6026,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T19:43:28Z",
-      "latest_at": "2026-08-03T19:43:28Z",
-      "primary_item": {
-        "id": "26cf8f2f219dc5e8961561c4278b2804570ff298",
-        "title": "微软开源 Orchard 智能体训练框架",
-        "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9d307834399b",
-      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5829,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T19:14:58Z",
-      "latest_at": "2026-08-03T19:14:58Z",
-      "primary_item": {
-        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1038,14 +1117,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1099,21 +1178,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4923,
+        "recency": 0.3787,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T17:04:32Z",
       "latest_at": "2026-08-03T17:04:32Z",
@@ -1126,21 +1204,21 @@
       }
     },
     {
-      "story_id": "story_3f407814a854",
-      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-      "url": "https://www.aibase.com/news/30091",
-      "primary_url": "https://www.aibase.com/news/30091",
+      "story_id": "story_8602bbfa5733",
+      "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+      "url": "https://www.aibase.com/news/30102",
+      "primary_url": "https://www.aibase.com/news/30102",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-          "url": "https://www.aibase.com/news/30091",
+          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "url": "https://www.aibase.com/news/30102",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T05:15:39.506893Z"
+          "published_at": "2026-08-04T07:59:15.469598Z"
         }
       ],
       "source_count": 1,
@@ -1149,13 +1227,13 @@
       ],
       "items": [
         {
-          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-          "url": "https://www.aibase.com/news/30091",
+          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "url": "https://www.aibase.com/news/30102",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T05:15:39.506893Z"
+          "published_at": "2026-08-04T07:59:15.469598Z"
         }
       ],
       "item_count": 1,
@@ -1175,12 +1253,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T05:15:39.506893Z",
-      "latest_at": "2026-08-04T05:15:39.506893Z",
+      "earliest_at": "2026-08-04T07:59:15.469598Z",
+      "latest_at": "2026-08-04T07:59:15.469598Z",
       "primary_item": {
-        "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-        "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-        "url": "https://www.aibase.com/news/30091",
+        "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+        "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+        "url": "https://www.aibase.com/news/30102",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1220,21 +1298,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4705,
+        "recency": 0.3569,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T16:33:13Z",
       "latest_at": "2026-08-03T16:33:13Z",
@@ -1244,86 +1321,6 @@
         "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_489035fb7a64",
-      "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-      "url": "https://www.aibase.com/news/30084",
-      "primary_url": "https://www.aibase.com/news/30084",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/news/30084",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T01:57:36.968617Z"
-        },
-        {
-          "id": "c165784b76e6374879826784d0b9a36310b028ff",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/zh/news/30084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/news/30084",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T01:57:36.968617Z"
-        },
-        {
-          "id": "c165784b76e6374879826784d0b9a36310b028ff",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/zh/news/30084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8625,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T01:57:36.968617Z",
-      "latest_at": "2026-08-04T01:57:36.968617Z",
-      "primary_item": {
-        "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-        "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-        "url": "https://www.aibase.com/news/30084",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
