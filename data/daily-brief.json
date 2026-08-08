@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:31:15.189365Z",
+  "generated_at": "2026-08-08T10:24:46.347831Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5728,
+        "recency": 0.5356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -159,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4822,
+        "recency": 0.445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -239,21 +239,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5678,
+        "recency": 0.5307,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T23:08:56Z",
       "latest_at": "2026-08-07T23:08:56Z",
@@ -300,14 +299,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.471,
+        "recency": 0.4338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,14 +360,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5061,
+        "recency": 0.4689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -385,85 +384,6 @@
         "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4c412f1fef52",
-      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-      "url": "https://www.aibase.com/news/30199",
-      "primary_url": "https://www.aibase.com/news/30199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T09:55:18.655809Z"
-        },
-        {
-          "id": "916101c865238ed5dd9c46c7a3443161bc8b167c",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/zh/news/30199",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T09:55:18.655809Z"
-        },
-        {
-          "id": "916101c865238ed5dd9c46c7a3443161bc8b167c",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/zh/news/30199",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6403,
-      "importance": 0.6403,
-      "importance_score": 0.6403,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0167,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T09:55:18.655809Z",
-      "latest_at": "2026-08-07T09:55:18.655809Z",
-      "primary_item": {
-        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "url": "https://www.aibase.com/news/30199",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -501,14 +421,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3677,
+        "recency": 0.3306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,14 +481,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3347,
+        "recency": 0.2975,
         "story_heat": 0.0
       },
       "category": "official",
@@ -640,14 +560,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5627,
+      "importance": 0.5627,
+      "importance_score": 0.5627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.6005,
+        "recency": 0.5633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -774,14 +694,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6444,
+        "recency": 0.6072,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -799,63 +719,158 @@
       }
     },
     {
-      "story_id": "story_523078d0c9f7",
-      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_8b3be1aef926",
+      "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+      "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+      "primary_url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T09:50:49.654000Z"
+        },
+        {
+          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T09:36:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T09:50:49.654000Z"
+        },
+        {
+          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T09:36:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7226,
-      "importance": 0.7226,
-      "importance_score": 0.7226,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.308,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9764,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
+      "earliest_at": "2026-08-08T09:36:01Z",
+      "latest_at": "2026-08-08T09:50:49.654000Z",
       "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
+        "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+        "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_de8a671ce9e4",
+      "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+      "url": "https://www.v2ex.com/t/1232891",
+      "primary_url": "https://www.v2ex.com/t/1232891",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
+          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        },
+        {
+          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
+          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
+          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        },
+        {
+          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
+          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8015,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T05:38:57Z",
+      "latest_at": "2026-08-08T05:38:57Z",
+      "primary_item": {
+        "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
+        "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+        "url": "https://www.v2ex.com/t/1232891",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -912,14 +927,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7935,
+        "recency": 0.7563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,14 +1005,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7935,
+        "recency": 0.7563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1067,14 +1082,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4838,
-      "importance": 0.4838,
-      "importance_score": 0.4838,
+      "score": 0.4764,
+      "importance": 0.4764,
+      "importance_score": 0.4764,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6791,
+        "recency": 0.642,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,161 +1104,6 @@
         "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_0115068be663",
-      "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
-      "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-      "primary_url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3c69d8af3295886c722f80c10bace9e256f9f800",
-          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
-          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T00:30:37.525000Z"
-        },
-        {
-          "id": "d042c0b4c7db469220e5ca68bef359bda27fb8dc",
-          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。 / AI was meant to replace software developers. It's creating more instead.",
-          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T00:05:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3c69d8af3295886c722f80c10bace9e256f9f800",
-          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
-          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T00:30:37.525000Z"
-        },
-        {
-          "id": "d042c0b4c7db469220e5ca68bef359bda27fb8dc",
-          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。 / AI was meant to replace software developers. It's creating more instead.",
-          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T00:05:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4729,
-      "importance": 0.4729,
-      "importance_score": 0.4729,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6246,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T00:05:04Z",
-      "latest_at": "2026-08-08T00:30:37.525000Z",
-      "primary_item": {
-        "id": "3c69d8af3295886c722f80c10bace9e256f9f800",
-        "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
-        "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6b2f781c6313",
-      "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-      "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-      "primary_url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7beafae7f6f16d7a54fe4948082f12006d3509a3",
-          "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        },
-        {
-          "id": "c49d9f595854dd16a60173817d99b99e3240c788",
-          "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "7beafae7f6f16d7a54fe4948082f12006d3509a3",
-          "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        },
-        {
-          "id": "c49d9f595854dd16a60173817d99b99e3240c788",
-          "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.451,
-      "importance": 0.451,
-      "importance_score": 0.451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.74,
-        "recency": 0.02,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T10:00:00Z",
-      "latest_at": "2026-08-07T10:00:00Z",
-      "primary_item": {
-        "id": "7beafae7f6f16d7a54fe4948082f12006d3509a3",
-        "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
       }
     },
     {
@@ -1319,14 +1179,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.449,
-      "importance": 0.449,
-      "importance_score": 0.449,
+      "score": 0.4416,
+      "importance": 0.4416,
+      "importance_score": 0.4416,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3802,
+        "recency": 0.343,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1397,14 +1257,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4769,
-      "importance": 0.4769,
-      "importance_score": 0.4769,
+      "score": 0.4694,
+      "importance": 0.4694,
+      "importance_score": 0.4694,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6444,
+        "recency": 0.6072,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,6 +1279,84 @@
         "url": "https://news.ycombinator.com/item?id=49217629",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0115068be663",
+      "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
+      "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+      "primary_url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3c69d8af3295886c722f80c10bace9e256f9f800",
+          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
+          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T00:30:37.525000Z"
+        },
+        {
+          "id": "d042c0b4c7db469220e5ca68bef359bda27fb8dc",
+          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。 / AI was meant to replace software developers. It's creating more instead.",
+          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T00:05:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3c69d8af3295886c722f80c10bace9e256f9f800",
+          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
+          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T00:30:37.525000Z"
+        },
+        {
+          "id": "d042c0b4c7db469220e5ca68bef359bda27fb8dc",
+          "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。 / AI was meant to replace software developers. It's creating more instead.",
+          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T00:05:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5874,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T00:05:04Z",
+      "latest_at": "2026-08-08T00:30:37.525000Z",
+      "primary_item": {
+        "id": "3c69d8af3295886c722f80c10bace9e256f9f800",
+        "title": "人工智能原本被认为会取代软件开发人员，但实际上却创造了更多就业机会。",
+        "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1475,14 +1413,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4682,
-      "importance": 0.4682,
-      "importance_score": 0.4682,
+      "score": 0.4608,
+      "importance": 0.4608,
+      "importance_score": 0.4608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6009,
+        "recency": 0.5638,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1497,6 +1435,103 @@
         "url": "https://www.ithome.com/0/987/225.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "人工智能与大学",
+      "url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+      "primary_url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ce7dd19eb0a02a89d95c6ba3301b21931749c67",
+          "title": "人工智能与大学",
+          "url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T17:02:46.896000Z"
+        },
+        {
+          "id": "dbf1e3f780ce1718932827121e16b91ec898ee33",
+          "title": "格陵兰岛伊卢利萨特发生冰山崩塌并翻转事件（2026年7月25日）[视频] / Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+          "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T14:55:08Z"
+        },
+        {
+          "id": "d191e65d4eaa61046b4d88885d744e34a337fece",
+          "title": "人工智能与大学 / AI & The University",
+          "url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T14:44:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "7ce7dd19eb0a02a89d95c6ba3301b21931749c67",
+          "title": "人工智能与大学",
+          "url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T17:02:46.896000Z"
+        },
+        {
+          "id": "dbf1e3f780ce1718932827121e16b91ec898ee33",
+          "title": "格陵兰岛伊卢利萨特发生冰山崩塌并翻转事件（2026年7月25日）[视频] / Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+          "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T14:55:08Z"
+        },
+        {
+          "id": "d191e65d4eaa61046b4d88885d744e34a337fece",
+          "title": "人工智能与大学 / AI & The University",
+          "url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T14:44:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4283,
+      "importance": 0.4283,
+      "importance_score": 0.4283,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2764,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-07T14:44:34Z",
+      "latest_at": "2026-08-07T17:02:46.896000Z",
+      "primary_item": {
+        "id": "7ce7dd19eb0a02a89d95c6ba3301b21931749c67",
+        "title": "人工智能与大学",
+        "url": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     }
   ]
