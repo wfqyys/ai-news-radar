@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-09T05:42:42.950653Z",
+  "generated_at": "2026-08-09T06:44:18.011968Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f5f4233a6e75",
+      "story_id": "story_0f14f1b58eb6",
       "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
       "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
       "primary_url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7108,
+        "recency": 0.668,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -137,14 +137,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7031,
-      "importance": 0.7031,
-      "importance_score": 0.7031,
+      "score": 0.6946,
+      "importance": 0.6946,
+      "importance_score": 0.6946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3305,
+        "recency": 0.2878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -216,14 +216,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5787,
-      "importance": 0.5787,
-      "importance_score": 0.5787,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7037,
+        "recency": 0.6609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -238,6 +238,103 @@
         "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_561b016160b5",
+      "title": "向您其他“克劳德代码”会话发送消息",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "source": "code.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c93e2a7d723746932053a05dcfd00125866be205",
+          "title": "向您其他“克劳德代码”会话发送消息",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "code.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T06:22:36.507000Z"
+        },
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:22:27.112000Z"
+        },
+        {
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "title": "向您其他“克劳德代码”会话发送消息 / Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "code.claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c93e2a7d723746932053a05dcfd00125866be205",
+          "title": "向您其他“克劳德代码”会话发送消息",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "code.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T06:22:36.507000Z"
+        },
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:22:27.112000Z"
+        },
+        {
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "title": "向您其他“克劳德代码”会话发送消息 / Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9849,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T15:34:49Z",
+      "latest_at": "2026-08-09T06:22:36.507000Z",
+      "primary_item": {
+        "id": "c93e2a7d723746932053a05dcfd00125866be205",
+        "title": "向您其他“克劳德代码”会话发送消息",
+        "url": "https://code.claude.com/docs/en/cross-session-messaging",
+        "source": "code.claude.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -294,14 +391,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -372,14 +469,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -468,14 +565,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7388,
+        "recency": 0.6961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -546,14 +643,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9601,
+        "recency": 0.9174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -624,14 +721,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,14 +817,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4875,
-      "importance": 0.4875,
-      "importance_score": 0.4875,
+      "score": 0.4789,
+      "importance": 0.4789,
+      "importance_score": 0.4789,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5723,
+        "recency": 0.5295,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -798,14 +895,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,14 +973,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4773,
-      "importance": 0.4773,
-      "importance_score": 0.4773,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.6166,
+        "recency": 0.5738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -973,14 +1070,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
+      "score": 0.4678,
+      "importance": 0.4678,
+      "importance_score": 0.4678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5167,
+        "recency": 0.474,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1051,14 +1148,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4536,
-      "importance": 0.4536,
-      "importance_score": 0.4536,
+      "score": 0.445,
+      "importance": 0.445,
+      "importance_score": 0.445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5278,
+        "recency": 0.4851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1204,14 +1301,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
+      "score": 0.4915,
+      "importance": 0.4915,
+      "importance_score": 0.4915,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3855,
+        "recency": 0.3427,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1282,14 +1379,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8963,
+        "recency": 0.8535,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1359,14 +1456,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4125,
-      "importance": 0.4125,
-      "importance_score": 0.4125,
+      "score": 0.4039,
+      "importance": 0.4039,
+      "importance_score": 0.4039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3223,
+        "recency": 0.2795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1437,14 +1534,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4024,
-      "importance": 0.4024,
-      "importance_score": 0.4024,
+      "score": 0.3939,
+      "importance": 0.3939,
+      "importance_score": 0.3939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2721,
+        "recency": 0.2294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1459,84 +1556,6 @@
         "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_561b016160b5",
-      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-      "url": "https://news.ycombinator.com/item?id=49222824",
-      "primary_url": "https://news.ycombinator.com/item?id=49222824",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:22:27.112000Z"
-        },
-        {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:22:27.112000Z"
-        },
-        {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4702,
-      "importance": 0.4702,
-      "importance_score": 0.4702,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6109,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-08T20:22:27.112000Z",
-      "primary_item": {
-        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-        "url": "https://news.ycombinator.com/item?id=49222824",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1593,14 +1612,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3869,
-      "importance": 0.3869,
-      "importance_score": 0.3869,
+      "score": 0.3783,
+      "importance": 0.3783,
+      "importance_score": 0.3783,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1945,
+        "recency": 0.1517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1671,14 +1690,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3825,
-      "importance": 0.3825,
-      "importance_score": 0.3825,
+      "score": 0.3739,
+      "importance": 0.3739,
+      "importance_score": 0.3739,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1723,
+        "recency": 0.1295,
         "story_heat": 0.25
       },
       "category": "watch",
