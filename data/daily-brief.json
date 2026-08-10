@@ -1,51 +1,211 @@
 {
-  "generated_at": "2026-08-10T01:15:22.729734Z",
+  "generated_at": "2026-08-10T03:23:38.518701Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_d5d9b7636ae0",
-      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-      "url": "https://www.aibase.com/news/30202",
-      "primary_url": "https://www.aibase.com/news/30202",
+      "story_id": "story_c0002cdaa3ab",
+      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+      "url": "https://www.aibase.com/news/30210",
+      "primary_url": "https://www.aibase.com/news/30210",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "url": "https://www.aibase.com/news/30202",
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "url": "https://www.aibase.com/news/30210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T01:15:22.729734Z"
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "4262ff2c59feec1fd268430bf3999acb3d0b0608",
+          "title": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，浏览器转向 AI 推理引擎",
+          "url": "https://www.aibase.com/zh/news/30210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "url": "https://www.aibase.com/news/30202",
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "url": "https://www.aibase.com/news/30210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T01:15:22.729734Z"
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "4262ff2c59feec1fd268430bf3999acb3d0b0608",
+          "title": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，浏览器转向 AI 推理引擎",
+          "url": "https://www.aibase.com/zh/news/30210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "527862e451260bcdcf23e1995729283740eb2d67",
+        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "url": "https://www.aibase.com/news/30210",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dbbc5c83b7ce",
+      "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+      "url": "https://www.aibase.com/news/30206",
+      "primary_url": "https://www.aibase.com/news/30206",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "url": "https://www.aibase.com/news/30206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "990bb4352eb4f38f68cb60a36adafeff8d72dbce",
+          "title": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
+          "url": "https://www.aibase.com/zh/news/30206",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "url": "https://www.aibase.com/news/30206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "990bb4352eb4f38f68cb60a36adafeff8d72dbce",
+          "title": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
+          "url": "https://www.aibase.com/zh/news/30206",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "f00e72445229b58d87baebc6842423424a765494",
+        "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "url": "https://www.aibase.com/news/30206",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6dc2517a4a2f",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+      "primary_url": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "756ea2e26b1a877992a87ada2b9e29999233cdb5",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "url": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "756ea2e26b1a877992a87ada2b9e29999233cdb5",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "url": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.947,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -53,12 +213,272 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T01:15:22.729734Z",
-      "latest_at": "2026-08-10T01:15:22.729734Z",
+      "earliest_at": "2026-08-10T02:07:18Z",
+      "latest_at": "2026-08-10T02:07:18Z",
       "primary_item": {
-        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-        "url": "https://www.aibase.com/news/30202",
+        "id": "756ea2e26b1a877992a87ada2b9e29999233cdb5",
+        "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "url": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_025012d6a136",
+      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+      "url": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+      "primary_url": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "35037c6b3d4ce638ba8edf2676056b2d5f3a92cf",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "url": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "35037c6b3d4ce638ba8edf2676056b2d5f3a92cf",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "url": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8949,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:52:19Z",
+      "latest_at": "2026-08-10T00:52:19Z",
+      "primary_item": {
+        "id": "35037c6b3d4ce638ba8edf2676056b2d5f3a92cf",
+        "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "url": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cddcf0fbc4cc",
+      "title": "OpenChamber：一个基于代理的开发环境",
+      "url": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+      "primary_url": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e243e9cf4d07ed2571269293a7845f21cfdc0a27",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "url": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e243e9cf4d07ed2571269293a7845f21cfdc0a27",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "url": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:46:27Z",
+      "latest_at": "2026-08-10T00:46:27Z",
+      "primary_item": {
+        "id": "e243e9cf4d07ed2571269293a7845f21cfdc0a27",
+        "title": "OpenChamber：一个基于代理的开发环境",
+        "url": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4daf0e8fb458",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+      "url": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u",
+      "primary_url": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bd19abfd143c10695cd7c0e8916edd2a772101af",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "url": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bd19abfd143c10695cd7c0e8916edd2a772101af",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "url": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T23:58:34Z",
+      "latest_at": "2026-08-09T23:58:34Z",
+      "primary_item": {
+        "id": "bd19abfd143c10695cd7c0e8916edd2a772101af",
+        "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+        "url": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b09547126069",
+      "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+      "url": "https://www.aibase.com/news/30204",
+      "primary_url": "https://www.aibase.com/news/30204",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+          "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "url": "https://www.aibase.com/news/30204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "f76dc602905df7943f6a69abd8a50d45c851c6a0",
+          "title": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "url": "https://www.aibase.com/zh/news/30204",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+          "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "url": "https://www.aibase.com/news/30204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "f76dc602905df7943f6a69abd8a50d45c851c6a0",
+          "title": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "url": "https://www.aibase.com/zh/news/30204",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+        "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+        "url": "https://www.aibase.com/news/30204",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -98,14 +518,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9109,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -124,61 +544,81 @@
       }
     },
     {
-      "story_id": "story_dd778c597c1d",
-      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-      "url": "https://www.aibase.com/news/30203",
-      "primary_url": "https://www.aibase.com/news/30203",
+      "story_id": "story_023a3ac54960",
+      "title": "苹果国内Apple智能迎来重大升级：Siri正式接入阿里千问大模型",
+      "url": "https://www.aibase.com/news/30209",
+      "primary_url": "https://www.aibase.com/news/30209",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "url": "https://www.aibase.com/news/30203",
+          "id": "f9440127c6ea23be317942f0f3c1a00a505fa177",
+          "title": "苹果国内Apple智能迎来重大升级：Siri正式接入阿里千问大模型",
+          "url": "https://www.aibase.com/news/30209",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T01:15:22.729734Z"
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "23b4b05febacbd9b98ca5355d1214810732a7e5a",
+          "title": "苹果国内 Apple 智能迎来重大升级：Siri 正式接入阿里千问大模型",
+          "url": "https://www.aibase.com/zh/news/30209",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "url": "https://www.aibase.com/news/30203",
+          "id": "f9440127c6ea23be317942f0f3c1a00a505fa177",
+          "title": "苹果国内Apple智能迎来重大升级：Siri正式接入阿里千问大模型",
+          "url": "https://www.aibase.com/news/30209",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T01:15:22.729734Z"
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        },
+        {
+          "id": "23b4b05febacbd9b98ca5355d1214810732a7e5a",
+          "title": "苹果国内 Apple 智能迎来重大升级：Siri 正式接入阿里千问大模型",
+          "url": "https://www.aibase.com/zh/news/30209",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T01:15:22.729734Z",
-      "latest_at": "2026-08-10T01:15:22.729734Z",
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
       "primary_item": {
-        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-        "url": "https://www.aibase.com/news/30203",
+        "id": "f9440127c6ea23be317942f0f3c1a00a505fa177",
+        "title": "苹果国内Apple智能迎来重大升级：Siri正式接入阿里千问大模型",
+        "url": "https://www.aibase.com/news/30209",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -218,20 +658,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.72,
+        "recency": 0.631,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T18:32:14Z",
       "latest_at": "2026-08-09T18:32:14Z",
@@ -259,11 +698,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-10T01:15:22.729734Z"
+        },
+        {
+          "id": "01c6e2c93d1b1a2fdc76401ce1431816d011d481",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "url": "https://www.aibase.com/zh/news/30200",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -274,27 +723,37 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-10T01:15:22.729734Z"
+        },
+        {
+          "id": "01c6e2c93d1b1a2fdc76401ce1431816d011d481",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "url": "https://www.aibase.com/zh/news/30200",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9109,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-10T01:15:22.729734Z",
-      "latest_at": "2026-08-10T01:15:22.729734Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
       "primary_item": {
         "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
         "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
@@ -304,139 +763,21 @@
       }
     },
     {
-      "story_id": "story_b7bde55b3cfb",
-      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-      "url": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
-      "primary_url": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0fc1c3e262154ae897e9a9614c606076016464e9",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "url": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0fc1c3e262154ae897e9a9614c606076016464e9",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "url": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5707,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T14:57:11Z",
-      "latest_at": "2026-08-09T14:57:11Z",
-      "primary_item": {
-        "id": "0fc1c3e262154ae897e9a9614c606076016464e9",
-        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-        "url": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1353604de1b5",
-      "title": "AI安全测试正成为安全风险",
-      "url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t",
-      "primary_url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ebfde169be77589060a259af9417a91d6665714",
-          "title": "AI安全测试正成为安全风险",
-          "url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6ebfde169be77589060a259af9417a91d6665714",
-          "title": "AI安全测试正成为安全风险",
-          "url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5518,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T14:30:00Z",
-      "latest_at": "2026-08-09T14:30:00Z",
-      "primary_item": {
-        "id": "6ebfde169be77589060a259af9417a91d6665714",
-        "title": "AI安全测试正成为安全风险",
-        "url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_179541639152",
-      "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-      "url": "https://www.aibase.com/news/30201",
-      "primary_url": "https://www.aibase.com/news/30201",
+      "story_id": "story_079a9d0f40fb",
+      "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+      "url": "https://www.aibase.com/news/30213",
+      "primary_url": "https://www.aibase.com/news/30213",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "url": "https://www.aibase.com/news/30201",
+          "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
+          "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "url": "https://www.aibase.com/news/30213",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T01:15:22.729734Z"
+          "published_at": "2026-08-10T03:23:38.518701Z"
         }
       ],
       "source_count": 1,
@@ -445,13 +786,13 @@
       ],
       "items": [
         {
-          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "url": "https://www.aibase.com/news/30201",
+          "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
+          "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "url": "https://www.aibase.com/news/30213",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T01:15:22.729734Z"
+          "published_at": "2026-08-10T03:23:38.518701Z"
         }
       ],
       "item_count": 1,
@@ -471,12 +812,192 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T01:15:22.729734Z",
-      "latest_at": "2026-08-10T01:15:22.729734Z",
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
       "primary_item": {
-        "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-        "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "url": "https://www.aibase.com/news/30201",
+        "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
+        "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+        "url": "https://www.aibase.com/news/30213",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a86222345618",
+      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+      "url": "https://www.aibase.com/news/30207",
+      "primary_url": "https://www.aibase.com/news/30207",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "url": "https://www.aibase.com/news/30207",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dfbf786d6e6d",
+      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+      "url": "https://www.aibase.com/news/30205",
+      "primary_url": "https://www.aibase.com/news/30205",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+        "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "url": "https://www.aibase.com/news/30205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1ed2b9169d70",
+      "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+      "url": "https://www.aibase.com/news/30211",
+      "primary_url": "https://www.aibase.com/news/30211",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f6d0245e8f00576dc2c5699b603be34dcee61373",
+          "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "url": "https://www.aibase.com/news/30211",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f6d0245e8f00576dc2c5699b603be34dcee61373",
+          "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "url": "https://www.aibase.com/news/30211",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "f6d0245e8f00576dc2c5699b603be34dcee61373",
+        "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+        "url": "https://www.aibase.com/news/30211",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -573,14 +1094,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
+      "score": 0.5614,
+      "importance": 0.5614,
+      "importance_score": 0.5614,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.906,
+        "recency": 0.817,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -595,6 +1116,143 @@
         "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fea5625d0309",
+      "title": "消息称GPT-6 曝光 10 万亿参数 8 月强行发布，OpenAI 年底还藏着更大杀器 Doug",
+      "url": "https://www.aibase.com/news/30212",
+      "primary_url": "https://www.aibase.com/news/30212",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45e1fbafb3c8422b89d967f586c961edfd70b841",
+          "title": "消息称GPT-6 曝光 10 万亿参数 8 月强行发布，OpenAI 年底还藏着更大杀器 Doug",
+          "url": "https://www.aibase.com/news/30212",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45e1fbafb3c8422b89d967f586c961edfd70b841",
+          "title": "消息称GPT-6 曝光 10 万亿参数 8 月强行发布，OpenAI 年底还藏着更大杀器 Doug",
+          "url": "https://www.aibase.com/news/30212",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T03:23:38.518701Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T03:23:38.518701Z",
+      "latest_at": "2026-08-10T03:23:38.518701Z",
+      "primary_item": {
+        "id": "45e1fbafb3c8422b89d967f586c961edfd70b841",
+        "title": "消息称GPT-6 曝光 10 万亿参数 8 月强行发布，OpenAI 年底还藏着更大杀器 Doug",
+        "url": "https://www.aibase.com/news/30212",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_aedfa804198d",
+      "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T02:22:51.518000Z"
+        },
+        {
+          "id": "446fffe0dfb79c6bddb3529652751490ebea98a2",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T23:42:30.361000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T02:22:51.518000Z"
+        },
+        {
+          "id": "446fffe0dfb79c6bddb3529652751490ebea98a2",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T23:42:30.361000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9578,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T23:42:30.361000Z",
+      "latest_at": "2026-08-10T02:22:51.518000Z",
+      "primary_item": {
+        "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
+        "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -707,14 +1365,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6719,
+        "recency": 0.5828,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -785,14 +1443,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9329,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -807,706 +1465,6 @@
         "url": "https://news.ycombinator.com/item?id=49236439",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_6990f6ce15d7",
-      "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
-      "url": "https://github.com/JustVugg/lumabri",
-      "primary_url": "https://github.com/JustVugg/lumabri",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "59f62fccded8951a0b9b76ee12a4087e186bc253",
-          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
-          "url": "https://github.com/JustVugg/lumabri",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T22:38:37.075000Z"
-        },
-        {
-          "id": "c3e85138d8b1f195fafe0331f3082a2ad8fe3ddd",
-          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？ / Show HN: Lumabri – What if LLMs worked like Napster?",
-          "url": "https://github.com/JustVugg/lumabri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T22:24:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "59f62fccded8951a0b9b76ee12a4087e186bc253",
-          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
-          "url": "https://github.com/JustVugg/lumabri",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T22:38:37.075000Z"
-        },
-        {
-          "id": "c3e85138d8b1f195fafe0331f3082a2ad8fe3ddd",
-          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？ / Show HN: Lumabri – What if LLMs worked like Napster?",
-          "url": "https://github.com/JustVugg/lumabri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T22:24:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8911,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T22:24:24Z",
-      "latest_at": "2026-08-09T22:38:37.075000Z",
-      "primary_item": {
-        "id": "59f62fccded8951a0b9b76ee12a4087e186bc253",
-        "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
-        "url": "https://github.com/JustVugg/lumabri",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e61e9a32542b",
-      "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
-      "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
-          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
-          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T22:38:37.850000Z"
-        },
-        {
-          "id": "5e4d2e55ee5b02c09c932cf8cdce191104b75468",
-          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的 / How Cursor recruits elite AI engineers when huge salaries aren't enough",
-          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:50:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
-          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
-          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T22:38:37.850000Z"
-        },
-        {
-          "id": "5e4d2e55ee5b02c09c932cf8cdce191104b75468",
-          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的 / How Cursor recruits elite AI engineers when huge salaries aren't enough",
-          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:50:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8911,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T19:50:44Z",
-      "latest_at": "2026-08-09T22:38:37.850000Z",
-      "primary_item": {
-        "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
-        "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
-        "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbce7f66ec14",
-      "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：10.3 英寸 Kaleido 3 面板，首发价 4999 元",
-      "url": "https://www.ithome.com/0/987/667.htm",
-      "primary_url": "https://www.ithome.com/0/987/667.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b33a32a7165599595a1c7f9c02aabc8a8a599759",
-          "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：10.3 英寸 Kaleido 3 面板，首发价 4999 元",
-          "url": "https://www.ithome.com/0/987/667.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1aebbeb2744dd554b7b81616c57002343759efc6",
-          "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：搭 10.3 英寸 Kaleido 3 面板，4999 元",
-          "url": "https://www.ithome.com/0/987/667.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T00:21:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b33a32a7165599595a1c7f9c02aabc8a8a599759",
-          "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：10.3 英寸 Kaleido 3 面板，首发价 4999 元",
-          "url": "https://www.ithome.com/0/987/667.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1aebbeb2744dd554b7b81616c57002343759efc6",
-          "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：搭 10.3 英寸 Kaleido 3 面板，4999 元",
-          "url": "https://www.ithome.com/0/987/667.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T00:21:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-10T00:21:47Z",
-      "latest_at": "2026-08-10T01:15:22.729734Z",
-      "primary_item": {
-        "id": "b33a32a7165599595a1c7f9c02aabc8a8a599759",
-        "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：10.3 英寸 Kaleido 3 面板，首发价 4999 元",
-        "url": "https://www.ithome.com/0/987/667.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c5b4f416cef1",
-      "title": "我把耳鸣当作我的朋友（然后它就消失了） / I Made Tinnitus My Friend (Then It Disappeared)",
-      "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "primary_url": "https://mynoise.net/vlog.php?ep=20260803",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6d31aef71b088c052893318b1acf7e9eb3161bbd",
-          "title": "我把耳鸣当作我的朋友（然后它就消失了） / I Made Tinnitus My Friend (Then It Disappeared)",
-          "url": "https://mynoise.net/vlog.php?ep=20260803",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T18:41:35Z"
-        },
-        {
-          "id": "642e525e2db3e451f9f9b68cda61c833d8d57d05",
-          "title": "我把耳鸣当作我的朋友，然后耳鸣就消失了[视频] / I made tinnitus my friend, then it disappeared [video]",
-          "url": "https://mynoise.net/vlog.php?ep=20260803",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T18:41:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6d31aef71b088c052893318b1acf7e9eb3161bbd",
-          "title": "我把耳鸣当作我的朋友（然后它就消失了） / I Made Tinnitus My Friend (Then It Disappeared)",
-          "url": "https://mynoise.net/vlog.php?ep=20260803",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T18:41:35Z"
-        },
-        {
-          "id": "642e525e2db3e451f9f9b68cda61c833d8d57d05",
-          "title": "我把耳鸣当作我的朋友，然后耳鸣就消失了[视频] / I made tinnitus my friend, then it disappeared [video]",
-          "url": "https://mynoise.net/vlog.php?ep=20260803",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T18:41:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4933,
-      "importance": 0.4933,
-      "importance_score": 0.4933,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7265,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T18:41:35Z",
-      "latest_at": "2026-08-09T18:41:35Z",
-      "primary_item": {
-        "id": "6d31aef71b088c052893318b1acf7e9eb3161bbd",
-        "title": "我把耳鸣当作我的朋友（然后它就消失了） / I Made Tinnitus My Friend (Then It Disappeared)",
-        "url": "https://mynoise.net/vlog.php?ep=20260803",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d24299a61a68",
-      "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-      "url": "https://news.ycombinator.com/item?id=49235836",
-      "primary_url": "https://news.ycombinator.com/item?id=49235836",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b5a4adc36469cacdcfee577749c6d553a122a25f",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "url": "https://news.ycombinator.com/item?id=49235836",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "f05965b9c2feb7b1d6cb82fc3776cfbd9edcaf46",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T21:01:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b5a4adc36469cacdcfee577749c6d553a122a25f",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "url": "https://news.ycombinator.com/item?id=49235836",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "f05965b9c2feb7b1d6cb82fc3776cfbd9edcaf46",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T21:01:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8493,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T21:01:31Z",
-      "latest_at": "2026-08-09T21:38:17.984000Z",
-      "primary_item": {
-        "id": "b5a4adc36469cacdcfee577749c6d553a122a25f",
-        "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-        "url": "https://news.ycombinator.com/item?id=49235836",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a3a6743c8dcf",
-      "title": "[程序员] ai 生成代码后，测试岗位还有存在意义吗",
-      "url": "https://www.v2ex.com/t/1233101",
-      "primary_url": "https://www.v2ex.com/t/1233101",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "33b2e753bea8d78d1b88924bb82604a249586d9d",
-          "title": "[程序员] ai 生成代码后，测试岗位还有存在意义吗",
-          "url": "https://www.v2ex.com/t/1233101",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T17:22:08Z"
-        },
-        {
-          "id": "5ae1017197f57d97447a837ee235189c621cbdf8",
-          "title": "[职场话题] ai 生成代码后，测试岗位还有存在意义吗",
-          "url": "https://www.v2ex.com/t/1233101",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T17:22:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "33b2e753bea8d78d1b88924bb82604a249586d9d",
-          "title": "[程序员] ai 生成代码后，测试岗位还有存在意义吗",
-          "url": "https://www.v2ex.com/t/1233101",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T17:22:08Z"
-        },
-        {
-          "id": "5ae1017197f57d97447a837ee235189c621cbdf8",
-          "title": "[职场话题] ai 生成代码后，测试岗位还有存在意义吗",
-          "url": "https://www.v2ex.com/t/1233101",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T17:22:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4823,
-      "importance": 0.4823,
-      "importance_score": 0.4823,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6714,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T17:22:08Z",
-      "latest_at": "2026-08-09T17:22:08Z",
-      "primary_item": {
-        "id": "33b2e753bea8d78d1b88924bb82604a249586d9d",
-        "title": "[程序员] ai 生成代码后，测试岗位还有存在意义吗",
-        "url": "https://www.v2ex.com/t/1233101",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_3b479a1d73e9",
-      "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
-      "url": "https://www.huxiu.com/article/4881831.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881831.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4d27c022d8251f3371c9762f418a7adf91289865",
-          "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
-          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a2ea32e9e2e39e3fc0e9db89c31bc2a7ea1b6361",
-          "title": "3.82亿月活每天收入不足百万，AI的流量逻辑已经死了",
-          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T22:15:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4d27c022d8251f3371c9762f418a7adf91289865",
-          "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
-          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a2ea32e9e2e39e3fc0e9db89c31bc2a7ea1b6361",
-          "title": "3.82亿月活每天收入不足百万，AI的流量逻辑已经死了",
-          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T22:15:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.906,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T22:15:13Z",
-      "latest_at": "2026-08-09T23:00:04.069168Z",
-      "primary_item": {
-        "id": "4d27c022d8251f3371c9762f418a7adf91289865",
-        "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
-        "url": "https://www.huxiu.com/article/4881831.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_733a83db1c9d",
-      "title": "公地悲剧，AI版 / The tragedy of the commons, AI edition",
-      "url": "https://news.ycombinator.com/item?id=49235011",
-      "primary_url": "https://news.ycombinator.com/item?id=49235011",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "公地悲剧，AI版 / The tragedy of the commons, AI edition",
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:08:14.346000Z"
-        },
-        {
-          "id": "ffd184206face1103f4e29caab4778fe3560895a",
-          "title": "公地悲剧，AI版 / The tragedy of the commons, AI edition",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:43:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "公地悲剧，AI版 / The tragedy of the commons, AI edition",
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:08:14.346000Z"
-        },
-        {
-          "id": "ffd184206face1103f4e29caab4778fe3560895a",
-          "title": "公地悲剧，AI版 / The tragedy of the commons, AI edition",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:43:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8284,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T19:43:52Z",
-      "latest_at": "2026-08-09T21:08:14.346000Z",
-      "primary_item": {
-        "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-        "title": "公地悲剧，AI版 / The tragedy of the commons, AI edition",
-        "url": "https://news.ycombinator.com/item?id=49235011",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e0f81213158e",
-      "title": "全球领先的人工智能公司都在努力控制其最新模型",
-      "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T15:42:34.143000Z"
-        },
-        {
-          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T15:24:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T15:42:34.143000Z"
-        },
-        {
-          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T15:24:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6022,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T15:24:36Z",
-      "latest_at": "2026-08-09T15:42:34.143000Z",
-      "primary_item": {
-        "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
-        "title": "全球领先的人工智能公司都在努力控制其最新模型",
-        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
