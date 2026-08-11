@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:14:52.753152Z",
+  "generated_at": "2026-08-11T05:33:47.959222Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,146 @@
         "url": "https://www.aibase.com/news/30240",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_73f3559aa209",
+      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+      "url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+      "primary_url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0b6de510204525d1b9b45618030df54559870688",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T03:57:53Z"
+        },
+        {
+          "id": "25232f8375be9c404ac805423c021e3c893ebd44",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "url": "https://www.ithome.com/0/988/239.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T03:57:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0b6de510204525d1b9b45618030df54559870688",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T03:57:53Z"
+        },
+        {
+          "id": "25232f8375be9c404ac805423c021e3c893ebd44",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "url": "https://www.ithome.com/0/988/239.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T03:57:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9334,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T03:57:53Z",
+      "latest_at": "2026-08-11T03:57:53Z",
+      "primary_item": {
+        "id": "0b6de510204525d1b9b45618030df54559870688",
+        "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+        "url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e9ae0502392e",
+      "title": "编写智能体时，哪种编程语言最合适？",
+      "url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+      "primary_url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "17d6b62faefc6a33ebfb077e564d78f1323d6844",
+          "title": "编写智能体时，哪种编程语言最合适？",
+          "url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T04:58:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "17d6b62faefc6a33ebfb077e564d78f1323d6844",
+          "title": "编写智能体时，哪种编程语言最合适？",
+          "url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T04:58:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9753,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T04:58:14Z",
+      "latest_at": "2026-08-11T04:58:14Z",
+      "primary_item": {
+        "id": "17d6b62faefc6a33ebfb077e564d78f1323d6844",
+        "title": "编写智能体时，哪种编程语言最合适？",
+        "url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -137,14 +277,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5074,
+        "recency": 0.4526,
         "story_heat": 0.25
       },
       "category": "official",
@@ -161,6 +301,87 @@
         "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7a678e9a26d7",
+      "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        },
+        {
+          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        },
+        {
+          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4765,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T17:00:00Z",
+      "latest_at": "2026-08-11T05:33:47.959222Z",
+      "primary_item": {
+        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+        "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -199,14 +420,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6355,
+        "recency": 0.5807,
         "story_heat": 0.0
       },
       "category": "official",
@@ -226,7 +447,7 @@
       }
     },
     {
-      "story_id": "story_ecbf9789d2e8",
+      "story_id": "story_85460702741f",
       "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
       "url": "https://www.aibase.com/news/30228",
       "primary_url": "https://www.aibase.com/news/30228",
@@ -279,14 +500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -303,67 +524,6 @@
         "url": "https://www.aibase.com/news/30228",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7a678e9a26d7",
-      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5313,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-10T17:00:00Z",
-      "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -401,14 +561,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.7765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,14 +621,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7875,
+        "recency": 0.7327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,14 +700,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -601,20 +761,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7371,
+        "recency": 0.6823,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T21:56:21Z",
       "latest_at": "2026-08-10T21:56:21Z",
@@ -661,21 +820,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4251,
+        "recency": 0.3703,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T14:27:04Z",
       "latest_at": "2026-08-10T14:27:04Z",
@@ -722,14 +880,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4272,
+        "recency": 0.3724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -748,66 +906,7 @@
       }
     },
     {
-      "story_id": "story_2076e8db80a8",
-      "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-      "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-      "primary_url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T19:54:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T19:54:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6523,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T19:54:08Z",
-      "latest_at": "2026-08-10T19:54:08Z",
-      "primary_item": {
-        "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
-        "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-        "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3df3a53ed685",
+      "story_id": "story_e591e335ac7d",
       "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
       "url": "https://www.aibase.com/news/30229",
       "primary_url": "https://www.aibase.com/news/30229",
@@ -860,14 +959,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -884,65 +983,6 @@
         "url": "https://www.aibase.com/news/30229",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d7f225133918",
-      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-      "url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-      "primary_url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3c7b8593104032c05c93f8f521061889e49d72ec",
-          "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-          "url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T17:46:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "3c7b8593104032c05c93f8f521061889e49d72ec",
-          "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-          "url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T17:46:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5639,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T17:46:50Z",
-      "latest_at": "2026-08-10T17:46:50Z",
-      "primary_item": {
-        "id": "3c7b8593104032c05c93f8f521061889e49d72ec",
-        "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-        "url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -980,14 +1020,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.323,
+        "recency": 0.2682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1003,6 +1043,65 @@
         "url": "https://openai.com/index/model-ml",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2076e8db80a8",
+      "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+      "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+      "primary_url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T19:54:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T19:54:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5975,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T19:54:08Z",
+      "latest_at": "2026-08-10T19:54:08Z",
+      "primary_item": {
+        "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
+        "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+        "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1040,14 +1139,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.407,
+        "recency": 0.3522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1119,14 +1218,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1199,14 +1298,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1260,14 +1359,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3548,
+        "recency": 0.3,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1283,66 +1382,6 @@
         "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_57caaf2b78cd",
-      "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-      "url": "https://www.aibase.com/news/30239",
-      "primary_url": "https://www.aibase.com/news/30239",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "url": "https://www.aibase.com/news/30239",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T04:14:52.753152Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "url": "https://www.aibase.com/news/30239",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T04:14:52.753152Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T04:14:52.753152Z",
-      "latest_at": "2026-08-11T04:14:52.753152Z",
-      "primary_item": {
-        "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-        "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-        "url": "https://www.aibase.com/news/30239",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
