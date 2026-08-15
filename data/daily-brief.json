@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:16:52.141193Z",
+  "generated_at": "2026-08-15T19:43:13.275564Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,14 +56,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6555,
+        "recency": 0.6372,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -80,6 +80,103 @@
         "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_627a59aedf96",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "davidepiffer.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "davidepiffer.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T19:18:02.348000Z",
+      "primary_item": {
+        "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+        "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "source": "davidepiffer.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -174,14 +271,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8124,
+        "recency": 0.7941,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -271,14 +368,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5509,
-      "importance": 0.5509,
-      "importance_score": 0.5509,
+      "score": 0.5473,
+      "importance": 0.5473,
+      "importance_score": 0.5473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8897,
+        "recency": 0.8714,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -368,14 +465,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7786,
+        "recency": 0.7603,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -393,30 +490,30 @@
       }
     },
     {
-      "story_id": "story_627a59aedf96",
-      "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "url": "https://news.ycombinator.com/item?id=49312845",
-      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "story_id": "story_611835edca3b",
+      "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
+          "published_at": "2026-08-15T19:43:42.985000Z"
         },
         {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "source_count": 2,
@@ -426,46 +523,46 @@
       ],
       "items": [
         {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
+          "published_at": "2026-08-15T19:43:42.985000Z"
         },
         {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T18:13:02Z",
-      "latest_at": "2026-08-15T18:39:17.058000Z",
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T19:43:42.985000Z",
       "primary_item": {
-        "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-        "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "url": "https://news.ycombinator.com/item?id=49312845",
+        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+        "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+        "url": "https://news.ycombinator.com/item?id=49313367",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -524,14 +621,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.477,
-      "importance": 0.477,
-      "importance_score": 0.477,
+      "score": 0.4734,
+      "importance": 0.4734,
+      "importance_score": 0.4734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6452,
+        "recency": 0.6269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -602,14 +699,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.477,
-      "importance": 0.477,
-      "importance_score": 0.477,
+      "score": 0.4734,
+      "importance": 0.4734,
+      "importance_score": 0.4734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6452,
+        "recency": 0.6269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -698,14 +795,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4643,
-      "importance": 0.4643,
-      "importance_score": 0.4643,
+      "score": 0.4606,
+      "importance": 0.4606,
+      "importance_score": 0.4606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4565,
+        "recency": 0.4382,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -776,14 +873,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8754,
+        "recency": 0.8571,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -854,14 +951,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4466,
-      "importance": 0.4466,
-      "importance_score": 0.4466,
+      "score": 0.4429,
+      "importance": 0.4429,
+      "importance_score": 0.4429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4928,
+        "recency": 0.4745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -932,14 +1029,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4748,
-      "importance": 0.4748,
-      "importance_score": 0.4748,
+      "score": 0.4712,
+      "importance": 0.4712,
+      "importance_score": 0.4712,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6341,
+        "recency": 0.6158,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1010,14 +1107,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8754,
+        "recency": 0.8571,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4726,
-      "importance": 0.4726,
-      "importance_score": 0.4726,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6231,
+        "recency": 0.6048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1166,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4059,
-      "importance": 0.4059,
-      "importance_score": 0.4059,
+      "score": 0.4023,
+      "importance": 0.4023,
+      "importance_score": 0.4023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2897,
+        "recency": 0.2714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,14 +1340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3928,
-      "importance": 0.3928,
-      "importance_score": 0.3928,
+      "score": 0.3891,
+      "importance": 0.3891,
+      "importance_score": 0.3891,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2239,
+        "recency": 0.2056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1321,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8124,
+        "recency": 0.7941,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1398,14 +1495,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4055,
-      "importance": 0.4055,
-      "importance_score": 0.4055,
+      "score": 0.4018,
+      "importance": 0.4018,
+      "importance_score": 0.4018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2873,
+        "recency": 0.269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1476,14 +1573,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4571,
-      "importance": 0.4571,
-      "importance_score": 0.4571,
+      "score": 0.4534,
+      "importance": 0.4534,
+      "importance_score": 0.4534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5454,
+        "recency": 0.5271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1553,14 +1650,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3613,
-      "importance": 0.3613,
-      "importance_score": 0.3613,
+      "score": 0.3577,
+      "importance": 0.3577,
+      "importance_score": 0.3577,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0666,
+        "recency": 0.0483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,84 +1672,6 @@
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c6390e512ab6",
-      "title": "GenRec：迈向 Netflix 本地法学硕士推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-      "url": "https://news.ycombinator.com/item?id=49310177",
-      "primary_url": "https://news.ycombinator.com/item?id=49310177",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "484a170c650aec649118825a0b2ddb94364d864a",
-          "title": "GenRec：迈向 Netflix 本地法学硕士推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "url": "https://news.ycombinator.com/item?id=49310177",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:38:18.857000Z"
-        },
-        {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
-          "title": "GenRec：迈向 Netflix 本地法学硕士推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T12:56:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "484a170c650aec649118825a0b2ddb94364d864a",
-          "title": "GenRec：迈向 Netflix 本地法学硕士推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "url": "https://news.ycombinator.com/item?id=49310177",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:38:18.857000Z"
-        },
-        {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
-          "title": "GenRec：迈向 Netflix 本地法学硕士推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T12:56:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7649,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T12:56:56Z",
-      "latest_at": "2026-08-15T13:38:18.857000Z",
-      "primary_item": {
-        "id": "484a170c650aec649118825a0b2ddb94364d864a",
-        "title": "GenRec：迈向 Netflix 本地法学硕士推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-        "url": "https://news.ycombinator.com/item?id=49310177",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
