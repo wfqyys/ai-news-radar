@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:16:45.026304Z",
+  "generated_at": "2026-08-15T16:48:28.177765Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,14 +56,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7806,
+        "recency": 0.7586,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -174,14 +174,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5855,
-      "importance": 0.5855,
-      "importance_score": 0.5855,
+      "score": 0.5811,
+      "importance": 0.5811,
+      "importance_score": 0.5811,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9375,
+        "recency": 0.9155,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -196,6 +196,103 @@
         "url": "https://news.ycombinator.com/item?id=49310725",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1b995b323154",
+      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "source": "allen.bargi.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
+        },
+        {
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T13:38:18.857000Z"
+        },
+        {
+          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "allen.bargi.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
+        },
+        {
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T13:38:18.857000Z"
+        },
+        {
+          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5715,
+      "importance": 0.5715,
+      "importance_score": 0.5715,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9927,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:39:41Z",
+      "latest_at": "2026-08-15T16:38:01.653000Z",
+      "primary_item": {
+        "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+        "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+        "source": "allen.bargi.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -271,14 +368,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5493,
+      "importance": 0.5493,
+      "importance_score": 0.5493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9037,
+        "recency": 0.8816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -313,18 +410,18 @@
           "published_at": "2026-08-15T16:17:25.794000Z"
         },
         {
-          "id": "ec044aa1f37fa1f4a7eb4edd58c21c37d836e4a3",
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
           "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -338,25 +435,25 @@
           "published_at": "2026-08-15T16:17:25.794000Z"
         },
         {
-          "id": "ec044aa1f37fa1f4a7eb4edd58c21c37d836e4a3",
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
           "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -371,84 +468,6 @@
         "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5ca8762cdb1c",
-      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
-        },
-        {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
-        },
-        {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7703,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:32:01Z",
-      "latest_at": "2026-08-15T10:45:54.910000Z",
-      "primary_item": {
-        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -505,14 +524,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7702,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -526,6 +545,84 @@
         "title": "培养人工智能科学家以复现研究成果",
         "url": "https://inherentlabs.ai/research/training-to-replicate",
         "source": "inherentlabs.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ca8762cdb1c",
+      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:45:54.910000Z"
+        },
+        {
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:32:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:45:54.910000Z"
+        },
+        {
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:32:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7482,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:32:01Z",
+      "latest_at": "2026-08-15T10:45:54.910000Z",
+      "primary_item": {
+        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -601,14 +698,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4893,
-      "importance": 0.4893,
-      "importance_score": 0.4893,
+      "score": 0.4849,
+      "importance": 0.4849,
+      "importance_score": 0.4849,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5816,
+        "recency": 0.5596,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -679,14 +776,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -757,14 +854,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4751,
-      "importance": 0.4751,
-      "importance_score": 0.4751,
+      "score": 0.4707,
+      "importance": 0.4707,
+      "importance_score": 0.4707,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6354,
+        "recency": 0.6134,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -835,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4716,
-      "importance": 0.4716,
-      "importance_score": 0.4716,
+      "score": 0.4672,
+      "importance": 0.4672,
+      "importance_score": 0.4672,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6179,
+        "recency": 0.5959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,14 +1010,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7592,
+        "recency": 0.7372,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -991,14 +1088,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9375,
+        "recency": 0.9155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1069,14 +1166,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
+      "score": 0.4932,
+      "importance": 0.4932,
+      "importance_score": 0.4932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7482,
+        "recency": 0.7262,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,14 +1244,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4309,
-      "importance": 0.4309,
-      "importance_score": 0.4309,
+      "score": 0.4265,
+      "importance": 0.4265,
+      "importance_score": 0.4265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4147,
+        "recency": 0.3927,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1224,14 +1321,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4178,
-      "importance": 0.4178,
-      "importance_score": 0.4178,
+      "score": 0.4134,
+      "importance": 0.4134,
+      "importance_score": 0.4134,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.349,
+        "recency": 0.327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,14 +1399,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.89,
+        "recency": 0.8679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,14 +1476,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4305,
-      "importance": 0.4305,
-      "importance_score": 0.4305,
+      "score": 0.4261,
+      "importance": 0.4261,
+      "importance_score": 0.4261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4124,
+        "recency": 0.3904,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,14 +1554,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4821,
-      "importance": 0.4821,
-      "importance_score": 0.4821,
+      "score": 0.4777,
+      "importance": 0.4777,
+      "importance_score": 0.4777,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6705,
+        "recency": 0.6485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,14 +1631,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3863,
-      "importance": 0.3863,
-      "importance_score": 0.3863,
+      "score": 0.3819,
+      "importance": 0.3819,
+      "importance_score": 0.3819,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1917,
+        "recency": 0.1696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1556,84 +1653,6 @@
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_1b995b323154",
-      "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://news.ycombinator.com/item?id=49309451",
-      "primary_url": "https://news.ycombinator.com/item?id=49309451",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:38:18.857000Z"
-        },
-        {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:38:18.857000Z"
-        },
-        {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.89,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:39:41Z",
-      "latest_at": "2026-08-15T13:38:18.857000Z",
-      "primary_item": {
-        "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-        "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-        "url": "https://news.ycombinator.com/item?id=49309451",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
