@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:52:53.876436Z",
+  "generated_at": "2026-08-16T08:21:06.430468Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,14 +56,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6631,
-      "importance": 0.6631,
-      "importance_score": 0.6631,
+      "score": 0.6592,
+      "importance": 0.6592,
+      "importance_score": 0.6592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1305,
+        "recency": 0.1109,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -172,14 +172,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5516,
+      "importance": 0.5516,
+      "importance_score": 0.5516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7874,
+        "recency": 0.7678,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -194,6 +194,84 @@
         "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
         "source": "www.science.org",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_badeeae7b539",
+      "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://news.ycombinator.com/item?id=49317760",
+      "primary_url": "https://news.ycombinator.com/item?id=49317760",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:11:23.846000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:11:23.846000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9933,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T07:37:53Z",
+      "latest_at": "2026-08-16T08:11:23.846000Z",
+      "primary_item": {
+        "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+        "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+        "url": "https://news.ycombinator.com/item?id=49317760",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -250,14 +328,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -328,14 +406,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8874,
+        "recency": 0.8678,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -348,84 +426,6 @@
         "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
         "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
         "url": "https://news.ycombinator.com/item?id=49316605",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c21a3b4fa623",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8039,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T22:41:51Z",
-      "latest_at": "2026-08-16T03:10:34.741000Z",
-      "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://news.ycombinator.com/item?id=49314967",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -502,14 +502,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4682,
-      "importance": 0.4682,
-      "importance_score": 0.4682,
+      "score": 0.4642,
+      "importance": 0.4642,
+      "importance_score": 0.4642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4758,
+        "recency": 0.4562,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,14 +580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.4862,
+      "importance": 0.4862,
+      "importance_score": 0.4862,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7107,
+        "recency": 0.6911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -658,14 +658,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4543,
-      "importance": 0.4543,
-      "importance_score": 0.4543,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5313,
+        "recency": 0.5117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -735,14 +735,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4543,
-      "importance": 0.4543,
-      "importance_score": 0.4543,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5313,
+        "recency": 0.5117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -813,14 +813,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.452,
-      "importance": 0.452,
-      "importance_score": 0.452,
+      "score": 0.4481,
+      "importance": 0.4481,
+      "importance_score": 0.4481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5201,
+        "recency": 0.5006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -835,6 +835,84 @@
         "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c21a3b4fa623",
+      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://news.ycombinator.com/item?id=49314967",
+      "primary_url": "https://news.ycombinator.com/item?id=49314967",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://news.ycombinator.com/item?id=49314967",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T03:10:34.741000Z"
+        },
+        {
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T22:41:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://news.ycombinator.com/item?id=49314967",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T03:10:34.741000Z"
+        },
+        {
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T22:41:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7844,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T22:41:51Z",
+      "latest_at": "2026-08-16T03:10:34.741000Z",
+      "primary_item": {
+        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+        "url": "https://news.ycombinator.com/item?id=49314967",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -910,14 +988,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4459,
-      "importance": 0.4459,
-      "importance_score": 0.4459,
+      "score": 0.442,
+      "importance": 0.442,
+      "importance_score": 0.442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3647,
+        "recency": 0.3451,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -932,84 +1010,6 @@
         "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
         "source": "allen.bargi.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_aa1bd4c71d6c",
-      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=49315709",
-      "primary_url": "https://news.ycombinator.com/item?id=49315709",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://news.ycombinator.com/item?id=49315709",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:19:53.833000Z"
-        },
-        {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://news.ycombinator.com/item?id=49315709",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:19:53.833000Z"
-        },
-        {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7687,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T00:38:44Z",
-      "latest_at": "2026-08-16T02:19:53.833000Z",
-      "primary_item": {
-        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-        "url": "https://news.ycombinator.com/item?id=49315709",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1085,14 +1085,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4237,
-      "importance": 0.4237,
-      "importance_score": 0.4237,
+      "score": 0.4198,
+      "importance": 0.4198,
+      "importance_score": 0.4198,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2536,
+        "recency": 0.234,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1107,6 +1107,161 @@
         "url": "https://sankalp.bearblog.dev/autoresearch",
         "source": "sankalp.bearblog.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_aa1bd4c71d6c",
+      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=49315709",
+      "primary_url": "https://news.ycombinator.com/item?id=49315709",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T02:19:53.833000Z"
+        },
+        {
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:38:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T02:19:53.833000Z"
+        },
+        {
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:38:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7492,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T00:38:44Z",
+      "latest_at": "2026-08-16T02:19:53.833000Z",
+      "primary_item": {
+        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+        "url": "https://news.ycombinator.com/item?id=49315709",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_50618d963157",
+      "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
+      "url": "https://printytron.com",
+      "primary_url": "https://printytron.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
+          "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
+          "url": "https://printytron.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:22:20Z"
+        },
+        {
+          "id": "0902537b4469e04e076cfd8789274f15921961e2",
+          "title": "Printytron – 输入。 3D 打印它 / Printytron – Type it. 3D Print it",
+          "url": "https://printytron.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:22:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
+          "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
+          "url": "https://printytron.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:22:20Z"
+        },
+        {
+          "id": "0902537b4469e04e076cfd8789274f15921961e2",
+          "title": "Printytron – 输入。 3D 打印它 / Printytron – Type it. 3D Print it",
+          "url": "https://printytron.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:22:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3982,
+      "importance": 0.3982,
+      "importance_score": 0.3982,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2509,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:22:20Z",
+      "latest_at": "2026-08-15T14:22:20Z",
+      "primary_item": {
+        "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
+        "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
+        "url": "https://printytron.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1182,14 +1337,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6198,
+        "recency": 0.6002,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1204,83 +1359,6 @@
         "url": "https://news.ycombinator.com/item?id=49314594",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_50618d963157",
-      "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-      "url": "https://printytron.com",
-      "primary_url": "https://printytron.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
-          "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        },
-        {
-          "id": "0902537b4469e04e076cfd8789274f15921961e2",
-          "title": "Printytron – 输入。 3D 打印它 / Printytron – Type it. 3D Print it",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
-          "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        },
-        {
-          "id": "0902537b4469e04e076cfd8789274f15921961e2",
-          "title": "Printytron – 输入。 3D 打印它 / Printytron – Type it. 3D Print it",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4021,
-      "importance": 0.4021,
-      "importance_score": 0.4021,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2704,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:22:20Z",
-      "latest_at": "2026-08-15T14:22:20Z",
-      "primary_item": {
-        "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
-        "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-        "url": "https://printytron.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1337,14 +1415,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.372,
-      "importance": 0.372,
-      "importance_score": 0.372,
+      "score": 0.3681,
+      "importance": 0.3681,
+      "importance_score": 0.3681,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1201,
+        "recency": 0.1006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1359,83 +1437,6 @@
         "url": "https://inherentlabs.ai/research/training-to-replicate",
         "source": "inherentlabs.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9d2443cbcb8a",
-      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-      "url": "https://news.ycombinator.com/item?id=49312845",
-      "primary_url": "https://news.ycombinator.com/item?id=49312845",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:14:57.316000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:14:57.316000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4677,
-      "importance": 0.4677,
-      "importance_score": 0.4677,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5987,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T18:39:17.058000Z",
-      "latest_at": "2026-08-15T22:14:57.316000Z",
-      "primary_item": {
-        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-        "url": "https://news.ycombinator.com/item?id=49312845",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1492,14 +1493,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.372,
-      "importance": 0.372,
-      "importance_score": 0.372,
+      "score": 0.3681,
+      "importance": 0.3681,
+      "importance_score": 0.3681,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1202,
+        "recency": 0.1006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,6 +1515,83 @@
         "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9d2443cbcb8a",
+      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:14:57.316000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:14:57.316000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4638,
+      "importance": 0.4638,
+      "importance_score": 0.4638,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5791,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:39:17.058000Z",
+      "latest_at": "2026-08-15T22:14:57.316000Z",
+      "primary_item": {
+        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1570,14 +1648,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3698,
-      "importance": 0.3698,
-      "importance_score": 0.3698,
+      "score": 0.3659,
+      "importance": 0.3659,
+      "importance_score": 0.3659,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1091,
+        "recency": 0.0895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,84 +1670,6 @@
         "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6ebdd215fabf",
-      "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-      "url": "https://news.ycombinator.com/item?id=49313778",
-      "primary_url": "https://news.ycombinator.com/item?id=49313778",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "url": "https://news.ycombinator.com/item?id=49313778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T21:15:08.688000Z"
-        },
-        {
-          "id": "cf73524bfc31a5ebc22a1cedc0ff5f2c35aa4ecb",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T20:00:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "url": "https://news.ycombinator.com/item?id=49313778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T21:15:08.688000Z"
-        },
-        {
-          "id": "cf73524bfc31a5ebc22a1cedc0ff5f2c35aa4ecb",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T20:00:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4594,
-      "importance": 0.4594,
-      "importance_score": 0.4594,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5571,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T20:00:14Z",
-      "latest_at": "2026-08-15T21:15:08.688000Z",
-      "primary_item": {
-        "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-        "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-        "url": "https://news.ycombinator.com/item?id=49313778",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
