@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:19:00.235985Z",
+  "generated_at": "2026-08-16T18:53:42.456896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7076,
+        "recency": 0.6835,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-16T11:17:57Z",
       "latest_at": "2026-08-16T11:17:57Z",
@@ -136,14 +135,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
+      "score": 0.5609,
+      "importance": 0.5609,
+      "importance_score": 0.5609,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.9396,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,6 +156,84 @@
         "title": "人工智能信用转售经济",
         "url": "https://vectoral.com/blog/who-are-the-token-brokers",
         "source": "vectoral.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e81108c281d1",
+      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "finance.yahoo.com",
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9838,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T17:26:40.195000Z",
+      "latest_at": "2026-08-16T18:30:21.826000Z",
+      "primary_item": {
+        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -233,14 +310,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5475,
-      "importance": 0.5475,
-      "importance_score": 0.5475,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8725,
+        "recency": 0.8484,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.9396,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -389,14 +466,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9549,
+        "recency": 0.9308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -467,14 +544,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8412,
+        "recency": 0.8171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -564,14 +641,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.641,
+        "recency": 0.6169,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -642,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8725,
+        "recency": 0.8484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4912,
-      "importance": 0.4912,
-      "importance_score": 0.4912,
+      "score": 0.4864,
+      "importance": 0.4864,
+      "importance_score": 0.4864,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7159,
+        "recency": 0.6918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,14 +875,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4895,
-      "importance": 0.4895,
-      "importance_score": 0.4895,
+      "score": 0.4847,
+      "importance": 0.4847,
+      "importance_score": 0.4847,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7076,
+        "recency": 0.6835,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,14 +990,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4685,
-      "importance": 0.4685,
-      "importance_score": 0.4685,
+      "score": 0.4637,
+      "importance": 0.4637,
+      "importance_score": 0.4637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3526,
+        "recency": 0.3285,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -991,14 +1068,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
+      "score": 0.4936,
+      "importance": 0.4936,
+      "importance_score": 0.4936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7521,
+        "recency": 0.728,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1069,14 +1146,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8317,
+        "recency": 0.8076,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,14 +1224,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6082,
+        "recency": 0.5841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1225,14 +1302,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4851,
-      "importance": 0.4851,
-      "importance_score": 0.4851,
+      "score": 0.4803,
+      "importance": 0.4803,
+      "importance_score": 0.4803,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6854,
+        "recency": 0.6613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1303,14 +1380,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4413,
-      "importance": 0.4413,
-      "importance_score": 0.4413,
+      "score": 0.4365,
+      "importance": 0.4365,
+      "importance_score": 0.4365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4666,
+        "recency": 0.4425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,14 +1457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3673,
-      "importance": 0.3673,
-      "importance_score": 0.3673,
+      "score": 0.3625,
+      "importance": 0.3625,
+      "importance_score": 0.3625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0965,
+        "recency": 0.0724,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,14 +1535,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4385,
-      "importance": 0.4385,
-      "importance_score": 0.4385,
+      "score": 0.4337,
+      "importance": 0.4337,
+      "importance_score": 0.4337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4526,
+        "recency": 0.4285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1536,14 +1613,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4032,
-      "importance": 0.4032,
-      "importance_score": 0.4032,
+      "score": 0.3984,
+      "importance": 0.3984,
+      "importance_score": 0.3984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2759,
+        "recency": 0.2518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1558,84 +1635,6 @@
         "url": "https://www.ithome.com/0/990/207.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c21a3b4fa623",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4218,
-      "importance": 0.4218,
-      "importance_score": 0.4218,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3691,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T22:41:51Z",
-      "latest_at": "2026-08-16T03:10:34.741000Z",
-      "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://news.ycombinator.com/item?id=49314967",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
