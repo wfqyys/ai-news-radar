@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:48:45.655016Z",
+  "generated_at": "2026-08-16T17:14:03.629357Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -136,14 +136,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.56,
-      "importance": 0.56,
-      "importance_score": 0.56,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.9176,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -158,6 +158,84 @@
         "url": "https://news.ycombinator.com/item?id=49319814",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_dc17d35aad93",
+      "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+      "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883517.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "139e2530651083380a682ad186daf7d698c08062",
+          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T16:26:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "139e2530651083380a682ad186daf7d698c08062",
+          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T16:26:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T16:26:33Z",
+      "latest_at": "2026-08-16T17:14:03.629357Z",
+      "primary_item": {
+        "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+        "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+        "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -214,14 +292,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9039,
+        "recency": 0.8863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -311,14 +389,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7037,
+        "recency": 0.6861,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -389,14 +467,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8147,
+        "recency": 0.7972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -467,14 +545,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,14 +623,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7785,
+        "recency": 0.761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -623,14 +701,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4985,
+      "importance": 0.4985,
+      "importance_score": 0.4985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7703,
+        "recency": 0.7527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -645,84 +723,6 @@
         "url": "https://www.anthropic.com/research/multiagent-systems",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e9e25d79a002",
-      "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-      "url": "https://www.ithome.com/0/990/295.htm",
-      "primary_url": "https://www.ithome.com/0/990/295.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
-          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T08:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
-          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T08:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4822,
-      "importance": 0.4822,
-      "importance_score": 0.4822,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6708,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T08:01:14Z",
-      "latest_at": "2026-08-16T08:54:45.554094Z",
-      "primary_item": {
-        "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-        "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-        "url": "https://www.ithome.com/0/990/295.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -816,14 +816,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.481,
-      "importance": 0.481,
-      "importance_score": 0.481,
+      "score": 0.4775,
+      "importance": 0.4775,
+      "importance_score": 0.4775,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4152,
+        "recency": 0.3977,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -894,14 +894,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -972,14 +972,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.748,
+        "recency": 0.7305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -994,6 +994,84 @@
         "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e9e25d79a002",
+      "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+      "url": "https://www.ithome.com/0/990/295.htm",
+      "primary_url": "https://www.ithome.com/0/990/295.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
+          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
+          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T08:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
+          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
+          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T08:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4787,
+      "importance": 0.4787,
+      "importance_score": 0.4787,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6533,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T08:01:14Z",
+      "latest_at": "2026-08-16T08:54:45.554094Z",
+      "primary_item": {
+        "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
+        "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+        "url": "https://www.ithome.com/0/990/295.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1050,14 +1128,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8944,
+        "recency": 0.8768,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,14 +1206,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4539,
-      "importance": 0.4539,
-      "importance_score": 0.4539,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5293,
+        "recency": 0.5117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1205,14 +1283,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3798,
-      "importance": 0.3798,
-      "importance_score": 0.3798,
+      "score": 0.3763,
+      "importance": 0.3763,
+      "importance_score": 0.3763,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1592,
+        "recency": 0.1416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1227,84 +1305,6 @@
         "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_13fe377049bd",
-      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-      "url": "https://www.ithome.com/0/990/207.htm",
-      "primary_url": "https://www.ithome.com/0/990/207.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4157,
-      "importance": 0.4157,
-      "importance_score": 0.4157,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3385,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T23:32:41Z",
-      "latest_at": "2026-08-16T00:56:16.273283Z",
-      "primary_item": {
-        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-        "url": "https://www.ithome.com/0/990/207.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1435,14 +1435,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2265,
+        "recency": 0.209,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1457,6 +1457,84 @@
         "url": "https://news.ycombinator.com/item?id=49312845",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_13fe377049bd",
+      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+      "url": "https://www.ithome.com/0/990/207.htm",
+      "primary_url": "https://www.ithome.com/0/990/207.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
+          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T23:32:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
+          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T23:32:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4122,
+      "importance": 0.4122,
+      "importance_score": 0.4122,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.321,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T23:32:41Z",
+      "latest_at": "2026-08-16T00:56:16.273283Z",
+      "primary_item": {
+        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+        "url": "https://www.ithome.com/0/990/207.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1513,14 +1591,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3776,
-      "importance": 0.3776,
-      "importance_score": 0.3776,
+      "score": 0.3741,
+      "importance": 0.3741,
+      "importance_score": 0.3741,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.148,
+        "recency": 0.1305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1591,14 +1669,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4511,
-      "importance": 0.4511,
-      "importance_score": 0.4511,
+      "score": 0.4475,
+      "importance": 0.4475,
+      "importance_score": 0.4475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5153,
+        "recency": 0.4977,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1611,84 +1689,6 @@
         "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
         "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
         "url": "https://news.ycombinator.com/item?id=49316605",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c21a3b4fa623",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4344,
-      "importance": 0.4344,
-      "importance_score": 0.4344,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4318,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T22:41:51Z",
-      "latest_at": "2026-08-16T03:10:34.741000Z",
-      "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://news.ycombinator.com/item?id=49314967",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
