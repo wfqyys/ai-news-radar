@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-17T05:58:49.785219Z",
+  "generated_at": "2026-08-17T07:01:58.754879Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ad93ef60a841",
+      "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+      "url": "https://www.aibase.com/news/30395",
+      "primary_url": "https://www.aibase.com/news/30395",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+          "url": "https://www.aibase.com/news/30395",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T07:01:58.754879Z"
+        },
+        {
+          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
+          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
+          "url": "https://www.aibase.com/zh/news/30395",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+          "url": "https://www.aibase.com/news/30395",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T07:01:58.754879Z"
+        },
+        {
+          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
+          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
+          "url": "https://www.aibase.com/zh/news/30395",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T07:01:58.754879Z",
+      "latest_at": "2026-08-17T07:01:58.754879Z",
+      "primary_item": {
+        "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+        "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+        "url": "https://www.aibase.com/news/30395",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_c73a2b963399",
       "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
@@ -19,11 +99,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T05:58:49.785219Z"
+        },
+        {
+          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
+          "url": "https://www.aibase.com/zh/news/30392",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -34,6 +124,76 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T05:58:49.785219Z"
+        },
+        {
+          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
+          "url": "https://www.aibase.com/zh/news/30392",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9561,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:58:49.785219Z",
+      "latest_at": "2026-08-17T07:01:58.754879Z",
+      "primary_item": {
+        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+        "url": "https://www.aibase.com/news/30392",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9dd2783d4a40",
+      "title": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
+      "url": "https://www.aibase.com/news/30393",
+      "primary_url": "https://www.aibase.com/news/30393",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "529166332bfb9d887b8d5b97191f1e711640d147",
+          "title": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
+          "url": "https://www.aibase.com/news/30393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T07:01:58.754879Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "529166332bfb9d887b8d5b97191f1e711640d147",
+          "title": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
+          "url": "https://www.aibase.com/news/30393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T07:01:58.754879Z"
         }
       ],
       "item_count": 1,
@@ -53,12 +213,131 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T05:58:49.785219Z",
-      "latest_at": "2026-08-17T05:58:49.785219Z",
+      "earliest_at": "2026-08-17T07:01:58.754879Z",
+      "latest_at": "2026-08-17T07:01:58.754879Z",
       "primary_item": {
-        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-        "url": "https://www.aibase.com/news/30392",
+        "id": "529166332bfb9d887b8d5b97191f1e711640d147",
+        "title": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
+        "url": "https://www.aibase.com/news/30393",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_790eb81e3f14",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+      "primary_url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d348ce79058c073f1e044eab6dc5292da256b640",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+          "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T22:00:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "d348ce79058c073f1e044eab6dc5292da256b640",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+          "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T22:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6241,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-16T22:00:39Z",
+      "latest_at": "2026-08-16T22:00:39Z",
+      "primary_item": {
+        "id": "d348ce79058c073f1e044eab6dc5292da256b640",
+        "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+        "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_53ac455b6941",
+      "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
+      "url": "https://www.aibase.com/news/30394",
+      "primary_url": "https://www.aibase.com/news/30394",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c9e10205e8c300fe9d8b81bf8c7bd21497728c91",
+          "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
+          "url": "https://www.aibase.com/news/30394",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T07:01:58.754879Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c9e10205e8c300fe9d8b81bf8c7bd21497728c91",
+          "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
+          "url": "https://www.aibase.com/news/30394",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T07:01:58.754879Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T07:01:58.754879Z",
+      "latest_at": "2026-08-17T07:01:58.754879Z",
+      "primary_item": {
+        "id": "c9e10205e8c300fe9d8b81bf8c7bd21497728c91",
+        "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
+        "url": "https://www.aibase.com/news/30394",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -98,14 +377,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -177,14 +456,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -201,65 +480,6 @@
         "url": "https://www.aibase.com/news/30372",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_790eb81e3f14",
-      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-      "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
-      "primary_url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d348ce79058c073f1e044eab6dc5292da256b640",
-          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-          "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T22:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "d348ce79058c073f1e044eab6dc5292da256b640",
-          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-          "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T22:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6679,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T22:00:39Z",
-      "latest_at": "2026-08-16T22:00:39Z",
-      "primary_item": {
-        "id": "d348ce79058c073f1e044eab6dc5292da256b640",
-        "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-        "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -316,14 +536,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -396,14 +616,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -476,14 +696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -503,243 +723,118 @@
       }
     },
     {
-      "story_id": "story_24179d4476a1",
-      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-      "url": "https://www.aibase.com/news/30383",
-      "primary_url": "https://www.aibase.com/news/30383",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_774f7412d1a3",
+      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:17:04.086747Z"
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
         },
         {
-          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
-          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/zh/news/30383",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "4e8b267d415b98cc998b956cb95f3c888abedf24",
+          "title": "台积电使用旧晶圆厂生产新芯片[视频] / TSMC Uses Old Fabs to Make New Chips [video]",
+          "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T00:07:42Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:17:04.086747Z"
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
         },
         {
-          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
-          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/zh/news/30383",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "4e8b267d415b98cc998b956cb95f3c888abedf24",
+          "title": "台积电使用旧晶圆厂生产新芯片[视频] / TSMC Uses Old Fabs to Make New Chips [video]",
+          "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T00:07:42Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.846,
-        "story_heat": 0.25
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7333,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-17T02:17:04.086747Z",
-      "latest_at": "2026-08-17T03:26:12.325832Z",
+      "earliest_at": "2026-08-17T00:07:42Z",
+      "latest_at": "2026-08-17T00:37:58.615000Z",
       "primary_item": {
-        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-        "url": "https://www.aibase.com/news/30383",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5243b55fd3e2",
-      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-      "url": "https://www.aibase.com/news/30374",
-      "primary_url": "https://www.aibase.com/news/30374",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-          "url": "https://www.aibase.com/news/30374",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:17:04.086747Z"
-        },
-        {
-          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
-          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
-          "url": "https://www.aibase.com/zh/news/30374",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-          "url": "https://www.aibase.com/news/30374",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:17:04.086747Z"
-        },
-        {
-          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
-          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
-          "url": "https://www.aibase.com/zh/news/30374",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.846,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T02:17:04.086747Z",
-      "latest_at": "2026-08-17T02:17:04.086747Z",
-      "primary_item": {
-        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-        "url": "https://www.aibase.com/news/30374",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2dc2c342cc6e",
-      "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-      "url": "https://www.aibase.com/news/30381",
-      "primary_url": "https://www.aibase.com/news/30381",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/news/30381",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:17:04.086747Z"
-        },
-        {
-          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
-          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/zh/news/30381",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/news/30381",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:17:04.086747Z"
-        },
-        {
-          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
-          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/zh/news/30381",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.846,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T02:17:04.086747Z",
-      "latest_at": "2026-08-17T02:17:04.086747Z",
-      "primary_item": {
-        "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-        "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-        "url": "https://www.aibase.com/news/30381",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -815,14 +910,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5529,
-      "importance": 0.5529,
-      "importance_score": 0.5529,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8996,
+        "recency": 0.8557,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -931,14 +1026,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.755,
+        "recency": 0.7112,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1028,14 +1123,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8328,
+        "recency": 0.7889,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1144,14 +1239,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7026,
+        "recency": 0.6588,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1169,157 +1264,81 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        },
-        {
-          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        },
-        {
-          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7772,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T00:20:07Z",
-      "latest_at": "2026-08-17T00:37:58.615000Z",
-      "primary_item": {
-        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f51fa6c295ae",
-      "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-      "url": "https://www.aibase.com/news/30390",
-      "primary_url": "https://www.aibase.com/news/30390",
+      "story_id": "story_24179d4476a1",
+      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+      "url": "https://www.aibase.com/news/30383",
+      "primary_url": "https://www.aibase.com/news/30383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
-          "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-          "url": "https://www.aibase.com/news/30390",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T04:10:33.565901Z"
+          "published_at": "2026-08-17T02:17:04.086747Z"
+        },
+        {
+          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
+          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/zh/news/30383",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
-          "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-          "url": "https://www.aibase.com/news/30390",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T04:10:33.565901Z"
+          "published_at": "2026-08-17T02:17:04.086747Z"
+        },
+        {
+          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
+          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/zh/news/30383",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9248,
-        "story_heat": 0.0
+        "recency": 0.8021,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T04:10:33.565901Z",
-      "latest_at": "2026-08-17T04:10:33.565901Z",
+      "earliest_at": "2026-08-17T02:17:04.086747Z",
+      "latest_at": "2026-08-17T03:26:12.325832Z",
       "primary_item": {
-        "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
-        "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-        "url": "https://www.aibase.com/news/30390",
+        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+        "url": "https://www.aibase.com/news/30383",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1377,14 +1396,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.857,
+        "recency": 0.8131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1455,14 +1474,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8312,
+        "recency": 0.7873,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1477,6 +1496,86 @@
         "url": "https://news.ycombinator.com/item?id=49323136",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5243b55fd3e2",
+      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+      "url": "https://www.aibase.com/news/30374",
+      "primary_url": "https://www.aibase.com/news/30374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:17:04.086747Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:17:04.086747Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8021,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:17:04.086747Z",
+      "latest_at": "2026-08-17T02:17:04.086747Z",
+      "primary_item": {
+        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+        "url": "https://www.aibase.com/news/30374",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1533,14 +1632,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.4969,
+      "importance": 0.4969,
+      "importance_score": 0.4969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7884,
+        "recency": 0.7445,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1555,84 +1654,6 @@
         "url": "https://www.ithome.com/0/990/420.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_dc26344b17e2",
-      "title": "人工智能软件开发——数据揭示了什么？",
-      "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-      "primary_url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-      "source": "codemanship.wordpress.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc7492af2c10be74af16759cef3696016acf426d",
-          "title": "人工智能软件开发——数据揭示了什么？",
-          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-          "source": "codemanship.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:22:10.012000Z"
-        },
-        {
-          "id": "ac58a9aac7874b95d811a0ecaeaadd58a9c17e22",
-          "title": "人工智能软件开发——数据揭示了什么？ / AI Software Development – What Does The Data Say?",
-          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:08:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "codemanship.wordpress.com"
-      ],
-      "items": [
-        {
-          "id": "dc7492af2c10be74af16759cef3696016acf426d",
-          "title": "人工智能软件开发——数据揭示了什么？",
-          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-          "source": "codemanship.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:22:10.012000Z"
-        },
-        {
-          "id": "ac58a9aac7874b95d811a0ecaeaadd58a9c17e22",
-          "title": "人工智能软件开发——数据揭示了什么？ / AI Software Development – What Does The Data Say?",
-          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:08:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7662,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T00:08:04Z",
-      "latest_at": "2026-08-17T00:22:10.012000Z",
-      "primary_item": {
-        "id": "dc7492af2c10be74af16759cef3696016acf426d",
-        "title": "人工智能软件开发——数据揭示了什么？",
-        "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
-        "source": "codemanship.wordpress.com",
-        "source_name": "Buzzing"
       }
     }
   ]
