@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-19T05:54:39.678819Z",
+  "generated_at": "2026-08-19T06:33:05.258845Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_8b5dc124b21a",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T06:33:05.258845Z"
+        },
+        {
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T06:33:05.258845Z"
+        },
+        {
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T05:54:55Z",
+      "latest_at": "2026-08-19T06:33:05.258845Z",
+      "primary_item": {
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_1572a951af05",
       "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
@@ -38,14 +118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.735,
+        "recency": 0.7084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,14 +198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -142,6 +222,127 @@
         "url": "https://www.aibase.com/news/30457",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_da169e076643",
+      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
+      "primary_url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03a63f7a46b57dccbe199c04afdefaf02afbaca2",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "03a63f7a46b57dccbe199c04afdefaf02afbaca2",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7711,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T01:03:29Z",
+      "latest_at": "2026-08-19T01:03:29Z",
+      "primary_item": {
+        "id": "03a63f7a46b57dccbe199c04afdefaf02afbaca2",
+        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2fa84a60a1c6",
+      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.642,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
+      "primary_item": {
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -198,14 +399,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -220,187 +421,6 @@
         "id": "e842250b4693909dbb071b41a91156a770cee6b0",
         "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
         "url": "https://www.aibase.com/news/30460",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_da169e076643",
-      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-      "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-      "primary_url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "03a63f7a46b57dccbe199c04afdefaf02afbaca2",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "03a63f7a46b57dccbe199c04afdefaf02afbaca2",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7978,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T01:03:29Z",
-      "latest_at": "2026-08-19T01:03:29Z",
-      "primary_item": {
-        "id": "03a63f7a46b57dccbe199c04afdefaf02afbaca2",
-        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2fa84a60a1c6",
-      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6686,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
-      "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fde02af99fc4",
-      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-      "url": "https://www.aibase.com/news/30464",
-      "primary_url": "https://www.aibase.com/news/30464",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
-          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-          "url": "https://www.aibase.com/news/30464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T05:54:39.678819Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
-          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-          "url": "https://www.aibase.com/news/30464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T05:54:39.678819Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T05:54:39.678819Z",
-      "latest_at": "2026-08-19T05:54:39.678819Z",
-      "primary_item": {
-        "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
-        "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-        "url": "https://www.aibase.com/news/30464",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -440,14 +460,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6893,
+        "recency": 0.6626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,14 +519,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6468,
+        "recency": 0.6201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,14 +578,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5912,
+        "recency": 0.5645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,62 +603,63 @@
       }
     },
     {
-      "story_id": "story_9f4082bd48d9",
-      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-      "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-      "primary_url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_fde02af99fc4",
+      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+      "url": "https://www.aibase.com/news/30464",
+      "primary_url": "https://www.aibase.com/news/30464",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb8d3b673b958a140f695205e82b3da4fbcaf7b9",
-          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-          "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T19:26:08Z"
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T05:54:39.678819Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bb8d3b673b958a140f695205e82b3da4fbcaf7b9",
-          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-          "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T19:26:08Z"
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T05:54:39.678819Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5635,
+        "recency": 0.9733,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-18T19:26:08Z",
-      "latest_at": "2026-08-18T19:26:08Z",
+      "earliest_at": "2026-08-19T05:54:39.678819Z",
+      "latest_at": "2026-08-19T05:54:39.678819Z",
       "primary_item": {
-        "id": "bb8d3b673b958a140f695205e82b3da4fbcaf7b9",
-        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-        "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+        "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+        "url": "https://www.aibase.com/news/30464",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -676,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,14 +757,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -815,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8475,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -895,14 +916,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8475,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -975,14 +996,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8475,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -997,86 +1018,6 @@
         "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
         "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
         "url": "https://www.aibase.com/news/30454",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_520828a29e15",
-      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-      "url": "https://www.aibase.com/news/30448",
-      "primary_url": "https://www.aibase.com/news/30448",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/news/30448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:14:59.951318Z"
-        },
-        {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/zh/news/30448",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/news/30448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:14:59.951318Z"
-        },
-        {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/zh/news/30448",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8475,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T02:14:59.951318Z",
-      "latest_at": "2026-08-19T02:14:59.951318Z",
-      "primary_item": {
-        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-        "url": "https://www.aibase.com/news/30448",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1135,14 +1076,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5471,
-      "importance": 0.5471,
-      "importance_score": 0.5471,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.5454,
+        "recency": 0.5187,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1157,6 +1098,86 @@
         "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
         "source": "OpenAI News",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_520828a29e15",
+      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+      "url": "https://www.aibase.com/news/30448",
+      "primary_url": "https://www.aibase.com/news/30448",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/news/30448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:14:59.951318Z"
+        },
+        {
+          "id": "284326f99c164ea79b09d821ad468773e69d9644",
+          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/zh/news/30448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/news/30448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:14:59.951318Z"
+        },
+        {
+          "id": "284326f99c164ea79b09d821ad468773e69d9644",
+          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/zh/news/30448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8208,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T02:14:59.951318Z",
+      "latest_at": "2026-08-19T02:14:59.951318Z",
+      "primary_item": {
+        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+        "url": "https://www.aibase.com/news/30448",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1213,14 +1234,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9247,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1290,14 +1311,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9148,
+        "recency": 0.8881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,14 +1388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
+        "recency": 0.8868,
         "story_heat": 0.25
       },
       "category": "watch",
