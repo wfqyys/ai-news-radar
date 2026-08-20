@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T16:34:38.692182Z",
+  "generated_at": "2026-08-20T17:22:43.719876Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9444,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,66 @@
         "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c8d35ad49854",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+      "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+      "primary_url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+      "source": "Hugging Face：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "182789fc2449953c090d02ffe85fab3bcda9ccd8",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "182789fc2449953c090d02ffe85fab3bcda9ccd8",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9793,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T16:52:57Z",
+      "latest_at": "2026-08-20T16:52:57Z",
+      "primary_item": {
+        "id": "182789fc2449953c090d02ffe85fab3bcda9ccd8",
+        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+        "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+        "source": "Hugging Face：Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -99,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9131,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -160,14 +220,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9774,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -182,6 +242,66 @@
         "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
         "url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
         "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f68ef87fa09",
+      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+      "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+      "primary_url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b41058166b2d195aff864e4c7becf5db9360aa69",
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b41058166b2d195aff864e4c7becf5db9360aa69",
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9425,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T16:00:00Z",
+      "latest_at": "2026-08-20T16:00:00Z",
+      "primary_item": {
+        "id": "b41058166b2d195aff864e4c7becf5db9360aa69",
+        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+        "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -220,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,14 +400,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9125,
+        "recency": 0.8791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,14 +480,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6257,
+        "recency": 0.5923,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -421,20 +541,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7161,
+        "recency": 0.6827,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T09:45:51Z",
       "latest_at": "2026-08-20T09:45:51Z",
@@ -481,14 +600,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.6919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -541,14 +660,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.6919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,14 +739,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7013,
-      "importance": 0.7013,
-      "importance_score": 0.7013,
+      "score": 0.6946,
+      "importance": 0.6946,
+      "importance_score": 0.6946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3214,
+        "recency": 0.288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -699,21 +818,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5837,
+        "recency": 0.5503,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T06:35:10.631260Z",
       "latest_at": "2026-08-20T07:35:39.977995Z",
@@ -779,21 +897,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5837,
+        "recency": 0.5503,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T06:35:10.631260Z",
       "latest_at": "2026-08-20T07:35:39.977995Z",
@@ -840,14 +957,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6891,
+        "recency": 0.6557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,14 +1035,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5558,
+        "recency": 0.5224,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1016,14 +1133,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8468,
+        "recency": 0.8135,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1093,14 +1210,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.969,
+        "recency": 0.9356,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,18 +1252,18 @@
           "published_at": "2026-08-20T15:39:15.824000Z"
         },
         {
-          "id": "96a5084cbfcadd1ec68c7e824a4036e34d34b5be",
+          "id": "9790711c0876f6de125a2911a4f6213eba62288f",
           "title": "抗AI字体无用且有害 / Anti-AI fonts are useless and harmful",
           "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-20T15:06:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1160,25 +1277,25 @@
           "published_at": "2026-08-20T15:39:15.824000Z"
         },
         {
-          "id": "96a5084cbfcadd1ec68c7e824a4036e34d34b5be",
+          "id": "9790711c0876f6de125a2911a4f6213eba62288f",
           "title": "抗AI字体无用且有害 / Anti-AI fonts are useless and harmful",
           "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-20T15:06:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9615,
+        "recency": 0.9281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1230,14 +1347,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6635,
+        "recency": 0.6301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1252,180 +1369,6 @@
         "url": "https://www.aibase.com/news/30504",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0acff351d8cf",
-      "title": "阿里巴巴AI支出达100亿美元后，利润暴跌75%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c5f01fa9df725cd7bdff78ffb81054c3fb406d9e",
-          "title": "阿里巴巴AI支出达100亿美元后，利润暴跌75%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T13:58:13.006000Z"
-        },
-        {
-          "id": "56a815fc3e6923b27980697ad2d2b2f3f816628c",
-          "title": "阿里巴巴加大人工智能投入后，利润暴跌75%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T10:13:55.253000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "c5f01fa9df725cd7bdff78ffb81054c3fb406d9e",
-          "title": "阿里巴巴AI支出达100亿美元后，利润暴跌75%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T13:58:13.006000Z"
-        },
-        {
-          "id": "56a815fc3e6923b27980697ad2d2b2f3f816628c",
-          "title": "阿里巴巴加大人工智能投入后，利润暴跌75%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T10:13:55.253000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8914,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T10:13:55.253000Z",
-      "latest_at": "2026-08-20T13:58:13.006000Z",
-      "primary_item": {
-        "id": "c5f01fa9df725cd7bdff78ffb81054c3fb406d9e",
-        "title": "阿里巴巴AI支出达100亿美元后，利润暴跌75%",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a6781ae1d97f",
-      "title": "请不要粘贴AI生成的内容",
-      "url": "https://dontpastetheai.com",
-      "primary_url": "https://dontpastetheai.com",
-      "source": "dontpastetheai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-          "title": "请不要粘贴AI生成的内容",
-          "url": "https://dontpastetheai.com",
-          "source": "dontpastetheai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T09:26:10.003000Z"
-        },
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "请不要粘贴AI / Don't paste the AI, please",
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:46.840000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "请不要粘贴AI生成的内容 / Don't paste the AI, please",
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "dontpastetheai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-          "title": "请不要粘贴AI生成的内容",
-          "url": "https://dontpastetheai.com",
-          "source": "dontpastetheai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T09:26:10.003000Z"
-        },
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "请不要粘贴AI / Don't paste the AI, please",
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:46.840000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "请不要粘贴AI生成的内容 / Don't paste the AI, please",
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7024,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T08:20:44Z",
-      "latest_at": "2026-08-20T09:26:10.003000Z",
-      "primary_item": {
-        "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-        "title": "请不要粘贴AI生成的内容",
-        "url": "https://dontpastetheai.com",
-        "source": "dontpastetheai.com",
-        "source_name": "Buzzing"
       }
     }
   ]
