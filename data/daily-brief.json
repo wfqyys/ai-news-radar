@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:55:34.000518Z",
+  "generated_at": "2026-08-23T08:22:28.268429Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7069,
+        "recency": 0.6883,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-23T00:53:34Z",
       "latest_at": "2026-08-23T00:53:34Z",
@@ -117,14 +116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -194,14 +193,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5472,
-      "importance": 0.5472,
-      "importance_score": 0.5472,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9959,
+        "recency": 0.9772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -272,14 +271,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9694,
+        "recency": 0.9507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -294,6 +293,83 @@
         "url": "https://www.ithome.com/0/993/188.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e9b03c1ca8c4",
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+      "primary_url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d2ba6f550d8ed916ba5f7bc17865b9b51bc27e2f",
+          "title": "The Golden Rule for Becoming a Better Writer",
+          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-23T03:32:25Z"
+        },
+        {
+          "id": "390f6105d2f22d5ae5794019895c80d529465b38",
+          "title": "To become a better writer, read as much as you can",
+          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-23T03:32:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "d2ba6f550d8ed916ba5f7bc17865b9b51bc27e2f",
+          "title": "The Golden Rule for Becoming a Better Writer",
+          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-23T03:32:25Z"
+        },
+        {
+          "id": "390f6105d2f22d5ae5794019895c80d529465b38",
+          "title": "To become a better writer, read as much as you can",
+          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-23T03:32:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T03:32:25Z",
+      "latest_at": "2026-08-23T03:32:25Z",
+      "primary_item": {
+        "id": "d2ba6f550d8ed916ba5f7bc17865b9b51bc27e2f",
+        "title": "The Golden Rule for Becoming a Better Writer",
+        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -369,14 +445,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
+      "score": 0.4906,
+      "importance": 0.4906,
+      "importance_score": 0.4906,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6069,
+        "recency": 0.5882,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -447,14 +523,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4917,
-      "importance": 0.4917,
-      "importance_score": 0.4917,
+      "score": 0.4879,
+      "importance": 0.4879,
+      "importance_score": 0.4879,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7184,
+        "recency": 0.6997,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,14 +601,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4582,
-      "importance": 0.4582,
-      "importance_score": 0.4582,
+      "score": 0.4545,
+      "importance": 0.4545,
+      "importance_score": 0.4545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5512,
+        "recency": 0.5326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,14 +679,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.456,
-      "importance": 0.456,
-      "importance_score": 0.456,
+      "score": 0.4523,
+      "importance": 0.4523,
+      "importance_score": 0.4523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5401,
+        "recency": 0.5214,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -681,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.5071,
+      "importance": 0.5071,
+      "importance_score": 0.5071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8143,
+        "recency": 0.7956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -777,14 +853,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4499,
-      "importance": 0.4499,
-      "importance_score": 0.4499,
+      "score": 0.4462,
+      "importance": 0.4462,
+      "importance_score": 0.4462,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3846,
+        "recency": 0.3659,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -855,14 +931,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4411,
-      "importance": 0.4411,
-      "importance_score": 0.4411,
+      "score": 0.4373,
+      "importance": 0.4373,
+      "importance_score": 0.4373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4653,
+        "recency": 0.4467,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,83 +953,6 @@
         "url": "https://news.ycombinator.com/item?id=49399642",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d901a93bbcfa",
-      "title": "《用Python思考》 / Thinking in Python",
-      "url": "https://thinkinginpython.com",
-      "primary_url": "https://thinkinginpython.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4335,
-      "importance": 0.4335,
-      "importance_score": 0.4335,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4273,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:10:49Z",
-      "latest_at": "2026-08-22T18:10:49Z",
-      "primary_item": {
-        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-        "title": "《用Python思考》 / Thinking in Python",
-        "url": "https://thinkinginpython.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1009,14 +1008,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4239,
-      "importance": 0.4239,
-      "importance_score": 0.4239,
+      "score": 0.4202,
+      "importance": 0.4202,
+      "importance_score": 0.4202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3795,
+        "recency": 0.3609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1087,14 +1086,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4183,
-      "importance": 0.4183,
-      "importance_score": 0.4183,
+      "score": 0.4145,
+      "importance": 0.4145,
+      "importance_score": 0.4145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3513,
+        "recency": 0.3327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1164,14 +1163,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4348,
-      "importance": 0.4348,
-      "importance_score": 0.4348,
+      "score": 0.4311,
+      "importance": 0.4311,
+      "importance_score": 0.4311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.434,
+        "recency": 0.4153,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1189,30 +1188,30 @@
       }
     },
     {
-      "story_id": "story_0cbbcd53f19c",
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "primary_url": "https://twitter.com/moxie/status/2091218652133732491",
+      "story_id": "story_d901a93bbcfa",
+      "title": "《用Python思考》 / Thinking in Python",
+      "url": "https://thinkinginpython.com",
+      "primary_url": "https://thinkinginpython.com",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+          "title": "《用Python思考》 / Thinking in Python",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         },
         {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
+          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         }
       ],
       "source_count": 2,
@@ -1221,46 +1220,46 @@
       ],
       "items": [
         {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+          "title": "《用Python思考》 / Thinking in Python",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         },
         {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
+          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4332,
-      "importance": 0.4332,
-      "importance_score": 0.4332,
+      "score": 0.4297,
+      "importance": 0.4297,
+      "importance_score": 0.4297,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4259,
+        "recency": 0.4086,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:08:56Z",
-      "latest_at": "2026-08-22T18:08:56Z",
+      "earliest_at": "2026-08-22T18:10:49Z",
+      "latest_at": "2026-08-22T18:10:49Z",
       "primary_item": {
-        "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-        "title": "Scrap",
-        "url": "https://twitter.com/moxie/status/2091218652133732491",
+        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+        "title": "《用Python思考》 / Thinking in Python",
+        "url": "https://thinkinginpython.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1319,14 +1318,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4899,
-      "importance": 0.4899,
-      "importance_score": 0.4899,
+      "score": 0.4862,
+      "importance": 0.4862,
+      "importance_score": 0.4862,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7096,
+        "recency": 0.6909,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,14 +1396,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3973,
-      "importance": 0.3973,
-      "importance_score": 0.3973,
+      "score": 0.3936,
+      "importance": 0.3936,
+      "importance_score": 0.3936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2467,
+        "recency": 0.228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1475,14 +1474,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3885,
-      "importance": 0.3885,
-      "importance_score": 0.3885,
+      "score": 0.3848,
+      "importance": 0.3848,
+      "importance_score": 0.3848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2027,
+        "recency": 0.184,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1553,14 +1552,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4105,
-      "importance": 0.4105,
-      "importance_score": 0.4105,
+      "score": 0.4068,
+      "importance": 0.4068,
+      "importance_score": 0.4068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3127,
+        "recency": 0.294,
         "story_heat": 0.25
       },
       "category": "watch",
