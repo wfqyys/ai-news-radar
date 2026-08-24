@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:20:06.822846Z",
+  "generated_at": "2026-08-24T03:30:00.502175Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8745,
-      "importance": 0.8745,
-      "importance_score": 0.8745,
+      "score": 0.8648,
+      "importance": 0.8648,
+      "importance_score": 0.8648,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9027,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,166 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e1bc5ecbaf59",
+      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+      "url": "https://www.aibase.com/news/30558",
+      "primary_url": "https://www.aibase.com/news/30558",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
+        },
+        {
+          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
+          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
+          "url": "https://www.aibase.com/zh/news/30558",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
+        },
+        {
+          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
+          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
+          "url": "https://www.aibase.com/zh/news/30558",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:30:00.502175Z",
+      "latest_at": "2026-08-24T03:30:00.502175Z",
+      "primary_item": {
+        "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+        "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+        "url": "https://www.aibase.com/news/30558",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e228271887b6",
+      "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+      "url": "https://www.aibase.com/news/30559",
+      "primary_url": "https://www.aibase.com/news/30559",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/news/30559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
+        },
+        {
+          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
+          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/zh/news/30559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/news/30559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
+        },
+        {
+          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
+          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/zh/news/30559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:30:00.502175Z",
+      "latest_at": "2026-08-24T03:30:00.502175Z",
+      "primary_item": {
+        "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+        "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+        "url": "https://www.aibase.com/news/30559",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -118,14 +278,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -198,14 +358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -222,6 +382,85 @@
         "url": "https://www.aibase.com/news/30548",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a72ab559c387",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+      "primary_url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        },
+        {
+          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        },
+        {
+          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4469,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:47:08.323347Z",
+      "primary_item": {
+        "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -278,14 +517,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,14 +597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -382,85 +621,6 @@
         "url": "https://www.aibase.com/news/30549",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a72ab559c387",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-      "primary_url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        },
-        {
-          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        },
-        {
-          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4954,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:47:08.323347Z",
-      "primary_item": {
-        "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -517,14 +677,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -597,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -619,86 +779,6 @@
         "id": "953b1e03df563d378ad735a75980e42305674c69",
         "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
         "url": "https://www.aibase.com/news/30551",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0bf4a7eadc3e",
-      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-      "url": "https://www.aibase.com/news/30546",
-      "primary_url": "https://www.aibase.com/news/30546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
-        },
-        {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
-        },
-        {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:20:06.822846Z",
-      "latest_at": "2026-08-24T02:20:06.822846Z",
-      "primary_item": {
-        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-        "url": "https://www.aibase.com/news/30546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -776,14 +856,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6137,
-      "importance": 0.6137,
-      "importance_score": 0.6137,
+      "score": 0.604,
+      "importance": 0.604,
+      "importance_score": 0.604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7533,
+        "recency": 0.7048,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -801,121 +881,81 @@
       }
     },
     {
-      "story_id": "story_c2f6f6b65d61",
-      "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-      "url": "https://www.aibase.com/news/30539",
-      "primary_url": "https://www.aibase.com/news/30539",
+      "story_id": "story_0bf4a7eadc3e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6f5117de7586692b00038832a5809756e3c62404",
-          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-          "url": "https://www.aibase.com/news/30539",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T02:20:06.822846Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "6f5117de7586692b00038832a5809756e3c62404",
-          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-          "url": "https://www.aibase.com/news/30539",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T02:20:06.822846Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9515,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-24T02:20:06.822846Z",
       "latest_at": "2026-08-24T02:20:06.822846Z",
       "primary_item": {
-        "id": "6f5117de7586692b00038832a5809756e3c62404",
-        "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-        "url": "https://www.aibase.com/news/30539",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_51421005a3dd",
-      "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-      "url": "https://www.aibase.com/news/30545",
-      "primary_url": "https://www.aibase.com/news/30545",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
-          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-          "url": "https://www.aibase.com/news/30545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
-          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-          "url": "https://www.aibase.com/news/30545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:20:06.822846Z",
-      "latest_at": "2026-08-24T02:20:06.822846Z",
-      "primary_item": {
-        "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
-        "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-        "url": "https://www.aibase.com/news/30545",
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "url": "https://www.aibase.com/news/30546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -974,14 +1014,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5692,
-      "importance": 0.5692,
-      "importance_score": 0.5692,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.611,
+        "recency": 0.5625,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,14 +1129,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.819,
+        "recency": 0.7704,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1114,21 +1154,21 @@
       }
     },
     {
-      "story_id": "story_5c0e80471009",
-      "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-      "url": "https://www.aibase.com/news/30554",
-      "primary_url": "https://www.aibase.com/news/30554",
+      "story_id": "story_9c317f9a6836",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a28a03248cf724e4a9448b841310aba79609be86",
-          "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-          "url": "https://www.aibase.com/news/30554",
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
+          "published_at": "2026-08-24T03:30:00.502175Z"
         }
       ],
       "source_count": 1,
@@ -1137,13 +1177,13 @@
       ],
       "items": [
         {
-          "id": "a28a03248cf724e4a9448b841310aba79609be86",
-          "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-          "url": "https://www.aibase.com/news/30554",
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
+          "published_at": "2026-08-24T03:30:00.502175Z"
         }
       ],
       "item_count": 1,
@@ -1163,12 +1203,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T02:20:06.822846Z",
-      "latest_at": "2026-08-24T02:20:06.822846Z",
+      "earliest_at": "2026-08-24T03:30:00.502175Z",
+      "latest_at": "2026-08-24T03:30:00.502175Z",
       "primary_item": {
-        "id": "a28a03248cf724e4a9448b841310aba79609be86",
-        "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-        "url": "https://www.aibase.com/news/30554",
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "url": "https://www.aibase.com/news/30560",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1226,14 +1266,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5125,
+      "importance": 0.5125,
+      "importance_score": 0.5125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.871,
+        "recency": 0.8225,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1248,6 +1288,66 @@
         "url": "https://www.v2ex.com/t/1236652",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_40984cda808f",
+      "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+      "url": "https://www.aibase.com/news/30562",
+      "primary_url": "https://www.aibase.com/news/30562",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "url": "https://www.aibase.com/news/30562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "url": "https://www.aibase.com/news/30562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:30:00.502175Z",
+      "latest_at": "2026-08-24T03:30:00.502175Z",
+      "primary_item": {
+        "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+        "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+        "url": "https://www.aibase.com/news/30562",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1304,14 +1404,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5457,
-      "importance": 0.5457,
-      "importance_score": 0.5457,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.9401,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1326,66 +1426,6 @@
         "url": "https://news.ycombinator.com/item?id=49412909",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_16b1975c5cf9",
-      "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-      "url": "https://www.aibase.com/news/30538",
-      "primary_url": "https://www.aibase.com/news/30538",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "url": "https://www.aibase.com/news/30538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "url": "https://www.aibase.com/news/30538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:20:06.822846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:20:06.822846Z",
-      "latest_at": "2026-08-24T02:20:06.822846Z",
-      "primary_item": {
-        "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-        "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-        "url": "https://www.aibase.com/news/30538",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1442,14 +1482,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1467,81 +1507,63 @@
       }
     },
     {
-      "story_id": "story_1a46c098bd02",
-      "title": "与人工智能相关的各种可靠性事故即将发生",
-      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "source": "surfingcomplexity.blog",
-      "source_name": "Buzzing",
+      "story_id": "story_9e143a8c2f61",
+      "title": "得州州长严辞抨击 AI 扩张：大干快上数据中心是\"自掘坟墓\"",
+      "url": "https://www.aibase.com/news/30556",
+      "primary_url": "https://www.aibase.com/news/30556",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
+          "id": "f85b892b84102e1c36e177bb5a1ba7156b71187f",
+          "title": "得州州长严辞抨击 AI 扩张：大干快上数据中心是\"自掘坟墓\"",
+          "url": "https://www.aibase.com/news/30556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Lobsters (技术社区)",
-        "surfingcomplexity.blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
+          "id": "f85b892b84102e1c36e177bb5a1ba7156b71187f",
+          "title": "得州州长严辞抨击 AI 扩张：大干快上数据中心是\"自掘坟墓\"",
+          "url": "https://www.aibase.com/news/30556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:00.502175Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4893,
-      "importance": 0.4893,
-      "importance_score": 0.4893,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7064,
-        "story_heat": 0.25
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T19:04:41Z",
-      "latest_at": "2026-08-23T19:17:21.738000Z",
+      "earliest_at": "2026-08-24T03:30:00.502175Z",
+      "latest_at": "2026-08-24T03:30:00.502175Z",
       "primary_item": {
-        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-        "title": "与人工智能相关的各种可靠性事故即将发生",
-        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-        "source": "surfingcomplexity.blog",
-        "source_name": "Buzzing"
+        "id": "f85b892b84102e1c36e177bb5a1ba7156b71187f",
+        "title": "得州州长严辞抨击 AI 扩张：大干快上数据中心是\"自掘坟墓\"",
+        "url": "https://www.aibase.com/news/30556",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
