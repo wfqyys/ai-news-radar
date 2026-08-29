@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T16:03:33.118422Z",
+  "generated_at": "2026-08-29T19:27:14.156087Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,21 +38,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3309,
+        "recency": 0.1894,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T00:00:00Z",
       "latest_at": "2026-08-29T00:00:00Z",
@@ -62,65 +61,6 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9205c81e4e4a",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "primary_url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6449,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T07:32:16Z",
-      "latest_at": "2026-08-29T07:32:16Z",
-      "primary_item": {
-        "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -177,17 +117,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
-      "importance_label": "行业动态",
+      "score": 0.7126,
+      "importance": 0.7126,
+      "importance_score": 0.7126,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5193,
+        "recency": 0.3779,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -203,62 +143,81 @@
       }
     },
     {
-      "story_id": "story_b9c40837d98e",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-      "primary_url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_6472bbcb1287",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "primary_url": "https://news.ycombinator.com/item?id=49491568",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22Z"
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22Z"
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6228,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9857,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T07:00:22Z",
-      "latest_at": "2026-08-29T07:00:22Z",
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T19:06:35.204000Z",
       "primary_item": {
-        "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "url": "https://news.ycombinator.com/item?id=49491568",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -315,14 +274,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9894,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -337,6 +296,84 @@
         "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
         "source": "www.josephspurrier.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9857,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T19:06:35.204000Z",
+      "primary_item": {
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -393,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8897,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -490,14 +527,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7561,
+        "recency": 0.6147,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -568,14 +605,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.4837,
+      "importance": 0.4837,
+      "importance_score": 0.4837,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8197,
+        "recency": 0.6783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -665,14 +702,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4953,
-      "importance": 0.4953,
-      "importance_score": 0.4953,
+      "score": 0.467,
+      "importance": 0.467,
+      "importance_score": 0.467,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6116,
+        "recency": 0.4702,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -743,14 +780,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
+      "score": 0.4665,
+      "importance": 0.4665,
+      "importance_score": 0.4665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7339,
+        "recency": 0.5924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -764,6 +801,551 @@
         "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
         "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
         "source": "www.phoronix.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_356cb5adee51",
+      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "primary_url": "https://www.inventati.org/who/manifesto",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4496,
+      "importance": 0.4496,
+      "importance_score": 0.4496,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5078,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:38:31Z",
+      "latest_at": "2026-08-29T07:38:31Z",
+      "primary_item": {
+        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "url": "https://www.inventati.org/who/manifesto",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_9928173748ab",
+      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "arbustoemchamas.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arbustoemchamas.substack.com"
+      ],
+      "items": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4376,
+      "importance": 0.4376,
+      "importance_score": 0.4376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4479,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T06:11:18Z",
+      "latest_at": "2026-08-29T06:12:16.489000Z",
+      "primary_item": {
+        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "source": "arbustoemchamas.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2cce40fa1295",
+      "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+      "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+      "primary_url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.871000Z"
+        },
+        {
+          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T09:22:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.871000Z"
+        },
+        {
+          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T09:22:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4665,
+      "importance": 0.4665,
+      "importance_score": 0.4665,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5925,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T09:22:01Z",
+      "latest_at": "2026-08-29T09:40:21.871000Z",
+      "primary_item": {
+        "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
+        "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+        "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a67bb8d2a6b4",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T05:01:05.354000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T05:01:05.354000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4293,
+      "importance": 0.4293,
+      "importance_score": 0.4293,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4063,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T05:01:05.354000Z",
+      "latest_at": "2026-08-29T05:12:17.668299Z",
+      "primary_item": {
+        "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+        "title": "ChromeDevTools / chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_489c77d23af1",
+      "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+      "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+      "primary_url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+      "source": "Business Insider",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T03:57:19Z"
+        },
+        {
+          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:48:21.575000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T03:57:19Z"
+        },
+        {
+          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:48:21.575000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4188,
+      "importance": 0.4188,
+      "importance_score": 0.4188,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3542,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T03:48:21.575000Z",
+      "latest_at": "2026-08-29T03:57:19Z",
+      "primary_item": {
+        "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
+        "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+        "source": "Business Insider",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "Debian 对 LLM 的使用既不支持也不禁止",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:00:24.283000Z"
+        },
+        {
+          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:40:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:00:24.283000Z"
+        },
+        {
+          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:40:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4109,
+      "importance": 0.4109,
+      "importance_score": 0.4109,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3147,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:40:59Z",
+      "latest_at": "2026-08-29T03:00:24.283000Z",
+      "primary_item": {
+        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
+        "title": "Debian 对 LLM 的使用既不支持也不禁止",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_527b838142bf",
+      "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
+      "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+      "primary_url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
+          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
+          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T08:52:18.659000Z"
+        },
+        {
+          "id": "93a91444c18fec56e59a71af53f81f9c5885670c",
+          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。 / This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
+          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T08:37:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
+          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
+          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T08:52:18.659000Z"
+        },
+        {
+          "id": "93a91444c18fec56e59a71af53f81f9c5885670c",
+          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。 / This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
+          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T08:37:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4598,
+      "importance": 0.4598,
+      "importance_score": 0.4598,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5591,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T08:37:01Z",
+      "latest_at": "2026-08-29T08:52:18.659000Z",
+      "primary_item": {
+        "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
+        "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
+        "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -840,14 +1422,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4544,
+      "importance": 0.4544,
+      "importance_score": 0.4544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5484,
+        "recency": 0.407,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -865,281 +1447,30 @@
       }
     },
     {
-      "story_id": "story_fb769fc67e24",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7d620cb4d0573f5b2a9f32d2a7c3b76c9191d289",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "ec34cc4668051b4baa12e3a7e12ec44d11669ed9",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "7d620cb4d0573f5b2a9f32d2a7c3b76c9191d289",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "ec34cc4668051b4baa12e3a7e12ec44d11669ed9",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.477,
-      "importance": 0.477,
-      "importance_score": 0.477,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.645,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T17:01:12Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
-      "primary_item": {
-        "id": "7d620cb4d0573f5b2a9f32d2a7c3b76c9191d289",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7a769c91d345",
-      "title": "Twitterwebviewer.com Service Discontinued",
-      "url": "https://twitterwebviewer.com",
-      "primary_url": "https://twitterwebviewer.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        },
-        {
-          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
-          "title": "应 X Corp 的要求，TwitterWebViewer 也不再运行 / TwitterWebViewer also no longer in operation, following a request from X Corp",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T16:36:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        },
-        {
-          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
-          "title": "应 X Corp 的要求，TwitterWebViewer 也不再运行 / TwitterWebViewer also no longer in operation, following a request from X Corp",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T16:36:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4741,
-      "importance": 0.4741,
-      "importance_score": 0.4741,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5056,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T16:36:17Z",
-      "latest_at": "2026-08-29T04:11:35Z",
-      "primary_item": {
-        "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-        "title": "Twitterwebviewer.com Service Discontinued",
-        "url": "https://twitterwebviewer.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_9928173748ab",
-      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "source": "arbustoemchamas.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arbustoemchamas.substack.com"
-      ],
-      "items": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4659,
-      "importance": 0.4659,
-      "importance_score": 0.4659,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5894,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T06:11:18Z",
-      "latest_at": "2026-08-29T06:12:16.489000Z",
-      "primary_item": {
-        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "source": "arbustoemchamas.substack.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2cce40fa1295",
-      "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-      "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-      "primary_url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+      "story_id": "story_3b895af61f64",
+      "title": "OpenAI表示，我们在网络防御方面采取行动的时间已经所剩无几。以下是您可以实际采取的措施。",
+      "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
+      "primary_url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "id": "475a6c0c9c2e56fdf5b1c2a6de5fbd8b67905055",
+          "title": "OpenAI表示，我们在网络防御方面采取行动的时间已经所剩无几。以下是您可以实际采取的措施。",
+          "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.871000Z"
+          "published_at": "2026-08-29T04:20:35.119000Z"
         },
         {
-          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "id": "8ae07fb87bc476b9515c0d6b2608a7ee5e210285",
+          "title": "OpenAI表示，我们在网络防御方面采取行动的时间已经所剩无几。以下是您可以实际采取的措施。 / OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it.",
+          "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T09:22:01Z"
+          "published_at": "2026-08-29T04:01:01Z"
         }
       ],
       "source_count": 2,
@@ -1149,309 +1480,75 @@
       ],
       "items": [
         {
-          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "id": "475a6c0c9c2e56fdf5b1c2a6de5fbd8b67905055",
+          "title": "OpenAI表示，我们在网络防御方面采取行动的时间已经所剩无几。以下是您可以实际采取的措施。",
+          "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.871000Z"
+          "published_at": "2026-08-29T04:20:35.119000Z"
         },
         {
-          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "id": "8ae07fb87bc476b9515c0d6b2608a7ee5e210285",
+          "title": "OpenAI表示，我们在网络防御方面采取行动的时间已经所剩无几。以下是您可以实际采取的措施。 / OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it.",
+          "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T09:22:01Z"
+          "published_at": "2026-08-29T04:01:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
+      "score": 0.4221,
+      "importance": 0.4221,
+      "importance_score": 0.4221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7339,
+        "recency": 0.3704,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T09:22:01Z",
-      "latest_at": "2026-08-29T09:40:21.871000Z",
+      "earliest_at": "2026-08-29T04:01:01Z",
+      "latest_at": "2026-08-29T04:20:35.119000Z",
       "primary_item": {
-        "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
-        "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-        "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+        "id": "475a6c0c9c2e56fdf5b1c2a6de5fbd8b67905055",
+        "title": "OpenAI表示，我们在网络防御方面采取行动的时间已经所剩无几。以下是您可以实际采取的措施。",
+        "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_a67bb8d2a6b4",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-          "title": "ChromeDevTools / chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T05:01:05.354000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-          "title": "ChromeDevTools / chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T05:01:05.354000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4575,
-      "importance": 0.4575,
-      "importance_score": 0.4575,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5477,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T05:01:05.354000Z",
-      "latest_at": "2026-08-29T05:12:17.668299Z",
-      "primary_item": {
-        "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-        "title": "ChromeDevTools / chrome-devtools-mcp",
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_489c77d23af1",
-      "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-      "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-      "primary_url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-      "source": "Business Insider",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T03:57:19Z"
-        },
-        {
-          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:48:21.575000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T03:57:19Z"
-        },
-        {
-          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:48:21.575000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4471,
-      "importance": 0.4471,
-      "importance_score": 0.4471,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4957,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T03:48:21.575000Z",
-      "latest_at": "2026-08-29T03:57:19Z",
-      "primary_item": {
-        "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
-        "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-        "source": "Business Insider",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 对 LLM 的使用既不支持也不禁止",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4392,
-      "importance": 0.4392,
-      "importance_score": 0.4392,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4561,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:40:59Z",
-      "latest_at": "2026-08-29T03:00:24.283000Z",
-      "primary_item": {
-        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-        "title": "Debian 对 LLM 的使用既不支持也不禁止",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_527b838142bf",
-      "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-      "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-      "primary_url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+      "story_id": "story_4c6e63bcddf4",
+      "title": "人工智能数据中心如何导致万物价格上涨",
+      "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
+      "primary_url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "id": "fce77cce068e70d98b9655401cfeed3c2696cbb9",
+          "title": "人工智能数据中心如何导致万物价格上涨",
+          "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T08:52:18.659000Z"
+          "published_at": "2026-08-28T21:40:27.222000Z"
         },
         {
-          "id": "93a91444c18fec56e59a71af53f81f9c5885670c",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。 / This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "id": "942249b6324b89ca26df08ae7909395d58c68dca",
+          "title": "人工智能数据中心如何导致万物价格上涨 / How AI data centers are making everything more expensive",
+          "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T08:37:01Z"
+          "published_at": "2026-08-28T21:26:32Z"
         }
       ],
       "source_count": 2,
@@ -1461,125 +1558,47 @@
       ],
       "items": [
         {
-          "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "id": "fce77cce068e70d98b9655401cfeed3c2696cbb9",
+          "title": "人工智能数据中心如何导致万物价格上涨",
+          "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T08:52:18.659000Z"
+          "published_at": "2026-08-28T21:40:27.222000Z"
         },
         {
-          "id": "93a91444c18fec56e59a71af53f81f9c5885670c",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。 / This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+          "id": "942249b6324b89ca26df08ae7909395d58c68dca",
+          "title": "人工智能数据中心如何导致万物价格上涨 / How AI data centers are making everything more expensive",
+          "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T08:37:01Z"
+          "published_at": "2026-08-28T21:26:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4881,
-      "importance": 0.4881,
-      "importance_score": 0.4881,
+      "score": 0.3665,
+      "importance": 0.3665,
+      "importance_score": 0.3665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7005,
+        "recency": 0.0925,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T08:37:01Z",
-      "latest_at": "2026-08-29T08:52:18.659000Z",
+      "earliest_at": "2026-08-28T21:26:32Z",
+      "latest_at": "2026-08-28T21:40:27.222000Z",
       "primary_item": {
-        "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
-        "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-        "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+        "id": "fce77cce068e70d98b9655401cfeed3c2696cbb9",
+        "title": "人工智能数据中心如何导致万物价格上涨",
+        "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6f9fb517eb6d",
-      "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-      "primary_url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-      "source": "markwilliamscook.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1635424a84524804795eef92534024522fddd70b",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "markwilliamscook.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T19:16:44.216000Z"
-        },
-        {
-          "id": "53546bcf904074487c611a7a7287dc9d34af9f39",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学 / How cats.txt showed llms.txt evidence is GEO astrology",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T18:11:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "markwilliamscook.substack.com"
-      ],
-      "items": [
-        {
-          "id": "1635424a84524804795eef92534024522fddd70b",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "markwilliamscook.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T19:16:44.216000Z"
-        },
-        {
-          "id": "53546bcf904074487c611a7a7287dc9d34af9f39",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学 / How cats.txt showed llms.txt evidence is GEO astrology",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T18:11:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3748,
-      "importance": 0.3748,
-      "importance_score": 0.3748,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1342,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T18:11:43Z",
-      "latest_at": "2026-08-28T19:16:44.216000Z",
-      "primary_item": {
-        "id": "1635424a84524804795eef92534024522fddd70b",
-        "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-        "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-        "source": "markwilliamscook.substack.com",
         "source_name": "Buzzing"
       }
     }
