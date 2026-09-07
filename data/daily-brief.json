@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:51:52.608927Z",
+  "generated_at": "2026-09-07T18:02:04.787279Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -158,14 +158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -218,14 +218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -278,14 +278,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -338,14 +338,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -398,14 +398,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,6 +421,103 @@
         "url": "https://www.aibase.com/news/30880",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8fb31a39b25a",
+      "title": "基于AMD GPU的vLLM中的推测性解码",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "vllm.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:52:28.238000Z"
+        },
+        {
+          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "vllm.ai"
+      ],
+      "items": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:52:28.238000Z"
+        },
+        {
+          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9854,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T17:40:59.747000Z",
+      "primary_item": {
+        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+        "title": "基于AMD GPU的vLLM中的推测性解码",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "vllm.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -458,14 +555,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -481,6 +578,84 @@
         "url": "https://www.aibase.com/news/30879",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3e2a3cc93cad",
+      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "primary_url": "https://news.ycombinator.com/item?id=49600233",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T17:43:59.379000Z"
+        },
+        {
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T16:52:53.640000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T17:43:59.379000Z"
+        },
+        {
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T16:52:53.640000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9874,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T16:52:53.640000Z",
+      "latest_at": "2026-09-07T17:43:59.379000Z",
+      "primary_item": {
+        "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
+        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "url": "https://news.ycombinator.com/item?id=49600233",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -518,14 +693,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -544,81 +719,178 @@
       }
     },
     {
-      "story_id": "story_8fb31a39b25a",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://news.ycombinator.com/item?id=49596054",
-      "primary_url": "https://news.ycombinator.com/item?id=49596054",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_9b302088afa1",
+      "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+      "primary_url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T12:52:28.238000Z"
+          "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T11:53:15.765000Z"
         },
         {
-          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
+          "id": "c9e1ee2f8417fbde512248d0e4c5047f2354a140",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络 / The complex corporate web behind a $3.2 billion AI data center",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T11:00:03Z"
+        },
+        {
+          "id": "c2bebc95887af47a0efda711d17a63f5c756aa4f",
+          "title": "The complex corporate web behind a $3.2 billion AI data center",
+          "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-07T09:26:41Z"
+          "published_at": "2026-09-07T11:00:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T11:53:15.765000Z"
+        },
+        {
+          "id": "c9e1ee2f8417fbde512248d0e4c5047f2354a140",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络 / The complex corporate web behind a $3.2 billion AI data center",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T11:00:03Z"
+        },
+        {
+          "id": "c2bebc95887af47a0efda711d17a63f5c756aa4f",
+          "title": "The complex corporate web behind a $3.2 billion AI data center",
+          "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T11:00:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7439,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T11:00:03Z",
+      "latest_at": "2026-09-07T11:53:15.765000Z",
+      "primary_item": {
+        "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
+        "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d8552f3c7c0d",
+      "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+      "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:38.134000Z"
+        },
+        {
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T13:30:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T12:52:28.238000Z"
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:38.134000Z"
         },
         {
-          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-07T09:26:41Z"
+          "published_at": "2026-09-07T13:30:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8316,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T12:52:28.238000Z",
+      "earliest_at": "2026-09-07T13:30:01Z",
+      "latest_at": "2026-09-07T13:59:38.134000Z",
       "primary_item": {
-        "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://news.ycombinator.com/item?id=49596054",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+        "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+        "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -656,14 +928,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -682,81 +954,218 @@
       }
     },
     {
-      "story_id": "story_9b302088afa1",
-      "title": "32亿美元人工智能数据中心背后的复杂企业网络",
-      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-      "primary_url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
+      "story_id": "story_64868ada1cab",
+      "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+      "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "primary_url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "Slashdot (科技资讯)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
-          "title": "32亿美元人工智能数据中心背后的复杂企业网络",
-          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T11:53:15.765000Z"
-        },
-        {
-          "id": "c9e1ee2f8417fbde512248d0e4c5047f2354a140",
-          "title": "32亿美元人工智能数据中心背后的复杂企业网络 / The complex corporate web behind a $3.2 billion AI data center",
-          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-          "source": "Ars Technica (科技媒体)",
+          "id": "c4708b11fbd1b908687948b25898b5958e291f92",
+          "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+          "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Slashdot (科技资讯)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-07T11:00:03Z"
+          "published_at": "2026-09-07T11:34:00Z"
+        },
+        {
+          "id": "ed9a56ad8977d1aa877e5b421f70d78dff01d7e9",
+          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:38:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
+        "Hacker News · 24h最热",
+        "Slashdot (科技资讯)"
       ],
       "items": [
         {
-          "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
-          "title": "32亿美元人工智能数据中心背后的复杂企业网络",
-          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T11:53:15.765000Z"
-        },
-        {
-          "id": "c9e1ee2f8417fbde512248d0e4c5047f2354a140",
-          "title": "32亿美元人工智能数据中心背后的复杂企业网络 / The complex corporate web behind a $3.2 billion AI data center",
-          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-          "source": "Ars Technica (科技媒体)",
+          "id": "c4708b11fbd1b908687948b25898b5958e291f92",
+          "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+          "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Slashdot (科技资讯)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-07T11:00:03Z"
+          "published_at": "2026-09-07T11:34:00Z"
+        },
+        {
+          "id": "ed9a56ad8977d1aa877e5b421f70d78dff01d7e9",
+          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:38:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9593,
+        "recency": 0.7305,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T11:00:03Z",
-      "latest_at": "2026-09-07T11:53:15.765000Z",
+      "earliest_at": "2026-09-07T10:38:32Z",
+      "latest_at": "2026-09-07T11:34:00Z",
       "primary_item": {
-        "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
-        "title": "32亿美元人工智能数据中心背后的复杂企业网络",
-        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
+        "id": "c4708b11fbd1b908687948b25898b5958e291f92",
+        "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+        "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "source": "Slashdot (科技资讯)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_dbc362a61677",
+      "title": "仅售70美元的Xteink X3迷你电子书阅读器让硅谷都自惭形秽 / Tiny $70 Xteink X3 e-reader",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+      "primary_url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f560ec35cb94de60741b3b809bf4bd6117d66123",
+          "title": "仅售70美元的Xteink X3迷你电子书阅读器让硅谷都自惭形秽 / Tiny $70 Xteink X3 e-reader",
+          "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:41:29Z"
+        },
+        {
+          "id": "6e2bb585e3c8fbf5ecc9e8a5001df42cdec9d6b9",
+          "title": "仅售70美元的Xteink X3迷你电子书阅读器让硅谷都自惭形秽 / Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+          "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:41:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "f560ec35cb94de60741b3b809bf4bd6117d66123",
+          "title": "仅售70美元的Xteink X3迷你电子书阅读器让硅谷都自惭形秽 / Tiny $70 Xteink X3 e-reader",
+          "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:41:29Z"
+        },
+        {
+          "id": "6e2bb585e3c8fbf5ecc9e8a5001df42cdec9d6b9",
+          "title": "仅售70美元的Xteink X3迷你电子书阅读器让硅谷都自惭形秽 / Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+          "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:41:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4868,
+      "importance": 0.4868,
+      "importance_score": 0.4868,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.694,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T10:41:29Z",
+      "latest_at": "2026-09-07T10:41:29Z",
+      "primary_item": {
+        "id": "f560ec35cb94de60741b3b809bf4bd6117d66123",
+        "title": "仅售70美元的Xteink X3迷你电子书阅读器让硅谷都自惭形秽 / Tiny $70 Xteink X3 e-reader",
+        "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_052fd9878162",
+      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+      "url": "https://www.aibase.com/news/30882",
+      "primary_url": "https://www.aibase.com/news/30882",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "url": "https://www.aibase.com/news/30882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T12:51:52.608927Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "url": "https://www.aibase.com/news/30882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T12:51:52.608927Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T12:51:52.608927Z",
+      "latest_at": "2026-09-07T12:51:52.608927Z",
+      "primary_item": {
+        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+        "url": "https://www.aibase.com/news/30882",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -813,14 +1222,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9593,
+        "recency": 0.7439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -833,144 +1242,6 @@
         "id": "c421e91305178c9c340d3a38d77ead6be4b4fd48",
         "title": "OpenAI披露了其研究人员在AI编程方面花费了多少",
         "url": "https://www.businessinsider.com/openai-token-spend-ai-coding-researchers-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_052fd9878162",
-      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-      "url": "https://www.aibase.com/news/30882",
-      "primary_url": "https://www.aibase.com/news/30882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T12:51:52.608927Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T12:51:52.608927Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T12:51:52.608927Z",
-      "latest_at": "2026-09-07T12:51:52.608927Z",
-      "primary_item": {
-        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "url": "https://www.aibase.com/news/30882",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_97922468bc38",
-      "title": "10种高薪、快速增长且处于人工智能革命前沿的职业",
-      "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
-      "primary_url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "74fb89ab416c289230cc329de57679d0deb5cfd7",
-          "title": "10种高薪、快速增长且处于人工智能革命前沿的职业",
-          "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T09:46:57.899000Z"
-        },
-        {
-          "id": "a610f7a785e00ad152e94ceac084fa5e05a1b9a3",
-          "title": "10种高薪、快速增长且处于人工智能革命前沿的职业 / 10 high-paying, fast-growing jobs that are at the forefront of the AI revolution",
-          "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T09:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "74fb89ab416c289230cc329de57679d0deb5cfd7",
-          "title": "10种高薪、快速增长且处于人工智能革命前沿的职业",
-          "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T09:46:57.899000Z"
-        },
-        {
-          "id": "a610f7a785e00ad152e94ceac084fa5e05a1b9a3",
-          "title": "10种高薪、快速增长且处于人工智能革命前沿的职业 / 10 high-paying, fast-growing jobs that are at the forefront of the AI revolution",
-          "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T09:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8716,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T09:30:01Z",
-      "latest_at": "2026-09-07T09:46:57.899000Z",
-      "primary_item": {
-        "id": "74fb89ab416c289230cc329de57679d0deb5cfd7",
-        "title": "10种高薪、快速增长且处于人工智能革命前沿的职业",
-        "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1029,14 +1300,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4896,
-      "importance": 0.4896,
-      "importance_score": 0.4896,
+      "score": 0.4465,
+      "importance": 0.4465,
+      "importance_score": 0.4465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7079,
+        "recency": 0.4925,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1126,14 +1397,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7147,
+        "recency": 0.4993,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1148,241 +1419,6 @@
         "url": "https://news.ycombinator.com/item?id=49594008",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cdb7e8ec64f6",
-      "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T05:23:31Z"
-        },
-        {
-          "id": "2c1143d0a66d8fcd167e65bffc7984ca1958baae",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T23:16:50.561000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T05:23:31Z"
-        },
-        {
-          "id": "2c1143d0a66d8fcd167e65bffc7984ca1958baae",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T23:16:50.561000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4857,
-      "importance": 0.4857,
-      "importance_score": 0.4857,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T23:16:50.561000Z",
-      "latest_at": "2026-09-07T05:23:31Z",
-      "primary_item": {
-        "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
-        "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-        "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_92eddaa379a0",
-      "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-      "url": "https://www.aibase.com/news/30881",
-      "primary_url": "https://www.aibase.com/news/30881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "url": "https://www.aibase.com/news/30881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T12:51:52.608927Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "url": "https://www.aibase.com/news/30881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T12:51:52.608927Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T12:51:52.608927Z",
-      "latest_at": "2026-09-07T12:51:52.608927Z",
-      "primary_item": {
-        "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-        "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-        "url": "https://www.aibase.com/news/30881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8f5887a07591",
-      "title": "研究加速：OpenAI内部视角",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        },
-        {
-          "id": "ee7076a74d731ad5b7c092e0fa768fdd4898005e",
-          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "64d5243b62263771a4447effedb8cd9b0d4ddf39",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://news.ycombinator.com/item?id=49587217",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:45:45.254000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Readhub · AI",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        },
-        {
-          "id": "ee7076a74d731ad5b7c092e0fa768fdd4898005e",
-          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "64d5243b62263771a4447effedb8cd9b0d4ddf39",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://news.ycombinator.com/item?id=49587217",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:45:45.254000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4764,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:45:45.254000Z",
-      "latest_at": "2026-09-07T00:17:54.906000Z",
-      "primary_item": {
-        "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-        "title": "研究加速：OpenAI内部视角",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "source": "openai.com",
-        "source_name": "Buzzing"
       }
     }
   ]
