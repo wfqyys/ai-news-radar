@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:00:51.572052Z",
+  "generated_at": "2026-09-14T00:18:28.629630Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.885,
-      "importance": 0.885,
-      "importance_score": 0.885,
+      "score": 0.8824,
+      "importance": 0.8824,
+      "importance_score": 0.8824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.7611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6769,
+        "recency": 0.5814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,6 +181,181 @@
         "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0fa77dcd1de2",
+      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "www.vals.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "ee2717e86991b1edd6110e684301123f15a6713e",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "d075602df41308c78aa5aecf417b18a1894097c7",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T21:06:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "ee2717e86991b1edd6110e684301123f15a6713e",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "d075602df41308c78aa5aecf417b18a1894097c7",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T21:06:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9215,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T21:06:13Z",
+      "latest_at": "2026-09-13T22:25:23.276000Z",
+      "primary_item": {
+        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "source": "www.vals.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1199548a7e08",
+      "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+      "url": "https://www.ithome.com/1/001/894.htm",
+      "primary_url": "https://www.ithome.com/1/001/894.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "658b3ddeb2bbb4b3240305b3c24174f208ddc92d",
+          "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ba195f0ba66449d5c9e764b07e1b1b4a09d13304",
+          "title": "消息称 Anthropic 预计自身有望连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T23:52:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "658b3ddeb2bbb4b3240305b3c24174f208ddc92d",
+          "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ba195f0ba66449d5c9e764b07e1b1b4a09d13304",
+          "title": "消息称 Anthropic 预计自身有望连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T23:52:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:52:33Z",
+      "latest_at": "2026-09-14T00:18:28.629630Z",
+      "primary_item": {
+        "id": "658b3ddeb2bbb4b3240305b3c24174f208ddc92d",
+        "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+        "url": "https://www.ithome.com/1/001/894.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -255,14 +430,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8672,
+        "recency": 0.7716,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -351,14 +526,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8657,
+        "recency": 0.7701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -373,6 +548,162 @@
         "url": "https://www.youtube.com/watch?v=koclOnlde0E",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_58e536e7446d",
+      "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+      "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T21:23:31.600000Z"
+        },
+        {
+          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T20:55:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T21:23:31.600000Z"
+        },
+        {
+          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T20:55:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8785,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T20:55:24Z",
+      "latest_at": "2026-09-13T21:23:31.600000Z",
+      "primary_item": {
+        "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+        "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+        "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9e14568bf55d",
+      "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+      "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890862.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
+          "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2b42b0fb2b676193c0968945c53f88d0ace2dc9b",
+          "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T23:56:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
+          "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2b42b0fb2b676193c0968945c53f88d0ace2dc9b",
+          "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T23:56:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:56:44Z",
+      "latest_at": "2026-09-14T00:18:28.629630Z",
+      "primary_item": {
+        "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
+        "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+        "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -429,14 +760,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8642,
+        "recency": 0.7686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +838,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8642,
+        "recency": 0.7686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -528,84 +859,6 @@
         "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
         "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ee8a008297ce",
-      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8207,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T17:10:40Z",
-      "latest_at": "2026-09-13T17:42:39.759000Z",
-      "primary_item": {
-        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -663,14 +916,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8207,
+        "recency": 0.7251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -684,6 +937,162 @@
         "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
         "source": "techcrunch.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c121eaf78a25",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:49:44Z"
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:49:44Z"
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7717,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T18:49:44Z",
+      "latest_at": "2026-09-13T18:49:44Z",
+      "primary_item": {
+        "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+        "title": "AI recursive self-improvement might not come so quickly after all",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_ee8a008297ce",
+      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:39.759000Z"
+        },
+        {
+          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T17:10:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:39.759000Z"
+        },
+        {
+          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T17:10:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7251,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T17:10:40Z",
+      "latest_at": "2026-09-13T17:42:39.759000Z",
+      "primary_item": {
+        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -760,14 +1169,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.4922,
+      "importance": 0.4922,
+      "importance_score": 0.4922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6913,
+        "recency": 0.5958,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -838,14 +1247,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4733,
-      "importance": 0.4733,
-      "importance_score": 0.4733,
+      "score": 0.4542,
+      "importance": 0.4542,
+      "importance_score": 0.4542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6264,
+        "recency": 0.5308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -916,14 +1325,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4733,
-      "importance": 0.4733,
-      "importance_score": 0.4733,
+      "score": 0.4542,
+      "importance": 0.4542,
+      "importance_score": 0.4542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6264,
+        "recency": 0.5308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -994,14 +1403,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
+      "score": 0.4802,
+      "importance": 0.4802,
+      "importance_score": 0.4802,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7567,
+        "recency": 0.6611,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1016,161 +1425,6 @@
         "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ed60bc70cf72",
-      "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "primary_url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e1f07829ecb5a13dba78aa5e51bb383d1c25d368",
-          "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
-          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:45:08Z"
-        },
-        {
-          "id": "2f9bc8b4bbf141fc0f05a79d6a9fbda8cc825b92",
-          "title": "由汽车收集并出售给第三方的数据 / Your car is selling your data",
-          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:45:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "e1f07829ecb5a13dba78aa5e51bb383d1c25d368",
-          "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
-          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:45:08Z"
-        },
-        {
-          "id": "2f9bc8b4bbf141fc0f05a79d6a9fbda8cc825b92",
-          "title": "由汽车收集并出售给第三方的数据 / Your car is selling your data",
-          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:45:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4791,
-      "importance": 0.4791,
-      "importance_score": 0.4791,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6557,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T13:45:08Z",
-      "latest_at": "2026-09-13T13:45:08Z",
-      "primary_item": {
-        "id": "e1f07829ecb5a13dba78aa5e51bb383d1c25d368",
-        "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
-        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_dc53106d2da7",
-      "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
-      "url": "https://www.huxiu.com/article/4890777.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4890777.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "bf8356f3b4136a20eade6fac0d0990968d1e80a7",
-          "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
-          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "78f9b148fec34482750018c6eb7bcdd6c11c54aa",
-          "title": "上市五年首次中报盈利，商汤生成式AI成色几何",
-          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T07:11:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "bf8356f3b4136a20eade6fac0d0990968d1e80a7",
-          "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
-          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "78f9b148fec34482750018c6eb7bcdd6c11c54aa",
-          "title": "上市五年首次中报盈利，商汤生成式AI成色几何",
-          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T07:11:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4304,
-      "importance": 0.4304,
-      "importance_score": 0.4304,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4121,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T07:11:20Z",
-      "latest_at": "2026-09-13T07:54:13.193290Z",
-      "primary_item": {
-        "id": "bf8356f3b4136a20eade6fac0d0990968d1e80a7",
-        "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
-        "url": "https://www.huxiu.com/article/4890777.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1227,14 +1481,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4253,
-      "importance": 0.4253,
-      "importance_score": 0.4253,
+      "score": 0.4062,
+      "importance": 0.4062,
+      "importance_score": 0.4062,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3864,
+        "recency": 0.2908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1252,333 +1506,80 @@
       }
     },
     {
-      "story_id": "story_29a046c34d36",
-      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "source": "xeiaso.net",
-      "source_name": "Buzzing",
+      "story_id": "story_ed60bc70cf72",
+      "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "primary_url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
+          "id": "e1f07829ecb5a13dba78aa5e51bb383d1c25d368",
+          "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:45:08Z"
         },
         {
-          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:33:37.975000Z"
-        },
-        {
-          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:53:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "xeiaso.net"
-      ],
-      "items": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:33:37.975000Z"
-        },
-        {
-          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:53:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4069,
-      "importance": 0.4069,
-      "importance_score": 0.4069,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1696,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T00:53:30Z",
-      "latest_at": "2026-09-13T02:05:04.827000Z",
-      "primary_item": {
-        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-        "source": "xeiaso.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c5c7e800d9a",
-      "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-      "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:37:37.025000Z"
-        },
-        {
-          "id": "0a4479b9c7d411818847b377dc675e8caf0e192a",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西 / Why AI researchers keep building something they think will kill humans",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:30:02Z"
+          "id": "2f9bc8b4bbf141fc0f05a79d6a9fbda8cc825b92",
+          "title": "由汽车收集并出售给第三方的数据 / Your car is selling your data",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:45:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:37:37.025000Z"
+          "id": "e1f07829ecb5a13dba78aa5e51bb383d1c25d368",
+          "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:45:08Z"
         },
         {
-          "id": "0a4479b9c7d411818847b377dc675e8caf0e192a",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西 / Why AI researchers keep building something they think will kill humans",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:30:02Z"
+          "id": "2f9bc8b4bbf141fc0f05a79d6a9fbda8cc825b92",
+          "title": "由汽车收集并出售给第三方的数据 / Your car is selling your data",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:45:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4448,
-      "importance": 0.4448,
-      "importance_score": 0.4448,
+      "score": 0.46,
+      "importance": 0.46,
+      "importance_score": 0.46,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4839,
+        "recency": 0.5602,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T09:30:02Z",
-      "latest_at": "2026-09-13T09:37:37.025000Z",
+      "earliest_at": "2026-09-13T13:45:08Z",
+      "latest_at": "2026-09-13T13:45:08Z",
       "primary_item": {
-        "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
-        "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-        "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4ee70cea304a",
-      "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-      "primary_url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T01:00:00Z"
-        },
-        {
-          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
-          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-          "source": "NYTimes (纽约时报热榜)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:15:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "NYTimes (纽约时报热榜)",
-        "Slashdot"
-      ],
-      "items": [
-        {
-          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T01:00:00Z"
-        },
-        {
-          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
-          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-          "source": "NYTimes (纽约时报热榜)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:15:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3729,
-      "importance": 0.3729,
-      "importance_score": 0.3729,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1244,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T00:15:54Z",
-      "latest_at": "2026-09-13T01:00:00Z",
-      "primary_item": {
-        "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-        "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-        "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_19828795af35",
-      "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-      "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-      "primary_url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:24:44.970000Z"
-        },
-        {
-          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:04:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:24:44.970000Z"
-        },
-        {
-          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:04:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.443,
-      "importance": 0.443,
-      "importance_score": 0.443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4749,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T09:04:01Z",
-      "latest_at": "2026-09-13T09:24:44.970000Z",
-      "primary_item": {
-        "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
-        "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-        "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "e1f07829ecb5a13dba78aa5e51bb383d1c25d368",
+        "title": "由汽车收集并出售给第三方的数据 / Data collected by cars and sold to third parties",
+        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
