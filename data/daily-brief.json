@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-09-15T17:53:00.862604Z",
+  "generated_at": "2026-09-15T20:45:19.116614Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2f92a8ca47fb",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T17:05:57Z"
+        },
+        {
+          "id": "672279aa0b83aaca80d5544236f153d480447bb0",
+          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T19:53:25.270000Z"
+        },
+        {
+          "id": "d042d39e5041d2deb57549b43593b8db61b0083e",
+          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T17:38:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Google DeepMind",
+        "Hacker News (黑客新闻)",
+        "blog.google"
+      ],
+      "items": [
+        {
+          "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T17:05:57Z"
+        },
+        {
+          "id": "672279aa0b83aaca80d5544236f153d480447bb0",
+          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T19:53:25.270000Z"
+        },
+        {
+          "id": "d042d39e5041d2deb57549b43593b8db61b0083e",
+          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T17:38:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8925,
+      "importance": 0.8925,
+      "importance_score": 0.8925,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8477,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T17:05:57Z",
+      "latest_at": "2026-09-15T19:53:25.270000Z",
+      "primary_item": {
+        "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
+        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e594f69ef387",
+      "title": "GitHub Copilot suggests custom properties definitions",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:07:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:07:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9323,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T19:07:47Z",
+      "latest_at": "2026-09-15T19:07:47Z",
+      "primary_item": {
+        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+        "title": "GitHub Copilot suggests custom properties definitions",
+        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_16a7b27ed0ae",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -38,14 +199,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8694,
-      "importance": 0.8694,
-      "importance_score": 0.8694,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.922,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,82 +226,21 @@
       }
     },
     {
-      "story_id": "story_2f92a8ca47fb",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T17:05:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T17:05:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8665,
-      "importance": 0.8665,
-      "importance_score": 0.8665,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9673,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T17:05:57Z",
-      "latest_at": "2026-09-15T17:05:57Z",
-      "primary_item": {
-        "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
-        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_10a67c97a758",
-      "title": "SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "story_id": "story_12ae08f337ea",
+      "title": "Enforce GitHub Advanced Security configurations",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "Enforce GitHub Advanced Security configurations",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
+          "published_at": "2026-09-15T19:31:58Z"
         }
       ],
       "source_count": 1,
@@ -149,25 +249,25 @@
       ],
       "items": [
         {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "Enforce GitHub Advanced Security configurations",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
+          "published_at": "2026-09-15T19:31:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9544,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -176,12 +276,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
+      "earliest_at": "2026-09-15T19:31:58Z",
+      "latest_at": "2026-09-15T19:31:58Z",
       "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "SHA-1 in HTTPS on GitHub sunset",
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+        "title": "Enforce GitHub Advanced Security configurations",
+        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -221,14 +321,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -281,14 +381,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -341,14 +441,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9673,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -401,14 +501,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9215,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,14 +561,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9086,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -484,6 +584,67 @@
         "url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
         "source": "Pragmatic Engineer（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_10a67c97a758",
+      "title": "SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8347,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T16:47:20Z",
+      "latest_at": "2026-09-15T16:47:20Z",
+      "primary_item": {
+        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+        "title": "SHA-1 in HTTPS on GitHub sunset",
+        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -521,14 +682,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.74,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,14 +742,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,20 +802,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7467,
+        "recency": 0.627,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T11:48:13Z",
       "latest_at": "2026-09-15T11:48:13Z",
@@ -701,20 +861,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7132,
+        "recency": 0.5935,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T11:00:00Z",
       "latest_at": "2026-09-15T11:00:00Z",
@@ -761,14 +920,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -784,124 +943,6 @@
         "url": "https://www.aibase.com/news/31062",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0c3b77ed0b0a",
-      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-      "url": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
-      "primary_url": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "551e5a4f1e4d50aab417f8527b582064def72fda",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "url": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "551e5a4f1e4d50aab417f8527b582064def72fda",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "url": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.633,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T09:04:36Z",
-      "latest_at": "2026-09-15T09:04:36Z",
-      "primary_item": {
-        "id": "551e5a4f1e4d50aab417f8527b582064def72fda",
-        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-        "url": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_36d041a9b41d",
-      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-      "url": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
-      "primary_url": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
-      "source": "公众号：阶跃星辰（Step）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ab3f7807dfebf92bcb612cdf7d0ea4bad05e372",
-          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-          "url": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T07:29:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：阶跃星辰（Step）"
-      ],
-      "items": [
-        {
-          "id": "8ab3f7807dfebf92bcb612cdf7d0ea4bad05e372",
-          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-          "url": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T07:29:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T07:29:56Z",
-      "latest_at": "2026-09-15T07:29:56Z",
-      "primary_item": {
-        "id": "8ab3f7807dfebf92bcb612cdf7d0ea4bad05e372",
-        "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-        "url": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
-        "source": "公众号：阶跃星辰（Step）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -939,14 +980,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,14 +1040,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9167,
+        "recency": 0.797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9167,
+        "recency": 0.797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,14 +1160,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.875,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1145,63 +1186,100 @@
       }
     },
     {
-      "story_id": "story_07a5cd1d1457",
-      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-      "url": "https://www.aibase.com/news/31056",
-      "primary_url": "https://www.aibase.com/news/31056",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_642a1494ec3f",
+      "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "primary_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source": "typesafe.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
-          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-          "url": "https://www.aibase.com/news/31056",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T14:53:00.862604Z"
+          "id": "73d3a5d307d454775019c5d24f9ad634e068f116",
+          "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "typesafe.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T20:09:28.662000Z"
+        },
+        {
+          "id": "edf6b6d7b4382f300d9ce718f929202a1f7bfbb7",
+          "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍 / Introducing System One Models and Jev",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T19:25:03Z"
+        },
+        {
+          "id": "947e952ab2f845c0c869101c4e465749aa352bce",
+          "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍 / Jev: New frontier model 40-400x cheaper and 20-200x faster",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-15T19:25:03Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "typesafe.ai"
       ],
       "items": [
         {
-          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
-          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-          "url": "https://www.aibase.com/news/31056",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T14:53:00.862604Z"
+          "id": "73d3a5d307d454775019c5d24f9ad634e068f116",
+          "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "typesafe.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T20:09:28.662000Z"
+        },
+        {
+          "id": "edf6b6d7b4382f300d9ce718f929202a1f7bfbb7",
+          "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍 / Introducing System One Models and Jev",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T19:25:03Z"
+        },
+        {
+          "id": "947e952ab2f845c0c869101c4e465749aa352bce",
+          "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍 / Jev: New frontier model 40-400x cheaper and 20-200x faster",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-15T19:25:03Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.568,
+      "importance": 0.568,
+      "importance_score": 0.568,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9751,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-15T14:53:00.862604Z",
-      "latest_at": "2026-09-15T14:53:00.862604Z",
+      "earliest_at": "2026-09-15T19:25:03Z",
+      "latest_at": "2026-09-15T20:09:28.662000Z",
       "primary_item": {
-        "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
-        "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-        "url": "https://www.aibase.com/news/31056",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "73d3a5d307d454775019c5d24f9ad634e068f116",
+        "title": "Jev：新前沿型号，价格低40-400倍，速度快20-200倍",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "source": "typesafe.ai",
+        "source_name": "Buzzing"
       }
     }
   ]
