@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-09-19T06:12:04.939301Z",
+  "generated_at": "2026-09-19T11:17:31.007377Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6c54b9f0a086",
+      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+      "url": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
+      "primary_url": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
+      "source": "X：Haider (@haider1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "31a857b886e375ec8af39099142c1af2ac026f70",
+          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+          "url": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T05:50:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Haider (@haider1)"
+      ],
+      "items": [
+        {
+          "id": "31a857b886e375ec8af39099142c1af2ac026f70",
+          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+          "url": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T05:50:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7727,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-19T05:50:11Z",
+      "latest_at": "2026-09-19T05:50:11Z",
+      "primary_item": {
+        "id": "31a857b886e375ec8af39099142c1af2ac026f70",
+        "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+        "url": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
+        "source": "X：Haider (@haider1)",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_cbde4620c702",
       "title": "Copilot code review: An improved review experience",
@@ -38,21 +98,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.587,
+        "recency": 0.3749,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T20:17:22Z",
       "latest_at": "2026-09-18T20:17:22Z",
@@ -118,21 +177,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7465,
+        "recency": 0.5344,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-19T00:07:04Z",
       "latest_at": "2026-09-19T00:07:04Z",
@@ -179,20 +237,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.6465,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-19T02:48:32Z",
       "latest_at": "2026-09-19T02:48:32Z",
@@ -201,66 +258,6 @@
         "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
         "url": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8",
         "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_50649e00db53",
-      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-      "url": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-      "primary_url": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eec1b2ed2c187ef4dc73d9a44fa87d1641321a0c",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "url": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "eec1b2ed2c187ef4dc73d9a44fa87d1641321a0c",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "url": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7332,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T23:47:57Z",
-      "latest_at": "2026-09-18T23:47:57Z",
-      "primary_item": {
-        "id": "eec1b2ed2c187ef4dc73d9a44fa87d1641321a0c",
-        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-        "url": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -299,21 +296,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5481,
+        "recency": 0.336,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T19:21:22Z",
       "latest_at": "2026-09-18T19:21:22Z",
@@ -379,14 +375,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7039,
+      "importance": 0.7039,
+      "importance_score": 0.7039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.2416,
+        "recency": 0.0295,
         "story_heat": 0.25
       },
       "category": "official",
@@ -403,244 +399,6 @@
         "url": "https://openai.com/index/australian-youth-safety-blueprint",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_55f4720a90e1",
-      "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3666,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T15:00:00Z",
-      "latest_at": "2026-09-18T15:00:00Z",
-      "primary_item": {
-        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-        "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_41f8ac82d3ba",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-      "url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-      "primary_url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b67717c6bf6695b956bf37640842130a4ede4007",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "b67717c6bf6695b956bf37640842130a4ede4007",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.59,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T20:21:40Z",
-      "latest_at": "2026-09-18T20:21:40Z",
-      "primary_item": {
-        "id": "b67717c6bf6695b956bf37640842130a4ede4007",
-        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-        "url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85e9945523d0",
-      "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-      "url": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-      "primary_url": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "161958bba695effa437562bffd7a389bcbb15172",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "url": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "161958bba695effa437562bffd7a389bcbb15172",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "url": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5695,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T19:52:12Z",
-      "latest_at": "2026-09-18T19:52:12Z",
-      "primary_item": {
-        "id": "161958bba695effa437562bffd7a389bcbb15172",
-        "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-        "url": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0c170c8deaa1",
-      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-      "url": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
-      "primary_url": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "30bee2723f6713ca66710b3aa7caec911ce1b551",
-          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "url": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:13:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "30bee2723f6713ca66710b3aa7caec911ce1b551",
-          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "url": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:13:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T23:13:06Z",
-      "latest_at": "2026-09-18T23:13:06Z",
-      "primary_item": {
-        "id": "30bee2723f6713ca66710b3aa7caec911ce1b551",
-        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-        "url": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -678,21 +436,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5333,
+        "recency": 0.3212,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T19:00:00Z",
       "latest_at": "2026-09-18T19:00:00Z",
@@ -702,66 +459,6 @@
         "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_027b4fcd598f",
-      "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
-      "url": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082",
-      "primary_url": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb9e0a0566f2e6d020f0472d35af16673ae42c49",
-          "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
-          "url": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:11:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eb9e0a0566f2e6d020f0472d35af16673ae42c49",
-          "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
-          "url": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:11:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T23:11:25Z",
-      "latest_at": "2026-09-18T23:11:25Z",
-      "primary_item": {
-        "id": "eb9e0a0566f2e6d020f0472d35af16673ae42c49",
-        "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
-        "url": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -818,14 +515,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6818,
-      "importance": 0.6818,
-      "importance_score": 0.6818,
+      "score": 0.6394,
+      "importance": 0.6394,
+      "importance_score": 0.6394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2239,
+        "recency": 0.0118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,21 +575,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5498,
+        "recency": 0.3377,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T19:23:49Z",
       "latest_at": "2026-09-18T19:23:49Z",
@@ -958,14 +654,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6818,
-      "importance": 0.6818,
-      "importance_score": 0.6818,
+      "score": 0.6394,
+      "importance": 0.6394,
+      "importance_score": 0.6394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2239,
+        "recency": 0.0118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,14 +771,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.636,
-      "importance": 0.636,
-      "importance_score": 0.636,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7402,
+        "recency": 0.5281,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1100,63 +796,118 @@
       }
     },
     {
-      "story_id": "story_6f7db5bc4bc1",
-      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e396d52dd138",
+      "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "primary_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "www.prinzai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
+          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.529000Z"
+        },
+        {
+          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T08:48:31.301000Z"
+        },
+        {
+          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T08:44:38Z"
+        },
+        {
+          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
+          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://news.ycombinator.com/item?id=49763987",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T06:41:44Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "GitHub Changelog"
+        "Lobsters (技术社区)",
+        "hackernews",
+        "www.prinzai.com"
       ],
       "items": [
         {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
+          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.529000Z"
+        },
+        {
+          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T08:48:31.301000Z"
+        },
+        {
+          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T08:44:38Z"
+        },
+        {
+          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
+          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://news.ycombinator.com/item?id=49763987",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T06:41:44Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5838,
+      "importance": 0.5838,
+      "importance_score": 0.5838,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4345,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9291,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-18T16:37:50Z",
-      "latest_at": "2026-09-18T16:37:50Z",
+      "earliest_at": "2026-09-19T06:41:44Z",
+      "latest_at": "2026-09-19T09:35:29.529000Z",
       "primary_item": {
-        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+        "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "source": "www.prinzai.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1213,14 +964,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6818,
-      "importance": 0.6818,
-      "importance_score": 0.6818,
+      "score": 0.6394,
+      "importance": 0.6394,
+      "importance_score": 0.6394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2239,
+        "recency": 0.0118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,6 +987,219 @@
         "url": "https://www.aibase.com/news/31160",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_643a84217e15",
+      "title": "AI生成的海报未必就难看",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "primary_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "john.hartnup.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+          "title": "AI生成的海报未必就难看",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "john.hartnup.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T10:53:16.305000Z"
+        },
+        {
+          "id": "320cfd86ae8ac1950a32cd25f4013bac09d3e818",
+          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T09:20:58Z"
+        },
+        {
+          "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://news.ycombinator.com/item?id=49764791",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T09:20:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "john.hartnup.uk"
+      ],
+      "items": [
+        {
+          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+          "title": "AI生成的海报未必就难看",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "john.hartnup.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T10:53:16.305000Z"
+        },
+        {
+          "id": "320cfd86ae8ac1950a32cd25f4013bac09d3e818",
+          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T09:20:58Z"
+        },
+        {
+          "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://news.ycombinator.com/item?id=49764791",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T09:20:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T09:20:58Z",
+      "latest_at": "2026-09-19T10:53:16.305000Z",
+      "primary_item": {
+        "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+        "title": "AI生成的海报未必就难看",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "source": "john.hartnup.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_de7b557ecdd2",
+      "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "primary_url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "source": "www.science.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4c338d244cd4c2f6bc33928e8ef2f74dfbf2d691",
+          "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "source": "www.science.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T07:13:16.309000Z"
+        },
+        {
+          "id": "5a76753c5246fd4358a0a5e21f2a952e85b84a1b",
+          "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots are becoming experts at changing people's minds",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T13:39:27Z"
+        },
+        {
+          "id": "f26d529351d5058568269a0fb1c8ed4fd6046695",
+          "title": "人工智能聊天机器人正在成为改变人们想法的专家 / AI chatbots are becoming experts at changing people's minds",
+          "url": "https://news.ycombinator.com/item?id=49754250",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T13:39:27Z"
+        },
+        {
+          "id": "ce6566f22236077cf6fe818f5bff8a63a2019fc2",
+          "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots becoming experts at changing people's minds. What's their secret?",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T13:39:27Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.science.org"
+      ],
+      "items": [
+        {
+          "id": "4c338d244cd4c2f6bc33928e8ef2f74dfbf2d691",
+          "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "source": "www.science.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T07:13:16.309000Z"
+        },
+        {
+          "id": "5a76753c5246fd4358a0a5e21f2a952e85b84a1b",
+          "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots are becoming experts at changing people's minds",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T13:39:27Z"
+        },
+        {
+          "id": "f26d529351d5058568269a0fb1c8ed4fd6046695",
+          "title": "人工智能聊天机器人正在成为改变人们想法的专家 / AI chatbots are becoming experts at changing people's minds",
+          "url": "https://news.ycombinator.com/item?id=49754250",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T13:39:27Z"
+        },
+        {
+          "id": "ce6566f22236077cf6fe818f5bff8a63a2019fc2",
+          "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots becoming experts at changing people's minds. What's their secret?",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T13:39:27Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5641,
+      "importance": 0.5641,
+      "importance_score": 0.5641,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8304,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T13:39:27Z",
+      "latest_at": "2026-09-19T07:13:16.309000Z",
+      "primary_item": {
+        "id": "4c338d244cd4c2f6bc33928e8ef2f74dfbf2d691",
+        "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
+        "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+        "source": "www.science.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1292,14 +1256,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6818,
-      "importance": 0.6818,
-      "importance_score": 0.6818,
+      "score": 0.6394,
+      "importance": 0.6394,
+      "importance_score": 0.6394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2239,
+        "recency": 0.0118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,80 +1282,314 @@
       }
     },
     {
-      "story_id": "story_048f23776205",
-      "title": "语言不可读性对大型语言模型（LLM）安全性的影响",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "primary_url": "https://arxiv.org/abs/2609.02852",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_37bc23116d40",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "url": "https://www.qbitai.com/2026/09/492429.html",
+      "primary_url": "https://www.qbitai.com/2026/09/492429.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "14e7c52f78adee39ced5c42b724f3eaef4979f4c",
-          "title": "语言不可读性对大型语言模型（LLM）安全性的影响",
-          "url": "https://arxiv.org/abs/2609.02852",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T05:39:29.524000Z"
+          "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
+          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+          "url": "https://www.qbitai.com/2026/09/492429.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "78c41898d474cab7f40f133ce5da01b8cc007302",
-          "title": "语言不可读性对大型语言模型（LLM）安全性的影响 / The Implications of Linguistic Illegibility for LLM Security",
-          "url": "https://arxiv.org/abs/2609.02852",
-          "source": "Lobsters (技术社区)",
+          "id": "1c7803b3c13dc3507007b17a84584a320ada79bd",
+          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+          "url": "https://www.huxiu.com/article/4892463.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-19T05:34:15Z"
+          "published_at": "2026-09-19T06:43:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "arxiv.org"
+        "虎嗅 (Huxiu)",
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "14e7c52f78adee39ced5c42b724f3eaef4979f4c",
-          "title": "语言不可读性对大型语言模型（LLM）安全性的影响",
-          "url": "https://arxiv.org/abs/2609.02852",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T05:39:29.524000Z"
+          "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
+          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+          "url": "https://www.qbitai.com/2026/09/492429.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "78c41898d474cab7f40f133ce5da01b8cc007302",
-          "title": "语言不可读性对大型语言模型（LLM）安全性的影响 / The Implications of Linguistic Illegibility for LLM Security",
-          "url": "https://arxiv.org/abs/2609.02852",
-          "source": "Lobsters (技术社区)",
+          "id": "1c7803b3c13dc3507007b17a84584a320ada79bd",
+          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+          "url": "https://www.huxiu.com/article/4892463.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-19T05:34:15Z"
+          "published_at": "2026-09-19T06:43:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9774,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T05:34:15Z",
-      "latest_at": "2026-09-19T05:39:29.524000Z",
+      "earliest_at": "2026-09-19T06:43:23Z",
+      "latest_at": "2026-09-19T11:17:31.007377Z",
       "primary_item": {
-        "id": "14e7c52f78adee39ced5c42b724f3eaef4979f4c",
-        "title": "语言不可读性对大型语言模型（LLM）安全性的影响",
-        "url": "https://arxiv.org/abs/2609.02852",
-        "source": "arxiv.org",
+        "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
+        "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+        "url": "https://www.qbitai.com/2026/09/492429.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c9712c9fea8e",
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "primary_url": "https://github.com/higgsfield-ai/higgsfield",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "556d8b142fc69cee031f2ccfd54858238fe3e1f3",
+          "title": "higgsfield-ai / higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "39b22d35ffc3a2f3361ed68428053efcfcb556f8",
+          "title": "higgsfield-ai /      higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T10:53:00.917000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "556d8b142fc69cee031f2ccfd54858238fe3e1f3",
+          "title": "higgsfield-ai / higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "39b22d35ffc3a2f3361ed68428053efcfcb556f8",
+          "title": "higgsfield-ai /      higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T10:53:00.917000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T10:53:00.917000Z",
+      "latest_at": "2026-09-19T11:17:31.007377Z",
+      "primary_item": {
+        "id": "556d8b142fc69cee031f2ccfd54858238fe3e1f3",
+        "title": "higgsfield-ai / higgsfield",
+        "url": "https://github.com/higgsfield-ai/higgsfield",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_64adcb8eecb3",
+      "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "primary_url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c93e067370ac9a9253c255989bb3faa2fccc12c3",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T09:52:30Z"
+        },
+        {
+          "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T06:27:05.170000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "c93e067370ac9a9253c255989bb3faa2fccc12c3",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T09:52:30Z"
+        },
+        {
+          "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T06:27:05.170000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.66,
+        "recency": 0.941,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T06:27:05.170000Z",
+      "latest_at": "2026-09-19T09:52:30Z",
+      "primary_item": {
+        "id": "c93e067370ac9a9253c255989bb3faa2fccc12c3",
+        "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_6ebb9a336e25",
+      "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+      "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+      "primary_url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.557000Z"
+        },
+        {
+          "id": "ceaaf4a81029a0b299f8d8fcdc3574e2baf6b978",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题 / Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T09:22:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.557000Z"
+        },
+        {
+          "id": "ceaaf4a81029a0b299f8d8fcdc3574e2baf6b978",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题 / Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T09:22:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9291,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T09:22:01Z",
+      "latest_at": "2026-09-19T09:35:29.557000Z",
+      "primary_item": {
+        "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
+        "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+        "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
