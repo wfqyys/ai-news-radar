@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:54:04.585251Z",
+  "generated_at": "2026-09-19T22:02:19.311754Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6721,
-      "importance": 0.6721,
-      "importance_score": 0.6721,
+      "score": 0.6543,
+      "importance": 0.6543,
+      "importance_score": 0.6543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1757,
+        "recency": 0.0866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -80,6 +80,296 @@
         "url": "https://aihot.news/items/cmu7nb3bm0jugrogroyv3fm5h",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_35721eb82dbc",
+      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "source": "erichgrunewald.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "b6781008e3dc6a91dae0ba36f28d0ad48d27ee8f",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
+          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "erichgrunewald.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "b6781008e3dc6a91dae0ba36f28d0ad48d27ee8f",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
+          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6065,
+      "importance": 0.6065,
+      "importance_score": 0.6065,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9175,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T16:35:24Z",
+      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "primary_item": {
+        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "source": "erichgrunewald.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_95d2a0c94c5e",
+      "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T21:53:28.879000Z"
+        },
+        {
+          "id": "266d9bcc6a57dc33f7d720a5a09293e3005b6364",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇 / Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T21:01:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T21:53:28.879000Z"
+        },
+        {
+          "id": "266d9bcc6a57dc33f7d720a5a09293e3005b6364",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇 / Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T21:01:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5468,
+      "importance": 0.5468,
+      "importance_score": 0.5468,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9939,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T21:01:56Z",
+      "latest_at": "2026-09-19T21:53:28.879000Z",
+      "primary_item": {
+        "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
+        "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_463a0b9aa5fb",
+      "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
+      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+      "primary_url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53306148fad96c787350bde3be395b68157eb325",
+          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T19:17:30.608000Z"
+        },
+        {
+          "id": "98e83d041767650dfe10435cae0895570c83fa9e",
+          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能 / Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:52:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "53306148fad96c787350bde3be395b68157eb325",
+          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T19:17:30.608000Z"
+        },
+        {
+          "id": "98e83d041767650dfe10435cae0895570c83fa9e",
+          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能 / Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:52:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8855,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T18:52:13Z",
+      "latest_at": "2026-09-19T19:17:30.608000Z",
+      "primary_item": {
+        "id": "53306148fad96c787350bde3be395b68157eb325",
+        "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
+        "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -135,14 +425,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9525,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -157,6 +447,84 @@
         "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc8b1f74b838",
+      "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://news.ycombinator.com/item?id=49768921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://news.ycombinator.com/item?id=49768921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8467,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T18:21:30Z",
+      "latest_at": "2026-09-19T18:21:30Z",
+      "primary_item": {
+        "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+        "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -187,7 +555,7 @@
         },
         {
           "id": "a9605f48985cce7effa736572178da8f2f62251e",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title": "据《华尔街日报》报道，Gemini 首次黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
           "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known",
           "source": "Reddit (热门)",
           "source_name": "Info Flow",
@@ -232,7 +600,7 @@
         },
         {
           "id": "a9605f48985cce7effa736572178da8f2f62251e",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title": "据《华尔街日报》报道，Gemini 首次黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
           "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known",
           "source": "Reddit (热门)",
           "source_name": "Info Flow",
@@ -251,14 +619,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.1694,
+        "recency": 0.0803,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -273,84 +641,6 @@
         "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_35721eb82dbc",
-      "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.862,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T16:35:24Z",
-      "latest_at": "2026-09-19T16:35:24Z",
-      "primary_item": {
-        "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-        "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -407,14 +697,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.4967,
+      "importance": 0.4967,
+      "importance_score": 0.4967,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8323,
+        "recency": 0.7433,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -522,14 +812,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5704,
+        "recency": 0.4814,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -619,14 +909,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.4801,
+      "importance": 0.4801,
+      "importance_score": 0.4801,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6244,
+        "recency": 0.5354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -696,14 +986,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4808,
-      "importance": 0.4808,
-      "importance_score": 0.4808,
+      "score": 0.463,
+      "importance": 0.463,
+      "importance_score": 0.463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6641,
+        "recency": 0.575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -774,14 +1064,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
+      "score": 0.4584,
+      "importance": 0.4584,
+      "importance_score": 0.4584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6413,
+        "recency": 0.5522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -852,14 +1142,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
+      "score": 0.4584,
+      "importance": 0.4584,
+      "importance_score": 0.4584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6413,
+        "recency": 0.5522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -929,14 +1219,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.472,
-      "importance": 0.472,
-      "importance_score": 0.472,
+      "score": 0.4542,
+      "importance": 0.4542,
+      "importance_score": 0.4542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6201,
+        "recency": 0.531,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1007,14 +1297,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4674,
-      "importance": 0.4674,
-      "importance_score": 0.4674,
+      "score": 0.4496,
+      "importance": 0.4496,
+      "importance_score": 0.4496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.5822,
+        "recency": 0.4932,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1029,84 +1319,6 @@
         "url": "https://spectrum.ieee.org/llms-for-chip-design",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_6ebb9a336e25",
-      "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
-      "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-      "primary_url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
-          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
-          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T09:35:29.557000Z"
-        },
-        {
-          "id": "ceaaf4a81029a0b299f8d8fcdc3574e2baf6b978",
-          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题 / Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps",
-          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T09:22:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
-          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
-          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T09:35:29.557000Z"
-        },
-        {
-          "id": "ceaaf4a81029a0b299f8d8fcdc3574e2baf6b978",
-          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题 / Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps",
-          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T09:22:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4621,
-      "importance": 0.4621,
-      "importance_score": 0.4621,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5704,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T09:22:01Z",
-      "latest_at": "2026-09-19T09:35:29.557000Z",
-      "primary_item": {
-        "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
-        "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
-        "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1182,14 +1394,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4609,
-      "importance": 0.4609,
-      "importance_score": 0.4609,
+      "score": 0.4431,
+      "importance": 0.4431,
+      "importance_score": 0.4431,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4396,
+        "recency": 0.3505,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1260,14 +1472,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
+      "score": 0.4584,
+      "importance": 0.4584,
+      "importance_score": 0.4584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6413,
+        "recency": 0.5522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1338,14 +1550,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4423,
-      "importance": 0.4423,
-      "importance_score": 0.4423,
+      "score": 0.4245,
+      "importance": 0.4245,
+      "importance_score": 0.4245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4717,
+        "recency": 0.3826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1359,6 +1571,84 @@
         "title": "为什么HN上关于人工智能的帖子能获得这么多积分？",
         "url": "https://news.ycombinator.com/item?id=49764057",
         "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6ebb9a336e25",
+      "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+      "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+      "primary_url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.557000Z"
+        },
+        {
+          "id": "ceaaf4a81029a0b299f8d8fcdc3574e2baf6b978",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题 / Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T09:22:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.557000Z"
+        },
+        {
+          "id": "ceaaf4a81029a0b299f8d8fcdc3574e2baf6b978",
+          "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题 / Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps",
+          "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T09:22:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4443,
+      "importance": 0.4443,
+      "importance_score": 0.4443,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4814,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T09:22:01Z",
+      "latest_at": "2026-09-19T09:35:29.557000Z",
+      "primary_item": {
+        "id": "aee5428de9d1fc6ec06a34d3e4949a3749316740",
+        "title": "Meta的Muse AI助手功能非常强大——但还不足以解决我孩子们那些烦人的学校应用程序带来的问题",
+        "url": "https://www.businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1416,14 +1706,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4293,
-      "importance": 0.4293,
-      "importance_score": 0.4293,
+      "score": 0.4115,
+      "importance": 0.4115,
+      "importance_score": 0.4115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4065,
+        "recency": 0.3175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,259 +1728,6 @@
         "url": "https://arxiv.org/abs/2609.02852",
         "source": "arxiv.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_371dbe4be68c",
-      "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T06:09:23Z"
-        },
-        {
-          "id": "04365d101e4dedcb90aa24e8be378ba01f1113fd",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T04:35:37.974000Z"
-        },
-        {
-          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:27:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T06:09:23Z"
-        },
-        {
-          "id": "04365d101e4dedcb90aa24e8be378ba01f1113fd",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T04:35:37.974000Z"
-        },
-        {
-          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:27:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4585,
-      "importance": 0.4585,
-      "importance_score": 0.4585,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4273,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T04:27:11Z",
-      "latest_at": "2026-09-19T06:09:23Z",
-      "primary_item": {
-        "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-        "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a2175cfdcf4c",
-      "title": "Anthropic、OpenAI、SpaceXAI 和谷歌因呼吁“放缓”人工智能发展而遭到起诉 - Politico",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "51f3a5dc01474303d311aae90ba19a8acfe432ef",
-          "title": "Anthropic、OpenAI、SpaceXAI 和谷歌因呼吁“放缓”人工智能发展而遭到起诉 - Politico",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T02:13:22.021000Z"
-        },
-        {
-          "id": "87e21209a0deb475cac732901955f28416c036d3",
-          "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉",
-          "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T01:09:39.071000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.politico.com"
-      ],
-      "items": [
-        {
-          "id": "51f3a5dc01474303d311aae90ba19a8acfe432ef",
-          "title": "Anthropic、OpenAI、SpaceXAI 和谷歌因呼吁“放缓”人工智能发展而遭到起诉 - Politico",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T02:13:22.021000Z"
-        },
-        {
-          "id": "87e21209a0deb475cac732901955f28416c036d3",
-          "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉",
-          "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T01:09:39.071000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4007,
-      "importance": 0.4007,
-      "importance_score": 0.4007,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2634,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T01:09:39.071000Z",
-      "latest_at": "2026-09-19T02:13:22.021000Z",
-      "primary_item": {
-        "id": "51f3a5dc01474303d311aae90ba19a8acfe432ef",
-        "title": "Anthropic、OpenAI、SpaceXAI 和谷歌因呼吁“放缓”人工智能发展而遭到起诉 - Politico",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_87c74f1ab470",
-      "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-      "primary_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "f6b4fb0cd3c32a061a19a6a3ecc014191ee6c31c",
-          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:44:35Z"
-        },
-        {
-          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
-          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "url": "https://news.ycombinator.com/item?id=49763379",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T04:44:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f6b4fb0cd3c32a061a19a6a3ecc014191ee6c31c",
-          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:44:35Z"
-        },
-        {
-          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
-          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "url": "https://news.ycombinator.com/item?id=49763379",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T04:44:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4217,
-      "importance": 0.4217,
-      "importance_score": 0.4217,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3684,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T04:44:35Z",
-      "latest_at": "2026-09-19T04:44:35Z",
-      "primary_item": {
-        "id": "f6b4fb0cd3c32a061a19a6a3ecc014191ee6c31c",
-        "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     }
   ]
