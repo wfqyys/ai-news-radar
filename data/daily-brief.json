@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:55:22.761067Z",
+  "generated_at": "2026-09-21T16:44:32.279284Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,66 @@
         "url": "https://www.aibase.com/news/31241",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_172f86878f07",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+      "primary_url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "533fd8cc250a63e6473da9ed78c309845448b923",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "533fd8cc250a63e6473da9ed78c309845448b923",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7975,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T11:52:52Z",
+      "latest_at": "2026-09-21T11:52:52Z",
+      "primary_item": {
+        "id": "533fd8cc250a63e6473da9ed78c309845448b923",
+        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -137,14 +197,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -161,6 +221,66 @@
         "url": "https://www.aibase.com/news/31234",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_eb792e0fc342",
+      "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "primary_url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.3024,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T00:00:00Z",
+      "latest_at": "2026-09-21T00:00:00Z",
+      "primary_item": {
+        "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+        "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+        "url": "https://huggingface.co/blog/tokenizers-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -198,20 +318,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.6319,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T07:54:32Z",
       "latest_at": "2026-09-21T07:54:32Z",
@@ -277,14 +396,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -357,14 +476,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,124 +500,6 @@
         "url": "https://www.aibase.com/news/31239",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a43f8f4913d6",
-      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-      "url": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
-      "primary_url": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "463b17f1c4c452b68fb2fbc4213dfb3d7fa4f7e0",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "463b17f1c4c452b68fb2fbc4213dfb3d7fa4f7e0",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6634,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T02:50:40Z",
-      "latest_at": "2026-09-21T02:50:40Z",
-      "primary_item": {
-        "id": "463b17f1c4c452b68fb2fbc4213dfb3d7fa4f7e0",
-        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-        "url": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_537dfb9a91af",
-      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-      "url": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
-      "primary_url": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d014132ce5babca5e11b24ebbccb3165705421a9",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d014132ce5babca5e11b24ebbccb3165705421a9",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6233,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T01:52:57Z",
-      "primary_item": {
-        "id": "d014132ce5babca5e11b24ebbccb3165705421a9",
-        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "url": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -555,14 +556,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -635,14 +636,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -696,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,14 +757,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -779,6 +780,259 @@
         "url": "https://www.aibase.com/news/31232",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9b780e5528de",
+      "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "primary_url": "https://github.com/akitaonrails/ai-memory",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T16:45:08.084000Z"
+        },
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T16:45:08.084000Z"
+        },
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-21T10:55:22.761067Z",
+      "latest_at": "2026-09-21T16:45:08.084000Z",
+      "primary_item": {
+        "id": "e093aec71608c94ab78108d3149519fad3663164",
+        "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b3a6ebf575f9",
+      "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "primary_url": "https://github.com/aru-labs/lossless-memory",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "683ed6d436b0115c0accf30bd49d890d5b12325c",
+          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
+          "url": "https://github.com/aru-labs/lossless-memory",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T12:35:14.494000Z"
+        },
+        {
+          "id": "86bcaffcfc1be96acfa3da1339ade67c4f1ab9b4",
+          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
+          "url": "https://github.com/aru-labs/lossless-memory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T12:28:17Z"
+        },
+        {
+          "id": "cc71221b224965dc74790655bba58405044334c3",
+          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
+          "url": "https://news.ycombinator.com/item?id=49786419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T12:28:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "683ed6d436b0115c0accf30bd49d890d5b12325c",
+          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
+          "url": "https://github.com/aru-labs/lossless-memory",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T12:35:14.494000Z"
+        },
+        {
+          "id": "86bcaffcfc1be96acfa3da1339ade67c4f1ab9b4",
+          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
+          "url": "https://github.com/aru-labs/lossless-memory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T12:28:17Z"
+        },
+        {
+          "id": "cc71221b224965dc74790655bba58405044334c3",
+          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
+          "url": "https://news.ycombinator.com/item?id=49786419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T12:28:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8269,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-21T12:28:17Z",
+      "latest_at": "2026-09-21T12:35:14.494000Z",
+      "primary_item": {
+        "id": "683ed6d436b0115c0accf30bd49d890d5b12325c",
+        "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
+        "url": "https://github.com/aru-labs/lossless-memory",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a3a755f8b4e0",
+      "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "primary_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "a09caca5d658cbf395001feaef9af6d3daa5cd36",
+          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T14:10:49Z"
+        },
+        {
+          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
+          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://news.ycombinator.com/item?id=49787535",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T14:10:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a09caca5d658cbf395001feaef9af6d3daa5cd36",
+          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T14:10:49Z"
+        },
+        {
+          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
+          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://news.ycombinator.com/item?id=49787535",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T14:10:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-21T14:10:49Z",
+      "latest_at": "2026-09-21T14:10:49Z",
+      "primary_item": {
+        "id": "a09caca5d658cbf395001feaef9af6d3daa5cd36",
+        "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
+        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -816,14 +1070,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -839,6 +1093,84 @@
         "url": "https://www.aibase.com/news/31237",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8e872ab8b37e",
+      "title": "Heretic 解除了对语言模型的限制",
+      "url": "https://heretic-project.org",
+      "primary_url": "https://heretic-project.org",
+      "source": "heretic-project.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4cbdb8be1b3ede2af285ac66c397445bf53fd76f",
+          "title": "Heretic 解除了对语言模型的限制",
+          "url": "https://heretic-project.org",
+          "source": "heretic-project.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T13:33:06.694000Z"
+        },
+        {
+          "id": "f9c48bcc51b6c1b1b33bf17c3069fbe779f4ec58",
+          "title": "Heretic 解除了对语言模型的限制 / Heretic removes restrictions from language models",
+          "url": "https://heretic-project.org",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T04:35:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "heretic-project.org"
+      ],
+      "items": [
+        {
+          "id": "4cbdb8be1b3ede2af285ac66c397445bf53fd76f",
+          "title": "Heretic 解除了对语言模型的限制",
+          "url": "https://heretic-project.org",
+          "source": "heretic-project.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T13:33:06.694000Z"
+        },
+        {
+          "id": "f9c48bcc51b6c1b1b33bf17c3069fbe779f4ec58",
+          "title": "Heretic 解除了对语言模型的限制 / Heretic removes restrictions from language models",
+          "url": "https://heretic-project.org",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T04:35:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8671,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-21T04:35:22Z",
+      "latest_at": "2026-09-21T13:33:06.694000Z",
+      "primary_item": {
+        "id": "4cbdb8be1b3ede2af285ac66c397445bf53fd76f",
+        "title": "Heretic 解除了对语言模型的限制",
+        "url": "https://heretic-project.org",
+        "source": "heretic-project.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -859,17 +1191,8 @@
           "published_at": "2026-09-21T06:27:15.988000Z"
         },
         {
-          "id": "ed4f79625fa4c98617d735472f48a3a2f1981835",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
           "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -877,12 +1200,21 @@
           "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
+          "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
           "url": "https://news.ycombinator.com/item?id=49779329",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "ed4f79625fa4c98617d735472f48a3a2f1981835",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T19:44:40Z"
         }
       ],
@@ -904,17 +1236,8 @@
           "published_at": "2026-09-21T06:27:15.988000Z"
         },
         {
-          "id": "ed4f79625fa4c98617d735472f48a3a2f1981835",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
           "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -922,25 +1245,34 @@
           "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
+          "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
           "url": "https://news.ycombinator.com/item?id=49779329",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "ed4f79625fa4c98617d735472f48a3a2f1981835",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T19:44:40Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8138,
+        "recency": 0.5713,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -954,6 +1286,84 @@
         "title": "为什么MCP一直都是个糟糕的主意？",
         "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
         "source": "maharship.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c0f3cd11c614",
+      "title": "在 Gemini:// 上创建博客：",
+      "url": "https://brennan.day/creating-a-blog-in-gemini",
+      "primary_url": "https://brennan.day/creating-a-blog-in-gemini",
+      "source": "brennan.day",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c4bab7ca35ed800d4440c5f136e39f7f1ab17e10",
+          "title": "在 Gemini:// 上创建博客：",
+          "url": "https://brennan.day/creating-a-blog-in-gemini",
+          "source": "brennan.day",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T11:42:37.150000Z"
+        },
+        {
+          "id": "cff95df9c0ced271e0955105a466f8c98b45c8fe",
+          "title": "在 Gemini:// 上创建博客： / Creating a Blog in Gemini://",
+          "url": "https://brennan.day/creating-a-blog-in-gemini",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T11:24:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "brennan.day"
+      ],
+      "items": [
+        {
+          "id": "c4bab7ca35ed800d4440c5f136e39f7f1ab17e10",
+          "title": "在 Gemini:// 上创建博客：",
+          "url": "https://brennan.day/creating-a-blog-in-gemini",
+          "source": "brennan.day",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T11:42:37.150000Z"
+        },
+        {
+          "id": "cff95df9c0ced271e0955105a466f8c98b45c8fe",
+          "title": "在 Gemini:// 上创建博客： / Creating a Blog in Gemini://",
+          "url": "https://brennan.day/creating-a-blog-in-gemini",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T11:24:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7903,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-21T11:24:46Z",
+      "latest_at": "2026-09-21T11:42:37.150000Z",
+      "primary_item": {
+        "id": "c4bab7ca35ed800d4440c5f136e39f7f1ab17e10",
+        "title": "在 Gemini:// 上创建博客：",
+        "url": "https://brennan.day/creating-a-blog-in-gemini",
+        "source": "brennan.day",
         "source_name": "Buzzing"
       }
     },
@@ -1010,14 +1420,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,417 +1445,81 @@
       }
     },
     {
-      "story_id": "story_e205f1c31513",
-      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-      "url": "https://www.aibase.com/news/31228",
-      "primary_url": "https://www.aibase.com/news/31228",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8b83fa6813fc",
+      "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+      "primary_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "url": "https://www.aibase.com/news/31228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:55:22.761067Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "url": "https://www.aibase.com/news/31228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:55:22.761067Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T10:55:22.761067Z",
-      "latest_at": "2026-09-21T10:55:22.761067Z",
-      "primary_item": {
-        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "url": "https://www.aibase.com/news/31228",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7dd64f1ea493",
-      "title": "作为一名首席执行官，我已经拒绝了大量由人工智能生成的申请。虽然人工智能撰写的申请材料并不一定意味着会被直接淘汰，但还是有底线的。",
-      "url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-      "primary_url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "824fcdb9414ce37261d21da0327ab24e6c168929",
-          "title": "作为一名首席执行官，我已经拒绝了大量由人工智能生成的申请。虽然人工智能撰写的申请材料并不一定意味着会被直接淘汰，但还是有底线的。",
-          "url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T10:07:28.075000Z"
+          "id": "c5ba824dfb6198d02fc70da0a0052bcf90f62660",
+          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T13:53:27Z"
         },
         {
-          "id": "77b1fb7ceada9a17ac8d3046a4d0ed6830722051",
-          "title": "作为一名首席执行官，我已经拒绝了大量由人工智能生成的申请。虽然人工智能撰写的申请材料并不一定意味着会被直接淘汰，但还是有底线的。 / I'm a CEO who's rejected tons of AI applications. AI writing isn't an automatic disqualifier, but there's a line.",
-          "url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T09:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "824fcdb9414ce37261d21da0327ab24e6c168929",
-          "title": "作为一名首席执行官，我已经拒绝了大量由人工智能生成的申请。虽然人工智能撰写的申请材料并不一定意味着会被直接淘汰，但还是有底线的。",
-          "url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T10:07:28.075000Z"
-        },
-        {
-          "id": "77b1fb7ceada9a17ac8d3046a4d0ed6830722051",
-          "title": "作为一名首席执行官，我已经拒绝了大量由人工智能生成的申请。虽然人工智能撰写的申请材料并不一定意味着会被直接淘汰，但还是有底线的。 / I'm a CEO who's rejected tons of AI applications. AI writing isn't an automatic disqualifier, but there's a line.",
-          "url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T09:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9667,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T09:30:01Z",
-      "latest_at": "2026-09-21T10:07:28.075000Z",
-      "primary_item": {
-        "id": "824fcdb9414ce37261d21da0327ab24e6c168929",
-        "title": "作为一名首席执行官，我已经拒绝了大量由人工智能生成的申请。虽然人工智能撰写的申请材料并不一定意味着会被直接淘汰，但还是有底线的。",
-        "url": "https://www.businessinsider.com/how-to-tell-job-application-written-by-ai-according-ceo-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d038b146ea0d",
-      "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d637be9d9fa281f4fcba6eb33ee21b3ae00bb699",
-          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T07:30:16.035000Z"
-        },
-        {
-          "id": "4a0f2f06980e2b6f584865c2f269ee5696287b9b",
-          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划 / US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T05:50:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "d637be9d9fa281f4fcba6eb33ee21b3ae00bb699",
-          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T07:30:16.035000Z"
-        },
-        {
-          "id": "4a0f2f06980e2b6f584865c2f269ee5696287b9b",
-          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划 / US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T05:50:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8576,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T05:50:56Z",
-      "latest_at": "2026-09-21T07:30:16.035000Z",
-      "primary_item": {
-        "id": "d637be9d9fa281f4fcba6eb33ee21b3ae00bb699",
-        "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_37edb2eae2ca",
-      "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-      "url": "https://www.aibase.com/news/31229",
-      "primary_url": "https://www.aibase.com/news/31229",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "url": "https://www.aibase.com/news/31229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:55:22.761067Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "url": "https://www.aibase.com/news/31229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:55:22.761067Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T10:55:22.761067Z",
-      "latest_at": "2026-09-21T10:55:22.761067Z",
-      "primary_item": {
-        "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-        "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-        "url": "https://www.aibase.com/news/31229",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f9bfaf173e6c",
-      "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "primary_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "d3a7974573042d9e992828e30f173128e1e9c059",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T04:28:44Z"
-        },
-        {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "url": "https://news.ycombinator.com/item?id=49783062",
+          "id": "562b9b076d66935c4baae1a8537f638e033f294f",
+          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "url": "https://news.ycombinator.com/item?id=49787313",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
+          "published_at": "2026-09-21T13:53:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "d3a7974573042d9e992828e30f173128e1e9c059",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T04:28:44Z"
+          "id": "c5ba824dfb6198d02fc70da0a0052bcf90f62660",
+          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T13:53:27Z"
         },
         {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "url": "https://news.ycombinator.com/item?id=49783062",
+          "id": "562b9b076d66935c4baae1a8537f638e033f294f",
+          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "url": "https://news.ycombinator.com/item?id=49787313",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
+          "published_at": "2026-09-21T13:53:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4943,
-      "importance": 0.4943,
-      "importance_score": 0.4943,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7315,
+        "recency": 0.8812,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-21T04:28:44Z",
-      "latest_at": "2026-09-21T04:28:44Z",
+      "earliest_at": "2026-09-21T13:53:27Z",
+      "latest_at": "2026-09-21T13:53:27Z",
       "primary_item": {
-        "id": "d3a7974573042d9e992828e30f173128e1e9c059",
-        "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_fe9b8db9865d",
-      "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-      "url": "https://www.aibase.com/news/31236",
-      "primary_url": "https://www.aibase.com/news/31236",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "url": "https://www.aibase.com/news/31236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:55:22.761067Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "url": "https://www.aibase.com/news/31236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:55:22.761067Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T10:55:22.761067Z",
-      "latest_at": "2026-09-21T10:55:22.761067Z",
-      "primary_item": {
-        "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-        "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-        "url": "https://www.aibase.com/news/31236",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "c5ba824dfb6198d02fc70da0a0052bcf90f62660",
+        "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+        "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
