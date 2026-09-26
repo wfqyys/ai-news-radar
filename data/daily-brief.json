@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:54:56.551326Z",
+  "generated_at": "2026-09-26T21:44:22.940205Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.922,
+        "recency": 0.8043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -124,122 +124,313 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.157.1 / Codex CLI 0.157.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-          "title": "法典 CLI 0.157.1 / Codex CLI 0.157.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-26T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-          "title": "法典 CLI 0.157.1 / Codex CLI 0.157.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-26T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.2118,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T00:00:00Z",
-      "latest_at": "2026-09-26T00:00:00Z",
-      "primary_item": {
-        "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-        "title": "法典 CLI 0.157.1 / Codex CLI 0.157.1",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d765941b35da",
-      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-      "url": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
-      "primary_url": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_3c2099f4a314",
+      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+      "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
+      "primary_url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9442a572f1342744ee044d063e4b3a882422ba7c",
-          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-          "url": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+          "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T09:06:36Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Hacker News：AI 热帖"
       ],
       "items": [
         {
-          "id": "9442a572f1342744ee044d063e4b3a882422ba7c",
-          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-          "url": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+          "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T09:06:36Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5914,
+        "recency": 0.6802,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-26T09:06:36Z",
-      "latest_at": "2026-09-26T09:06:36Z",
+      "earliest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-26T14:03:54Z",
       "primary_item": {
-        "id": "9442a572f1342744ee044d063e4b3a882422ba7c",
-        "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-        "url": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
+        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+        "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_53c6959c1870",
+      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "discourse.haskell.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "d6933e824d8eb6bb8932fafc73e7fdb92dfa1633",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:44:26.283000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "discourse.haskell.org"
+      ],
+      "items": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "d6933e824d8eb6bb8932fafc73e7fdb92dfa1633",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:44:26.283000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9428,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T23:44:26.283000Z",
+      "latest_at": "2026-09-26T20:22:03.489000Z",
+      "primary_item": {
+        "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+        "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "discourse.haskell.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d1c9c2119b74",
+      "title": "人工智能代理将人类排除在决策循环之外",
+      "url": "https://arxiv.org/abs/2608.23642",
+      "primary_url": "https://arxiv.org/abs/2608.23642",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "104ac66a9ec2dfa132aa394419796937917021de",
+          "title": "人工智能代理将人类排除在决策循环之外",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:04.648000Z"
+        },
+        {
+          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
+          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T19:21:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "104ac66a9ec2dfa132aa394419796937917021de",
+          "title": "人工智能代理将人类排除在决策循环之外",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:04.648000Z"
+        },
+        {
+          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
+          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T19:21:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9428,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T19:21:56Z",
+      "latest_at": "2026-09-26T20:22:04.648000Z",
+      "primary_item": {
+        "id": "104ac66a9ec2dfa132aa394419796937917021de",
+        "title": "人工智能代理将人类排除在决策循环之外",
+        "url": "https://arxiv.org/abs/2608.23642",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_42f1030cd198",
+      "title": "在习近平访美期间，中美双方同意开展人工智能对话，并削减300亿美元商品的关税",
+      "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+      "primary_url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3caee5b39df1f96f953e6270331c50a6febb1221",
+          "title": "在习近平访美期间，中美双方同意开展人工智能对话，并削减300亿美元商品的关税",
+          "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T19:19:03.320000Z"
+        },
+        {
+          "id": "034b3e846e8e00c07f9040a0a2338abd37bc8b30",
+          "title": "中国称，中美双方同意在习近平访美期间削减300亿美元关税并就人工智能问题展开对话",
+          "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T10:57:53.442000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "3caee5b39df1f96f953e6270331c50a6febb1221",
+          "title": "在习近平访美期间，中美双方同意开展人工智能对话，并削减300亿美元商品的关税",
+          "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T19:19:03.320000Z"
+        },
+        {
+          "id": "034b3e846e8e00c07f9040a0a2338abd37bc8b30",
+          "title": "中国称，中美双方同意在习近平访美期间削减300亿美元关税并就人工智能问题展开对话",
+          "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T10:57:53.442000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8991,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T10:57:53.442000Z",
+      "latest_at": "2026-09-26T19:19:03.320000Z",
+      "primary_item": {
+        "id": "3caee5b39df1f96f953e6270331c50a6febb1221",
+        "title": "在习近平访美期间，中美双方同意开展人工智能对话，并削减300亿美元商品的关税",
+        "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -315,14 +506,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5482,
-      "importance": 0.5482,
-      "importance_score": 0.5482,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8761,
+        "recency": 0.7585,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -412,14 +603,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8641,
+        "recency": 0.7464,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -434,6 +625,84 @@
         "url": "https://github.com/brumar/chess-postmortem-skills",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_755e3dc914b2",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8599,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T18:22:41Z",
+      "primary_item": {
+        "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -489,14 +758,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9516,
+        "recency": 0.834,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,14 +855,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7869,
+        "recency": 0.6692,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -664,14 +933,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.504,
+      "importance": 0.504,
+      "importance_score": 0.504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8976,
+        "recency": 0.7799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -761,14 +1030,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7544,
+        "recency": 0.6368,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -783,84 +1052,6 @@
         "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
         "source": "allanrbo.blogspot.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_592647d55324",
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "bbff655df694e9f10881403393590c321f9a24c6",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bbff655df694e9f10881403393590c321f9a24c6",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7979,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-26T14:03:54Z",
-      "primary_item": {
-        "id": "bbff655df694e9f10881403393590c321f9a24c6",
-        "title": "OpenAI bots meddled with multiple US Government agency sites",
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -917,14 +1108,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.4818,
+      "importance": 0.4818,
+      "importance_score": 0.4818,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7869,
+        "recency": 0.6692,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,14 +1186,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4759,
+      "importance": 0.4759,
+      "importance_score": 0.4759,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7574,
+        "recency": 0.6397,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4882,
-      "importance": 0.4882,
-      "importance_score": 0.4882,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7009,
+        "recency": 0.5833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4873,
-      "importance": 0.4873,
-      "importance_score": 0.4873,
+      "score": 0.4638,
+      "importance": 0.4638,
+      "importance_score": 0.4638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6967,
+        "recency": 0.579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1419,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4873,
-      "importance": 0.4873,
-      "importance_score": 0.4873,
+      "score": 0.4637,
+      "importance": 0.4637,
+      "importance_score": 0.4637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6964,
+        "recency": 0.5787,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1306,14 +1497,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4859,
-      "importance": 0.4859,
-      "importance_score": 0.4859,
+      "score": 0.4624,
+      "importance": 0.4624,
+      "importance_score": 0.4624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6897,
+        "recency": 0.572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1331,237 +1522,81 @@
       }
     },
     {
-      "story_id": "story_7773ad411618",
-      "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "primary_url": "https://github.com/anthropics/claude-code-action",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_592647d55324",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T11:38:12.580000Z"
-        },
-        {
-          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T11:38:12.580000Z"
-        },
-        {
-          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4873,
-      "importance": 0.4873,
-      "importance_score": 0.4873,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6967,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T11:37:43.887577Z",
-      "latest_at": "2026-09-26T11:38:12.580000Z",
-      "primary_item": {
-        "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-        "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-        "url": "https://github.com/anthropics/claude-code-action",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_143d319c3f0f",
-      "title": "让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
-      "url": "https://www.ithome.com/1/007/414.htm",
-      "primary_url": "https://www.ithome.com/1/007/414.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f253d58753a5f27ae6d43a670c48951dbce8b6a4",
-          "title": "让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
-          "url": "https://www.ithome.com/1/007/414.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11400f12c272c55e6215597ea4c3f9c214c93ce1",
-          "title": "让 AI 学会“挑刺”：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
-          "url": "https://www.ithome.com/1/007/414.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "bbff655df694e9f10881403393590c321f9a24c6",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-26T10:18:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f253d58753a5f27ae6d43a670c48951dbce8b6a4",
-          "title": "让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
-          "url": "https://www.ithome.com/1/007/414.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "11400f12c272c55e6215597ea4c3f9c214c93ce1",
-          "title": "让 AI 学会“挑刺”：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
-          "url": "https://www.ithome.com/1/007/414.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T10:18:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4873,
-      "importance": 0.4873,
-      "importance_score": 0.4873,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6964,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T10:18:15Z",
-      "latest_at": "2026-09-26T11:37:43.887577Z",
-      "primary_item": {
-        "id": "f253d58753a5f27ae6d43a670c48951dbce8b6a4",
-        "title": "让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
-        "url": "https://www.ithome.com/1/007/414.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4692bb4bba3b",
-      "title": "The Copilot+ PC brand is dead",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
-          "title": "The Copilot+ PC brand is dead",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T09:55:38Z"
-        },
-        {
-          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
-          "title": "The Copilot+ PC brand is dead",
-          "url": "https://news.ycombinator.com/item?id=49854945",
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T09:55:38Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
-          "title": "The Copilot+ PC brand is dead",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T09:55:38Z"
+          "id": "bbff655df694e9f10881403393590c321f9a24c6",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
-          "title": "The Copilot+ PC brand is dead",
-          "url": "https://news.ycombinator.com/item?id=49854945",
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T09:55:38Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4731,
-      "importance": 0.4731,
-      "importance_score": 0.4731,
+      "score": 0.484,
+      "importance": 0.484,
+      "importance_score": 0.484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6255,
+        "recency": 0.6802,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T09:55:38Z",
-      "latest_at": "2026-09-26T09:55:38Z",
+      "earliest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-26T14:03:54Z",
       "primary_item": {
-        "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
-        "title": "The Copilot+ PC brand is dead",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "id": "bbff655df694e9f10881403393590c321f9a24c6",
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
